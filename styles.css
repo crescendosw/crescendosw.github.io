@@ -1,0 +1,194 @@
+html{
+    font-size: 22px;
+}
+
+body {
+-webkit-font-smoothing:antialiased;
+-moz-osx-font-smoothing:grayscale;
+font-family: "IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+width: 100%; /* Full width */
+margin: 0;
+margin-top: 73px;
+color:#181818;
+font-weight:300;
+font-size:1em;
+line-height:1.8;
+text-rendering:optimizeLegibility;
+}
+
+.white-text-with-black-shadow {
+    text-shadow: 1px 1px 2px black, 0 0 9px black, 0 0 0.2em black;
+    color: white;
+}
+
+.has-white-color {
+color: #fff;
+}
+
+.has-large-font-size{
+font-size:2em
+}
+
+h2 {
+    letter-spacing: 0;
+    line-height: 1.2;
+    -webkit-font-smoothing: antialiased;
+    clear: both;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    box-sizing: inherit;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    -webkit-text-size-adjust: 100%;
+    padding-top: 30px;
+}
+
+h1 {
+    letter-spacing: 0;
+    line-height: 1.2;
+    -webkit-font-smoothing: antialiased;
+    clear: both;
+    font-size: 2em;
+    box-sizing: inherit;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    -webkit-text-size-adjust: 100%;
+    padding-top: 30px;
+}
+
+
+
+label {
+    vertical-align: top;
+}
+
+.entry-title{
+    font-size: 2.6875em;
+    font-weight: 300;
+    margin: 0px 0px 32px 0px;
+    text-align: center;
+}
+
+.bg-image {
+margin-top: 57px; /* Add a top margin to avoid content overlay */
+padding 52px 0 52px 0;
+background-image: url("img/christ-church-singing-moscow-2016-bw.png");
+background-color: #333;
+height: 770px;
+background-position: 100% 20%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.has-text-align-center{
+    text-align:center
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+hr{
+    width:80%;
+    margin-top:50px;
+}
+
+.main-caption {
+font-size: 25px;
+color: white;
+}
+.main-caption-div {
+margin: auto;
+padding: 50px;
+}
+.phone-image-div {
+padding: 25px;
+}
+.phone-image {
+max-width:100%;
+}
+
+.row {
+display: flex; /* or inline-flex */
+flex-wrap: nowrap;
+padding: 0% 10%;
+}
+
+.content-box {
+columns: 4 auto;
+}
+
+.index-learn-practice-practice{
+    background-color: #A8A8A8;
+}
+
+.column {
+flex: 1 1;
+padding: 10px;
+margin: 0px;
+}
+
+.align-top{
+    vertical-align: text-top;
+}
+
+.navbar {
+overflow: hidden;
+background-color: #333;
+position: fixed; /* Set the navbar to fixed position */
+top: 0; /* Position the navbar at the top of the page */
+width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navbar a {
+float: left;
+display: block;
+font-size: 25px;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+background: #ddd;
+color: black;
+}
+
+.app-store {
+padding: 55px;
+}
+
+.center {
+text-align: center;
+}
+
+.right-align{
+    align;
+}
+
+.padding {
+padding: 50px;
+}
+
+.large {
+font-size: 50px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    font-size: .75em;
+    margin-top: 50px;
+    padding: 5px;
+    background-color: #fff;
+    color: #000;
+}
+
+.padding-left-right {
+    padding-left:10%;
+    padding-right:10%;      
+}
