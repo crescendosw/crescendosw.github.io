@@ -1,0 +1,111 @@
+title      God Send Us Men
+author     Frederick J. Gillman, 1866; alt.MELROSE (Maker)
+composer   Frederick Charles Maker (1844-1927)
+key        C
+tempo      100
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/514%20God%20Send%20Us%20Men.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c- e g
+alto       c e g
+tenor      c- e g
+bass       c e g
+
+# measure 2
+soprano    c/2 g
+alto       c+/2 g
+tenor      c/2 c
+bass       c+/2 e
+
+# measure 3
+soprano    b/2 a
+alto       g/2 f
+tenor      c/2 c/8 d/8
+bass       f. g/8 a+/8 b+/8
+
+# measure 4
+soprano    g/2.
+alto       e/2.
+tenor      e+/2.
+bass       c+/2.
+
+# measure 5
+soprano    e e d-
+alto       c c b
+tenor      g g g
+bass       c g f
+
+# measure 6
+soprano    c-/2 d-
+alto       c/2 b
+tenor      g/2 g
+bass       e/2 d
+
+# measure 7
+soprano    e/2 f#
+alto       c/2 d
+tenor      g/2 c
+bass       c b a
+
+# measure 8
+soprano    g/2.
+alto       d/2 f
+tenor      b c d
+bass       g- a b
+
+# measure 9
+soprano    g e c-
+alto       e c c
+tenor      c g bb
+bass       c c e
+
+# measure 10
+soprano    a/2 a
+alto       c/2 c#
+tenor      a/2 g
+bass       f/2 e
+
+# measure 11
+soprano    a f# d-
+alto       d/2 d
+tenor      f# a c
+bass       d/2 f#
+
+# measure 12
+soprano    b/2.
+alto       d/2 g
+tenor      b/2 d
+bass       g/2 f
+
+# measure 13
+soprano    c b a
+alto       g g f
+tenor      c c c
+bass       e e f
+
+# measure 14
+soprano    g/2 c-
+alto       e/2 c
+tenor      c/2 f#
+bass       c/2 a
+
+# measure 15
+soprano    e/2 d-
+alto       b/2 b
+tenor      g/2 f
+bass       g-/2 g-
+
+# measure 16
+soprano    c-/2.
+alto       c/2.
+tenor      e/2.
+bass       c/2.
+
+
+

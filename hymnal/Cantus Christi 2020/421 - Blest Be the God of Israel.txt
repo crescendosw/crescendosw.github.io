@@ -1,0 +1,76 @@
+title      Blest Be the God of Israel
+author     William Helder, 2009 (c) AN WASSERFLÜSSEN BABYLON
+composer   Wolfgang Dachstein, 1525
+key        F
+tempo      150
+rhythm     0 : 4
+verse_count 3
+copyright  Text: William Helder, 2009. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/421%20Blest%20Be%20the%20God%20of%20Israel.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c/2 d c a/2 c/2 bb bb a/2
+alto       f/2 f e f/2 e f f e f/2
+tenor      a/2 bb g f/2 c/2 d bb c/2
+bass       f/2 bb c d/2 a/2 g- g- f-/2
+
+# measure 2
+soprano    g/2 a bb c/2 bb a g/2 f/1
+alto       e/2 f f f/2 f f f e f/1
+tenor      c/2 c d c/2 d c c/2 a/1
+bass       c/2 f d a/2 bb f c/2 f-/1
+
+# measure 3
+soprano    c/2 d c a/2 c/2 bb bb a/2
+alto       f/2 f e f/2 e f f e f/2
+tenor      a/2 bb g f/2 c/2 d bb c/2
+bass       f/2 bb c d/2 a/2 g- g- f-/2
+
+# measure 4
+soprano    g/2 a bb c/2 bb a g/2 f/1
+alto       e/2 f f f/2 f f f e f/1
+tenor      c/2 c d c/2 d c c/2 a/1
+bass       c/2 f d a/2 bb f c/2 f-/1
+
+# measure 5
+soprano    f/2 g a bb/2 g/2 a g f/1
+alto       c/2 c c d/2 c/2 c c c/1
+tenor      a/2 g f f/2 e/2 f g a/1
+bass       f/2 e f bb/2 c/2 f e f/1
+
+# measure 6
+soprano    f/2 a bb c/2 d/2 a bb c/2
+alto       d/2 f f e/2 f/2 f f e/2
+tenor      bb/2 c f g/2 bb/2 a f g/2
+bass       bb/2 f d c/2 bb/2 d d c/2
+
+# measure 7
+soprano    a/2 c d c a bb/2 a/1
+alto       f/2 f f e d d/2 d/1
+tenor      f/2 c bb g f# g/2 f#/1
+bass       d/2 a bb c d g-/2 d/1
+
+# measure 8
+soprano    d/2 d d g/2 c/2 bb g a a g/1
+alto       f/2 g f eb/2 eb/2 d bb d d bb/1
+tenor      bb/2 bb a c/2 g/2 g g g f# g/1
+bass       bb/2 bb d c/2 c/2 d d d d g-/1
+
+# measure 9
+soprano    bb/2 a g f/2 g/2 e f d-/2 c-/1
+alto       d/2 f e d/2 d/2 c/2 c bn c/1
+tenor      g/2 c c a/2 bb/2 a/2 g/2 e/1
+bass       g-/2 a c d/2 g-/2 a f- g-/2 c/1
+
+# measure 10
+soprano    c-/2 f g a bb c. bb/8 a bb g g f/1
+alto       c/2 d e f f e/2 c d c c a/1
+tenor      a/2 a c c f g/2 f f f e f/1
+bass       f/2 d c f d c/2 f bb c c f-/1
+
+
+

@@ -1,0 +1,111 @@
+title      Hail the Day That Sees Him Rise
+author     Charles Wesley, 1739LLANFAIR
+composer   Robert Williams, 1817
+key        F
+tempo      125
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/641%20Hail%20the%20Day%20That%20Sees%20Him%20Rise.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f a a
+alto       c c f f
+tenor      a a a d
+bass       f f d d
+
+# measure 2
+soprano    c bb/8 a/8 g/2
+alto       g f e/2
+tenor      g c c/2
+bass       e f c/2
+
+# measure 3
+soprano    c. bb/8 a bb/8 a/8
+alto       f c f g/8 f/8
+tenor      c/2. c
+bass       a+. g/8 f e/8 f/8
+
+# measure 4
+soprano    g/2 f/2
+alto       f e f/2
+tenor      d c/8 bb/8 a/2
+bass       bb c f-/2
+
+# measure 5
+soprano    f f a a
+alto       c c f f
+tenor      a a a d
+bass       f f d d
+
+# measure 6
+soprano    c bb/8 a/8 g/2
+alto       f f e/2
+tenor      c d/8 c/8 c/2
+bass       a bb/8 f-/8 c/2
+
+# measure 7
+soprano    c. bb/8 a bb/8 a/8
+alto       f. e/8 f f
+tenor      c/2. d
+bass       a+. g/8 f bb
+
+# measure 8
+soprano    g/2 f/2
+alto       f e f/2
+tenor      g bb a/2
+bass       c/2 f-/2
+
+# measure 9
+soprano    a a c c
+alto       f f f f
+tenor      c c c a
+bass       f f a+ f
+
+# measure 10
+soprano    d/8 c/8 bb/8 a/8 g/2
+alto       f e/8 f/8 e/2
+tenor      bb/8 c/8 c c/2
+bass       bb+/8 a+/8 g/8 f/8 c/2
+
+# measure 11
+soprano    a. g/8 a bn
+alto       c/2. f
+tenor      c/2. d
+bass       f. e/8 f d
+
+# measure 12
+soprano    c/2 c/2
+alto       e f e/2
+tenor      g a g/2
+bass       c/2 c bb
+
+# measure 13
+soprano    f f a a
+alto       c c f f
+tenor      f a c d
+bass       a f- f d
+
+# measure 14
+soprano    c bb/8 a/8 g/2
+alto       g f e/2
+tenor      g c c/2
+bass       e f c bb
+
+# measure 15
+soprano    c. bb/8 a bb/8 a/8
+alto       f e f f
+tenor      c/2. d
+bass       a. c/8 f d
+
+# measure 16
+soprano    g/2 f/2
+alto       f e f/2
+tenor      d c/8 bb/8 a/2
+bass       bb c f-/2
+
+
+

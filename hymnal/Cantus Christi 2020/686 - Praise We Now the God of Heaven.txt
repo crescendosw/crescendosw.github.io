@@ -1,0 +1,93 @@
+title      Praise We Now the God of Heaven
+author     Henry R. Moxley (1881-?)CORONAE
+composer   William H. Monk, 1871
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/686%20Praise%20We%20Now%20the%20God%20of%20Heaven.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a a c c
+alto       f f e c
+tenor      c f g g
+bass       f d c e
+
+# measure 2
+soprano    f f a a
+alto       c d e c
+tenor      a a c e
+bass       f d a c
+
+# measure 3
+soprano    d- e f g
+alto       d c c bb
+tenor      f g f e
+bass       bb bb a g-
+
+# measure 4
+soprano    a c g/2
+alto       c c c/2
+tenor      f f e/2
+bass       f- a c/2
+
+# measure 5
+soprano    a a c c
+alto       f f g g
+tenor      c c c c
+bass       f f e e
+
+# measure 6
+soprano    f f a a
+alto       f d e c
+tenor      a a a e
+bass       d d c c
+
+# measure 7
+soprano    d- e f bb
+alto       d c f f
+tenor      f g c d
+bass       bb bb a g-
+
+# measure 8
+soprano    g c a/2
+alto       f e f/2
+tenor      c c c/2
+bass       c c f/2
+
+# measure 9
+soprano    a/2 c/2
+alto       f/2 f/2
+tenor      c/2 c/2
+bass       f/2 a+/2
+
+# measure 10
+soprano    d/2 c/2
+alto       f/2 f/2
+tenor      bb/2 a/2
+bass       bb+/2 f/2
+
+# measure 11
+soprano    a c f bb
+alto       f g f f
+tenor      c c c bb
+bass       f e d g-
+
+# measure 12
+soprano    a/2. g
+alto       f/2. e
+tenor      c/2. bb
+bass       a. bb/8 c c
+
+# measure 13
+soprano    f/1
+alto       f/1
+tenor      a/1
+bass       f-/1
+
+
+

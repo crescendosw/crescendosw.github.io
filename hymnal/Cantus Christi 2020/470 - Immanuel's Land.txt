@@ -1,0 +1,117 @@
+title      Immanuel's Land
+author     Anonymous
+composer   Anonymous
+key        F
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/470%20Immanuel's%20Land.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       f
+tenor      c
+bass       f
+
+# measure 2
+soprano    a a g. g/8
+alto       f f e. e/8
+tenor      c c bb. bb/8
+bass       f f c. c/8
+
+# measure 3
+soprano    f/2 f f
+alto       d/2 d f
+tenor      a/2 a a
+bass       d/2 d d
+
+# measure 4
+soprano    bb. bb/8 a bb
+alto       f. f/8 f f
+tenor      d. d/8 c d
+bass       bb. bb/8 f bb
+
+# measure 5
+soprano    g/2. g
+alto       e/2. e
+tenor      c/2. c
+bass       c/2. bb+
+
+# measure 6
+soprano    c. c/8 bb bb
+alto       f. f/8 e e
+tenor      c. c/8 c c
+bass       a+. a+/8 g g
+
+# measure 7
+soprano    a/2 g g
+alto       f/2 d d
+tenor      c/2 bb bb
+bass       f/2 bb bb
+
+# measure 8
+soprano    f f e/8 f/8 g/8 e/8
+alto       c c c c
+tenor      a a g/8 a/8 bb/8 g/8
+bass       c c c c
+
+# measure 9
+soprano    f/2. f
+alto       c/2. c
+tenor      a/2. a
+bass       f/2. f
+
+# measure 10
+soprano    f. f/8 f g
+alto       d. d/8 f f
+tenor      d. d/8 db db
+bass       bb+. bb+/8 bb+ bb+
+
+# measure 11
+soprano    a/2 a f
+alto       f/2 f c
+tenor      c/2 c a
+bass       f/2 f f
+
+# measure 12
+soprano    f. f/8 f g
+alto       d. d/8 f f
+tenor      d. d/8 db db
+bass       bb+. bb+/8 bb+ bb+
+
+# measure 13
+soprano    a/2. a/8 bb/8
+alto       f/2. f/8 e/8
+tenor      c/2. c
+bass       f/2. f/8 g/8
+
+# measure 14
+soprano    c c d. c/8
+alto       f f f. f/8
+tenor      c c bb. c/8
+bass       a+ a+ bb+. a+/8
+
+# measure 15
+soprano    c/2 bb/2
+alto       f/2 e/2
+tenor      d/2 c/2
+bass       g/2 c/2
+
+# measure 16
+soprano    a a g. f/8
+alto       f f e. c/8
+tenor      c c bb. a/8
+bass       f f c. f-/8
+
+# measure 17
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f-/2.
+
+
+

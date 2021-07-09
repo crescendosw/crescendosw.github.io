@@ -1,0 +1,105 @@
+title      And Now, O Father, Mindful of the Love
+author     William Bright, 1874SONG 1
+composer   Orlando Gibbons, 1623
+key        F
+tempo      101
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/480%20And%20Now,%20O%20Father,%20Mindful%20of%20the%20Love.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-/2 c- c-
+alto       c/2 c c
+tenor      a/2 a g
+bass       f/2 f e
+
+# measure 2
+soprano    f g a a g g
+alto       d e f f f e
+tenor      a c c d g c/8 bb/8
+bass       d c/8 bb/8 a bb c c
+
+# measure 3
+soprano    f/2 R a a bb
+alto       f/2 R f f f/8 g/8
+tenor      a/2 R c c bb
+bass       f/2 R f f d
+
+# measure 4
+soprano    c c- f e d- d-
+alto       e c c c c bn
+tenor      g e a g g g/8 f/8
+bass       c c f- c g- g-
+
+# measure 5
+soprano    c-/2 R g g a
+alto       c/2 R eb eb f
+tenor      e/2 R c c c
+bass       c/2 R c c f
+
+# measure 6
+soprano    bb/2. f
+alto       f eb d bb/8 c/8
+tenor      d c bb d-/8 eb/8
+bass       bb/2. bb
+
+# measure 7
+soprano    f f bb a
+alto       d c bb c
+tenor      f f f/8 e/8 f
+bass       bb a g- f-
+
+# measure 8
+soprano    g/2. g
+alto       c/2. d
+tenor      e/2. bb/8 a/8
+bass       c/2. g-
+
+# measure 9
+soprano    e c- f g
+alto       c c c d/8 e/8
+tenor      g e f bb
+bass       c. bb/8 a g-
+
+# measure 10
+soprano    a c g g
+alto       f f f e
+tenor      c c c. bb/8
+bass       f-/8 g-/8 a/8 bb/8 c c
+
+# measure 11
+soprano    f/2 R f bb c
+alto       f/2 R f f eb
+tenor      a/2 R f f g/8 a/8
+bass       f-/2 R f d c
+
+# measure 12
+soprano    d d g c c bn
+alto       d f e f d d
+tenor      bb bb/8 a/8 g f g g
+bass       bb bb c a g- g-
+
+# measure 13
+soprano    c/2 R c- f g
+alto       e/2 R c c d/8 e/8
+tenor      g/2 R e f bb
+bass       c/2 R c/8 bb/8 a g-
+
+# measure 14
+soprano    a g bb a g g
+alto       f e d/8 c/8 f f e
+tenor      c c f/8 g/8 a/8 bb/8 c c/8 bb/8
+bass       f- c d/8 e/8 f c c
+
+# measure 15
+soprano    f/2
+alto       f/2
+tenor      a/2
+bass       f-/2
+
+
+

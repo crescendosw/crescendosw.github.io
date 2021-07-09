@@ -1,0 +1,37 @@
+title      Give to the Winds Thy Fears
+author     Paul Gerhardt, 1656; tr. John Wesley (1703-1791)LONDON OLD
+composer   Este's Whole Book of Psalms, 1593; harm. Thomas Ravenscroft, 1621
+key        F
+tempo      135
+rhythm     0 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/396%20Give%20to%20the%20Winds%20Thy%20Fears.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g bb/2 g a a g/2
+alto       bb d/2 c a d/8 c/8 bn/2
+tenor      d g/2 g g f# g/2
+bass       g g/2 eb d d g-/2
+
+# measure 2
+soprano    g c/2 bb a g a/2
+alto       d f/2 f f d/8 e/8 f#/2
+tenor      bb a/2 d c bb/8 c/8 a/2
+bass       g f/2 bb f g d/2
+
+# measure 3
+soprano    R f g a bb/2 bb a/2 g a/2
+alto       R d d f f/2 f f/2 d/8 e/8 f#/2
+tenor      R a bb c d/2 d c/2 bb d/2
+bass       d/2 g f bb/2 bb f/2 g d/2
+
+# measure 4
+soprano    R d- e g g f# g/1
+alto       R a e d e d d/1
+tenor      R f a bb c a bn/1
+bass       d/2 c bb a d g-/1
+

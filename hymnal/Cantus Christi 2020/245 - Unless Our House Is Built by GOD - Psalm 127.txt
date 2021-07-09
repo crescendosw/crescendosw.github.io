@@ -1,0 +1,40 @@
+title      Unless Our House Is Built by GOD
+author     Fred R. Anderson, 2016 (c)WO GOTT ZUM HAUS [BECKER 127]
+composer   Heinrich Schütz, 1661
+key        Eb
+tempo      140
+rhythm     0 : 4
+verse_count 3
+copyright  Text: Fred R. Anderson, 2016. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/245%20Unless%20Our%20House%20Is%20Built%20-%20Psalm%20127%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb/2 bb bb g f g ab bb/2
+alto       bb/2 eb d c c eb eb d/2
+tenor      g/2 g f eb ab bb c f/2
+bass       eb/2 eb bb c f eb c bb/2
+
+# measure 2
+soprano    bb/2 g bb ab bb g f eb/2
+alto       eb/2 bb db c bb bb bb bb/2
+tenor      g/2 eb f f f eb d- eb/2
+bass       eb/2 eb bb f d eb/8 g-/8 bb eb-/2
+
+# measure 3
+soprano    bb/2 c c g bb ab ab g/2
+alto       eb/2 eb eb eb f f f en/2
+tenor      g/2 g ab bb db c c c/2
+bass       eb/2 c ab eb bb f f c/2
+
+# measure 4
+soprano    eb+/2 d c bb c bb/8 g/8 f eb/1
+alto       g/2 g eb eb eb eb/8 bb bb/8 bb/1
+tenor      c/2 bb ab g ab g/8 eb d-/8 eb/1
+bass       c/2 g ab+ eb ab eb/8 eb-/8 bb eb-/1
+
+
+

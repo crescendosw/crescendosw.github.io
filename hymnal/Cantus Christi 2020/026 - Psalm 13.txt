@@ -1,0 +1,56 @@
+title      Psalm 13
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   George Frideric Handel, 1685-1759
+composer   David R. Erb, 2014
+key        F
+rhythm     6 : 4
+tempo      240
+
+#hyperlink  https://www.youtube.com/watch?v=lf8ptEJduv4
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     d-/2 f/2. d- | e/2 R e f g | a/2 a/2. b | g/2 g/2 R/2
+
+unison     b/2 b - a b c | a/1 a/2 | d/2 - g/2. a | a/1 R/2 | f/2 f a g f | e d- c#- d- e/2
+
+unison     a g a c b a | g/2 g/2 a/2 | b/2 b - a b c | a g a/2 d c# | d e+ f+/2 e+ d
+
+unison     d/1 d-/2 | f/2 e/2 d-/2 | e/2 a-/2 a/2 | a/1 f/2 | g/1 a/2 | b/2 c/2 b/2 | a/2 f/2 g/2
+
+unison     a g f - e d-/2 | c#-/1 R/2 | d- c#- d- e f g | a/2 a/2 a a | c/1 f/2 | g/2 g/2 R/2
+
+unison     b/2 b d c b | a/2 a/2 d - c# | d - e+ f+/2 e+/2 | d/1 R/2
+
+key        D
+
+unison     f/2 f/2. g | e/1 e/2 | f - g - a/2 d-/2 | e/2 e/2 R f | g/2 e/2 g/2 | f/1 f/2 | f/2 e/1 | f/2 f/2 f e
+
+unison     d#- - e - f - d#- - e - f - | g/1 e d- | c- - d- - e - c- - d- - e - | f/1 f/2
+
+unison     f/2 e/2 d-/2 | c-/1 d- c- | d- e e/1 | d-/1.
+
+verse      How long, O Lord? Will You for - get me for - ev - er?
+
+verse      How long will You hide Your face from me?  How long shall I take coun - sel in my soul,
+
+verse      Hav - ing sor - row in my heart dai - ly?  How long will my en - e - my be ex - alt - ed ov - er me?
+
+verse      Con - sid - er and hear me, O Lord my God; En - light - en my eyes,
+
+verse      Lest I sleep the sleep of death; Lest my en - e - my say, I have pre - vailed a - gainst him;
+
+verse      Lest those who trou - ble me re - joice when I am moved.
+
+verse      But I have trust - ed in Your mer - cy; My heart shall re - joice in Your sal - va - tion.
+
+verse      I will sing to the Lord,
+
+verse      Be - cause He has dealt boun - ti - ful -  ly with me.

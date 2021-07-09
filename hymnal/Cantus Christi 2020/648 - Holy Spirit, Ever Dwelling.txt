@@ -1,0 +1,207 @@
+title      Holy Spirit, Ever Dwelling
+author     Timothy Rees, 1922ARWELFA
+composer   John Hughes (Dolgellau) (1896-1968)
+key        G
+tempo      125
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/648%20Holy%20Spirit,%20Ever%20Dwelling.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 d-
+alto       b/2 b
+tenor      g/2 g
+bass       g-/2 g-
+
+# measure 2
+soprano    e d- g
+alto       c d b
+tenor      g/2 g
+bass       c b g-
+
+# measure 3
+soprano    b/2 a
+alto       d/2 c
+tenor      g/2 f#
+bass       d/2 d
+
+# measure 4
+soprano    a g/2
+alto       c b/2
+tenor      g g/2
+bass       g- g-/2
+
+# measure 5
+soprano    f# g a
+alto       d/2 f#
+tenor      a b c
+bass       d/2 d
+
+# measure 6
+soprano    g/2 e
+alto       e d c
+tenor      b/2 g
+bass       e b c
+
+# measure 7
+soprano    d-/2 d-
+alto       a b c
+tenor      f# g a
+bass       d/2 d
+
+# measure 8
+soprano    d-/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+# measure 9
+soprano    d-/2 d-
+alto       b/2 b
+tenor      g/2 g
+bass       g-/2 g-
+
+# measure 10
+soprano    e d- g
+alto       c d b
+tenor      g/2 g
+bass       c b g-
+
+# measure 11
+soprano    b/2 a
+alto       d g f#
+tenor      g d c
+bass       d/2 d
+
+# measure 12
+soprano    a g/2
+alto       f# e/2
+tenor      c b/2
+bass       d e/2
+
+# measure 13
+soprano    g f# e
+alto       e d c#
+tenor      b a a
+bass       e a+ g
+
+# measure 14
+soprano    a/2 f#
+alto       d/2 d
+tenor      a/2 a
+bass       f#/2 d
+
+# measure 15
+soprano    f#/2 e
+alto       d b c#
+tenor      b a g
+bass       g-/2 a
+
+# measure 16
+soprano    d-/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+# measure 17
+soprano    f# g a
+alto       d/2 d
+tenor      a b c
+bass       d/2 d
+
+# measure 18
+soprano    a g f#
+alto       d/2 d
+tenor      c b a
+bass       d/2 c
+
+# measure 19
+soprano    g/2 a
+alto       d/2 d
+tenor      g/2 f#
+bass       b/2 d
+
+# measure 20
+soprano    b b/2
+alto       d d/2
+tenor      g g/2
+bass       g g/2
+
+# measure 21
+soprano    b/2 b
+alto       g/2 f#
+tenor      b e+ d#
+bass       e b+ a+
+
+# measure 22
+soprano    b a g
+alto       e d# e
+tenor      e+ b b
+bass       g f# e
+
+# measure 23
+soprano    a/2 b
+alto       e/2 e
+tenor      a/2 g#
+bass       c/2 e
+
+# measure 24
+soprano    c/2.
+alto       e/2.
+tenor      a/2.
+bass       a+/2.
+
+# measure 25
+soprano    a b c
+alto       f# g f#
+tenor      d/2 d
+bass       d g a+
+
+# measure 26
+soprano    d/2 b
+alto       g/2 g
+tenor      d/2 d
+bass       b+/2 g
+
+# measure 27
+soprano    b c d
+alto       g f# g
+tenor      d/2 d
+bass       g a+ b+
+
+# measure 28
+soprano    e+ e+/2
+alto       g g/2
+tenor      c c/2
+bass       c+ c+/2
+
+# measure 29
+soprano    d c b
+alto       g f# g
+tenor      d/2 d
+bass       b+ a+ g
+
+# measure 30
+soprano    b a g
+alto       e/2 e
+tenor      d c g/8 a/8
+bass       c/2 c
+
+# measure 31
+soprano    g/2 f#
+alto       d/2 d
+tenor      b a c
+bass       d/2 d
+
+# measure 32
+soprano    g/2.
+alto       d/2.
+tenor      b/2.
+bass       g-/2.
+
+
+

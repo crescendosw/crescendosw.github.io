@@ -1,0 +1,135 @@
+title      I Will Sing My Maker's Praises
+author     Paul Gerhardt, 1659; tr. compositeSOLLT ICH MEINEM GOTT
+composer   Johann Schop, 1641
+key        Eb
+tempo      175
+rhythm     6 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/433%20I%20Will%20Sing%20My%20Maker's%20Praises%20BIG.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    R c- c- g/2 c
+alto       R g- g- c/2 eb
+tenor      R eb eb g/2 g
+bass       R  c c eb/2 c
+
+# measure 2
+soprano    bn/2 bn c c R
+alto       d/2 d eb eb R
+tenor      g/2 g g g R
+bass       g/2 g- c c R
+
+# measure 3
+soprano    eb+/2 d c/2 bb
+alto       g/2 g eb/2 d
+tenor      c/2 d g/2 g
+bass       c/2 bn c/2 g
+
+# measure 4
+soprano    c an/2 g/2.
+alto       eb d/2 d/2.
+tenor      g g f# bn/2.
+bass       c d/2 g-/2.
+
+# measure 5
+soprano    R c- c- g/2 c
+alto       R g- g- c/2 eb
+tenor      R eb eb g/2 g
+bass       R c c eb/2 c
+
+# measure 6
+soprano    bn/2 bn c c R
+alto       d/2 d eb eb R
+tenor      g/2 g g g R
+bass       g/2 g- c c R
+
+# measure 7
+soprano    eb+/2 d c/2 bb
+alto       g/2 g eb/2 d
+tenor      c/2 d g/2 g
+bass       c/2 bn c/2 g
+
+# measure 8
+soprano    c an/2 g/2.
+alto       eb d/2 d/2.
+tenor      g g f# bn/2.
+bass       c d/2 g-/2.
+
+# measure 9
+soprano    g/2 g bb/2 eb
+alto       eb/2 eb eb/2 c
+tenor      bb/2 c bb/2 ab
+bass       eb/2 c g-/2 ab
+
+# measure 10
+soprano    d-/2 eb f f R
+alto       bb/2 bb c c R
+tenor      f/2 g ab ab R
+bass       bb/2 g- f- f- R
+
+# measure 11
+soprano    f/2 f f/2 ab
+alto       d/2 bb c/2 c
+tenor      bb/2 d- f/2 f
+bass       bb/2 bb ab/2 f-
+
+# measure 12
+soprano    g/2 g f/2.
+alto       c/2 c ab/2.
+tenor      f/2 en f/2.
+bass       c/2 c f-/2.
+
+# measure 13
+soprano    g/2 g g/2 bb
+alto       c/2 c d/2 d
+tenor      eb/2 eb d-/2 g
+bass       c/2 c bb/2 g-
+
+# measure 14
+soprano    ab/2 g f/2.
+alto       c/2 bb bb/2.
+tenor      eb/2 eb d-/2.
+bass       ab/2 eb- bb/2.
+
+# measure 15
+soprano    c-/2 d- eb/2 d-
+alto       c/2 bn c/2 d
+tenor      g/2 f g/2 g
+bass       eb/2 d c/2 bn
+
+# measure 16
+soprano    eb/2 f g g R
+alto       c/2 c bn bn R
+tenor      g/2 f d- g R
+bass       c/2 ab g- g- R
+
+# measure 17
+soprano    eb/2 f g/2 f
+alto       c/2 bb bb/2 bb
+tenor      g/2 f eb/2 d-
+bass       c/2 d eb/2 bb
+
+# measure 18
+soprano    g/2 an bb/2.
+alto       bb/2 eb d/2.
+tenor      eb/2 eb f/2.
+bass       eb/2 c bb/2.
+
+# measure 19
+soprano    c/2 d eb+/2 f+
+alto       g/2 g g/2 ab+
+tenor      g/2 bn c/2 c
+bass       eb/2 d c/2 f
+
+# measure 20
+soprano    d/2 d c/2.
+alto       g/2 g en/2.
+tenor      c an bn c/2.
+bass       g/2 g c/2.
+
+
+

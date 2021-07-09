@@ -1,0 +1,87 @@
+title      Gabriel's Message Does Away
+author     Piae Cantiones, 1582; tr. John Mason Neale (1818-1866)
+composer   Piae Cantiones, 1582; harm. Richard Runciman Terry (1865-1938)
+key        A
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/601%20Gabriel's%20Message%20Does%20Away.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f# e a b
+alto       a b c# e
+tenor      c# b a g#
+bass       a+ g# f# e
+
+# measure 2
+soprano    c# b c#/2
+alto       e f# e/2
+tenor      g# f# a/2
+bass       c# d a/2
+
+# measure 3
+soprano    b c# d c#
+alto       e e d e
+tenor      g# a f# e
+bass       e c# b c#
+
+# measure 4
+soprano    c# b a/2
+alto       e d c#/2
+tenor      f# g# a/2
+bass       d e f#/2
+
+# measure 5
+soprano    b/2 c#/2
+alto       e/2 e/2
+tenor      g#/2 g#/2
+bass       e/2 c#/2
+
+# measure 6
+soprano    a g# f# e
+alto       c# e d b
+tenor      a c# a g#
+bass       f# c# d e
+
+# measure 7
+soprano    f#/2 e f#
+alto       d/2 b d
+tenor      f#/2 g# a
+bass       b/2 e d
+
+# measure 8
+soprano    a/2
+alto       e/2
+tenor      c#/2
+bass       a/2
+
+# measure 9
+soprano    b c#
+alto       e c#
+tenor      g# a
+bass       e a
+
+# measure 10
+soprano    a g#
+alto       d e
+tenor      f# e
+bass       b c#
+
+# measure 11
+soprano    f# e
+alto       d b
+tenor      f# g#
+bass       d e
+
+# measure 12
+soprano    f#/2
+alto       c#/2
+tenor      a#/2
+bass       f#/2
+
+
+

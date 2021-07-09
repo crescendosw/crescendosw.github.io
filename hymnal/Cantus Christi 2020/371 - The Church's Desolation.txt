@@ -1,0 +1,117 @@
+title      The Church's Desolation
+author     American folk hymnTHE CHURCH'S DESOLATION
+composer   Jesse Tom White, 1844
+key        G
+tempo      135
+rhythm     6 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/371%20The%20Church's%20Desolation.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2
+alto       b/2
+tenor      g/2
+bass       g-/2
+
+# measure 2
+soprano    d- e g/2 e d-
+alto       b c b/2 c b
+tenor      g g d-/2 g/2
+bass       g- g- g-/2 g-/2
+
+# measure 3
+soprano    e g a/2 g/2
+alto       c b c/2 b/2
+tenor      g d- f#/2 d-/2
+bass       g- g- d/2 g-/2
+
+# measure 4
+soprano    b b a/2 g/2
+alto       d d c/2 b/2
+tenor      g g f#/2 g/2
+bass       g- b d/2 e/2
+
+# measure 5
+soprano    e d-/2. d-/2
+alto       c b/2. b/2
+tenor      g g/2. g/2
+bass       c g-/2. g-/2
+
+# measure 6
+soprano    d- e g/2 e d-
+alto       b c b/2 c b
+tenor      g g d-/2 g/2
+bass       g- g- g-/2 g-/2
+
+# measure 7
+soprano    e g a/2 g/2
+alto       c b c/2 b/2
+tenor      g d- f#/2 d-/2
+bass       g- g- d/2 g-/2
+
+# measure 8
+soprano    b b a/2 g/2
+alto       d d c/2 b/2
+tenor      g g f#/2 g/2
+bass       g- b d/2 e/2
+
+# measure 9
+soprano    e d-/2. g/2
+alto       c b/2. d/2
+tenor      g g/2. b/2
+bass       c g-/2. g/2
+
+# measure 10
+soprano    a b d/2 d/2
+alto       d d f#/2 f#/2
+tenor      a g a/2 a/2
+bass       f# g d/2 d/2
+
+# measure 11
+soprano    b a g/2 g/2
+alto       d c b/2 d/2
+tenor      g f# d-/2 g/2
+bass       g d g-/2 b/2
+
+# measure 12
+soprano    a b d/2 d/2
+alto       d d f#/2 f#/2
+tenor      f# g a/2 a/2
+bass       d g d/2 d/2
+
+# measure 13
+soprano    b a/2. g/2
+alto       d d/2. d/2
+tenor      g f#/2. b/2
+bass       b d/2. g/2
+
+# measure 14
+soprano    a b d/2 d/2
+alto       d d f#/2 f#/2
+tenor      a g a/2 a/2
+bass       f# g d/2 d/2
+
+# measure 15
+soprano    b a g/2 g/2
+alto       d c b/2 d/2
+tenor      g f# g/2 g/2
+bass       g d e/2 b/2
+
+# measure 16
+soprano    b b a/2 g/2
+alto       d d c/2 b/2
+tenor      g g f#/2 g/2
+bass       g- b d/2 e/2
+
+# measure 17
+soprano    e d-/2.
+alto       c b/2.
+tenor      g g/2.
+bass       c g-/2.
+
+
+

@@ -1,0 +1,174 @@
+title      Magnificat
+hymnal     Cantus Christi
+author     Thomas Talis, The Dorian Service, c. 1550
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/717%20Magnificat%20-%20Tallis.pdf
+see_also   Cantus Christi 2020: 717
+
+status     header  tune  double  checked  lyrics
+
+key        D
+rhythm     0 : 4
+tempo      140
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+
+# Page 1
+
+soprano    R/2 e/2 | g/2. g | f  b b a# | b/2   f      g | a/2 a b
+alto       R/2 e/2 | e/2. b | d- e f f  | f/2   d-     e | f/2 f f
+tenor      R/2 b/2 | b/2. g | a  b c c  | b     d/2    b | c/2 c d
+bass       e/1     | e/2. e | d  g f f  | b b+. a+/8 - g | f/2 f d
+
+soprano    c/2              b  b  | d         c b. b/8 | a#/2 R a = | a a g g
+alto       e/8 d-/8 e/8 f/8 g  g  | f         f f. f/8 | f/2  R f = | f f d e
+tenor      c - a            e+ e+ | d/8 c/8 - a d. d/8 | c/2  R c = | c c b b =
+bass       a+/2             e  e  | b+        f d  b   | f/2  R f = | f f g e
+
+soprano    f/2  f f | f.  f/8   f  a | g g f  f  | R f a c =
+alto       c/2  b b | a.  g-/8  f- f | d e c  c  | R f f f
+tenor      b a# b d | d/8 d/8 c/2  d | b b a# a# | R d c c =
+bass       f/2  b b | f.  f/8   f  f | g e f  f  | R b f a+ =
+
+soprano    c         b/2     a#  | b f a/8 a/8 c =  | c - b a d
+alto       e/8 f/8   g/8 e/8 f/2 | f f f/8 f/8 f =  | f/8 - g/8 - e f a+
+tenor      c/8 a/8 - b       c/2 | b d c       f -  | a - b         c f+
+bass       a+        g       f/2 | b b f/8 f/8 a+ = | a+ - g        f d
+
+soprano    c  b. c/8 a# | b/2 R b | b/2 b a | g/2 f f
+alto       g  f   f/2   | f/2 R d | g/2 g f | e/2 d d
+tenor      e+ d   c/2   | b/2 R b | d/2 d d | b/2 b a
+bass       e  b   f/2   | b/2 R g | g/2 g d | e/2 b d
+
+# Page 2
+
+soprano    a. a/8 g f = | f g f e | e d#- e/2 | R b  b  b =
+alto       e. e/8 d d = | d b c a | b b   b/2 | R g  g  g =
+tenor      c. c/8 b a = | a g a e | f f   e/2 | R e+ e+ d =
+bass       a. a/8 b d = | d e a c | b b   e/2 | R e  e  g =
+
+soprano    b a g g | f f a/2 | g f f g | f e e d#- | e/1
+alto       g f e e | d d e/2 | d d d b | c a b/2   | b/1
+tenor      d d b b | b a c/2 | b a a g | a e f/2   | e/1
+bass       g d e e | b d a/2 | b d d e | a c b/2   | e/1
+
+soprano    b/2.  b  | b a# b/2 =      | b         b c/2  | d/2 d. c/8
+alto       g/2.  g  | f f  e. - d/8 - | c/8 - b/8 b/2 a# | b/2 b  b
+tenor      e+/2. e+ | d c  b. - a/8 - | g         f e/2  | f/2 f  f
+bass       e/2.  e  | f f  g. - f/8 - | e         d c/2  | b/2 b  b
+
+soprano    b a g g | f  f f. f/8  | g a       b. a/8
+alto       d f e e | d# d d  d    | d e/8 f/8 g/2
+tenor      f f b b | b  b a  a    | b c       d/2
+bass       b d e e | b  b d. cn/8 | b a       g-/2
+
+soprano    g  f/2    e/2     | d#- e/2 | R b  b   b   | b a# b/2 =
+alto       d  d. c/8 b/8 a/8 | b/2 b/2 | R g  g   g   | f f  e - d
+tenor      b  a/2    g -     | f/2 e/2 | R e+ e+. d/8 | c c  b.  a/8 -
+bass       g- d/2    e -     | b/2 e/2 | R e  e   e   | f f  g.  f/8 -
+
+# Page 3
+
+soprano    b       b c c  | d/2 R d | d b d. c/8   | b a g f =
+alto       c/8 b/8 b/2 a# | b/2 R b | f g f. e/8 - | g f e c
+tenor      g       f e/2  | f/2 R b | b b b/2      | b f b a =
+bass       e       d c/2  | b/2 R b | b e b/2      | b d e f
+
+soprano    f   e       f/2 | R f/2 f | f/2       g a       | b. a/8   g f
+alto       d - b       b/2 | R d/2 d | d/2       d e/8 f/8 | g/2      d d
+tenor      a/8 b/8 - g f/2 | R b/2 b | a/2       b c       | d. c/8 - b a
+bass       d - e       b/2 | R b/2 b | d. cn/8 - b a       | g-/2.      d
+
+soprano    e/2 d#- dn- | e f/2 g  | f  g. f/8 e
+alto       b/2 b   b   | c d/2 d  | cn b  g-  a
+tenor      g/2 f   f   | a a/2 b  | a  d- e/2
+bass       e e b   b   | a d/2 g- | a  b  cn/2
+
+soprano    e d#- e/2 | R g/2 a | b/2 b b  | b. a/8   g g
+alto       b/2   b/2 | R e/2 f | g/2 d g  | f/2      e b
+tenor      f f   e/2 | R b/2 d | d/2 b e+ | d. c/8 - b g
+bass       b b   e/2 | R e/2 d | g/2 g e  | b+/2     e e
+
+soprano    f f/8 f/8 f b  | b.  b/8  b/2  | R b a g =
+alto       d d/8 e/8 f e  | d#. d#/8 d#/2 | R b d e =
+tenor      b a/8 g/8 f g  | f.  f/8  f/2  | R g a b =
+bass       b b/8 c/8 d g- | b.  b/8  b/2  | R g f e =
+
+# Page 4
+
+soprano    g/8 g/8 f f g = | g f          e/2 | d#- f. g/8 a
+alto       e/8 e/8 d d c = | c/8 b/8 b/2 - a# | b   b. b/8 a
+tenor      b/8 b/8 b a g = | g/8 f/8 - d- e/2 | f   d. d/8 c
+bass       e/8 e/8 b d e   | b - d        c/2 | b   b. b/8 f
+
+soprano    b c/2   b     | b a# b b | R d.  d/8  d        | c  b.  c/8 a#
+alto       d f  f/2 =    | f f  f f | R f.  f/8  b        | c  d/8 e/8 f/2
+tenor      b a# d/2      | c/2  b b | R b.  c/8  d/8 e+/8 | f+ b       c/2
+bass       g f  d. e/8 - | f/2  b b | R b+. b+/8 b+       | a+ g       f/2
+
+soprano    b d  d       d        | c  b       a# b | b  a#  b/2
+alto       f f  f       b        | c  d/8 e/8 f  f | f. f/8 f/2
+tenor      b b  b/8 c/8 d/8 e+/8 | f+ b       c  d | c. c/8 b/2
+bass       b b+ b+      b+       | a+ g       f  b | f. f/8 b/2
+
+soprano    R b. b/8 b  | a g.  a/8 f   | g  b b       b
+alto       R d. d/8 g- | a b/8 c/8 d/2 | d  d d       g-
+tenor      R b. c/8 d  | d g/8 g/8 a/2 | g  g g/8 a/8 b/8 c/8
+bass       R g. g/8 g  | f e/8 e/8 d/2 | g- g g       g
+
+soprano    a g. a/8  f   | g  g g g | f              e. f/8 d#-  | e/1
+alto       a b/8 c/8 d/2 | d  e e b | d                 a - b/2  | b/1
+tenor      d g       a/2 | g  b b g | a/8 g/8 - f/8 - e/8 - f/2  | e/1
+bass       f e       d/2 | g- e e e | d     c - b/8 - a/8 - b    | e/1
+
+
+#Page 1
+
+verse      My soul doth mag - ni - fy the Lord, and my spir't hath re -
+
+verse      joic - ed in God my Sa - vi - or.  For He hath re -
+
+verse      gard - ed the low - li - ness of His hand - maid - en.  For be - hold,
+
+verse      from hence - forth all gen - er - a - tions shall
+
+verse      call me bless - ed.  For He that is might - y hath
+
+#Page 2
+
+verse      mag - ni - fied me; and ho - ly is His Name.  And His mer -
+
+verse      cy is on them that fear Him through - out all gen - er - a - tions.
+
+verse      He hath show - ed strength with His arm; He hath
+
+verse      scat - ter - ed the proud in the i - mag - i - na -
+
+verse      tion of their hearts.  He hath put down the might -
+
+#Page 3
+
+verse      y from their seat, and hath ex - alt - ed the hum - ble
+
+verse      and meek.  He hath fill - ed the hun - gry with
+
+verse      good things; and the rich He hath sent emp -
+
+verse      ty a - way.  He re - mem - b'ring His mer - cy hath
+
+verse      hol - pen His ser - vant Is - ra - el; as He prom -
+
+#Page 4
+
+verse      is - ed to our fore - fa - thers, A - bra - ham
+
+verse      and his seed for - ev - er.  Glo - ry be to the Fa -
+
+verse      ther, and to the Son, and to the Ho - ly Ghost;
+
+verse      As it was in the be - gin - ning, is now, and
+
+verse      ev - er shall be, world with - out end.  A - - - men.

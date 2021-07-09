@@ -1,0 +1,39 @@
+title      With One Consent Let All the Earth
+author     Francis Hopkinson, 1767JAUCHZET DEM HERREN [BECKER 100]
+composer   Heinrich Schütz, 1628
+key        D
+tempo      101
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/186%20With%20One%20Consent%20Let%20All%20-%20Psalm%20100%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d cn a b/2. g a g f#/2.
+alto       f# g a+ d. e/8 f# e e e d#/2.
+tenor      a e+ d b/2. b cn b b/2.
+bass       d e f# g. f#/16 e/16 d# e a e b/2.
+
+# measure 2
+soprano    f# g a b. c#/8 d e+ d/8 c#/8 b a/2.
+alto       d# e f# g/2 f# a+ f# g# a+/2.
+tenor      b b d d/2. c# a e+ c#/2.
+bass       b e d g. a+/8 b+ a+ d e a/2.
+
+# measure 3
+soprano    c# c# c# c#/2. d c# c# b/2.
+alto       f# f# f# f#/2. f# g f# f#/2.
+tenor      a# a# a# a#. b/8 c# b b a# b/2.
+bass       f# f# f# f#. g#/8 a#+ d e f# b/2.
+
+# measure 4
+soprano    g g a b. a/8 g f# g e d-/1.
+alto       e e e g. f#/16 e/16 d d d c# d/1.
+tenor      e e cn b/2. a b a a/1.
+bass       cn cn a e. f#/8 g d g- a d/1.
+
+
+

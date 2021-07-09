@@ -1,0 +1,159 @@
+title      Round the Earth a Message Runs 
+author     Jan Struther (1901-1953)VICTOR KING
+composer   Trier Gesangbuch, 1871
+key        A
+tempo      101
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/316%20Round%20the%20Earth%20a%20Message%20Runs.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2 a
+alto       c#/2 d
+tenor      a/2 a
+bass       a/2 b
+
+# measure 2
+soprano    a g# a
+alto       e/2 c#
+tenor      a/2 a
+bass       c#/2 f#
+
+# measure 3
+soprano    b/2 c#
+alto       f#/2 e
+tenor      a/2 g#
+bass       d/2 e
+
+# measure 4
+soprano    a/2 e
+alto       c#/2 e
+tenor      a/2 b
+bass       a+/2 g#
+
+# measure 5
+soprano    a/2 a
+alto       c#/2 d
+tenor      a/2 f#
+bass       f# e d
+
+# measure 6
+soprano    a g# f#
+alto       e/2 d
+tenor      a/2 a
+bass       c#/2 d
+
+# measure 7
+soprano    e/2 d-
+alto       c#/2 b
+tenor      g#/2 f#
+bass       e/2 e-
+
+# measure 8
+soprano    c#-/2 e
+alto       a/2 c#
+tenor      e/2 a
+bass       a/2 a
+
+# measure 9
+soprano    a/2 a
+alto       e/2 e
+tenor      c#/2 c#
+bass       a+/2 g#
+
+# measure 10
+soprano    a g# a
+alto       f#/2 c#
+tenor      c#/2 a
+bass       f#/2 f#
+
+# measure 11
+soprano    b/2 c#
+alto       e/2 e
+tenor      g#/2 a
+bass       e/2 a
+
+# measure 12
+soprano    b/2 c#
+alto       e/2 e
+tenor      g#/2 g#
+bass       e/2 e
+
+# measure 13
+soprano    d/2 c#
+alto       f#/2 e
+tenor      a/2 a
+bass       d/2 a
+
+# measure 14
+soprano    b/2 a
+alto       d/2 e
+tenor      f#/2 a
+bass       b/2 c#
+
+# measure 15
+soprano    g#/2 a
+alto       e/2 c#
+tenor      b/2 a
+bass       e/2 f#
+
+# measure 16
+soprano    b/2 c#
+alto       e/2 e
+tenor      g#/2 a
+bass       e/2 c#
+
+# measure 17
+soprano    d/2 c#
+alto       d/2 e
+tenor      b/2 a
+bass       b/2 c#
+
+# measure 18
+soprano    b/2 a
+alto       f#/2 e
+tenor      f#/2 a
+bass       d/2 c#
+
+# measure 19
+soprano    g# a f#
+alto       e/2 d#
+tenor      b/2 a
+bass       e/2 f#
+
+# measure 20
+soprano    e/2 e
+alto       e/2 e
+tenor      b/2 b
+bass       g#/2 g#
+
+# measure 21
+soprano    a g# a
+alto       c#/2 c#
+tenor      a/2 a
+bass       f#/2 e
+
+# measure 22
+soprano    b/2 d
+alto       f# e d
+tenor      f#/2 b
+bass       d c# b
+
+# measure 23
+soprano    c# d b
+alto       e/2 e
+tenor      a f# g#
+bass       e/2 e
+
+# measure 24
+soprano    a/2.
+alto       c#/2.
+tenor      a/2.
+bass       a/2.
+
+
+

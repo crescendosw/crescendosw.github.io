@@ -1,0 +1,69 @@
+title      This Is the Day the Lord Has Made
+author     Isaac Watts, 1719ARLINGTON
+composer   Thomas Arne, 1762; arr. Ralph Harrison, 1784
+key        F
+tempo      165
+rhythm     6 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/341%20This%20Is%20the%20Day%20the%20Lord%20Has%20Made.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2
+alto       c/2
+tenor      a/2
+bass       f/2
+
+# measure 2
+soprano    a. a/8 a/2 g/2
+alto       f. f/8 f/2 e/2
+tenor      c. c/8 c/2 bb/2
+bass       f. f/8 f/2 c/2
+
+# measure 3
+soprano    f. f/8 f/2 g/2
+alto       d. d/8 d/2 e/2
+tenor      a. a/8 a/2 c/2
+bass       d. d/8 d/2 c/2
+
+# measure 4
+soprano    a c bb/2 a/2
+alto       f f e/2 f/2
+tenor      c a bb/2 c/2
+bass       f a+ g/2 f/2
+
+# measure 5
+soprano    a/2 g/2 bb/2
+alto       f/2 e/2 g/2
+tenor      c/1 c/2
+bass       c/1 e/2
+
+# measure 6
+soprano    a. a/8 a/2 d/2
+alto       f. f/8 f/2 f/2
+tenor      c. c/8 c/2 bb/2
+bass       f. f/8 f/2 bb/2
+
+# measure 7
+soprano    c. c/8 c/2 f/2
+alto       f. f/8 f/2 c/2
+tenor      a. a/8 a/2 c/2
+bass       f. f/8 f/2 a/2
+
+# measure 8
+soprano    g bb a/2 g/2
+alto       d g f/2 e/2
+tenor      bb d c/2 bb/2
+bass       bb g- c/2 c/2
+
+# measure 9
+soprano    f/1
+alto       f/1
+tenor      a/1
+bass       f-/1
+
+
+

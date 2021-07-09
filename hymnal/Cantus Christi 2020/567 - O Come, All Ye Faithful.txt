@@ -1,0 +1,60 @@
+title      O Come, All Ye Faithful
+hymnal     Cantus Christi
+author     Latin Hymn
+author     John Francis Wade, c. 1743
+translator Frederick Oakeley, 1841
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/567%20O%20Come,%20All%20Ye%20Faithful.pdf
+see_also   Cantus Christi 2020: 567
+
+tune       ADESTE FIDELIS
+metre      Irregular
+composer   John Francis Wade, Cantus Diversi, 1751
+key        G
+rhythm     4 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g  | g/2  d- g  | a/2 d-/2 | b a b c | b/2 a - g | g/2    f e
+alto       d  | d/2  d  b  | d/2 = d/2  | d = d d e | d/2 d - b | b - c# d c#
+tenor      b  | b/2  g  g  | f/2 a/2  | g a g g | g/2 f - g | g/2    a a
+bass       g- | g-/2 b  g- | d/2 f/2  | g f g c | d/2 d - e | e/2    d a
+
+soprano    f g a  b  | f/2 e.  d-/8 | d-/1 | d/2  c       b | c/2  b/2
+alto       d/2 d = d  | d/2 c#. d/8  | d/1  | d/2  e/8 f/8 g | e f  g/2
+tenor      a g f  e  | a/2 g.  f/8  | f/1  | b/2  c       d | c/2  d/2
+bass       d b f- g- | a/2 a.  d/8  | d/1  | b+/2 a+      g | a+/2 g/2
+
+soprano    a b g a | f. e/8 d- g | g f g a  | g/2 d- b | b a b c
+alto       d = d e = e | d/2    d  g | g f g a+ | g/2 d  d | d d d f
+tenor      d g b c | a. g/8 f  R | R/1      | R/2.   g | g f g a
+bass       f g e c | d/2    d  R | R/1      | R/1      | R/1
+
+soprano    b/2 a  b | c       b a g        | f/2 g c | b/2 a. g/8  | g/2.
+alto       g/2 f  g | e/8 f/8 g d d/8 c#/8 | d/2 d e | d/2. = d/8 b/8  | b/2.
+tenor      g/2 d- d | c       d a a        | a/2 g/2 | g/2 f. g/8  | g/2.
+bass       R/2.   g | a+      g f e        | d c b c | d/2. = d/8  g-/8 | g/2.
+
+verse      O come, all    ye   faith - ful,  joy - ful  and   tri - um - phant, O  come  ye,  O
+verse      _ God   of_         God,_         Light_     of_         Light;_     _  Lo,   He   ab -
+verse      _ Sing, choirs of   an -    gels, sing  in   ex -  ul  - ta - tion;  _  Sing, all  ye
+verse      _ Yea,  Lord,  we   greet   Thee, born  this hap - py    morn - ing; _  Je -  sus, to
+
+verse      come_     ye   to  Beth - le -  hem.   Come and be - hold Him
+verse      hors_     not  the Vir -  gin's womb;  Ver - y_     God, be -
+verse      cit - i - zens of  heav'n a -   bove!  Glo - ry to    God,_
+verse      Thee_     be_      glo  - ry    giv'n; Word  of the  Fa - ther,
+
+verse      born  the  King   of     an -   gels:
+verse      got - ten, not    cre -  at -   ed:
+verse      in_        the_          high - est:
+verse      now   in   flesh  ap -   pear - ing:
+
+verse      O come, let us a - dore Him, O come, let us a - dore Him, O come,
+
+verse      let us a - dore Him, Christ the Lord!

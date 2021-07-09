@@ -1,0 +1,81 @@
+title      O Spirit of Life, O Spirit of God
+author     Johann Neidling, 1651; tr. John Caspar Mattes, 1913O HEILIGER GEIST
+composer   Geistliche Kirkengesang, Köln, 1623
+key        Bb
+tempo      100
+rhythm     6 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/655%20O%20Spirit%20of%20Life,%20O%20Spirit%20of%20God.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb bb. a/8 bb
+alto       f f. f/8 d
+tenor      d d. c/8 bb
+bass       bb+ bb+. f/8 g
+
+# measure 2
+soprano    c/2 a bb. a/8 g
+alto       g/2 f f f en
+tenor      g/2 c d d g
+bass       en/2 f d bb c
+
+# measure 3
+soprano    f/2 d c/2 c
+alto       f/2 f f/2 f
+tenor      a/2 bb a/2 a
+bass       f/2 bb+ f/2 f
+
+# measure 4
+soprano    bb/2 c f g a
+alto       d/2 g f/2 f
+tenor      bb/2 g a bb c
+bass       g/2 eb f/2 f
+
+# measure 5
+soprano    bb/2 d eb+/2 eb+
+alto       f/2 f g/2 g
+tenor      d/2 bb bb/2 bb
+bass       bb/2 bb eb/2 eb
+
+# measure 6
+soprano    c/2 c d/2 d
+alto       f/2 f f/2 f
+tenor      a/2 a a/2 a
+bass       f/2 f d/2 d
+
+# measure 7
+soprano    bb/2 bb c/2 c
+alto       eb/2 d c/2 eb
+tenor      g/2 g g/2 g
+bass       eb/2 g eb/2 c
+
+# measure 8
+soprano    a/2 a bb/2 bb
+alto       c/2 c d/2 bb
+tenor      f/2 f f/2 f
+bass       f/2 f bb/2 d
+
+# measure 9
+soprano    g/2 c f g a
+alto       bb/2 eb c eb eb
+tenor      eb/2 g a bb c
+bass       eb/2 c f eb c
+
+# measure 10
+soprano    bb/2 d c. bb/8 a
+alto       d/2 f g g f
+tenor      bb/2 a eb+ eb+ c
+bass       g/2 d eb c f
+
+# measure 11
+soprano    bb/2
+alto       f/2
+tenor      d/2
+bass       bb/2
+
+
+

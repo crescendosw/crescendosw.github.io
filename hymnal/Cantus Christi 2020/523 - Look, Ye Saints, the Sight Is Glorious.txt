@@ -1,0 +1,87 @@
+title      Look, Ye Saints, the Sight Is Glorious
+author     Thomas Kelly, 1809WESTMINSTER ABBEY
+composer   Henry Purcell, 1680
+key        G
+tempo      101
+rhythm     6 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/523%20Look,%20Ye%20Saints,%20the%20Sight%20Is%20Glorious.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b/2 d b/2 g
+alto       d/2 d d/2 d
+tenor      g/2 a b/2 b/8 a/8
+bass       g/2 f# g/2 g/8 f#/8
+
+# measure 2
+soprano    c/2 a f#/2 d-
+alto       e/2 e d/2 a
+tenor      g/2 a a/2 f#
+bass       e/2 c d/2 d/8 c/8
+
+# measure 3
+soprano    g/2 a b. a/8 g
+alto       d/2 c b d c#
+tenor      b/2 f# g. f#/8 e
+bass       b/2 a g-. d/8 e
+
+# measure 4
+soprano    f# e/2 d-/2.
+alto       d/2 c# d/2.
+tenor      f#/8 g/8 a g f#/2.
+bass       d a/2 d/2.
+
+# measure 5
+soprano    f#/2 a f#/2 d-
+alto       d/2 e d/2 a
+tenor      a/2 a a/2 f#
+bass       d/2 c# d/2 d/8 cn/8
+
+# measure 6
+soprano    g/2 a b/2 g
+alto       b/2 c d/2 d
+tenor      d-. g/8 f# g/2 b
+bass       b/2 a g-/2 g
+
+# measure 7
+soprano    c/2 b a. b/8 g
+alto       e f#/8 g/8 f# e/8 d/8 e b
+tenor      g/2 a/8 b/8 c e d#-
+bass       e/2 d c/2 b
+
+# measure 8
+soprano    g/8 f#/8 f#/2 e/2.
+alto       c b/2 b/2.
+tenor      e/2 d#- e/2.
+bass       a b/2 e/2.
+
+# measure 9
+soprano    g#/2 g# a/2 a
+alto       e/2 e e/2 e
+tenor      b/2 b a/2 a
+bass       e/2 d c#/2 c#
+
+# measure 10
+soprano    f#/2 f# g/2 g
+alto       d/2 d d/2 d
+tenor      a/2 a g/2 g
+bass       d/2 c b/2 b
+
+# measure 11
+soprano    e/2 e f#/2 g
+alto       c/2 c d c b
+tenor      g/2 a a/2 g
+bass       c/2 a d/2 g
+
+# measure 12
+soprano    g/2 f# g/2.
+alto       a/2 a/8 b/16 c/16 b/2.
+tenor      f#/8 e/8 d- d- d-/2.
+bass       d/2 d g-/2.
+
+
+

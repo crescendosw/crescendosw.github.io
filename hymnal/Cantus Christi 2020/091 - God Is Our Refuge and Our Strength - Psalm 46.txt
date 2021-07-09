@@ -1,0 +1,195 @@
+title      God Is Our Refuge and Our Strength
+author     Scottish Psalter, 1615STROUDWATER 
+composer   Wilkins' Psalmody, c. 1730
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/91%20God%20Is%20Our%20Refuge%20-%20Psalm%2046%20STROUDWATER.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       d
+tenor      b
+bass       g
+
+# measure 2
+soprano    d-/2 g
+alto       d/2 e
+tenor      a/2 g
+bass       f#/2 e
+
+# measure 3
+soprano    d/2 b
+alto       f#/2 g
+tenor      a/2 g
+bass       d/2 e
+
+# measure 4
+soprano    c b a
+alto       g/2 f#
+tenor      e+ d d/8 c/8
+bass       c d d
+
+# measure 5
+soprano    g/2 g
+alto       g/2 d
+tenor      b/2 g
+bass       g-/2 b
+
+# measure 6
+soprano    a/2 b
+alto       d/2 d
+tenor      f#/2 g
+bass       d/2 g
+
+# measure 7
+soprano    c/2 b
+alto       e/2 d
+tenor      g/2 g
+bass       c/2 g-
+
+# measure 8
+soprano    a/2 b
+alto       d/2 d
+tenor      f#/2 g
+bass       d/2 g
+
+# measure 9
+soprano    a/2 g
+alto       d c b
+tenor      f#/2 g
+bass       d/2 e
+
+# measure 10
+soprano    d-/2 f#
+alto       d/2 d
+tenor      g/2 a
+bass       b/2 d
+
+# measure 11
+soprano    g/2 a
+alto       d/2 c#
+tenor      b. a/8 g
+bass       g. f#/8 e
+
+# measure 12
+soprano    d/2 d/8 c/8
+alto       d/2 d
+tenor      f#/2 a
+bass       d/2 f#
+
+# measure 13
+soprano    b a g
+alto       d. c/8 b
+tenor      g f# g
+bass       g d e
+
+# measure 14
+soprano    c b a
+alto       e d d/8 c/8
+tenor      g/2 f#
+bass       c d d
+
+# measure 15
+soprano    g/2
+alto       b/2
+tenor      g/2
+bass       g-/2
+
+# measure 16
+soprano    g
+alto       d
+tenor      b
+bass       g
+
+# measure 17
+soprano    d-/2 g
+alto       d/2 e
+tenor      a/2 g
+bass       f#/2 e
+
+# measure 18
+soprano    d/2 b
+alto       f#/2 g
+tenor      a/2 g
+bass       d/2 e
+
+# measure 19
+soprano    c b a
+alto       g/2 f#
+tenor      e+ d d/8 c/8
+bass       c d d
+
+# measure 20
+soprano    g/2 g
+alto       g/2 d
+tenor      b/2 g
+bass       g-/2 b
+
+# measure 21
+soprano    a/2 b
+alto       d/2 d
+tenor      f#/2 g
+bass       d/2 g
+
+# measure 22
+soprano    c/2 b
+alto       e/2 d
+tenor      g/2 g
+bass       c/2 g-
+
+# measure 23
+soprano    a/2 b
+alto       d/2 d
+tenor      f#/2 g
+bass       d/2 g
+
+# measure 24
+soprano    a/2 g
+alto       d c b
+tenor      f#/2 g
+bass       d/2 e
+
+# measure 25
+soprano    d-/2 f#
+alto       d/2 d
+tenor      g/2 a
+bass       b/2 d
+
+# measure 26
+soprano    g/2 a
+alto       d/2 c#
+tenor      b. a/8 g
+bass       g. f#/8 e
+
+# measure 27
+soprano    d/2 d/8 c/8
+alto       d/2 d
+tenor      f#/2 a
+bass       d/2 f#
+
+# measure 28
+soprano    b a g
+alto       d. c/8 b
+tenor      g f# g
+bass       g d e
+
+# measure 29
+soprano    c b a
+alto       e d d/8 c/8
+tenor      g/2 f#
+bass       c d d
+
+# measure 30
+soprano    g/2
+alto       b/2
+tenor      g/2
+bass       g-/2
+
+
+

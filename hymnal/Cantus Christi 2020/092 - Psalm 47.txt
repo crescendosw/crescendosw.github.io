@@ -1,0 +1,58 @@
+title      Psalm 47
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2015
+key        D
+rhythm     0 : 4
+tempo      130
+
+#hyperlink  https://www.youtube.com/watch?v=mDvhUcVXEqo&t=16s
+music      crescendosw.bitbucket.io/pdf/cantus_christi_2020/92%20Psalm%2047%20-%20Erb%20prose.pdf
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     a | d- e/8 - f/8 g/8 - a/8 b/8 c/8 | d d-/2. | d b a g/8 f/8 e f/8 - g/8 | a a/2 a/8 a/8
+
+unison     f a a b/8 c/8 | d d- R/8 d-/8 e/8 f/8 | g/8 - a/8 - b/8 - a/8 g/8 - f/8 e/8 d-/8 | e - d-/2 c- | d-/2 R/8 f/8 f/8 f/8
+
+unison     b f d- c-/8 - b-/8 | c-/8 d-/8 e/2 f/8 f/8 | d- e/8 - f/8 e/8 d-/8 c-/8 - b-/8 | a#-/2. f/8 f/8
+
+unison     b f/8 f/8 d- c-/8 b-/8 | c-/8 - d-/8 e/2 f | d-/8 b-/8 d-/8 f/8 e/8 f/8 g/8 a/8 | a/1
+
+unison     d- e/8 f/8 g/8 - a/8 b/8 c/8 | d/2. a | d b/8 b/8 a g/8 f/8 | a a/2 a
+
+unison     b/8 - a/8 b/8 c/8 d d- | a a/2 a | b/8 a/8 b/8 c/8 d f/8 - g/8 | a a/2 a
+
+unison     f a/8 a/8 a b/8 c/8 | d d- a d- | g/8 - a/8 - b/8 - a/8 g/8 - f/8 e/8 - d-/8 | e d- d- - c- | d-/1
+
+unison     b f d- c-/8 b-/8 | c-/8 - d-/8 e/2 f | d- e/8 f/8 e/8 - d-/8 c-/8 - b-/8 | a#-/2. f
+
+unison     b/8 f/8 b/8 c/8 d/8 c/8 b/8 - d/8 | c/8 - b/8 a#/8 g#/8 f/8 e/8 d-/8 - c-/8 | d-/8 b-/8 d-/8 f/8 e/8 f/8 g/8 a/8 | a/2. a/8 a/8
+
+unison     f a/8 a/8 a b/8 - c/8 | d d- a d-/8 d-/8 | g/8 - a/8 - b/8 - a/8 g/8 - f/8 e/8 - d-/8 | e - d-/2 - c- | d-/1
+
+verse      Oh, clap your hands, all you peo - ples!  Shout to God with the voice of tri - umph!
+
+verse      For the Lord Most High is awe - some; He is a great King o - ver all the earth.
+
+verse      He will sub - due the peo - ples un - der us, And the na - tions un - der our feet.
+
+verse      He will choose our in - her - i - tance for us, The ex - cel - lence of Ja - cob whom He loves.
+
+verse      God has gone up with a shout, The Lord with the sound of a trum - pet.
+
+verse      Sing prais - es to God, sing prais - es!  Sing prais - es to our King, sing prais - es!
+
+verse      For God is the King of all the earth; Sing prais - es with un - der - stand - ing.
+
+verse      God reigns o - ver the na - tions; God sits on His ho - ly throne.
+
+verse      The princ - es of the peo - ple have ga - thered to - geth - er, The peo - ple of the God of A - bra - ham.
+
+verse      For the shields of the earth be - long to God; He is great - ly ex - al - ted.

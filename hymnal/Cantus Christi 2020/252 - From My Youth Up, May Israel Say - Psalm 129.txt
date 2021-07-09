@@ -1,0 +1,63 @@
+title      From My Youth Up, May Israel Say
+author     Nahum Tate & Nicholas Brady, 1696EVANGEL (Nock)
+composer   T. Nock, Jr., 1800's
+key        F
+tempo      101
+rhythm     0 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/252%20From%20My%20Youth%20Up%20-%20Psalm%20129%20EVANGEL.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f/8 f/8 e d-
+alto       d d/8 d/8 c# d
+tenor      a a/8 a/8 a/8 g/8 f
+bass       d d/8 d/8 a bb
+
+# measure 2
+soprano    e e d-/2
+alto       d c# d/2
+tenor      bb a f/2
+bass       g- a d/2
+
+# measure 3
+soprano    a a/8 a/8 a bn
+alto       f f/8 f/8 e e
+tenor      a a/8 a/8 a/8 e/8 f#/8 g#/8
+bass       d d/8 d/8 c# bn
+
+# measure 4
+soprano    c#/2
+alto       e/2
+tenor      a/2
+bass       a/2
+
+# measure 5
+soprano    d d/8 d/8 c/8 bb/8 a
+alto       f f/8 f/8 g f
+tenor      a a/8 a/8 c c
+bass       d d/8 d/8 e f
+
+# measure 6
+soprano    g f e/2
+alto       d d c/2
+tenor      bb g g/2
+bass       bb bn c/2
+
+# measure 7
+soprano    a f/8 e/8 d- c#-
+alto       e d/8 bb/8 a a
+tenor      a a/8 g/8 f e
+bass       c# d/8 g-/8 a a
+
+# measure 8
+soprano    d-/2
+alto       a/2
+tenor      f/2
+bass       d/2
+
+
+

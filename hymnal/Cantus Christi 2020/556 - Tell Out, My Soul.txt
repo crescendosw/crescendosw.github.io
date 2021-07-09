@@ -1,0 +1,106 @@
+title      Tell Out, My Soul
+author     Timothy Dudley-Smith, 1961 (c) WOODLANDS
+composer   Walter Greatorex, 1916
+key        D
+tempo      100
+rhythm     4 : 4
+verse_count 4
+copyright  Text: Hope Publishing Co., 1962, ren. 1990. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/556%20Tell%20Out,%20My%20Soul.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    R a a a
+alto       R/1
+tenor      R a a a
+bass       R/1
+
+# measure 2
+soprano    d/2. a
+alto       R f# g a+
+tenor      d/2. d
+bass       R d e f#
+
+# measure 3
+soprano    b f#/8 g/8 a e
+alto       g f# f# e
+tenor      d d d c#
+bass       g b+ a+ a
+
+# measure 4
+soprano    f#/2. a
+alto       d/2. e
+tenor      a/2. a
+bass       d e d c#
+
+# measure 5
+soprano    d-/2 d-/2
+alto       d/2 d/2
+tenor      a g f# b
+bass       b/2 a g
+
+# measure 6
+soprano    d- e f# b
+alto       d c# d d
+tenor      a g f# f#
+bass       f# e d d
+
+# measure 7
+soprano    g/2 e/2
+alto       b/2 c# b
+tenor      g/2 g/2
+bass       e/2 g/2
+
+# measure 8
+soprano    f# f# f# f#
+alto       a# R/2.
+tenor      f# f# f# f#
+bass       f# R/2.
+
+# measure 9
+soprano    b/2. b
+alto       R d# e f#
+tenor      b/2. b
+bass       R b c# d#
+
+# measure 10
+soprano    b d c# b
+alto       g g g g
+tenor      d b c# d
+bass       e e d d
+
+# measure 11
+soprano    a/2. e
+alto       g/2. e
+tenor      e+/2. a
+bass       c# a b c#
+
+# measure 12
+soprano    f#/2 g/2
+alto       d/2 d/2
+tenor      a/2 b/2
+bass       d/2 b/2
+
+# measure 13
+soprano    a b c# d
+alto       d d g f#
+tenor      a g a a
+bass       f# g/8 f#/8 e d
+
+# measure 14
+soprano    e/2. d-
+alto       d/2 c#/2
+tenor      b/2 e/2
+bass       g-/2 a/2
+
+# measure 15
+soprano    d-/1
+alto       a/1
+tenor      f#/1
+bass       d/1
+
+
+

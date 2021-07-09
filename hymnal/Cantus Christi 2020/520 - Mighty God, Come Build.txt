@@ -1,0 +1,166 @@
+title      Mighty God, Come Build
+author     Neil Barham, 2005 (c)THAXTED
+composer   Gustav Holst, 1918
+key        Bb
+tempo      80
+rhythm     3 : 4
+verse_count 3
+copyright  Text: Neil Barham, 2005. These lyrics may be freely reproduced or published for Christian worship, provided they are not altered, and this notice is on each copy. All other rights reserved. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/520%20Mighty%20God,%20Come%20Build.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/8 f/8
+alto       d/8 d/8
+tenor      bb/8 bb/8
+bass       bb/8 bb/8
+
+# measure 2
+soprano    g. bb/8 a/8. f/16
+alto       eb. eb/8 eb/8. eb/16
+tenor      bb g c/8. a/16
+bass       eb eb c/8. c/16
+
+# measure 3
+soprano    bb/8 c/8 bb a
+alto       f/8 f/8 f f
+tenor      bb/8 bb/8 bb bb
+bass       d/8 d/8 d d
+
+# measure 4
+soprano    g/8 a/8 g f
+alto       eb/8 eb/8 eb c
+tenor      bb/8 bb/8 bb a
+bass       eb/8 eb/8 eb f
+
+# measure 5
+soprano    d-/2 d-/8 f/8
+alto       d/2 d/8 d/8
+tenor      bb/2 a/8 a/8
+bass       g/2 f/8 f/8
+
+# measure 6
+soprano    g. bb/8 a/8. f/16
+alto       eb. eb/8 eb/8. eb/16
+tenor      bb g c/8. a/16
+bass       eb eb c/8. c/16
+
+# measure 7
+soprano    bb/8 c/8 d d
+alto       f/8 f/8 f f
+tenor      bb/8 bb/8 bb bb
+bass       d/8 d/8 d bb/8 d/8
+
+# measure 8
+soprano    d/8 c/8 bb c
+alto       g/8 g/8 eb c
+tenor      bb/8 bb/8 bb g
+bass       eb/8 eb/8 g eb
+
+# measure 9
+soprano    bb/2 f/8 d-/8
+alto       d/2 bb/8 bb/8
+tenor      f/2 f/8 f/8
+bass       bb/2 d/8 d/8
+
+# measure 10
+soprano    c-. c-/8 bb-/8 d-/8
+alto       a. a/8 bb/8 bb/8
+tenor      f f d-/8 g/8
+bass       f f- g-/8 g-/8
+
+# measure 11
+soprano    c- f f/8 d-/8
+alto       c c bb/8 bb/8
+tenor      f f d-/8 f/8
+bass       a a bb/8 bb/8
+
+# measure 12
+soprano    c-. c-/8 d-/8 f/8
+alto       a. a/8 bb/8 d/8
+tenor      f f f/8 bb/8
+bass       f f- bb/8 bb/8
+
+# measure 13
+soprano    g/2 g/8 a/8
+alto       eb/2 eb/8 eb/8
+tenor      bb/2 c/8 c/8
+bass       eb d c/8 c/8
+
+# measure 14
+soprano    bb/8. bb/16 a g
+alto       d/8. d/16 d eb
+tenor      bb/8. bb/16 bb bb
+bass       g/8. g/16 f eb
+
+# measure 15
+soprano    f bb d-/8 d-/8
+alto       f eb d/8 bb/8
+tenor      bb g/8 a/8 bb/8 f/8
+bass       d c bb/8 bb/8
+
+# measure 16
+soprano    c-/8 bb-/8 c- d-
+alto       c/8 bb/8 g- bb
+tenor      g/8 g/8 eb f
+bass       eb/8 d/8 c bb
+
+# measure 17
+soprano    f/2 d-/8 f/8
+alto       c bb a/8 a/8
+tenor      f/2 f/8 f/8
+bass       a g- f-/8 f-/8
+
+# measure 18
+soprano    g. bb/8 a/8. f/16
+alto       bb. eb/8 eb/8. eb/16
+tenor      bb g c/8. a/16
+bass       eb eb c/8. c/16
+
+# measure 19
+soprano    bb/8 c/8 bb a
+alto       f/8 f/8 f f
+tenor      bb/8 bb/8 bb bb
+bass       d/8 d/8 d d
+
+# measure 20
+soprano    g/8 a/8 g f
+alto       eb/8 eb/8 eb c
+tenor      bb/8 bb/8 bb a
+bass       eb/8 eb/8 eb f
+
+# measure 21
+soprano    d-/2 d-/8 f/8
+alto       d/2 d/8 d/8
+tenor      bb/2 a/8 a/8
+bass       g/2 f/8 f/8
+
+# measure 22
+soprano    g. bb/8 a/8. f/16
+alto       eb. eb/8 eb/8. eb/16
+tenor      bb g c/8. a/16
+bass       eb eb c/8. c/16
+
+# measure 23
+soprano    bb/8 c/8 d d
+alto       f/8 f/8 f f
+tenor      bb/8 bb/8 bb bb
+bass       d/8 d/8 d bb/8 d/8
+
+# measure 24
+soprano    d/8 c/8 bb c
+alto       g/8 g/8 g g
+tenor      bb/8 bb/8 eb+ eb+
+bass       eb/8 eb/8 eb eb
+
+# measure 25
+soprano    bb/2
+alto       f/2
+tenor      d/2
+bass       bb/2
+
+
+

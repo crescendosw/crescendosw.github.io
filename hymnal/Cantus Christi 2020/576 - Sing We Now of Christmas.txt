@@ -1,0 +1,111 @@
+title      Sing We Now of Christmas
+author     French carol, 1400'sNOËL NOUVELET
+composer   French carol, 1400's; arr. Martin Shaw (1875-1958)
+key        D
+tempo      101
+rhythm     2 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/576%20Sing%20We%20Now%20of%20Christmas.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e/8 b/8 c#/8 a/8
+alto       e/8 g/8 a+/8 f#/8
+tenor      b/8 b/8 b/8 b/8
+bass       e/8 e/8 e/8 e/8
+
+# measure 2
+soprano    b g
+alto       g e
+tenor      e+ b
+bass       e e
+
+# measure 3
+soprano    a/8 a/16 b/16 g/8 f#/8
+alto       f#/8 e/8 d#/8 d#/8
+tenor      a/8 c#/8 b/8 a/8
+bass       a/8 a/8 b/8 b/8
+
+# measure 4
+soprano    e/2
+alto       b/2
+tenor      g/2
+bass       e/2
+
+# measure 5
+soprano    e/8 b/8 c#/8 a/8
+alto       e/8 g/8 f#/8 e/8
+tenor      g/8 b/8 a/8 c#/8
+bass       e/8 e/8 a/8 a/8
+
+# measure 6
+soprano    b g
+alto       g/8 f#/8 e/8 d/8
+tenor      b b
+bass       e/8 d/8 cn/8 b/8
+
+# measure 7
+soprano    a/8 a/16 b/16 g/8 f#/8
+alto       c#/8 d/8 d#/8 d#/8
+tenor      e/8 e/8 b/8 a/8
+bass       a/8 a/8 b/8 b/8
+
+# measure 8
+soprano    e/2
+alto       b/2
+tenor      g/2
+bass       e/2
+
+# measure 9
+soprano    g f#/8 e/8
+alto       e c#/8 c#/8
+tenor      b a/8 a/8
+bass       e a/8 a/8
+
+# measure 10
+soprano    f#. b-/8
+alto       d b
+tenor      a f#
+bass       d d#
+
+# measure 11
+soprano    g/8 g/8 f#/8 e/8
+alto       e/8 d/8 c#/8 e/8
+tenor      g/8 b/8 a#/8 c#/8
+bass       e/8 e/8 f#/8 f#/8
+
+# measure 12
+soprano    f#/2
+alto       d#/2
+tenor      b/2
+bass       b/2
+
+# measure 13
+soprano    e/8 b/8 c#/8 a/8
+alto       e/8 g/8 f#/8 a+/8
+tenor      g/8 b/8 a/8 c#/8
+bass       e/8 e/8 e/8 e/8
+
+# measure 14
+soprano    b g
+alto       g e
+tenor      b b
+bass       e g
+
+# measure 15
+soprano    a/8 a/16 b/16 g/8 f#/8
+alto       c#/8 c#/8 d#/8 d#/8
+tenor      a/8 f#/8 b/8 a/8
+bass       f#/8 f#/8 b/8 b/8
+
+# measure 16
+soprano    e/2
+alto       e/2
+tenor      g/2
+bass       e/2
+
+
+

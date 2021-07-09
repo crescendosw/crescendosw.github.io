@@ -1,0 +1,117 @@
+title      O Worship the King All Glorious Above
+author     Robert Grant, 1833; alt.LYONS
+composer   Joseph Martin Kraus (1756-1792); arr. William Gardiner, 1815
+key        Ab
+tempo      130
+rhythm     3 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/329%20O%20Worship%20the%20King%20All%20Glorious%20Above.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb
+alto       c
+tenor      ab
+bass       ab
+
+# measure 2
+soprano    ab ab bb
+alto       eb eb eb
+tenor      c ab g
+bass       ab c eb
+
+# measure 3
+soprano    c/2 ab
+alto       eb/2 eb
+tenor      ab/2 ab
+bass       ab+/2 c
+
+# measure 4
+soprano    db db c
+alto       f eb eb
+tenor      ab bb ab
+bass       f g ab+
+
+# measure 5
+soprano    bb/2 eb
+alto       eb/2 eb/8 db/8
+tenor      g/2 g
+bass       eb/2 eb
+
+# measure 6
+soprano    ab ab bb
+alto       c eb eb
+tenor      ab ab g
+bass       ab c eb
+
+# measure 7
+soprano    c/2 db
+alto       eb/2 f
+tenor      ab/2 ab
+bass       ab+/2 f
+
+# measure 8
+soprano    eb+/8. db/16 c bb
+alto       eb/8. f/16 eb db
+tenor      ab ab g
+bass       c/8. db/16 eb eb
+
+# measure 9
+soprano    ab/2 eb
+alto       c/2 eb
+tenor      ab/2 g
+bass       ab/2 eb
+
+# measure 10
+soprano    eb eb f
+alto       eb eb dn
+tenor      g g ab
+bass       eb eb eb
+
+# measure 11
+soprano    g g ab
+alto       db db c
+tenor      bb bb ab
+bass       eb eb eb
+
+# measure 12
+soprano    bb bb c
+alto       eb eb ab+
+tenor      g g ab
+bass       eb eb eb
+
+# measure 13
+soprano    db/2 eb
+alto       g/2 eb/8 db/8
+tenor      bb/2 g
+bass       eb/2 eb
+
+# measure 14
+soprano    ab ab bb
+alto       c eb eb
+tenor      ab ab g
+bass       ab c eb
+
+# measure 15
+soprano    c c db
+alto       eb eb f
+tenor      ab ab ab
+bass       ab+ ab+ f
+
+# measure 16
+soprano    eb+/8. db/16 c bb
+alto       eb/8. f/16 eb db
+tenor      ab ab g
+bass       c/8. db/16 eb eb
+
+# measure 17
+soprano    ab/2
+alto       c/2
+tenor      ab/2
+bass       ab/2
+
+
+

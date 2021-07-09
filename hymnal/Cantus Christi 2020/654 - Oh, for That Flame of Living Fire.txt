@@ -1,0 +1,69 @@
+title      Oh, for That Flame of Living Fire
+author     William Hiley Bathurst (1796-1877)DANBY
+composer   English traditional melody
+key        G
+tempo      101
+rhythm     6 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/654%20Oh,%20for%20That%20Flame%20of%20Living%20Fire.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- g f#
+alto       b d d
+tenor      g g a
+bass       g- b d
+
+# measure 2
+soprano    g/2 = g d- fn e
+alto       d/2 = d b d c
+tenor      b/2 = b g g g
+bass       g/2 = g g-/8 a/8 b c
+
+# measure 3
+soprano    d-/2 = d- d- g f#
+alto       c/2 b c d d
+tenor      g/2 = g f# g a
+bass       g-/2 = g- a b d
+
+# measure 4
+soprano    g/2 = g a/8 b/8 c b
+alto       b/2 = b d e d
+tenor      g/2 = g f# g g
+bass       e/2 = e d c g
+
+# measure 5
+soprano    a/2 = a g a d
+alto       d/2 = d d e f#
+tenor      g/2 f# g c b/8 a/8
+bass       d/2 = d b c d
+
+# measure 6
+soprano    d/2 c b a d-
+alto       g/2 d/2 e d
+tenor      g/2 a b c b/8 a/8
+bass       e/2 f# g c c
+
+# measure 7
+soprano    g/2 = g g a b
+alto       d/2 = d b d d
+tenor      g/2 = g g d d
+bass       b/2 = b e f# g
+
+# measure 8
+soprano    a/2 = a e d- d-
+alto       e/2 = e c/8 b/8 a/8 b/8 c
+tenor      c b a g g f#
+bass       c/2 = c c d d
+
+# measure 9
+soprano    d-/2.
+alto       c/2 b
+tenor      g/2.
+bass       g-/2.
+
+
+

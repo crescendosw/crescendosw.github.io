@@ -1,0 +1,225 @@
+title      Ye Sons and Daughters of the King
+author     Jean Tisserand (?-1494); tr. John Mason Neale, 1851; alt.O FILII ET FILIAE
+composer   French carol, 1500's; arr. Airs sur les hymnes, Paris, 1623
+key        Bb
+tempo      125
+rhythm     3 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/640%20Ye%20Sons%20and%20Daughters%20of%20the%20King.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+
+# Before first stanza
+
+# measure 1
+soprano    g
+alto       g
+tenor      g
+bass       g
+
+# measure 2
+soprano    g/2 a
+alto       g/2 a+
+tenor      g/2 a
+bass       g/2 a+
+
+# measure 3
+soprano    g f g
+alto       g f g
+tenor      g f g
+bass       g f g
+
+# measure 4
+soprano    bb a g
+alto       bb+ a+ g
+tenor      bb a g
+bass       bb+ a+ g
+
+# measure 5
+soprano    d-/2.
+alto       d/2.
+tenor      d-/2.
+bass       d/2.
+
+# measure 6
+soprano    a. bb/8 c
+alto       d. d/8 eb
+tenor      f#. g/8 a
+bass       d. d/8 c
+
+# measure 7
+soprano    d/2 c
+alto       d g g
+tenor      g/2 eb+
+bass       bb/2 c
+
+# measure 8
+soprano    bb a/2
+alto       g g f#
+tenor      d d. c/8
+bass       d d/2
+
+# measure 9
+soprano    g/2
+alto       g/2
+tenor      bb/2
+bass       g-/2
+
+
+# Stanzas
+
+# measure 10
+soprano    g 
+alto       d 
+tenor      bb 
+bass       g 
+
+# measure 11
+soprano    bb/2 c 
+alto       g/2 a+ 
+tenor      d/2 f+ 
+bass       g/2 f 
+
+# measure 12
+soprano    d c bb 
+alto       a+/2 g 
+tenor      f+/2 d 
+bass       d/2 g 
+
+# measure 13
+soprano    c bb a 
+alto       g f f 
+tenor      eb+ d c 
+bass       c d f 
+
+# measure 14
+soprano    g/2 g 
+alto       d/2 d 
+tenor      bb/2 bb 
+bass       g/2 g 
+
+# measure 15
+soprano    bb/2 c 
+alto       g/2 eb 
+tenor      eb+/2 a 
+bass       eb d c 
+
+# measure 16
+soprano    d c bb 
+alto       d/2 g 
+tenor      bb/2 bb 
+bass       bb/2 eb 
+
+# measure 17
+soprano    c bb a 
+alto       g f f 
+tenor      eb+ d c 
+bass       c d f 
+
+# measure 18
+soprano    g/2 g 
+alto       d/2 g 
+tenor      bb/2 g 
+bass       g/2 g 
+
+# measure 19
+soprano    g/2 a 
+alto       g/2 a+ 
+tenor      g/2 a 
+bass       g/2 a+ 
+
+# measure 20
+soprano    g f g 
+alto       g f g 
+tenor      g f g 
+bass       g f g 
+
+# measure 21
+soprano    bb a g 
+alto       f/2 eb 
+tenor      bb/2 bb 
+bass       d/2 eb 
+
+# measure 22
+soprano    d-/2 a 
+alto       d/2 d 
+tenor      d c a 
+bass       bb+ a+ f 
+
+# measure 23
+soprano    bb a/2 
+alto       f f eb 
+tenor      f c/2 
+bass       d f/2 
+
+# measure 24
+soprano    g/2. =
+alto       d/2. =
+tenor      bb/2. =
+bass       g/2. =
+
+# measure 25
+soprano    g/2
+alto       d/2
+tenor      bb/2
+bass       g/2
+
+
+# After final stanza
+
+# measure 42
+soprano    g
+alto       g
+tenor      g
+bass       g
+
+# measure 43
+soprano    g/2 a
+alto       g/2 a+
+tenor      g/2 a
+bass       g/2 a+
+
+# measure 44
+soprano    g f g
+alto       g f g
+tenor      g f g
+bass       g f g
+
+# measure 45
+soprano    bb a g
+alto       bb+ a+ g
+tenor      bb a g
+bass       bb+ a+ g
+
+# measure 46
+soprano    d-/2.
+alto       d/2.
+tenor      d-/2.
+bass       d/2.
+
+# measure 47
+soprano    a. bb/8 c
+alto       d. d/8 eb
+tenor      f#. g/8 a
+bass       d. d/8 c
+
+# measure 48
+soprano    d/2 c
+alto       d g g
+tenor      g/2 eb+
+bass       bb/2 c
+
+# measure 49
+soprano    bb a/2
+alto       g g f#
+tenor      d d. c/8
+bass       d d/2
+
+# measure 50
+soprano    g/2
+alto       g/2
+tenor      bb/2
+bass       g-/2

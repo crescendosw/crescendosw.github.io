@@ -1,0 +1,117 @@
+title      It Is a Gift Most Wonderful
+author     William Walsham How, 1872; alt.HERONGATE
+composer   English traditional melody; harm. Ralph Vaughan Williams, 1906
+key        D
+tempo      100
+rhythm     3 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/448%20It%20Is%20a%20Gift%20Most%20Wonderful.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       d
+tenor      f#
+bass       d
+
+# measure 2
+soprano    a/2 d-
+alto       d/2 d
+tenor      f#/2 a
+bass       d/2 f#
+
+# measure 3
+soprano    b/2 a
+alto       d/2 d
+tenor      g/2 a
+bass       g/2 f#
+
+# measure 4
+soprano    a f# e
+alto       c#/2 c#
+tenor      a/2 g
+bass       a/2 a
+
+# measure 5
+soprano    d-/2 a
+alto       d/2 d
+tenor      f#/2 f#
+bass       d/2 d
+
+# measure 6
+soprano    d/2 d
+alto       d/2 d
+tenor      a/2 a
+bass       f#/2 f#
+
+# measure 7
+soprano    f#/2 a
+alto       d/2 d
+tenor      a/2 a
+bass       d/2 f#
+
+# measure 8
+soprano    b a b
+alto       d/2 d
+tenor      a/2 g#
+bass       e/2 e
+
+# measure 9
+soprano    a/2 a
+alto       c#/2 d
+tenor      a/2 a
+bass       a+/2 f#
+
+# measure 10
+soprano    b a b
+alto       d/2 d
+tenor      g/2 g
+bass       g/2 g
+
+# measure 11
+soprano    d c# b
+alto       g/2 c#
+tenor      b/2 g
+bass       e/2 e
+
+# measure 12
+soprano    a f# e
+alto       d/2 c#
+tenor      a/2 g
+bass       f#/2 a
+
+# measure 13
+soprano    d-/2 d-
+alto       d/2 d
+tenor      f#/2 f#
+bass       b/2 b
+
+# measure 14
+soprano    f#/2 d-
+alto       c#/2 d
+tenor      f#/2 f#
+bass       a/2 b
+
+# measure 15
+soprano    b/2 a
+alto       d/2 d
+tenor      g/2 a
+bass       g-/2 f#-
+
+# measure 16
+soprano    a f# e
+alto       c#/2 c#
+tenor      a/2 g
+bass       a/2 a
+
+# measure 17
+soprano    d-/2
+alto       d/2
+tenor      f#/2
+bass       d/2
+
+
+

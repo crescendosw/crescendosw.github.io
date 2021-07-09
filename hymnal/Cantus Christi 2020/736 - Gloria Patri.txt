@@ -1,0 +1,99 @@
+title      Gloria Patri
+author     Traditional, c. 100s
+composer   Henry W. Greatorex (1813-1858)
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/736%20Gloria%20Patri%20-%20Greatorex.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e. e/8 e e/8 e/8
+alto       b. b/8 b b/8 b/8
+tenor      g. g/8 g g/8 g/8
+bass       e. e/8 e e/8 e/8
+
+# measure 2
+soprano    e d-/2 e
+alto       b b/2  b
+tenor      a a/2  g
+bass       f f/2  e
+
+# measure 3
+soprano    f/2 b/2
+alto       b/2 d/2
+tenor      f/2 f/2
+bass       d/2 b/2
+
+# measure 4
+soprano    b b b c
+alto       e g f g
+tenor      g b b b
+bass       e e d e
+
+# measure 5
+soprano    d/2 c/2
+alto       f/2 f e
+tenor      b/2 an/2
+bass       f/2 f/2
+
+# measure 6
+soprano    b/2. b/8 b/8
+alto       d/2. d/8 d/8
+tenor      b/2. b/8 a/8
+bass       b/2. b/8 b/8
+
+# measure 7
+soprano    b g c b
+alto       e e e e
+tenor      g e a g
+bass       e e e e
+
+# measure 8
+soprano    b a/2 a
+alto       d d/2 d
+tenor      f f/2 f
+bass       b b/2 b
+
+# measure 9
+soprano    a f b a
+alto       d d d f
+tenor      f b f b
+bass       b b b b
+
+# measure 10
+soprano    a g/2.
+alto       f e/2.
+tenor      b b/2.
+bass       e e/2.
+
+# measure 11
+soprano    d/2  d  d
+alto       f/2  f  f
+tenor      b/2  b  b
+bass       a+/2 a+ a+
+
+# measure 12
+soprano    e+/2 e  f
+alto       e/2  b  c
+tenor      b/2  e/2
+bass       g/2  g- a
+
+# measure 13
+soprano    g/2 g f
+alto       b/2 d/2
+tenor      e/2 a/2
+bass       b/2 b/2
+
+# measure 14
+soprano    e/1
+alto       e/1
+tenor      g/1
+bass       e/1
+
+
+

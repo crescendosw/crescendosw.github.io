@@ -1,0 +1,49 @@
+title      Psalm 123
+hymnal     Cantus Christi 2020
+author     King James Version
+
+composer   David R. Erb, 2013
+key        F
+rhythm     0 : 4
+tempo      95
+
+#hyperlink  https://vimeo.com/147534753
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     d-/8 - f/8 g/8 a f/8 | g/8 - a/8 b/8 a g/8 | a. R a/8 | g/8 - f/8 e/8 f/8 e/8 c-/8 | d-. R d-/8
+
+unison     d-/8 - c-/8 - e/8 d- d-/8 | d-/8 - c-/8 - e/8 d- d-/8 | e/8 f/8 g/8 a/8 - g/8 - f/8 | e. R/8 d-/8 d-/8
+
+unison     d-/8 - c-/8 - e/8 d- d-/8 | d-/8 - c-/8 - e/8 d- d-/8 | e/8 f/8 g/8 a/8 - g/8 - f/8 | e. R.
+
+unison     d-/8 - f/8 g/8 a f/8 | g/8 - a/8 b/8 a g/8 | a. R a/8 | g/8 f/8 e/8 f/8 e/8 c-/8 | d-. R d-/8
+
+unison     d-/8 c-/8 d-/8 e/8 - d-/8 c-/8 | d-/8 - e/8 f/8 e/8 d-/8 c-/8 | d-. R d-/8
+
+unison     g/8 f/8 g/8 a/8 g/8 f/8 g/8 a/8 b/8 | a. R a/8
+
+unison     a/8 g/8 f/8 g/8 f/8 e/8 | f/8 e/8 d-/8 e/8 - d-/8 c-/8 | d-/8 - e/8 f/8 e/8 - d-/8 c-/8 | d-. d-/8 d-/8 c-/8
+
+unison     b-/2. | c-. c-. | d-/2.
+
+verse      Un - to You I lift up my eyes, O You who dwell in the heav'ns.
+
+verse      Be - hold, as the eyes of ser - vants look to the hand of their mas - ters,
+
+verse      As the eyes of a maid to the hand of her mis - tress,
+
+verse      So our eyes look to the Lord our God, Un - til He has mer - cy on us.
+
+verse      Have mer - cy on us, O Lord, have mer - cy on us!
+
+verse      For we are ex - ceed - ing - ly filled with con - tempt.
+
+verse      Our soul is ex - ceed - ing - ly filled with the scorn of those who are at ease,
+
+verse      With the con - tempt of the proud.

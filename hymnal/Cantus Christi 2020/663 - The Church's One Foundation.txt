@@ -1,0 +1,117 @@
+title      The Church's One Foundation
+author     Samuel John Stone, 1866AURELIA
+composer   Samuel Sebastian Wesley, 1864
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/663%20The%20Church's%20One%20Foundation.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f#
+alto       d
+tenor      a
+bass       d
+
+# measure 2
+soprano    f# f# g f#
+alto       d d d d
+tenor      a a b a
+bass       d d d d
+
+# measure 3
+soprano    f#/2 e d-
+alto       d/2 c# d
+tenor      a/2 a a
+bass       a/2 g- f#-
+
+# measure 4
+soprano    d- b a g
+alto       b d d c#
+tenor      e e f# a
+bass       g- g- a a
+
+# measure 5
+soprano    f#/2. g
+alto       d/2. c#
+tenor      a/2. a
+bass       d/2. e
+
+# measure 6
+soprano    a d d c#
+alto       d d e e
+tenor      a a a# a#
+bass       f# f# f# f#-
+
+# measure 7
+soprano    c#/2 b a
+alto       e/2 d f#
+tenor      a#/2 b c#
+bass       g-/2 g- a
+
+# measure 8
+soprano    g a f# d-
+alto       f# e d d
+tenor      d a a g#
+bass       b c# d b
+
+# measure 9
+soprano    e/2. e
+alto       c#/2. c#
+tenor      a/2. a
+bass       a/2. a
+
+# measure 10
+soprano    f# g a b
+alto       d c# d d
+tenor      a a a g
+bass       d e f# g
+
+# measure 11
+soprano    b/2 a d
+alto       d/2 d f#
+tenor      g/2 a b
+bass       g/2 f# b
+
+# measure 12
+soprano    d. c#/8 b f#
+alto       f#. f#/8 f# f#
+tenor      b. a#/8 b b
+bass       f#. e/8 d d#
+
+# measure 13
+soprano    g/2. e
+alto       e/2. e
+tenor      b/2. a
+bass       e/2. c#
+
+# measure 14
+soprano    f# f# g f#
+alto       d d d d
+tenor      a a b a
+bass       d d d d
+
+# measure 15
+soprano    f#/2 e d-
+alto       b/2 b b
+tenor      a/2 g g
+bass       g-/2 g- g-
+
+# measure 16
+soprano    d- e d- c#-
+alto       b b a a
+tenor      g g e g
+bass       e- e- a a
+
+# measure 17
+soprano    d-/2.
+alto       a/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

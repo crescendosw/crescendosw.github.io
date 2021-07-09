@@ -1,0 +1,111 @@
+title      Who Would True Valor See
+author     John Bunyan, 1678MONK'S GATE
+composer   English traditional melody
+key        Eb
+tempo      125
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/510%20Who%20Would%20True%20Valor%20See.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb. f/8
+alto       bb/2
+tenor      g. ab/8
+bass       eb/2
+
+# measure 2
+soprano    g eb g/8 ab/8 bb
+alto       eb bb eb d
+tenor      bb g eb f
+bass       eb eb c bb
+
+# measure 3
+soprano    c/2 bb/2
+alto       c/2 d/2
+tenor      ab/2 bb/2
+bass       ab/2 ab+/2
+
+# measure 4
+soprano    bb eb d- eb =
+alto       eb bb bb bb =
+tenor      bb bb ab g =
+bass       g g f eb =
+
+# measure 5
+soprano    eb/2 eb. f/8
+alto       bb/2 bb/2
+tenor      g/2 g. ab/8
+bass       eb/2 eb/2
+
+# measure 6
+soprano    g eb g/8 ab/8 bb
+alto       eb bb eb d
+tenor      bb g eb f
+bass       eb eb c bb
+
+# measure 7
+soprano    c/2 bb/2
+alto       c/2 d/2
+tenor      ab/2 bb/2
+bass       ab/2 ab+/2
+
+# measure 8
+soprano    bb eb d- eb =
+alto       eb bb bb bb =
+tenor      bb bb ab g =
+bass       g g f eb =
+
+# measure 9
+soprano    eb/2 bb/2
+alto       bb/2 eb. f/8
+tenor      g/2 g/2
+bass       eb/2 eb. d/8
+
+# measure 10
+soprano    eb+ c d eb+/8 d/8
+alto       g g ab+ g/8 f/8
+tenor      c c c bn
+bass       c eb f g
+
+# measure 11
+soprano    c/2. bb
+alto       eb/2. f
+tenor      c/2 ab f
+bass       ab+/2 c d
+
+# measure 12
+soprano    g/8 f/8 eb g ab
+alto       eb bb eb eb
+tenor      bb bb g eb
+bass       eb g eb c
+
+# measure 13
+soprano    bb/2. eb+
+alto       d/2. eb
+tenor      f/2 bb bb
+bass       bb bb+ ab+ g
+
+# measure 14
+soprano    bb. bb/8 c/8 bb/8 ab/8 g/8
+alto       d eb eb eb
+tenor      ab g ab c
+bass       f eb ab+ f
+
+# measure 15
+soprano    f c bb eb
+alto       f d eb c
+tenor      d d bb ab
+bass       bb+ ab+ g f
+
+# measure 16
+soprano    d- eb
+alto       bb bb
+tenor      ab g
+bass       bb eb
+
+
+

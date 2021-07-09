@@ -1,0 +1,39 @@
+title      Not What My Hands Have Done
+author     Horatius Bonar, 1861; alt.OLD 25th
+composer   Anglo-Genevan Psalter, 1556; arr. Daye's Psalter, 1563
+key        F
+tempo      115
+rhythm     0 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/362%20Not%20What%20My%20Hands%20Have%20Done.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 a g a bb c/2 a/2 a f bb g f/2
+alto       c/2 f g f f e/2 c/2 f d f e f/2
+tenor      a/2 c c c bb g/2 a/2 a a d c/8 bb/8 a/2
+bass       f/2 f e f d c/2 f/2 d. c/8 bb c f-/2
+
+# measure 2
+soprano    a/2 g f c bb a g a/2 d-/2 g f bb a g/2
+alto       f/2 c f e g f e f/2 d/2 d/8 e/8 f g f# g/2
+tenor      c/2 c a/8 bb/8 c d c c c/2 bb/2 g c d. c/8 bb/2
+bass       f/2 e d c g- a c f-/2 bb/2 bb a g- d g/2
+
+# measure 3
+soprano    a/2 a bb c bb a/2 f/2 d- e f g a/2
+alto       f/2 f f f d c/2 c/2 bb g- d d c#/2
+tenor      a/2 a d c f f/2 f/2 f c a g e/2
+bass       d/2 d bb a bb f/2 a/2 bb c d bb a/2
+
+# measure 4
+soprano    f/2 a a d c bb a g/2 f/2 c a bb g f/2
+alto       d/2 f e d e d/8 c/8 f e/2 d/2 e f f e f/2
+tenor      d-/2 a a bb a f/8 g/8 a/8 bb/8 c/2 a/2 a a d c/8 bb/8 a/2
+bass       d/2 d c bb c d/8 e/8 f c/2 d/2 a d bb c f-/2
+
+
+

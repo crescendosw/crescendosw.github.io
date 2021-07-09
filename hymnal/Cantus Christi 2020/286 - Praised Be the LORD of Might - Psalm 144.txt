@@ -1,0 +1,111 @@
+title      Praised Be the LORD of Might
+author     Mary Sidney Herbert (1561-1621)SEVENTH MODE MELODY
+composer   Thomas Tallis, 1557
+key        Eb
+tempo      155
+rhythm     0 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/286%20Praised%20Be%20the%20LORD%20of%20Might%20-%20Psalm%20144%20SEVENTH%20MODE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb bb. f/8 g ab bb/2
+alto       bb eb. f/8 eb c d/2
+tenor      g g. bb/8 bb ab f/2
+bass       eb eb. d/8 eb f bb/2
+
+# measure 2
+soprano    bb c/2 bb bb an bb/2.
+alto       d f/2 d eb eb d/2.
+tenor      bb an/2 bb eb eb f/2.
+bass       bb f/2 bb c c bb/2.
+
+# measure 3
+soprano    eb bb. f/8 g ab bb/2
+alto       bb eb. f/8 eb c d/2
+tenor      g g. bb/8 bb ab f/2
+bass       eb eb. d/8 eb f bb/2
+
+# measure 4
+soprano    db c/2 bb bb an bb/2.
+alto       f f/2 db eb eb dn/2.
+tenor      bb an/2 bb eb eb f/2.
+bass       bb f/2 bb c c bb/2.
+
+# measure 5
+soprano    eb g. f/8 eb ab g/2
+alto       bb eb. bb/8 c db eb/2
+tenor      g bb. f/8 g ab bb/2
+bass       eb eb. d/8 c f eb/2
+
+# measure 6
+soprano    eb ab/2 g f f eb/2.
+alto       eb eb/2 eb eb dn eb/2.
+tenor      g c/2 bb bb bb g/2.
+bass       eb ab/2 eb bb bb eb/2.
+
+# measure 7
+soprano    eb g. f/8 eb ab g/2
+alto       bb eb. bb/8 c db eb/2
+tenor      g bb. f/8 g ab bb/2
+bass       eb eb. d/8 c f eb/2
+
+# measure 8
+soprano    bb ab/2 g f f eb/2.
+alto       eb eb/2 eb eb dn eb/2.
+tenor      g c/2 bb bb bb g/2.
+bass       eb- ab/2 eb- bb bb eb-/2.
+
+# measure 9
+soprano    eb bb. f/8 g ab bb/2
+alto       bb eb. f/8 eb c d/2
+tenor      g g. bb/8 bb ab f/2
+bass       eb eb. d/8 eb f bb/2
+
+# measure 10
+soprano    bb c/2 bb bb an bb/2.
+alto       d f/2 d eb eb d/2.
+tenor      bb an/2 bb eb eb f/2.
+bass       bb f/2 bb c c bb/2.
+
+# measure 11
+soprano    eb bb. f/8 g ab bb/2
+alto       bb eb. f/8 eb c d/2
+tenor      g g. bb/8 bb ab f/2
+bass       eb eb. d/8 eb f bb/2
+
+# measure 12
+soprano    db c/2 bb bb an bb/2.
+alto       f f/2 db eb eb dn/2.
+tenor      bb an/2 bb eb eb f/2.
+bass       bb f/2 bb c c bb/2.
+
+# measure 13
+soprano    eb g. f/8 eb ab g/2
+alto       bb eb. bb/8 c db eb/2
+tenor      g bb. f/8 g ab bb/2
+bass       eb eb. d/8 c f eb/2
+
+# measure 14
+soprano    eb ab/2 g f f eb/2.
+alto       eb eb/2 eb eb dn eb/2.
+tenor      g c/2 bb bb bb g/2.
+bass       eb ab/2 eb bb bb eb/2.
+
+# measure 15
+soprano    eb g. f/8 eb ab g/2
+alto       bb eb. bb/8 c db eb/2
+tenor      g bb. f/8 g ab bb/2
+bass       eb eb. d/8 c f eb/2
+
+# measure 16
+soprano    bb ab/2 g f f eb/2.
+alto       eb eb/2 eb eb dn eb/2.
+tenor      g c/2 bb bb bb g/2.
+bass       eb- ab/2 eb- bb bb eb-/2.
+
+
+

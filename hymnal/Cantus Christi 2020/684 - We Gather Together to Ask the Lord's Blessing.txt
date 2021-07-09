@@ -1,0 +1,117 @@
+title      We Gather Together to Ask the Lord's Blessing
+author     Anon., 1625; tr. Theodore Baker, 1917KREMSER
+composer   Adrianus Valerius, 1626; arr. Edward Kremser, 1877
+key        C
+tempo      101
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/684%20We%20Gather%20Together%20to%20Ask.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       c
+tenor      e
+bass       c
+
+# measure 2
+soprano    g. a/8 g
+alto       c. c/8 c
+tenor      e. f/8 e
+bass       c. c/8 c
+
+# measure 3
+soprano    e f g
+alto       c c c
+tenor      g g g
+bass       c d e
+
+# measure 4
+soprano    f. e/8 d-
+alto       c. c/8 b
+tenor      a. a/8 b
+bass       d. d/8 g
+
+# measure 5
+soprano    e c- g
+alto       c c e
+tenor      g e g
+bass       c c c
+
+# measure 6
+soprano    g. a/8 b
+alto       d. d/8 d
+tenor      g. g/8 g
+bass       b. b/8 b
+
+# measure 7
+soprano    c. d/8 b
+alto       e d d
+tenor      g f# g
+bass       a d g
+
+# measure 8
+soprano    a. g/8 a
+alto       e. e/8 f#
+tenor      g. g/8 c
+bass       c. c/8 d
+
+# measure 9
+soprano    g/2 g
+alto       d/2 d
+tenor      b/2 b
+bass       g/2 g
+
+# measure 10
+soprano    g. a/8 b
+alto       d. d/8 d
+tenor      b. a/8 g
+bass       f. f/8 f
+
+# measure 11
+soprano    c g g
+alto       c c c
+tenor      g g g
+bass       e e e
+
+# measure 12
+soprano    g. a/8 f/8 g/8
+alto       c/2 b/8 b/8
+tenor      a/2 g/8 g/8
+bass       d/2 g/8 g/8
+
+# measure 13
+soprano    e c- c-
+alto       c c c
+tenor      g e e
+bass       c c c
+
+# measure 14
+soprano    f. g/8 a/8 f/8
+alto       c. c/8 c/8 c/8
+tenor      f. e/8 f/8 f/8
+bass       a. g-/8 f-/8 a/8
+
+# measure 15
+soprano    g. f/8 e
+alto       d d c
+tenor      d- g g
+bass       b b c
+
+# measure 16
+soprano    f d-. c-/8
+alto       c b. c/8
+tenor      f f. e/8
+bass       d g-. c/8
+
+# measure 17
+soprano    c-/2
+alto       c/2
+tenor      e/2
+bass       c/2
+
+
+

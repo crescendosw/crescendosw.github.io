@@ -1,0 +1,160 @@
+title      Give Praise to God
+author     James Montgomery Boice, 1999 (c) SOLI DEO
+composer   Paul Steven Jones, 1999 (c)
+key        D
+tempo      101
+rhythm     3 : 4
+verse_count 4
+copyright  Music & text: Linda M. Boice and Paul S. Jones, 1999. Distributed by Paul Jones Music Inc. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/308%20Give%20Praise%20to%20God.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- f# g
+alto       d f# g
+tenor      d- f# g
+bass       d f# g
+
+# measure 2
+soprano    a/2 d-
+alto       a+/2 d
+tenor      a/2 d-
+bass       a+/2 d
+
+# measure 3
+soprano    b/2 a
+alto       g/2 d
+tenor      e/2 g
+bass       g-/2 b
+
+# measure 4
+soprano    a/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+# measure 5
+soprano    b a f#
+alto       d e d
+tenor      f# a d
+bass       b c# d
+
+# measure 6
+soprano    a/2 f#
+alto       c#/2 d
+tenor      a/2 b
+bass       f#/2 b
+
+# measure 7
+soprano    e/2 d-
+alto       b/2 b
+tenor      g/2 f#
+bass       e/2 b
+
+# measure 8
+soprano    e/2.
+alto       c#/2.
+tenor      a/2.
+bass       a/2.
+
+# measure 9
+soprano    f# d c#
+alto       d g a+
+tenor      a a d
+bass       d e f#
+
+# measure 10
+soprano    b/2 a
+alto       g/2 e
+tenor      d/2 c#
+bass       g/2 g
+
+# measure 11
+soprano    b/2 a
+alto       g/2 e
+tenor      d/2 c#
+bass       g/2 a+
+
+# measure 12
+soprano    f#/2.
+alto       f#/2.
+tenor      d/2.
+bass       d/2.
+
+# measure 13
+soprano    b a f#
+alto       d e d
+tenor      f# a d
+bass       b c# d
+
+# measure 14
+soprano    a/2 f#
+alto       c#/2 c#
+tenor      a/2 a
+bass       f#/2 a
+
+# measure 15
+soprano    e/2 d-
+alto       b/2 d
+tenor      f#/2 f#
+bass       b/2 a
+
+# measure 16
+soprano    b-/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+# measure 17
+soprano    d- f# g
+alto       d f# g
+tenor      d- f# g
+bass       d f# g
+
+# measure 18
+soprano    a/2 a
+alto       a+/2 f#
+tenor      a/2 c#
+bass       a+/2 f#
+
+# measure 19
+soprano    b c#/2
+alto       d a+/2
+tenor      b e+/2
+bass       g a+/2
+
+# measure 20
+soprano    d/2.
+alto       f#/2.
+tenor      d/2.
+bass       b+/2.
+
+# measure 21
+soprano    d b a
+alto       b+ g e
+tenor      d d e+
+bass       g b c#
+
+# measure 22
+soprano    a/2 f#
+alto       f#/2 d
+tenor      a/2 b
+bass       d/2 g-
+
+# measure 23
+soprano    e/2 e
+alto       d b c#
+tenor      e/2 a
+bass       a/2 a
+
+# measure 24
+soprano    d-/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

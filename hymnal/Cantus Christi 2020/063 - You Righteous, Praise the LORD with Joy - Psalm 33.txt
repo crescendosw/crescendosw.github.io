@@ -1,0 +1,412 @@
+title      You Righteous, Praise the LORD with Joy
+author     Rowland S. Ward, 1991 (c)ZION'S LIGHT
+composer   attr. Nicholson, 1820
+key        C
+tempo      125
+rhythm     3 : 8
+verse_count 6
+copyright  Text: Rowland S. Ward, 1991. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/63%20You%20Righteous,%20Praise%20the%20LORD%20-%20Psalm%2033%20ZION'S%20LIGHT.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-.
+alto       c.
+tenor      g.
+bass       c.
+
+# measure 2
+soprano    e e/8
+alto       c c/8
+tenor      c g/8
+bass       c a/8
+
+# measure 3
+soprano    e/8 d-/8 e/8
+alto       c/8 b/8 c/8
+tenor      a c/8
+bass       a g-/8
+
+# measure 4
+soprano    g g/8
+alto       e e/8
+tenor      g g/8
+bass       c c/8
+
+# measure 5
+soprano    e g/8
+alto       c e/8
+tenor      g g/8
+bass       e c/8
+
+# measure 6
+soprano    a/8 g/8 e/8
+alto       f/8 e/8 c/8
+tenor      c e/8
+bass       a a/8
+
+# measure 7
+soprano    d-/8 c-/8 d-/8
+alto       b/8 a/8 b/8
+tenor      g g/8
+bass       g- g-/8
+
+# measure 8
+soprano    c-.
+alto       c.
+tenor      e.
+bass       c.
+
+# measure 9
+soprano    c-.
+alto       c.
+tenor      g.
+bass       c.
+
+# measure 10
+soprano    e e/8
+alto       c c/8
+tenor      c g/8
+bass       c a/8
+
+# measure 11
+soprano    e/8 d-/8 e/8
+alto       c/8 b/8 c/8
+tenor      a c/8
+bass       a g-/8
+
+# measure 12
+soprano    g g/8
+alto       e e/8
+tenor      g g/8
+bass       c c/8
+
+# measure 13
+soprano    e g/8
+alto       c e/8
+tenor      g g/8
+bass       e c/8
+
+# measure 14
+soprano    a/8 g/8 e/8
+alto       f/8 e/8 c/8
+tenor      c e/8
+bass       a a/8
+
+# measure 15
+soprano    d-/8 c-/8 d-/8
+alto       b/8 a/8 b/8
+tenor      g g/8
+bass       g- g-/8
+
+# measure 16
+soprano    c-.
+alto       c.
+tenor      e.
+bass       c.
+
+# measure 17
+soprano    g.
+alto       e.
+tenor      c.
+bass       c.
+
+# measure 18
+soprano    c c/8
+alto       e e/8
+tenor      g g/8
+bass       c c/8
+
+# measure 19
+soprano    g/8 a/8 c/8
+alto       e/8 f/8 e/8
+tenor      a g/8
+bass       c g-/8
+
+# measure 20
+soprano    e+ d/8
+alto       g f/8
+tenor      c d/8
+bass       a b/8
+
+# measure 21
+soprano    c.
+alto       e.
+tenor      e+.
+bass       c.
+
+# measure 22
+soprano    g.
+alto       e.
+tenor      c.
+bass       e.
+
+# measure 23
+soprano    a a/8
+alto       f e/8
+tenor      d e+/8
+bass       d c/8
+
+# measure 24
+soprano    a/8 g/8 e/8
+alto       e/8 d/8 c/8
+tenor      c/8 b/8 a/8
+bass       a/8 b/8 c/8
+
+# measure 25
+soprano    g.
+alto       d.
+tenor      b.
+bass       g-.
+
+# measure 26
+soprano    g.
+alto       e.
+tenor      g.
+bass       c.
+
+# measure 27
+soprano    a a/8
+alto       e e/8
+tenor      c c/8
+bass       c a/8
+
+# measure 28
+soprano    a/8 g/8 a/8
+alto       e/8 d/8 e/8
+tenor      c/8 b/8 c/8
+bass       a g-/8
+
+# measure 29
+soprano    c c/8
+alto       e e/8
+tenor      g g/8
+bass       c c/8
+
+# measure 30
+soprano    e g/8
+alto       e e/8
+tenor      c g/8
+bass       e c/8
+
+# measure 31
+soprano    a/8 g/8 e/8
+alto       f/8 e/8 c/8
+tenor      c e/8
+bass       a a/8
+
+# measure 32
+soprano    d-/8 c-/8 d-/8
+alto       b/8 a/8 b/8
+tenor      g g/8
+bass       g- g-/8
+
+# measure 33 - 34
+soprano    c-. = | c-.
+alto       c. = | c.
+tenor      e. = | e.
+bass       c. = | c.
+
+# measure 35
+soprano    c-.
+alto       c.
+tenor      g.
+bass       c.
+
+# measure 36
+soprano    e e/8
+alto       c c/8
+tenor      c g/8
+bass       c a/8
+
+# measure 37
+soprano    e/8 d-/8 e/8
+alto       c/8 b/8 c/8
+tenor      a c/8
+bass       a g-/8
+
+# measure 38
+soprano    g g/8
+alto       e e/8
+tenor      g g/8
+bass       c c/8
+
+# measure 39
+soprano    e g/8
+alto       c e/8
+tenor      g g/8
+bass       e c/8
+
+# measure 40
+soprano    a/8 g/8 e/8
+alto       f/8 e/8 c/8
+tenor      c e/8
+bass       a a/8
+
+# measure 41
+soprano    d-/8 c-/8 d-/8
+alto       b/8 a/8 b/8
+tenor      g g/8
+bass       g- g-/8
+
+# measure 42
+soprano    c-.
+alto       c.
+tenor      e.
+bass       c.
+
+# measure 43
+soprano    c-.
+alto       c.
+tenor      g.
+bass       c.
+
+# measure 44
+soprano    e e/8
+alto       c c/8
+tenor      c g/8
+bass       c a/8
+
+# measure 45
+soprano    e/8 d-/8 e/8
+alto       c/8 b/8 c/8
+tenor      a c/8
+bass       a g-/8
+
+# measure 46
+soprano    g g/8
+alto       e e/8
+tenor      g g/8
+bass       c c/8
+
+# measure 47
+soprano    e g/8
+alto       c e/8
+tenor      g g/8
+bass       e c/8
+
+# measure 48
+soprano    a/8 g/8 e/8
+alto       f/8 e/8 c/8
+tenor      c e/8
+bass       a a/8
+
+# measure 49
+soprano    d-/8 c-/8 d-/8
+alto       b/8 a/8 b/8
+tenor      g g/8
+bass       g- g-/8
+
+# measure 50
+soprano    c-.
+alto       c.
+tenor      e.
+bass       c.
+
+# measure 51
+soprano    g.
+alto       e.
+tenor      c.
+bass       c.
+
+# measure 52
+soprano    c c/8
+alto       e e/8
+tenor      g g/8
+bass       c c/8
+
+# measure 53
+soprano    g/8 a/8 c/8
+alto       e/8 f/8 e/8
+tenor      a g/8
+bass       c g-/8
+
+# measure 54
+soprano    e+ d/8
+alto       g f/8
+tenor      c d/8
+bass       a b/8
+
+# measure 55
+soprano    c.
+alto       e.
+tenor      e+.
+bass       c.
+
+# measure 56
+soprano    g.
+alto       e.
+tenor      c.
+bass       e.
+
+# measure 57
+soprano    a a/8
+alto       f e/8
+tenor      d e+/8
+bass       d c/8
+
+# measure 58
+soprano    a/8 g/8 e/8
+alto       e/8 d/8 c/8
+tenor      c/8 b/8 a/8
+bass       a/8 b/8 c/8
+
+# measure 59
+soprano    g.
+alto       d.
+tenor      b.
+bass       g-.
+
+# measure 60
+soprano    g.
+alto       e.
+tenor      g.
+bass       c.
+
+# measure 61
+soprano    a a/8
+alto       e e/8
+tenor      c c/8
+bass       c a/8
+
+# measure 62
+soprano    a/8 g/8 a/8
+alto       e/8 d/8 e/8
+tenor      c/8 b/8 c/8
+bass       a g-/8
+
+# measure 63
+soprano    c c/8
+alto       e e/8
+tenor      g g/8
+bass       c c/8
+
+# measure 64
+soprano    e g/8
+alto       e e/8
+tenor      c g/8
+bass       e c/8
+
+# measure 65
+soprano    a/8 g/8 e/8
+alto       f/8 e/8 c/8
+tenor      c e/8
+bass       a a/8
+
+# measure 66
+soprano    d-/8 c-/8 d-/8
+alto       b/8 a/8 b/8
+tenor      g g/8
+bass       g- g-/8
+
+# measure 67 - 68
+soprano    c-. = | c-.
+alto       c. = | c.
+tenor      e. = | e.
+bass       c. = | c.
+
+
+

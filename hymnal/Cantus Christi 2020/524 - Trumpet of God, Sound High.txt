@@ -1,0 +1,105 @@
+title      Trumpet of God, Sound High
+author     Arnold Brooks (1870-1933)RANGOON
+composer   Charles Wood (1866-1926)
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/524%20Trumpet%20of%20God,%20Sound%20High.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- f#/8. f#/16 a a
+alto       d d/8. d/16 e f#/8. e/16
+tenor      f# b/8. b/16 c# c#
+bass       d b/8. b/16 a a+/8. g/16
+
+# measure 2
+soprano    d/2. a/8 f#/8
+alto       d/2. d/8 d/8
+tenor      a/2 g f#/8 a/8
+bass       f#/2 e d/8 d/8
+
+# measure 3
+soprano    b a/8. f#/16 g a/8 a/8
+alto       f# f#/8. e/16 d c#/8 c#/8
+tenor      d d/8. c#/16 b a/8 a/8
+bass       b d/8. d/16 e a/8 a/8
+
+# measure 4
+soprano    f#/2. f#/8. f#/16
+alto       d/2. c#/8. c#/16
+tenor      a/2. a#/8. a#/16
+bass       d/2. f#/8. f#/16
+
+# measure 5
+soprano    f# b/8. b/16 d d/8 d/8
+alto       d f#/8. e/16 d f#/8 f#/8
+tenor      b b/8. b/16 b a/8 a/8
+bass       b d/8. c#/16 b b/8 b/8
+
+# measure 6
+soprano    c#/2. g#/8. g#/16
+alto       f#/2 e# g#/8. g#/16
+tenor      g#/2. c#/8. c#/16
+bass       c#/2. e#/8. e#/16
+
+# measure 7
+soprano    a c#/8. d/16 e+ e+
+alto       f# a+/8. a+/16 a+ g#
+tenor      c# a/8. b/16 c# b
+bass       f# f#/8. f#/16 e e
+
+# measure 8
+soprano    a/2. a/8. b/16
+alto       a+/2. a+/8. b+/16
+tenor      c#/2. a/8. b/16
+bass       a+/2. a+/8. b+/16
+
+# measure 9
+soprano    cn c c b
+alto       cn+ g g g
+tenor      cn e+ d d
+bass       cn+ e/8. fn/16 g g
+
+# measure 10
+soprano    cn/2. g/8. a/16
+alto       e/2. g/8. a+/16
+tenor      cn/2. g/8. a/16
+bass       cn/2. g/8. a+/16
+
+# measure 11
+soprano    bb bb/8. bb/16 bb a
+alto       bb+ fn/8. g/16 f f
+tenor      bb d/8. d/16 cn c
+bass       bb+ d/8. eb/16 fn f
+
+# measure 12
+soprano    bb/2. R
+alto       d/2. R
+tenor      bb/2. R
+bass       bb/2. R
+
+# measure 13
+soprano    d/2 f# g
+alto       d/2 f# g
+tenor      d/2 f# g
+bass       d+/2 f# g
+
+# measure 14
+soprano    a/2 a/2
+alto       a+/2 a+/2
+tenor      a/2 a/2
+bass       a+/2 a+/2
+
+# measure 15
+soprano    d-/1
+alto       d/1
+tenor      d-/1
+bass       d/1
+
+
+

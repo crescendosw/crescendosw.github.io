@@ -1,0 +1,117 @@
+title      Jerusalem the Golden
+author     Bernard of Cluny, 1100s; tr. John Mason Neale, 1851; alt.EWING
+composer   Alexander Ewing, 1853
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/468%20Jerusalem%20the%20Golden.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       g-
+tenor      e
+bass       c
+
+# measure 2
+soprano    d- c- f e
+alto       g- g- c c
+tenor      f e a g
+bass       c c c c
+
+# measure 3
+soprano    d-/2 c- e
+alto       b/2 c c
+tenor      f/2 e g
+bass       g-/2 c c
+
+# measure 4
+soprano    g c b g#
+alto       c e d d
+tenor      g g g# b
+bass       e c e e
+
+# measure 5
+soprano    a/2. a
+alto       c/2. f
+tenor      a/2. c
+bass       a/2. f-
+
+# measure 6
+soprano    g e e d-
+alto       e c b g#-
+tenor      c g g# e
+bass       c c e e-
+
+# measure 7
+soprano    c-/2 d- e
+alto       a/2 b c
+tenor      e/2 g g
+bass       a/2 g- c
+
+# measure 8
+soprano    e e d- c-
+alto       c c b a
+tenor      a g g e
+bass       a c g- a
+
+# measure 9
+soprano    d-/2. d-
+alto       b/2. b
+tenor      g/2. g
+bass       g-/2. g-
+
+# measure 10
+soprano    f e a b
+alto       c c c e
+tenor      a g a g#
+bass       f- c f e
+
+# measure 11
+soprano    c/2 d g
+alto       e/2 g g
+tenor      a/2 b b
+bass       a+/2 g g
+
+# measure 12
+soprano    e+. e+/8 d c
+alto       g g f f#
+tenor      c c a c
+bass       c e f a+
+
+# measure 13
+soprano    b/2. a
+alto       g/2. b
+tenor      d/2. d
+bass       g/2. f
+
+# measure 14
+soprano    g e e d-
+alto       c c b g#-
+tenor      g g g# e
+bass       e c e e
+
+# measure 15
+soprano    c-/2 d- e
+alto       a/2 b c
+tenor      e/2 g g
+bass       a/2 g- c
+
+# measure 16
+soprano    e e d-. c-/8
+alto       c c b. c/8
+tenor      a g f. e/8
+bass       a e- g-. c/8
+
+# measure 17
+soprano    c-/2.
+alto       c/2.
+tenor      e/2.
+bass       c/2.
+
+
+

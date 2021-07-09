@@ -1,0 +1,123 @@
+title      O Sons and Daughters, Let Us Sing!
+author     Jean Tisserand (?-1494); tr. John Mason Neale, 1851; alt.GELOBT SEI GOTT
+composer   Melchior Vulpius, 1609
+key        D
+tempo      130
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/639%20O%20Sons%20and%20Daughters,%20Let%20Us%20Sing!.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d c# b
+alto       a+ a+ f#
+tenor      f#+ e+ d
+bass       d a b
+
+# measure 2
+soprano    a/2 a
+alto       f#/2 f#
+tenor      c#/2 d
+bass       f#/2 d
+
+# measure 3
+soprano    b/2 c#
+alto       g/2 a+
+tenor      d e+ e+
+bass       g e a+
+
+# measure 4
+soprano    d/2.
+alto       a+/2.
+tenor      f#+/2.
+bass       d/2.
+
+# measure 5
+soprano    d d e+
+alto       f# g g
+tenor      a b c#
+bass       d g e
+
+# measure 6
+soprano    a/2 d
+alto       f#/2 b+
+tenor      d. e+/8 f#+
+bass       d. c#/8 b
+
+# measure 7
+soprano    c# b b
+alto       a+/2 g#
+tenor      e+ f#+ e+
+bass       c# d e
+
+# measure 8
+soprano    a/2.
+alto       a+/2.
+tenor      c#/2.
+bass       a/2.
+
+# measure 9
+soprano    a f# b
+alto       f# d d
+tenor      d a g
+bass       d d g
+
+# measure 10
+soprano    a/2 g
+alto       d. f#/8 e
+tenor      a. d/8 b
+bass       f#. d/8 e
+
+# measure 11
+soprano    f# e e
+alto       d/2 c#
+tenor      a b a
+bass       f# g a+
+
+# measure 12
+soprano    d-/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+# measure 13
+soprano    d d c#
+alto       a+ a+. g/8
+tenor      f#+ f#+ e+
+bass       d d a
+
+# measure 14
+soprano    d. c#/8 b
+alto       f#/2 g
+tenor      d/2.
+bass       d/8 c#/8 b/8 a/8 g-
+
+# measure 15
+soprano    a a g#
+alto       e e. d/8
+tenor      c# c# b
+bass       a a e
+
+# measure 16
+soprano    a. g/8 f#
+alto       c#/2 d
+tenor      a/2.
+bass       a+/8 g/8 f#/8 e/8 d
+
+# measure 17
+soprano    e d- c#-
+alto       c# d a
+tenor      a f# g
+bass       a b a
+
+# measure 18
+soprano    d-/2.
+alto       a/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

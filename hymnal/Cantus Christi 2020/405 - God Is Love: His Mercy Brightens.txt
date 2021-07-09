@@ -1,0 +1,63 @@
+title      God Is Love: His Mercy Brightens
+author     John Bowring, 1825SUSSEX
+composer   English traditional melody; arr. Ralph Vaughan Williams, 1906
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/405%20God%20Is%20Love-%20His%20Mercy%20Brightens.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b b b. a/8
+alto       g g g. f#/8
+tenor      d d d. d/8
+bass       g g g. d/8
+
+# measure 2
+soprano    g/8 a/8 b/8 a/8 g e
+alto       e d e e
+tenor      b b b g
+bass       e b e e
+
+# measure 3
+soprano    c c b. a/8
+alto       e g g. f#/8
+tenor      c c d. d/8
+bass       c e g. d/8
+
+# measure 4
+soprano    g b a/2
+alto       g g f#/2
+tenor      b g a/2
+bass       e b d/2
+
+# measure 5
+soprano    g g e d-
+alto       d d c/8 b/8 a
+tenor      b g g f#
+bass       g- b c d
+
+# measure 6
+soprano    g. g/8 a/8 b/8 c
+alto       d. e/8 f# g
+tenor      g. b/8 d e+
+bass       b. e/8 d c
+
+# measure 7
+soprano    d. d/8 c b/8 g/8
+alto       g. d/8 f# g
+tenor      d. g/8 c d
+bass       b. b/8 a b
+
+# measure 8
+soprano    a a g/2
+alto       g f# g/2
+tenor      e+ d/8 c/8 b/2
+bass       c d g-/2
+
+
+

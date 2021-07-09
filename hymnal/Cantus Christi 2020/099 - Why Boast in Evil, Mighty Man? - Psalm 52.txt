@@ -1,0 +1,58 @@
+title      Why Boast in Evil, Mighty Man?
+author     Donald P. Owens II, 2012 (c) WAS TROSST DENN DU [BECKER 52]
+composer   Heinrich Schütz, 1661
+key        Bb
+tempo      185
+rhythm     0 : 4
+verse_count 3
+copyright  Text: Donald P. Owens II, 2012. All Rights Reserved. Used by permission. 100 Music: David R. Erb, 2016. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/99%20Why%20Boast%20in%20Evil%20-%20Psalm%2052%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 bb/2 f d-/2 f g a bb/2
+alto       d/2 f/2 d bb/2 f- bb f f/2
+tenor      bb/2 d/2 bb f/2 bb g c d/2
+bass       bb/2 bb/2 bb bb/2 d eb f bb/2
+
+# measure 2
+soprano    a/2 c/2 bb a/2 f g/2 f/2
+alto       f/2 f/2 d c/2 d en/2 f/2
+tenor      c/2 a/2 f a/2 a c/2 c/2
+bass       f/2 f/2 bb f/2 d c/2 f/2
+
+# measure 3
+soprano    f/2 bb/2 f d-/2 f g a bb/2
+alto       d/2 f/2 d bb/2 f- bb f f/2
+tenor      bb/2 d/2 bb f/2 bb g c d/2
+bass       bb/2 bb/2 bb bb/2 d eb f bb/2
+
+# measure 4
+soprano    a/2 c/2 bb a/2 f g/2 f/2
+alto       f/2 f/2 d c/2 d en/2 f/2
+tenor      c/2 a/2 f a/2 a c/2 c/2
+bass       f/2 f/2 bb f/2 d c/2 f/2
+
+# measure 5
+soprano    f/2 g/2 bb a/2 d c a g/2
+alto       d/2 d/2 g f#/2 g g f# g/2
+tenor      bb/2 bb/2 d d/2 d eb+ d d/2
+bass       bb/2 g-/2 g- d/2 bb c d g-/2
+
+# measure 6
+soprano    g/2 c/2 bb a/2 g f g a/2
+alto       en/2 f/2 f f/2 d d d f/2
+tenor      c/2 c/2 d c/2 bb a bb c/2
+bass       c/2 a/2 bb f/2 g d g f/2
+
+# measure 7
+soprano    c/2 d/2 c bb/2 eb+ d c/8 bb/8 c/2 bb/1
+alto       f/2 f/2 f d/2 g f/1 f/1
+tenor      a/2 bb/2 a g bb bb/2 a/8 g/8 a/2 bb/1
+bass       f/2 bb+/2 f g/2 eb bb/2 f/2 bb/1
+
+
+

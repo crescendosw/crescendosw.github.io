@@ -1,0 +1,75 @@
+title      The Angel Gabriel
+author     Sabine Baring-Gould (1834-1924); alt.GABRIEL'S MESSAGE
+composer   Basque carol; arr. C. Edgar Pettman (1865-1943) 
+key        C
+tempo      90
+rhythm     0 : 8
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/563%20The%20Angel%20Gabriel.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e/8
+alto       e/8
+tenor      e/8
+bass       e/8
+
+# measure 2
+soprano    a c/8 b d/8 c b/8
+alto       c e/8 d f/8 e d/8
+tenor      e e/8 e e/8 e e/8
+bass       a a/8 a a/8 a a/8
+
+# measure 3
+soprano    a. b. e. = e e/8
+alto       e. f. d. = d d/8
+tenor      c. d. b. = b b/8
+bass       a+. a+. a+. g# g#/8
+
+# measure 4
+soprano    a c/8 b d/8 c b/8
+alto       c e/8 d f/8 e f/8
+tenor      a a/8 a a/8 a b/8
+bass       a+ a/8 a a/8 a d/8
+
+# measure 5
+soprano    a. = a g/8 a. = a c/8
+alto       e. e. e. = e e/8
+tenor      c. b. c. = c c/8
+bass       c. e. a+. = a+ c/8
+
+# measure 6
+soprano    c d/8 c b/8 c d/8 e+ e+/8
+alto       e f/8 e f/8 g f/8 e e/8
+tenor      c g/8 g d/8 c b/8 c c/8
+bass       c c/8 c d/8 e d/8 c c/8
+
+# measure 7
+soprano    d. c. b. = b c/8
+alto       a+. = a+. a+. g g/8
+tenor      a. d. d. = d c/8
+bass       f. f#. g. = g e/8
+
+# measure 8
+soprano    d c/8 b a/8 b. e.
+alto       d d/8 d d/8 d. d.
+tenor      a a/8 a a/8 a. g#.
+bass       f f/8 f f/8 e. e.
+
+# measure 9
+soprano    a. c/8 b/8 c/8 a. = a g/8
+alto       c. f. e. e.
+tenor      a/2. c. b.
+bass       f. d. c. e.
+
+# measure 10
+soprano    a/2. = a
+alto       c/2. = c
+tenor      a/2. = a
+bass       a/2. = a
+
+
+

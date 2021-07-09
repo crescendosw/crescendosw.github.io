@@ -1,0 +1,82 @@
+title      The LORD, the Sovereign, Sends His Summons
+author     Isaac Watts, 1719LE DIEU, LE FORT, L'ETERNAL  [GENEVAN 50]
+composer   Genevan Psalter, 1543; arr. Mark Reagan, 2015 (c)
+key        D
+tempo      165
+rhythm     2 : 2
+verse_count 9
+copyright  Music: Mark Reagan, 2015. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/97%20The%20LORD,%20the%20Sovereign%20-%20Psalm%2050%20Genevan.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    b/2 a g
+
+# measure 2
+unison    f#/2 a/2
+
+# measure 3
+unison    b a g f#
+
+# measure 4
+unison    e/1
+
+# measure 5
+unison    e/2 b b
+
+# measure 6
+unison    a/2 b/2
+
+# measure 7
+unison    c# d c# c#
+
+# measure 8
+unison    b/1
+
+# measure 9
+unison    b/2 b b
+
+# measure 10
+unison    a/2 f#/2
+
+# measure 11
+unison    g b a g
+
+# measure 12
+unison    f#/1
+
+# measure 13
+unison    b/2 b b
+
+# measure 14
+unison    a/2 f#/2
+
+# measure 15
+unison    g b a g
+
+# measure 16
+unison    f# a g f#
+
+# measure 17
+unison    e/2 d-/2
+
+# measure 18
+unison    e f# g a
+
+# measure 19
+unison    b/1
+
+# measure 20
+unison    a/2 a a
+
+# measure 21
+unison    b/2 d/2
+
+# measure 22
+unison    b a g f#
+
+# measure 23
+unison    e/1

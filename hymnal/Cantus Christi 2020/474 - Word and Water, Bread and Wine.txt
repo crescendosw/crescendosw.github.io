@@ -1,0 +1,124 @@
+title      Word and Water, Bread and Wine
+author     Douglas Wilson, 2005 (c)COWPER
+composer   Oliver Holden (1765-1844)
+key        G
+tempo      140
+rhythm     4 : 4
+verse_count 2
+copyright  Text: Douglas Wilson, 2005. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/474%20Word%20and%20Water,%20Bread%20and%20Wine.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    R/2 b/2
+alto       R/2 b/2
+tenor      R/2 e/2
+bass       R/2 e/2
+
+# measure 2
+soprano    b b g g
+alto       e e d d
+tenor      g g b b
+bass       e e g g
+
+# measure 3
+soprano    g f# g. a/8
+alto       b a b. c/8
+tenor      e d#- e. f#/8
+bass       e b e. dn/8
+
+# measure 4
+soprano    b b c c
+alto       b e e e
+tenor      g e a g
+bass       g- g- a a
+
+# measure 5
+soprano    b b b/2 =
+alto       d# d# e/2 =
+tenor      f# f# e/2 =
+bass       b b e/2 =
+
+# measure 6
+soprano    b/2 R/2
+alto       e/2 R/2
+tenor      e/2 R/2
+bass       e/2 g/2
+
+# measure 7
+soprano    R/1
+alto       R/1
+tenor      R/2. g
+bass       a+ g f# e
+
+# measure 8
+soprano    R/2. b
+alto       R/1
+tenor      a g f# e
+bass       d d d e
+
+# measure 9
+soprano    d b g g
+alto       R/2. g
+tenor      b b b e
+bass       b/2 b c
+
+# measure 10
+soprano    b a g a
+alto       g f# e f#
+tenor      g a b a
+bass       d/2. d
+
+# measure 11
+soprano    b/2 = b b
+alto       d d d/2
+tenor      g g g/2
+bass       g- g- g- g
+
+# measure 12
+soprano    d b e+ b
+alto       R/1
+tenor      R/1
+bass       g g e e
+
+# measure 13
+soprano    g f# e e
+alto       R/2. b
+tenor      R/2. b
+bass       b b e g
+
+# measure 14
+soprano    b g b e+
+alto       b b b b
+tenor      d b e+ b
+bass       g g e e
+
+# measure 15
+soprano    d d g g
+alto       b d e d
+tenor      g a b g
+bass       g f# e b
+
+# measure 16
+soprano    f#. a/8 d b
+alto       d. f#/8 f# g
+tenor      a. a/8 a b
+bass       d. d/8 d g
+
+# measure 17
+soprano    b/2 b/2
+alto       e/2 d#/2
+tenor      g/2 f#/2
+bass       b+/2 b/2
+
+# measure 18
+soprano    b/1
+alto       e/1
+tenor      e/1
+bass       e/1
+
+
+

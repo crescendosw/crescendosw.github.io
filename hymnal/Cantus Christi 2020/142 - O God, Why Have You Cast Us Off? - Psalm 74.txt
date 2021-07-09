@@ -1,0 +1,64 @@
+title      O God, Why Have You Cast Us Off?
+author     The Ailbe Psalter, 2006; alt. (c) WARUM VERSTOSST [BECKER 74]
+composer   Heinrich Schütz, 1661
+key        Bb
+tempo      175
+rhythm     0 : 4
+verse_count 5
+copyright  Text: The Fellowship of Ailbe, 2006. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/142%20O%20God,%20Why%20Have%20You%20-%20Psalm%2074%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2 c/2 d a/2 c f g a/2
+alto       f/2 f/2 f f/2 f f en f/2
+tenor      d/2 c/2 bb c/2 c d bb c/2
+bass       d/2 a/2 bb f/2 a+ bb+ g f/2
+
+# measure 2
+soprano    c/2 d/2 c bb/2 g f g/2 f# g/1
+alto       f/2 f/2 f d/2 eb d/2 d/2 d/1
+tenor      a/2 bb/2 a g/2 bb bb/2 a/2 g/1
+bass       f/2 bb/2 f g/2 eb bb. c/8 d/2 g-/1
+
+# measure 3
+soprano    a/2 c/2 d a/2 c f g a/2
+alto       f/2 f/2 f f/2 f f en f/2
+tenor      d/2 c/2 bb c/2 c d bb c/2
+bass       d/2 a/2 bb f/2 a+ bb+ g f/2
+
+# measure 4
+soprano    c/2 d/2 c bb/2 g f g/2 f# g/1
+alto       f/2 f/2 f d/2 eb d/2 d/2 d/1
+tenor      a/2 bb/2 a g/2 bb bb/2 a/2 g/1
+bass       f/2 bb/2 f g/2 eb bb. c/8 d/2 g-/1
+
+# measure 5
+soprano    a/2 bb/2 g f/2 f g a bb/2
+alto       d/2 d/2 c d/2 d bb f f/2
+tenor      f#/2 g/2 g a/2 bb g c d/2
+bass       d/2 g/2 eb d/2 bb eb fn bb/2
+
+# measure 6
+soprano    bb/2 a/2 c bb/2 a g g f#/2
+alto       f/2 f/2 g g/2 f eb eb d/2
+tenor      d/2 c/2 eb+ d/2 d bb c a/2
+bass       bb/2 f/2 c g/2 d eb c d/2
+
+# measure 7
+soprano    f/2 g g a. g/8 f en g f e/2
+alto       d/2 d en f. eb/16 d/16 c c d d c#/2
+tenor      a/2 bn c c. bb/8 a g bb a a/2
+bass       d/2 g c f/2. c g- d a/2
+
+# measure 8
+soprano    a/2 g f c. bb/8 a g f/2 e/2 d-/1
+alto       f/2 en d c d/8 en/8 f en/2 d/2 c# d/1
+tenor      c/2 c a a. bb/8 c c a/2 a/2 a/1
+bass       f/2 c d a. g-/8 f- c d/2 a/2 d/1
+
+
+

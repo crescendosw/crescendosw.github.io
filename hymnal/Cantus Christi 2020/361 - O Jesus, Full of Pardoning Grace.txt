@@ -1,0 +1,177 @@
+title      O Jesus, Full of Pardoning Grace
+author     Charles Wesley (1707-1788)LEICESTER
+composer   John Bishop (1665-1737)
+key        Bb
+tempo      125
+rhythm     2 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/361%20O%20Jesus,%20Full%20of%20Pardoning%20Grace.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2
+alto       bb/2
+tenor      g/2
+bass       g-/2
+
+# measure 2
+soprano    d- g
+alto       d d/8 eb/8
+tenor      bb/8 c/8 bb
+bass       g-/8 a/8 bb/8 c/8
+
+# measure 3
+soprano    f# g
+alto       d d
+tenor      a bb/8 a/8
+bass       d g/8 f/8
+
+# measure 4
+soprano    c/8 bb/8 a/8 g/8
+alto       c/8 d/8 eb
+tenor      g c/8 bb/8
+bass       eb c
+
+# measure 5
+soprano    f#. f#/8
+alto       d. d/8
+tenor      a. a/8
+bass       d. d/8
+
+# measure 6
+soprano    g f/8 eb/8
+alto       d c
+tenor      bb c
+bass       g- a
+
+# measure 7
+soprano    d- g
+alto       bb/8 c/8 d/8 eb/8
+tenor      f d/8 c/8
+bass       bb/8 a/8 bb/8 c/8
+
+# measure 8
+soprano    g f#
+alto       d d
+tenor      bb a
+bass       d d
+
+# measure 9
+soprano    g/2
+alto       d/2
+tenor      bb/2
+bass       g-/2
+
+# measure 10
+soprano    d-/2
+alto       bb/2
+tenor      g/2
+bass       g-/2
+
+# measure 11
+soprano    d- g
+alto       d d/8 eb/8
+tenor      bb/8 c/8 bb
+bass       g-/8 a/8 bb/8 c/8
+
+# measure 12
+soprano    f# g
+alto       d d
+tenor      a bb/8 a/8
+bass       d g/8 f/8
+
+# measure 13
+soprano    c/8 bb/8 a/8 g/8
+alto       c/8 d/8 eb
+tenor      g c/8 bb/8
+bass       eb c
+
+# measure 14
+soprano    f#. f#/8
+alto       d. d/8
+tenor      a. c/8
+bass       d. d/8
+
+# measure 15
+soprano    g a
+alto       d f
+tenor      bb c
+bass       g f/8 eb/8
+
+# measure 16
+soprano    bb c/8 bb/8
+alto       f eb/8 d/8
+tenor      bb g
+bass       d eb
+
+# measure 17
+soprano    bb a
+alto       d c
+tenor      f f
+bass       f f-
+
+# measure 18
+soprano    bb/2
+alto       d/2
+tenor      f/2
+bass       bb/2
+
+# measure 19
+soprano    bb. c/8
+alto       d/2
+tenor      f/2
+bass       bb/2
+
+# measure 20
+soprano    d c
+alto       f f
+tenor      bb a
+bass       bb f/8 eb/8
+
+# measure 21
+soprano    bb a
+alto       f f#
+tenor      bb d
+bass       d d/8 c/8
+
+# measure 22
+soprano    g a/8 g/8
+alto       g eb
+tenor      d c/8 bb/8
+bass       bb c
+
+# measure 23
+soprano    f#. f#/8
+alto       d. d/8
+tenor      a. a/8
+bass       d. d/8
+
+# measure 24
+soprano    g f/8 eb/8
+alto       d c
+tenor      bb c
+bass       g- a
+
+# measure 25
+soprano    d- g
+alto       bb/8 c/8 d/8 eb/8
+tenor      f d/8 c/8
+bass       bb/8 a/8 bb/8 c/8
+
+# measure 26
+soprano    g f#
+alto       d d/8 c/8
+tenor      bb a
+bass       d d
+
+# measure 27
+soprano    g/2
+alto       bb/2
+tenor      g/2
+bass       g-/2
+
+
+

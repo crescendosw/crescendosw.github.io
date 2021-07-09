@@ -1,0 +1,57 @@
+title      Psalm 125
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2014
+key        F
+rhythm     4 : 4
+tempo      145
+
+#hyperlink  https://vimeo.com/156804548
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     f g | a - g/8 - a/8 b/8 - a/8 g/8 - f/8 | e f b a | g g/2 f
+
+unison     f f f/2 | f/2 f f | g f f - e | f/2 f a
+
+unison     c a/8 g/8 a f | e/8 f/8 g/2 a/8 f/8 | d- c- d-/8 - e/8 f | e/8 - d-/8 c-/2 f
+
+unison     f f f f/8 f/8 | g - f/2 - e | f/2. a/8 a/8
+
+unison     d- e/8 f/8 g/8 f/8 e | f d- c#- a/8 a/8 | d- e/8 - f/8 g/8 f/8 e/8 d-/8 | c#-/8 d-/8 e/2 a/8 a/8
+
+unison     a g/8 - a/8 b/8 - a/8 g/8 f/8 | e - c#- d- e | f/2 e/2 | d-/2. d-
+
+unison     d-/2 e/2 | f/2. d- | f/2 g g | a/2 f a | c/2 a g | a f b a | g/2 a g
+
+unison     f d- g f | e - c- f e | d- b - a f | e/2. a
+
+unison     d- e/8 - f/8 e f/8 g/8 | f g/8 a/8 g f | e - c#- - d- e | f/2 e/2 | d-/1
+
+unison     d- d-/8 d-/8 d-/2 | d-/2 e/2 | f#/2(2)
+
+verse      Those who trust in the Lord are like Mount Zi - on,
+
+verse      Which can - not be moved, but a - bides for - ev - er.
+
+verse      As the moun - tains sur - round Je - ru - sa - lem, So the Lord sur - rounds His peo - ple
+
+verse      From this time forth and for - ev - - - - er.
+
+verse      For the scep - ter of wick - ed - ness shall not rest On the land al - lot - ted to the right - eous,
+
+verse      Lest the right - eous reach out their hands to in - iq - ui - ty.
+
+verse      Do good, O Lord, to those who are good, And to those who are up - right in their hearts.
+
+verse      As for such as turn a - side to their crook - ed ways,
+
+verse      The Lord shall lead them a - way with the wor - kers of in - iq - ui - ty.
+
+verse      Peace be up - on Is - ra - el!

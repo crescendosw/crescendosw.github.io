@@ -1,0 +1,111 @@
+title      Give to Our God Immortal Praise
+author     Isaac Watts, 1719WARRINGTON
+composer   Ralph Harrison, 1784
+key        Bb
+tempo      100
+rhythm     3 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/322%20Give%20to%20Our%20God%20Immortal%20Praise.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f eb
+alto       d d c
+tenor      bb bb a
+bass       bb d f
+
+# measure 2
+soprano    d- f bb
+alto       d/2 f/8 eb/8
+tenor      bb/2 f/8 g/8
+bass       bb+/2 d/8 eb/8
+
+# measure 3
+soprano    bb c a
+alto       d eb c
+tenor      f/2 f
+bass       f/2 f
+
+# measure 4
+soprano    bb/2 d
+alto       d/2 f
+tenor      f/2 bb
+bass       bb/2 bb
+
+# measure 5
+soprano    c/2 c
+alto       f/2 f
+tenor      a/2 a
+bass       f/2 f
+
+# measure 6
+soprano    d/2 c/8 bb/8
+alto       f/2 f
+tenor      bb/2 c/8 d/8
+bass       bb+/2 a+/8 bb+/8
+
+# measure 7
+soprano    a/2 g
+alto       f/2 en
+tenor      c/2 bb
+bass       c+/2 c
+
+# measure 8
+soprano    f/2.
+alto       f/2.
+tenor      a/2.
+bass       f/2.
+
+# measure 9
+soprano    bb bb f
+alto       d d f
+tenor      bb bb bb
+bass       bb bb d
+
+# measure 10
+soprano    g/2 bb
+alto       eb/2 f
+tenor      bb/2 bb
+bass       eb/2 d
+
+# measure 11
+soprano    eb+. d/8 c/8 bb/8
+alto       eb g g
+tenor      g c c
+bass       c. d/8 eb
+
+# measure 12
+soprano    bb a g
+alto       f/2 c
+tenor      d c a
+bass       f/2 eb
+
+# measure 13
+soprano    f/2 eb
+alto       f bb a
+tenor      bb/2 f
+bass       d/2 c
+
+# measure 14
+soprano    d- f bb
+alto       bb d f/8 eb/8
+tenor      f/2 f/8 g/8
+bass       bb/2 d/8 eb/8
+
+# measure 15
+soprano    bb c a
+alto       d eb c
+tenor      f/2 f
+bass       f/2 f
+
+# measure 16
+soprano    bb/2.
+alto       d/2.
+tenor      f/2.
+bass       bb/2.
+
+
+

@@ -1,0 +1,87 @@
+title      Praise the Savior, Now and Ever
+author     Venantius H. C. Fortunatus (c. 530-609); tr. Augustus Nelson (1863-1949)UPP, MIN TUNGA
+composer   Swedish Koralbok, 1697
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/439%20Praise%20the%20Savior,%20Now%20and%20Ever.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- e f# d-
+alto       a c# d d
+tenor      f# a a b
+bass       d a d g
+
+# measure 2
+soprano    f# g a f#
+alto       d d d d
+tenor      a b a b
+bass       d g- f#- b
+
+# measure 3
+soprano    g a b a
+alto       e e b c#
+tenor      b a f# e
+bass       e c# d c#
+
+# measure 4
+soprano    a g# a/2
+alto       d d c#/2
+tenor      f# e e/2
+bass       b e a/2
+
+# measure 5
+soprano    d- e f# d-
+alto       a c# d d
+tenor      f# a a b
+bass       d a d g
+
+# measure 6
+soprano    f# g a f#
+alto       d d d d
+tenor      a b a b
+bass       d g- f#- b
+
+# measure 7
+soprano    g a b a
+alto       e e b c#
+tenor      b a f# e
+bass       e c# d c#
+
+# measure 8
+soprano    a g# a/2
+alto       d d c#/2
+tenor      f# e e/2
+bass       b e a/2
+
+# measure 9
+soprano    d c# b a
+alto       f# f# d d
+tenor      b a g f#
+bass       b f# g d
+
+# measure 10
+soprano    g f# e e
+alto       b d d c#
+tenor      g b b a
+bass       e b g- a
+
+# measure 11
+soprano    f# g a f#
+alto       d d e d
+tenor      a b a a
+bass       d b c# d
+
+# measure 12
+soprano    e e d-/2
+alto       d c# a/2
+tenor      b a f#/2
+bass       g- a d/2
+
+
+

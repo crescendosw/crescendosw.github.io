@@ -1,0 +1,93 @@
+title      Come, Let Us with Our Lord Arise 
+author     Charles Wesley (1707-1788)DAVID'S HARP
+composer   Robert King, 1722
+key        D
+tempo      165
+rhythm     8 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/343%20Come,%20Let%20Us%20with%20Our%20Lord%20Arise.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f#/2 e d- c#-/2 d-/2
+alto       a/2 a b c#/2 b/2
+tenor      d-/2 e g# a gn f#/2
+bass       d/2 c# b a/2 b/2
+
+# measure 2
+soprano    e/2 f# g f#/2. e
+alto       d/2 c#/2 d/2. e
+tenor      b/2 a/2 a/2. a
+bass       g-/2 a/2 d/2. c#
+
+# measure 3
+soprano    f#/2 g#/2 a/2 a/2
+alto       d/2 d/2 c#/2 d e
+tenor      a/2 b/2 a/2 b c#
+bass       d c# b/2 f# e d c#
+
+# measure 4
+soprano    a/2. g# a/1
+alto       f#/2 e/2 e/1
+tenor      d/2 b/2 c#/1
+bass       b/2 e/2 a/1
+
+# measure 5
+soprano    d/2 d c# b/2 b/2
+alto       d/2 d d d/2 g/2
+tenor      a/2 a a b/2 d/2
+bass       f#/2 f# f# g/2 g f#
+
+# measure 6
+soprano    c#/2. d a#/1
+alto       g/2. f# f#/1
+tenor      e+/2. d c#/1
+bass       e/2 b/2 f#/1
+
+# measure 7
+soprano    b/2 b a g/2 f#/2
+alto       f#/2 f# e d/2 c#/2
+tenor      f#/2 f# a b/2 f#/2
+bass       d/2 d c# b/2 a/2
+
+# measure 8
+soprano    e/2. f# f#/1
+alto       b/2 b/2 c#/1
+tenor      b/2 b/2 a#/1
+bass       g-/2 g/2 f#/1
+
+# measure 9
+soprano    R/2 b/2 g#/2 e/2
+alto       R/2 d/2 e/2 b/2
+tenor      R/2 b/2 b/2 g#/2
+bass       R/2 b/2 e/2 d/2
+
+# measure 10
+soprano    a/2 c#/2 b/2 c# d
+alto       e d c#/2 f#/2 e/2
+tenor      a/2 a/2 a/2 g#/2
+bass       c#/2 a/2 d/2 e/2
+
+# measure 11
+soprano    c#/1. d/2
+alto       e/1. d/2
+tenor      a/1. a/2
+bass       a/1. f#/2
+
+# measure 12
+soprano    b/2 g/2 e/2 f# g
+alto       d/2 e/2 e/2 d/2
+tenor      b/2 b/2 a/2 a b
+bass       g/2 e/2 c#/2 d g-
+
+# measure 13
+soprano    e/2. d- d-/1
+alto       d/2 c# d d/1
+tenor      a/2 g/2 f#/1
+bass       a/2 a/2 d/1
+
+
+

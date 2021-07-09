@@ -1,0 +1,69 @@
+title      We Thank Thee, Lord, for This Fair Earth
+author     George E. L. Cotton (1813-1866)WE THANK THEE (Singer)
+composer   Jacob Singer, 1932
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/674%20We%20Thank%20Thee,%20Lord,%20for%20This%20Fair%20Earth.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       a+
+tenor      a
+bass       a+
+
+# measure 2
+soprano    d f# b a/8 g/8
+alto       d d d e
+tenor      f# a f# d
+bass       d c# b bb
+
+# measure 3
+soprano    f# e d- d-
+alto       c# c# a d
+tenor      a g f# a
+bass       a a d f#-
+
+# measure 4
+soprano    b. b/8 a d-
+alto       d. d/8 d d
+tenor      g. g/8 f# a
+bass       g-. b/8 d f#
+
+# measure 5
+soprano    a. g/8 f# f#
+alto       b e d e
+tenor      g a a c#
+bass       e c# d a#
+
+# measure 6
+soprano    f# f# b f#
+alto       d f# f# d#
+tenor      b a# b b
+bass       b c# d b
+
+# measure 7
+soprano    g. a/8 b b
+alto       e. e/8 e e#
+tenor      b. b/8 b b
+bass       e. f#/8 g g#
+
+# measure 8
+soprano    d d d g
+alto       f# e# f# d
+tenor      a d d bb
+bass       a+ bb+ a+ en
+
+# measure 9
+soprano    f# e d-
+alto       d c# a
+tenor      a a/8 g/8 f#
+bass       a+ a d
+
+
+

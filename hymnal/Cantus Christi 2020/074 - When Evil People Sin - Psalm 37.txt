@@ -1,0 +1,118 @@
+title      When Evil People Sin
+author     Bert Polman, Christopher Idle, 1987 (c) DINBYCH
+composer   Joseph Parry (1841-1903)
+key        Eb
+tempo      100
+rhythm     4 : 4
+verse_count 6
+copyright  Text: Faith Alive Christian Resources, 1987. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/74%20When%20Evil%20People%20Sin%20-%20Psalm%2037%20DINBYCH.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       c
+tenor      c
+bass       c
+
+# measure 2
+soprano    g g g f/8 eb/8
+alto       eb f eb d/8 c/8
+tenor      c bn c ab
+bass       c d eb f
+
+# measure 3
+soprano    d-/2. d-
+alto       bn/2. bn
+tenor      g/2. g
+bass       g/2. g-
+
+# measure 4
+soprano    eb/8 f/8 g f bb
+alto       c/8 d/8 eb eb d
+tenor      g bb c bb
+bass       c bb ab bb
+
+# measure 5
+soprano    g/2. g
+alto       eb/2. f
+tenor      bb/2. bn
+bass       eb/2. d
+
+# measure 6
+soprano    c bn c g
+alto       eb f g eb
+tenor      g g g c
+bass       c d eb c
+
+# measure 7
+soprano    ab g/8 f/8 g c-
+alto       f d eb c
+tenor      c bb bb ab/8 g/8
+bass       f bb eb f/8 eb/8
+
+# measure 8
+soprano    f eb d- d-
+alto       c/8 bn/8 c c bn
+tenor      f g ab g/8 f/8
+bass       d c f- g-
+
+# measure 9
+soprano    c-/2. c-
+alto       g-/2. c
+tenor      eb/2. g
+bass       c/2. eb
+
+# measure 10
+soprano    c- d- eb f
+alto       c c/8 bn/8 c c
+tenor      ab/8 g/8 f g f
+bass       f/8 eb/8 d c/8 bb/8 ab
+
+# measure 11
+soprano    g/2. g
+alto       bn/2. d
+tenor      d-/2. bn
+bass       g-/2. g
+
+# measure 12
+soprano    eb f g ab
+alto       eb eb/8 d/8 eb eb
+tenor      c/8 bb/8 ab bb ab
+bass       ab+/8 g/8 f eb/8 d/8 c
+
+# measure 13
+soprano    bb/2. g
+alto       d/2. g/8 f/8
+tenor      f/2. g
+bass       bb/2. eb/8 d/8
+
+# measure 14
+soprano    eb+/8 d/8 c/8 bn/8 c g
+alto       eb f g eb
+tenor      g g/8 ab/8 g c/8 bb/8
+bass       c d eb c
+
+# measure 15
+soprano    f g ab g/8 f/8
+alto       c c c d
+tenor      ab g f bb
+bass       f en f bb
+
+# measure 16
+soprano    g eb d- d-
+alto       eb c c bn
+tenor      bb c ab g/8 f/8
+bass       eb ab/8 g-/8 f- g-
+
+# measure 17
+soprano    c-/2.
+alto       g-/2.
+tenor      eb/2.
+bass       c/2.
+
+
+

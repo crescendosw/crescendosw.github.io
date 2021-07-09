@@ -1,0 +1,165 @@
+title      O God of My Praise
+author     Donald P. Owens II, 2011 (c)CRAIG Y TYLE
+composer   Gwilym Craig Y Tyle, 1890
+key        Bb
+tempo      115
+rhythm     3 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/204%20O%20God%20of%20My%20Praise%20-%20Psalm%20109a%20CRAIG%20Y%20TYLE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      d-
+bass       d
+
+# measure 2
+soprano    g g a
+alto       d d d
+tenor      g bb f#
+bass       bb g- d
+
+# measure 3
+soprano    bb bb a
+alto       d d d
+tenor      g bb c
+bass       g g- a
+
+# measure 4
+soprano    g d c
+alto       d d eb
+tenor      d g g
+bass       bb bb c
+
+# measure 5
+soprano    bb a c
+alto       d d d
+tenor      g f# a
+bass       d d f#
+
+# measure 6
+soprano    bb a g
+alto       d d/8 c/8 bb
+tenor      g f# g
+bass       g d eb
+
+# measure 7
+soprano    g f# g/8 d/8
+alto       d d d
+tenor      bb a g
+bass       d d/8 c/8 bb
+
+# measure 8
+soprano    d/8 c/8 bb/8 a/8 g/8 f#/8
+alto       eb d d/8 c/8
+tenor      g/8 d/8 d/8 c/8 bb/8 a/8
+bass       c d d
+
+# measure 9
+soprano    g g a
+alto       bb bb d
+tenor      g g f#
+bass       g- g- d
+
+# measure 10
+soprano    bb bb g
+alto       d d g
+tenor      g bb d
+bass       g g- bb
+
+# measure 11
+soprano    a a bb
+alto       f# f# g
+tenor      d d bb
+bass       d d g
+
+# measure 12
+soprano    c c a
+alto       g f f
+tenor      bb a c
+bass       eb f f
+
+# measure 13
+soprano    bb bb g
+alto       f f g
+tenor      d d bb
+bass       bb bb eb
+
+# measure 14
+soprano    d d bb
+alto       g f# d
+tenor      bb a g
+bass       d d g
+
+# measure 15
+soprano    c c d
+alto       f f f
+tenor      a a bb
+bass       f f bb+
+
+# measure 16
+soprano    eb+ d c#
+alto       eb f g
+tenor      bb a a
+bass       g a+ a
+
+# measure 17
+soprano    d d c
+alto       f f f#
+tenor      a a a
+bass       d d d
+
+# measure 18
+soprano    bb bb/8 c/8 bb/8 c/8
+alto       g d d
+tenor      g g g
+bass       g g g
+
+# measure 19
+soprano    a a a/8 bb/8
+alto       d d d
+tenor      f# f#/8 g/8 f#
+bass       d d/8 eb/8 d
+
+# measure 20
+soprano    c c a
+alto       eb eb eb
+tenor      a a c
+bass       c f f-
+
+# measure 21
+soprano    bb bb d-
+alto       d d d
+tenor      bb bb f#
+bass       bb bb d/8 c/8
+
+# measure 22
+soprano    g g/8 a/8 bb/8 c/8
+alto       d g g
+tenor      g g g
+bass       bb eb eb
+
+# measure 23
+soprano    d d g
+alto       g f# g
+tenor      a a d
+bass       d d bb
+
+# measure 24
+soprano    a g f#
+alto       eb d d
+tenor      c bb a
+bass       c d d
+
+# measure 25
+soprano    g g
+alto       d bb
+tenor      bb g
+bass       g- g-
+
+
+

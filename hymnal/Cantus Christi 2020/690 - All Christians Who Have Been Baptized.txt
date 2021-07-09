@@ -1,0 +1,106 @@
+title      All Christians Who Have Been Baptized
+author     Paul Gerhardt (1607-1676); tr. Jon D. Vieker (1961- ) (c)NUN FREUT EUCH
+composer   Etlich Christlich Lieder, Wittenberg, 1524
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 6
+copyright  Text: Jon D. Vieker, 2004. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/690%20All%20Christians%20Who%20Have%20Been%20Baptized.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/8
+alto       c/8
+tenor      a/8
+bass       f/8
+
+# measure 2
+soprano    f c- f bb
+alto       c c a d
+tenor      a g f f
+bass       f e d bb
+
+# measure 3
+soprano    a g f. f/8
+alto       c c a. c/8
+tenor      f e f. a/8
+bass       c c f-. f/8
+
+# measure 4
+soprano    g bb a g
+alto       e d c c
+tenor      c f f e
+bass       c bb f- c
+
+# measure 5
+soprano    d- e f. f/8
+alto       a c c. c/8
+tenor      f g a. a/8
+bass       d c f. f/8
+
+# measure 6
+soprano    f c- f bb
+alto       c c a d
+tenor      a g f f
+bass       f e d bb
+
+# measure 7
+soprano    a g f. f/8
+alto       c c a. c/8
+tenor      f e f. a/8
+bass       c c f-. f/8
+
+# measure 8
+soprano    g bb a g
+alto       e d c c
+tenor      c f f e
+bass       c bb f- c
+
+# measure 9
+soprano    d- e f. f/8
+alto       a c c. c/8
+tenor      f g a. a/8
+bass       d c f. f/8
+
+# measure 10
+soprano    bb a bb c
+alto       d c f c
+tenor      f f f g
+bass       bb f d e
+
+# measure 11
+soprano    c bn c. c/8
+alto       d d e. f/8
+tenor      a g g. a/8
+bass       f g c. f/8
+
+# measure 12
+soprano    d bb c. bb/8
+alto       f g eb. d/8
+tenor      bb g g. f/8
+bass       bb eb c. d/8
+
+# measure 13
+soprano    a g f. a/8
+alto       c c a. c/8
+tenor      f e f. f/8
+bass       f c f-. f/8
+
+# measure 14
+soprano    g c- f g
+alto       c c bb bb
+tenor      e f d- e
+bass       c a bb g-
+
+# measure 15
+soprano    a g f.
+alto       c/2 a.
+tenor      f e f.
+bass       f- c f-.
+
+
+

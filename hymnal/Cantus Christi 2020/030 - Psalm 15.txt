@@ -1,0 +1,50 @@
+title      Psalm 15
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2007
+key        F
+rhythm     0 : 4
+tempo      130
+#the tempo does not work for the chant part, it is too slow
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2016/06/01-Psalm-15.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     f g - a a a a a a b a g a/2 | a a a g f g - a g g/2
+
+unison     a/8 a/8 a/8 a/8 a/8 g a/8 | b/8 a/8 g/8 a/8 = a a | a a g/8 f/8 g/8 - a/8 | g/1
+
+unison     a/8 a/8 a/8 a/8 a/8 g/8 a/8 b/8 | a a/8 a/8 b/8 a/8 g/8 f/8 | a a.
+
+unison     a/8 a/8 a/8 | a a a a | a g f/6 g/6 - a/6 | g/2.
+
+unison     f/8 e/8 | d- d-/8 d-/8 d-/8 d-/8 d-/8 c-/8 | d-/2. d-/8 d-/8 | d- e f/8 e/8 f/8 g/8 | a/2.
+
+unison     f/8 f/8 | f f/8 f/8 f f = | f f f eb | f/1
+
+unison     a a a a a a a b a a g a a/2 | a a a a a a a g f g - a g g/2
+
+unison     f/8 e/8 | d- d- d- d- | d- d- d- - c- | d-/1
+
+verse      Lord, who may abide in Your tab - er - na - cle?  Who may dwell in Your ho - ly hill?
+
+verse      He who walks up - right - ly, And works right - eous - ness, And speaks the truth in his heart;
+
+verse      He who does not back - bite with his tongue, Nor does e - vil to his neigh - bor,
+
+verse      Nor does he take up a re - proach a - gainst his friend;
+
+verse      In whose eyes a vile person is de - spised, But he ho - nors those who fear the Lord;
+
+verse      He who swears to his own hurt and does not change;
+
+verse      He who does not put out his mon - ey at u - su - ry, Nor does he take a bribe a - gainst the in - no - cent.
+
+verse      He who does these things shall ne - ver be moved.

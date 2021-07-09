@@ -1,0 +1,135 @@
+title      Christ the Lord Is Risen Again
+author     Michael Wiesse, 1531; tr. Catherine Winkworth, 1858; alt.CHRIST IST ERSTANDEN
+composer   J. Klug's Geistliche Lieder, 1535
+key        F
+tempo      100
+rhythm     0 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/630%20Christ%20the%20Lord%20Is%20Risen%20Again.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a a g a
+alto       d d bn d
+tenor      f f g f
+bass       d d e d
+
+# measure 2
+soprano    c d a/2
+alto       e f e/2
+tenor      a bn c/2
+bass       a a a/2
+
+# measure 3
+soprano    a g a f
+alto       d bn d d
+tenor      f g f a
+bass       d e d d
+
+# measure 4
+soprano    e f d-/2
+alto       c c a/2
+tenor      a a f/2
+bass       a a d/2
+
+# measure 5
+soprano    g g d- c-
+alto       c c a a
+tenor      e e f e
+bass       c c d a
+
+# measure 6
+soprano    f g a/2
+alto       a c c/2
+tenor      f e f/2
+bass       d c f-/2
+
+# measure 7
+soprano    a g a f
+alto       d bn d d
+tenor      f g f a
+bass       d e d d
+
+# measure 8
+soprano    e f d-
+alto       c c a
+tenor      a a f
+bass       a a d
+
+# measure 9
+soprano    e/2 c#- d-/2 d-/2
+alto       bb/2 a f- g- a/2
+tenor      g/2 e d- e f#/2
+bass       g-/2 a bb/2 d/2
+
+# measure 10
+soprano    a/2 g f
+alto       c/2 d/2
+tenor      f/2 a/2
+bass       f-/2 d/2
+
+# measure 11
+soprano    g bb a/2
+alto       d/2 f/2
+tenor      bb/2 d/2
+bass       g-/2 d/2
+
+# measure 12
+soprano    c/2 a c
+alto       g/2 f/2
+tenor      e+/2 c a
+bass       c/2 f/2
+
+# measure 13
+soprano    a g f/2
+alto       e/2 d/2
+tenor      c/2 a/2
+bass       c/2 d/2
+
+# measure 14
+soprano    a/2 f d-
+alto       e/2 c a
+tenor      c/2 a f
+bass       a/2 d/2
+
+# measure 15
+soprano    e f d-/2
+alto       c/2 a/2
+tenor      a/2 f/2
+bass       a/2 d/2
+
+# measure 16
+soprano    g g d- c-
+alto       c c a a
+tenor      e e f e
+bass       c c d a
+
+# measure 17
+soprano    f g a/2
+alto       a c c/2
+tenor      f e f/2
+bass       d c f-/2
+
+# measure 18
+soprano    a g a f
+alto       d bb d d
+tenor      f g f a
+bass       d e d d
+
+# measure 19
+soprano    e f d- e/2 c#-
+alto       c c a bb/2 a
+tenor      a a f g/2 e
+bass       a a d g-/2 a
+
+# measure 20
+soprano    d-/2 d-/1
+alto       f- g- a/1
+tenor      d- e f#/1
+bass       bb/2 d/1
+
+
+

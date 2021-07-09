@@ -1,0 +1,207 @@
+title      LORD, Thou Hast Searched Me
+author     The Psalter, 1912 HOPE (Irons)
+composer   Herbert Stephen Irons (1834-1905)
+key        Eb
+tempo      101
+rhythm     3 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/279%20LORD,%20Thou%20Hast%20Searched%20-%20Psalm%20139%20HOPE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g g
+alto       eb eb eb
+tenor      bb bb bb
+bass       eb eb eb
+
+# measure 2
+soprano    bb/2 d-
+alto       eb d d
+tenor      ab/2 ab
+bass       bb/2 bb
+
+# measure 3
+soprano    eb/2 f
+alto       d c bb
+tenor      g/2 bb/8 ab/8
+bass       c/2 d
+
+# measure 4
+soprano    g/2.
+alto       bb/2.
+tenor      g/2.
+bass       eb/2.
+
+# measure 5
+soprano    bb c bb
+alto       f f f
+tenor      f f bb
+bass       d d d
+
+# measure 6
+soprano    eb+/2 g
+alto       eb/2 eb/8 g/8
+tenor      bb ab g/8 bb/8
+bass       c/2 eb
+
+# measure 7
+soprano    c/2 c
+alto       g f eb
+tenor      bb ab g
+bass       ab/2 ab
+
+# measure 8
+soprano    f/2.
+alto       eb d/2
+tenor      f/2.
+bass       bb/2.
+
+# measure 9
+soprano    f g f
+alto       d d f
+tenor      bb bb bb
+bass       ab+ ab+ ab+
+
+# measure 10
+soprano    bb/2 g
+alto       f eb eb
+tenor      bb/2 bb
+bass       g/2 g
+
+# measure 11
+soprano    g ab g
+alto       en/2 g
+tenor      c/2 c
+bass       bb+/2 bb+
+
+# measure 12
+soprano    c/2 c
+alto       g f f
+tenor      c/2 ab
+bass       ab+/2 f
+
+# measure 13
+soprano    d eb+ c
+alto       f eb eb
+tenor      ab g ab
+bass       bb c c
+
+# measure 14
+soprano    bb/2 g
+alto       f eb eb
+tenor      ab g bb
+bass       d eb eb
+
+# measure 15
+soprano    g ab f
+alto       eb f d
+tenor      c/2 bb/8 ab/8
+bass       c ab bb
+
+# measure 16
+soprano    eb/2.
+alto       eb/2.
+tenor      g/2.
+bass       eb/2.
+
+# measure 17
+soprano    g g g
+alto       eb eb eb
+tenor      bb bb bb
+bass       eb eb eb
+
+# measure 18
+soprano    bb/2 d-
+alto       eb d d
+tenor      ab/2 ab
+bass       bb/2 bb
+
+# measure 19
+soprano    eb/2 f
+alto       d c bb
+tenor      g/2 bb/8 ab/8
+bass       c/2 d
+
+# measure 20
+soprano    g/2.
+alto       bb/2.
+tenor      g/2.
+bass       eb/2.
+
+# measure 21
+soprano    bb c bb
+alto       f f f
+tenor      f f bb
+bass       d d d
+
+# measure 22
+soprano    eb+/2 g
+alto       eb/2 eb/8 g/8
+tenor      bb ab g/8 bb/8
+bass       c/2 eb
+
+# measure 23
+soprano    c/2 c
+alto       g f eb
+tenor      bb ab g
+bass       ab/2 ab
+
+# measure 24
+soprano    f/2.
+alto       eb d/2
+tenor      f/2.
+bass       bb/2.
+
+# measure 25
+soprano    f g f
+alto       d d f
+tenor      bb bb bb
+bass       ab+ ab+ ab+
+
+# measure 26
+soprano    bb/2 g
+alto       f eb eb
+tenor      bb/2 bb
+bass       g/2 g
+
+# measure 27
+soprano    g ab g
+alto       en/2 g
+tenor      c/2 c
+bass       bb+/2 bb+
+
+# measure 28
+soprano    c/2 c
+alto       g f f
+tenor      c/2 ab
+bass       ab+/2 f
+
+# measure 29
+soprano    d eb+ c
+alto       f eb eb
+tenor      ab g ab
+bass       bb c c
+
+# measure 30
+soprano    bb/2 g
+alto       f eb eb
+tenor      ab g bb
+bass       d eb eb
+
+# measure 31
+soprano    g ab f
+alto       eb f d
+tenor      c/2 bb/8 ab/8
+bass       c ab bb
+
+# measure 32
+soprano    eb/2.
+alto       eb/2.
+tenor      g/2.
+bass       eb/2.
+
+
+

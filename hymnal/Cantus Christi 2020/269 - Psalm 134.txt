@@ -1,0 +1,29 @@
+title      Psalm 134
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2007
+key        G
+rhythm     4 : 4
+tempo      120
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2016/08/Psalm134.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     R d- | g g/8 d-/8 a a/8 d-/8 | b/8 a/8 g/8 f/8 e e/8 f/8 | g/8 d-/8 g/8 b/8 a g/8 f/8 | g/2 g/8 - a/8 b/8 c/8
+
+unison     d/2 d- a | g/8 a/8 b/8 - d/8 c c | b - g - d- d- | g/2 d/2
+
+unison     b g f/2 | e d- c-/2 | d- d-/8 d-/8 a/2 | g/2
+
+verse      Be - hold, bless the Lord, All you servants of the Lord, Who by night stand in the house of the Lord!
+
+verse      Lift up your hands in the sanc - tu - ary, And bless the Lord.
+
+verse      The Lord who made heav'n and earth Bless you from Zi - on!

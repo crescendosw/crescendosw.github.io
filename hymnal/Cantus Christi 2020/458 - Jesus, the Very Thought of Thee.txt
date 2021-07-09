@@ -1,0 +1,99 @@
+title      Jesus, the Very Thought of Thee
+author     attr. Bernard of Clairvaux (1091-1153); tr. Edward Caswell, 1849ST. AGNES
+composer   John Bacchus Dykes, 1866
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/458%20Jesus,%20the%20Very%20Thought%20of%20Thee.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b b b
+alto       d d d
+tenor      b b g
+bass       g g b
+
+# measure 2
+soprano    a/2 b
+alto       e/2 d
+tenor      c/2 g
+bass       c/2 b
+
+# measure 3
+soprano    c/2 f#
+alto       c e d
+tenor      a/2 a
+bass       a/2 d
+
+# measure 4
+soprano    g/2.
+alto       d/2.
+tenor      b/2.
+bass       g/2.
+
+# measure 5
+soprano    d- d- d-
+alto       d d d
+tenor      c b a
+bass       a+ g f#
+
+# measure 6
+soprano    b/2 a
+alto       d/2 c#
+tenor      g/2 g
+bass       g/2 e
+
+# measure 7
+soprano    a/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+# measure 8
+soprano    c c b
+alto       e e d
+tenor      e f# g#
+bass       a a a
+
+# measure 9
+soprano    a/2 g
+alto       c/2 c#
+tenor      a/2 a
+bass       a/2 a
+
+# measure 10
+soprano    f#/2 e
+alto       d/2 c#
+tenor      a/2 g
+bass       d/2 d
+
+# measure 11
+soprano    d-/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2 c
+
+# measure 12
+soprano    d- e g
+alto       d d c
+tenor      g g g
+bass       b c e
+
+# measure 13
+soprano    b/2 a
+alto       b d c
+tenor      g/2 f#
+bass       d/2 d
+
+# measure 14
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+
+

@@ -1,0 +1,39 @@
+title      Behold the Bridegroom Cometh
+author     Horologion, c. 700s; tr. Gerard Moultrie, 1864SECOND MODE MELODY
+composer   Thomas Tallis, 1567 
+key        G
+tempo      101
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/545%20Behold%20the%20Bridegroom%20Cometh.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e/2 g f# e e e d#- e g f# e e d#- e/2
+alto       b/2 b b b a b. b/8 b b b g-/8 a/8 b b b/2
+tenor      e/2 e f# g e f#. f#/8 e e d- e f# f# e/2
+bass       e/2 e d e c b. b/8 e e b c b b e/2
+
+# measure 2
+soprano    R g c b a a a g a c b a a g# a/2
+alto       R e e e e e e e e e e c/8 d/8 e e e/2
+tenor      R e a b c a b b a a g a b b a/2
+bass       R e a g#- a a e e a a e fn e e a/2
+
+# measure 3
+soprano    R f# b a d- g g f# g b a g g f# g/2
+alto       R d d d d c d d d d d b/8 c/8 d d d/2
+tenor      R d- g a b g a a g g f# g a a g/2
+bass       R d g- d g e d d g- g- d e d d g-/2
+
+# measure 4
+soprano    R g d- e f# a g f#/8 e/8 d- e g f#. e/8 e/2 d#- e/1
+alto       R b b b d d b b b b g- d b/2. b b/1
+tenor      R g f# g a f# g g f# e e d- e/2 f#/2 e/1
+bass       R e b e d d e e b e b+. a+/8 g e b/2 e/1
+
+
+

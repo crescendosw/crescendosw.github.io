@@ -1,0 +1,141 @@
+title      Praise to the Lord, the Almighty
+author     Joachim Neander, 1680; tr. Catherine Winkworth, 1863; alt.LOBE DEN HERREN
+composer   Ernwerten Gesangbuch, Stralsund, 1665
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/301%20Praise%20to%20the%20Lord,%20the%20Almighty.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g d
+alto       d e d
+tenor      b b a
+bass       g e f#
+
+# measure 2
+soprano    b. a/8 g
+alto       d. f#/8 e
+tenor      d. c/8 b
+bass       g. d/8 e
+
+# measure 3
+soprano    f# e d-
+alto       d c b
+tenor      b/8 a/8 g g
+bass       b c g-
+
+# measure 4
+soprano    e f# g
+alto       c c b
+tenor      g a g
+bass       c a e
+
+# measure 5
+soprano    a/2.
+alto       e d c
+tenor      g f#/2
+bass       c d/2
+
+# measure 6
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+# measure 7
+soprano    g g d
+alto       d e d
+tenor      b b a
+bass       g e f#
+
+# measure 8
+soprano    b. a/8 g
+alto       d. f#/8 e
+tenor      d. c/8 b
+bass       g. d/8 e
+
+# measure 9
+soprano    f# e d-
+alto       d c b
+tenor      b/8 a/8 g g
+bass       b c g-
+
+# measure 10
+soprano    e f# g
+alto       c c b
+tenor      g a g
+bass       c a e
+
+# measure 11
+soprano    a/2.
+alto       e d c
+tenor      g f#/2
+bass       c d/2
+
+# measure 12
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+# measure 13
+soprano    d d d
+alto       g a+ g
+tenor      b a b
+bass       g f# g
+
+# measure 14
+soprano    e+/2.
+alto       g/2.
+tenor      c/2.
+bass       c/2.
+
+# measure 15
+soprano    b c d
+alto       g g a+
+tenor      d c a
+bass       g e f#
+
+# measure 16
+soprano    d c b
+alto       g e/8 f#/8 g
+tenor      b d d
+bass       g a+ b+/8 g/8
+
+# measure 17
+soprano    a/2.
+alto       f#/2.
+tenor      d/2.
+bass       d/2.
+
+# measure 18
+soprano    d- e f#
+alto       d c c
+tenor      d g a
+bass       b c a
+
+# measure 19
+soprano    g a b
+alto       b e d#
+tenor      g e f#
+bass       e c b
+
+# measure 20
+soprano    a/2.
+alto       e/2 d/8 c/8
+tenor      e a/8 g/8 f#
+bass       c/2 d
+
+# measure 21
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+
+

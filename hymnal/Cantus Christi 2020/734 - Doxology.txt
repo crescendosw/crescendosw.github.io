@@ -1,0 +1,45 @@
+title      Doxology
+author     Thomas Ken, 1709OLD HUNDREDTH
+composer   Genevan Psalter, 1551; alt.
+key        G
+tempo      101
+rhythm     0 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/734%20Doxology%20OLD%20HUNDREDTH.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g f# e d- g a b/2.
+alto       d d d b b b d d/2.
+tenor      b b a g f# g f# g/2.
+bass       g g d e b e d g-/2.
+
+# measure 2
+soprano    b b b a g c b a/2.
+alto       d d g f# g g g f#/2.
+tenor      g b d d b e+ d d/2.
+bass       g g g d e c g- d/2.
+
+# measure 3
+soprano    g a b a g e f# g/2.
+alto       g f# g f# d e d d/2.
+tenor      b d d d d c/8 b/8 a b/2.
+bass       e d g d b c d g-/2.
+
+# measure 4
+soprano    d b g a c b a g/1
+alto       d d g f# e/8 f#/8 g f# d/1
+tenor      a g b d e+ d d/8 c/8 b/1
+bass       f# g e d a b/8 c/8 d g-/1
+
+# measure 5
+soprano    g/2 g/2
+alto       e/2 d/2
+tenor      c/2 b/2
+bass       c/2 g-/2
+
+
+

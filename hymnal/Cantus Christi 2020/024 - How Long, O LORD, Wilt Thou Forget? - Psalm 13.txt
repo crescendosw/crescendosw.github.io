@@ -1,0 +1,46 @@
+title      How Long, O LORD, Wilt Thou Forget?
+author     Walter van der Kamp, 1972 (c)JUSQUES À QUAND [GENEVAN 13]
+composer   Genevan Psalter, 1542; harm. Claude Goudimel, 1564
+key        C
+tempo      145
+rhythm     0 : 4
+verse_count 3
+copyright  Text: Standing Committee for the Publication of the Book of Praise, 1984. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/24%20How%20Long,%20O%20LORD,%20Wilt%20Thou%20-%20Psalm%2013%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 d- d- f f g g a/1
+alto       d/2 a bb a f f e f/1
+tenor      a/2 f g a a c c c/1
+bass       d/2 d g- d d c c f/1
+
+# measure 2
+soprano    a/2 b c a d/2 c b/2 a/1
+alto       f#/2 g g fn a+/2 a+ g#/2 a+/1
+tenor      d/2 d e+ d f+/2 e+ e+/2 e+/1
+bass       d/2 g c d d/2 a e/2 a/1
+
+# measure 3
+soprano    a/2 g f e f g a g/2 f/1
+alto       f/2 e d c d e f/2 e f/1
+tenor      c/2 c a a a c c c/2 c/1
+bass       f/2 c d a d c f c/2 f-/1
+
+# measure 4
+soprano    f/2 g g a/2 c/2 c b a/2 f/2 e/1
+alto       d/2 e e f/2 g/2 g g f/2 d/2 c#/1
+tenor      a/2 c b d/2 e+/2 e+ d d/2 a/2 a/1
+bass       d/2 c e d/2 c/2 c g- d/1 a/1
+
+# measure 5
+soprano    a/2 g e g/2 f d- e/2 d-/1
+alto       e/2 e c d/2 d d/2 c# d/1
+tenor      c/2 c g bb/2 a a a/2 a/1
+bass       a/2 c c g-/2 d d a/2 d/1
+
+
+

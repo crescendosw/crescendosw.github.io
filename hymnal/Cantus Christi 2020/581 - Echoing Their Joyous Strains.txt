@@ -1,0 +1,86 @@
+title      Echoing Their Joyous Strains
+author     Douglas Wilson, 2016 (c)RANSOM
+composer   Douglas Wilson, 2016 (c); harm. John Ahern, 2017 (c)
+key        F
+tempo      101
+rhythm     3 : 4
+verse_count 9
+copyright  Music & text: Douglas Wilson, 2016. Used by permission. Arrangement: John Ahern, 2017. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/581%20Echoing%20Their%20Joyous%20Strains.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/8
+alto       f/8
+tenor      a/8
+bass       f/8
+
+# measure 2
+soprano    c/8 bb/8 a/8 g f/8
+alto       g f/8 e d/8
+tenor      c c/8 c/8 bb/8 a/8
+bass       e f/8 c d/8
+
+# measure 3
+soprano    c- e/8 f f/8
+alto       c bb/8 a d/8
+tenor      a g/8 f a/8
+bass       a c/8 d c/8
+
+# measure 4
+soprano    bb g/8 a f/8
+alto       d d/8 c bn/8
+tenor      g e/8 f f/8
+bass       bb bb/8 a d/8
+
+# measure 5
+soprano    e. = e f/8
+alto       c. = c f/8
+tenor      g. = g a/8
+bass       c. = c f/8
+
+# measure 6
+soprano    c/8 bb/8 a/8 g f/8
+alto       g f/8 e d/8
+tenor      c c/8 c/8 bb/8 a/8
+bass       e f/8 c d/8
+
+# measure 7
+soprano    c- e/8 f f/8
+alto       c bb/8 a eb/8
+tenor      a g/8 f a/8
+bass       a c/8 d c/8
+
+# measure 8
+soprano    d/8 c/8 bb/8 a g/8
+alto       d g/8 f e/8
+tenor      bb d/8 c bb/8
+bass       bb/8 a/8 g-/8 c c/8
+
+# measure 9
+soprano    f e/8 d- c-/8
+alto       d c/8 bb c/8
+tenor      a g/8 f e/8
+bass       d a/8 bb c/8
+
+# measure 10
+soprano    e g/8 bb g/8
+alto       e g/8 bb+ d/8
+tenor      e g/8 bb bb/8
+bass       e g/8 bb+ bb/8
+
+# measure 11
+soprano    e. g.
+alto       c. c.
+tenor      g. bb.
+bass       c. c.
+
+# measure 12
+soprano    f. = f
+alto       c. = c
+tenor      a. = a
+bass       f-. = f-
+

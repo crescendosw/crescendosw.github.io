@@ -1,0 +1,93 @@
+title      Draw Nigh and Take the Body of the Lord
+author     Bangor Antiphonary, 600's; tr. John Mason Neale (1818-1866); alt.RELIANCE
+composer   Samuel Sebastian Wesley (1810-1876)
+key        Ab
+tempo      80
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/486%20Draw%20Nigh%20and%20Take%20the%20Body%20of%20the%20Lord.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       c
+tenor      ab
+bass       f
+
+# measure 2
+soprano    ab. bb/8 c db
+alto       c. en/8 f f
+tenor      ab c c bb/8 ab/8
+bass       f-. g-/8 ab bb
+
+# measure 3
+soprano    c bb/8 ab/8 g. g/8
+alto       en c c. c/8
+tenor      g f f en
+bass       c f- c. c/8
+
+# measure 4
+soprano    f/2. ab
+alto       ab/2. c
+tenor      f/2. c
+bass       f/2. f
+
+# measure 5
+soprano    ab bb c bb
+alto       c eb eb db
+tenor      c bb ab. g/8
+bass       f g ab+ eb
+
+# measure 6
+soprano    ab c bb. ab/8
+alto       c ab bb. c/8
+tenor      f eb/8 ab/8 ab g/8 eb/8
+bass       f c eb. ab/8
+
+# measure 7
+soprano    ab/2. c
+alto       c/2. eb
+tenor      eb/2. ab
+bass       ab/2. ab+
+
+# measure 8
+soprano    c bb/8 ab/8 bb. c/8
+alto       eb f f en
+tenor      ab c dn bb
+bass       ab+ ab ab+ g
+
+# measure 9
+soprano    c bb bb. ab/8
+alto       f f g c/8 dn/8
+tenor      c/8 eb+/8 db c. bn/8
+bass       an+ bb+ en f
+
+# measure 10
+soprano    g/2. g
+alto       en/2. en
+tenor      c/2. c
+bass       c/2. c
+
+# measure 11
+soprano    g ab bb bb
+alto       en f f eb/8 db/8
+tenor      c c db bb
+bass       c f bb g-
+
+# measure 12
+soprano    c ab/8 bb/8 g. f/8
+alto       c c/8 bb/8 bb bb
+tenor      ab f f en
+bass       ab db c. c/8
+
+# measure 13
+soprano    f/2.
+alto       an/2.
+tenor      f/2.
+bass       f-/2.
+
+
+

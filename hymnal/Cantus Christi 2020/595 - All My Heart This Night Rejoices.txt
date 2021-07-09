@@ -1,0 +1,111 @@
+title      All My Heart This Night Rejoices
+author     Paul Gerhardt, 1653; tr. Catherine Winkworth, 1858; alt.WARUM SOLLT' ICH
+composer   Johann G. Ebeling, 1666
+key        F
+tempo      100
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/595%20All%20My%20Heart%20This%20Night%20Rejoices.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 g/2
+alto       c/2 c/2
+tenor      a/2 g/2
+bass       f/2 e/2
+
+# measure 2
+soprano    a/2. g
+alto       f/2. e
+tenor      c/2. c
+bass       f/2. c
+
+# measure 3
+soprano    a c d/2
+alto       f e g/2
+tenor      c c c bn
+bass       f a+ g/2
+
+# measure 4
+soprano    c/1
+alto       e/1
+tenor      c/1
+bass       c/1
+
+# measure 5
+soprano    c d bb/2
+alto       f f d/2
+tenor      a a g/2
+bass       f d g/2
+
+# measure 6
+soprano    bb c a/2
+alto       f g f/2
+tenor      d c c/2
+bass       d e f/2
+
+# measure 7
+soprano    a c bb a
+alto       f f f f
+tenor      c c d c
+bass       f a bb f
+
+# measure 8
+soprano    g/2 f/2
+alto       f e f/2
+tenor      c/2 a/2
+bass       c/2 f-/2
+
+# measure 9
+soprano    c/2 bb/2
+alto       f/2 f/2
+tenor      a/2 d/2
+bass       f/2 bb/2
+
+# measure 10
+soprano    a/2. g
+alto       f/2. e
+tenor      c/2. c
+bass       f-/2. c
+
+# measure 11
+soprano    f e d-/2
+alto       d c c bn
+tenor      a g a g
+bass       d e f g
+
+# measure 12
+soprano    c-/1
+alto       c/1
+tenor      e/1
+bass       c/1
+
+# measure 13
+soprano    c d bb/2
+alto       f f g/2
+tenor      c bb d/2
+bass       a bb g-/2
+
+# measure 14
+soprano    bb c a/2
+alto       f g f/2
+tenor      d c c/2
+bass       d e f/2
+
+# measure 15
+soprano    a g bb a
+alto       f e d f
+tenor      c c bb c
+bass       f c g- a
+
+# measure 16
+soprano    g/2 f/2
+alto       f e f/2
+tenor      c/2 a/2
+bass       c/2 f-/2
+
+
+

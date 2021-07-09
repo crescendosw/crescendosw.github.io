@@ -1,0 +1,111 @@
+title      Songs of Thankfulness and Praise
+author     Christopher Wordsworth (1807-1885)TICHFIELD
+composer   John Richardson (1816-1879)
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/599%20Songs%20of%20Thankfulness%20and%20Praise.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g bb/8 ab/8 g bb
+alto       eb f eb d
+tenor      bb bb bb bb
+bass       eb d eb f
+
+# measure 2
+soprano    eb+ d/8 c/8 bb/2
+alto       eb eb eb/2
+tenor      bb ab g/2
+bass       g ab+ eb/2
+
+# measure 3
+soprano    bb eb ab g
+alto       eb eb d eb
+tenor      g bb bb bb
+bass       eb g f eb
+
+# measure 4
+soprano    g. f/8 f/2
+alto       eb. eb/8 d/2
+tenor      c. c/8 bb/2
+bass       ab an bb/2
+
+# measure 5
+soprano    g bb/8 ab/8 g bb
+alto       eb eb eb f
+tenor      bb c bb bb
+bass       eb eb eb d
+
+# measure 6
+soprano    eb+ d/8 c/8 bb/2
+alto       eb eb d/2
+tenor      g an bb/2
+bass       c f bb/2
+
+# measure 7
+soprano    bb eb ab g
+alto       eb eb eb eb
+tenor      bb g c c
+bass       g- c ab ab
+
+# measure 8
+soprano    g f eb/2
+alto       eb d eb/2
+tenor      bb bb/8 ab/8 g/2
+bass       bb bb eb/2
+
+# measure 9
+soprano    ab g c bb
+alto       f eb d eb
+tenor      bb bb ab bb
+bass       d eb f g
+
+# measure 10
+soprano    d c/8 bb/8 eb+/2
+alto       f eb/8 d/8 eb/2
+tenor      bb bb bb/2
+bass       ab+ ab+ g/2
+
+# measure 11
+soprano    d c bb g
+alto       g eb f eb
+tenor      bb ab f bb
+bass       g ab+ d eb
+
+# measure 12
+soprano    bb ab/8 g/8 f/2
+alto       eb c d/2
+tenor      bb eb bb/2
+bass       g- ab bb/2
+
+# measure 13
+soprano    g bb/8 ab/8 g bb
+alto       eb f eb f
+tenor      bb bb bb bb
+bass       eb d eb d
+
+# measure 14
+soprano    eb+ d/8 c/8 bb/2
+alto       eb f/8 eb/8 d/2
+tenor      g an bb/2
+bass       c f bb/2
+
+# measure 15
+soprano    c bb ab g
+alto       d eb eb eb
+tenor      ab g ab c
+bass       f g c ab
+
+# measure 16
+soprano    g f eb/2
+alto       eb d eb/2
+tenor      bb bb/8 ab/8 g/2
+bass       bb bb eb/2
+
+
+

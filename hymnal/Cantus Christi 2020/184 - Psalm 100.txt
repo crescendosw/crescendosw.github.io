@@ -1,0 +1,50 @@
+title      Psalm 100
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2013
+key        F
+rhythm     0 : 4
+tempo      130
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2016/08/Psalm100.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     c- d- e/8 - f/8 g/8 | a g/8 f/8 g - a | b/2 a/2 | g/1
+
+unison     a/8 - g/8 f/8 g/8 - f/8 e/8 | d- - e/8 - f/8 g - a | b/8 - g/8 b/8 c c- | f e/8 e/8 d-/2 | c-/1
+
+unison     b- c-/8 c-/8 d-/8 c-/8 b-/8 | c-/2. c-/8 c-/8 | f f/8 f/8 e/8 d-/8 c-/8 b-/8 c-/8 d-/8 | c-/2.
+
+unison     d- e g | b/8 - g/8 b/8 c c- | f e/8 e/8 d-/2 | c-/1
+
+unison     c- d- e/8 f/8 g/8 | a - g/8 - f/8 g a | b/2 - a/2 | g/2.
+
+unison     g | a/8 g/8 f/8 g/8 - f/8 e/8 | d- - e/8 - f/8 - g a | b/8 g/8 b/8 c c- | f - e d-/2 | c-/1
+
+unison     b- c- d-/8 - c-/8 b-/8 | c-/2. c- | f f/8 f/8 e/8 - d-/8 c-/8 b-/8 - c-/8 d-/8 | c-/2.
+
+unison     d- - e g | b/8 - g/8 b/8 c c-/8 c-/8 | f e d-/2 | c-/1
+
+verse      Make a joy - ful shout to the Lord, all you lands!
+
+verse      Serve the Lord with glad - ness; Come be - fore His pres - ence with sing - ing.
+
+verse      Know that the Lord, He is God; It is He who has made us, and not we our - selves;
+
+verse      We are His peo - ple and the sheep of His pas - ture.
+
+verse      En - ter in - to His gates with thanks - giv - ing,
+
+verse      And in - to His courts with praise.  Be thank - ful to Him, and bless His name.
+
+verse      For the Lord is good; His mer - cy is ev - er - last - ing,
+
+verse      And His truth en - dures to all gen - er - a - tions.

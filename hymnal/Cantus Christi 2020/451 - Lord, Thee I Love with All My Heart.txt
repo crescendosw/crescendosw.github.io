@@ -1,0 +1,189 @@
+title      Lord, Thee I Love with All My Heart
+author     Martin Schalling, c. 1567; tr. Catherine Winkworth, 1863; alt.HERZLICH LIEB HAB' ICH DICH
+composer   Bernhard Schmid's Orgelbuch, Strasbourg, 1577;
+key        Bb
+tempo      90
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/451%20Lord,%20Thee%20I%20Love%20with%20All%20My%20Heart.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb
+alto       f
+tenor      d
+bass       bb
+
+# measure 2
+soprano    a g f eb/8 d-/8
+alto       f d d c/8 bb/8
+tenor      c bb a ab
+bass       f g d f
+
+# measure 3
+soprano    g g f bb
+alto       bb eb d d
+tenor      g/8 f/8 g/8 an/8 bb d-/8 eb/8
+bass       eb eb- bb g-
+
+# measure 4
+soprano    a g f eb/8 d-/8
+alto       d/8 c/8 bb/8 c/8 d/8 c/8 bb/8 a/8
+tenor      f g/8 a/8 bb eb/8 f/8
+bass       d eb bb/8 a/8 g-/8 f-/8
+
+# measure 5
+soprano    g g f f
+alto       bb/8 c/8 c d d
+tenor      g/8 bb/8 a/8 g/8 a bb
+bass       eb- eb d bb
+
+# measure 6
+soprano    g a bb/8 c/8 d
+alto       eb/8 g/8 f/8 eb/8 d/8 c/8 bb
+tenor      bb/8 eb+/8 d/8 c/8 bb/8 f/8 ab
+bass       eb f g/8 a/8 bb
+
+# measure 7
+soprano    c bb/2 a
+alto       c/2 d eb
+tenor      g/2 f/2
+bass       eb- en- f-/2
+
+# measure 8
+soprano    bb/2. bb
+alto       d/2. f
+tenor      f/2. d
+bass       bb/2. bb
+
+# measure 9
+soprano    a g f eb/8 d-/8
+alto       f d d c/8 bb/8
+tenor      c bb a ab
+bass       f g d f
+
+# measure 10
+soprano    g g f bb
+alto       bb eb d d
+tenor      g/8 f/8 g/8 an/8 bb d-/8 eb/8
+bass       eb eb- bb g-
+
+# measure 11
+soprano    a g f eb/8 d-/8
+alto       d/8 c/8 bb/8 c/8 d/8 c/8 bb/8 a/8
+tenor      f g/8 a/8 bb eb/8 f/8
+bass       d eb bb/8 a/8 g-/8 f-/8
+
+# measure 12
+soprano    g g f f
+alto       bb/8 c/8 c d d
+tenor      g/8 bb/8 a/8 g/8 a bb
+bass       eb- eb d bb
+
+# measure 13
+soprano    g a bb/8 c/8 d
+alto       eb/8 g/8 f/8 eb/8 d/8 c/8 bb
+tenor      bb/8 eb+/8 d/8 c/8 bb/8 f/8 ab
+bass       eb f g/8 a/8 bb
+
+# measure 14
+soprano    c bb/2 a
+alto       c/2 d eb
+tenor      g/2 f/2
+bass       eb- en- f-/2
+
+# measure 15
+soprano    bb/2. bb
+alto       d/2. d
+tenor      f/2. f
+bass       bb/2. bb
+
+# measure 16
+soprano    bb c bb/8 a/8 g/8 a/8
+alto       eb eb d. d/8
+tenor      g g g/8 a/8 bb/8 a/8
+bass       eb/8 d/8 c g- g/8 f/8
+
+# measure 17
+soprano    bb bb a a
+alto       c/8 d/8 en f f
+tenor      g c c c
+bass       en/8 d/8 c f f/8 eb/8
+
+# measure 18
+soprano    bb c bb/8 a/8 g/8 a/8
+alto       f eb d eb
+tenor      f f f c
+bass       d/8 c/8 bb/8 a/8 bb c
+
+# measure 19
+soprano    bb/8 d/8 c a d
+alto       f g f f
+tenor      bb/8 a/8 g c bb
+bass       d en f bb
+
+# measure 20
+soprano    d d c bb
+alto       f g g eb
+tenor      bb bb c c
+bass       bb+/8 a+/8 g/8 f/8 eb/8 f/8 g/8 eb/8
+
+# measure 21
+soprano    bb a bb a
+alto       d c d eb
+tenor      f f f c
+bass       f f- bb c
+
+# measure 22
+soprano    bb a g f
+alto       d c/8 f/8 d d
+tenor      f/8 g/8 a bb a
+bass       d/8 en/8 f/8 d/8 bb/8 c/8 d/8 bb/8
+
+# measure 23
+soprano    f en f d
+alto       d c c bb
+tenor      bb/8 a/8 g a f/8 g/8
+bass       g- c f- bb
+
+# measure 24
+soprano    c bb a d
+alto       c/8 d/16 eb/16 d/8 en/8 f# g
+tenor      a bb/8 g/8 d g
+bass       f g d bn
+
+# measure 25
+soprano    eb+/8 d/8 c d bb
+alto       g f#/8 g/8 d d
+tenor      c/8 bb/8 a/8 g/8 a g
+bass       c/8 d/8 eb f#- g-
+
+# measure 26
+soprano    bb a bb bb
+alto       db/8 c/8 c dn d
+tenor      g f f ab
+bass       en f bb bb
+
+# measure 27
+soprano    bb bb c bb
+alto       eb eb eb d
+tenor      g/8 an/8 bb f f
+bass       eb/8 f/8 g a bb
+
+# measure 28
+soprano    bb/2. a
+alto       c/2 c/2
+tenor      g/2 f/2
+bass       en-/2 f-/2
+
+# measure 29
+soprano    bb/2.
+alto       d/2.
+tenor      f/2.
+bass       bb/2.
+
+
+

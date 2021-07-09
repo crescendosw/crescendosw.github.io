@@ -1,0 +1,69 @@
+title      Now, Dearest Lord, to Praise Thy Name
+author     Samuel Medley (1738-1799)MENDIP
+composer   English traditional melody
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/366%20Now,%20Dearest%20Lord,%20to%20Praise%20Thy%20Name.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb
+alto       eb
+tenor      g
+bass       eb
+
+# measure 2
+soprano    bb ab g bb
+alto       eb c/8 d/8 eb f
+tenor      g ab bb bb
+bass       g f eb d
+
+# measure 3
+soprano    eb+ d c c
+alto       eb eb eb d
+tenor      c bb ab ab
+bass       c g- ab f
+
+# measure 4
+soprano    bb g eb eb
+alto       eb eb eb eb
+tenor      bb bb bb an
+bass       g eb c c
+
+# measure 5
+soprano    f/2. eb/8 f/8
+alto       d/2. bb
+tenor      bb/2. g/8 ab/8
+bass       bb/2. eb
+
+# measure 6
+soprano    g g f eb
+alto       eb eb d c
+tenor      bb bb ab g
+bass       eb eb bb c
+
+# measure 7
+soprano    bb bb ab ab/8 bb/8
+alto       eb db c ab+
+tenor      eb eb eb c
+bass       g- g- ab ab+/8 g/8
+
+# measure 8
+soprano    c ab f f
+alto       ab+ eb eb d
+tenor      c c bb bb/8 ab/8
+bass       f ab+ bb+ bb
+
+# measure 9
+soprano    eb/2.
+alto       eb/2.
+tenor      g/2.
+bass       eb/2.
+
+
+

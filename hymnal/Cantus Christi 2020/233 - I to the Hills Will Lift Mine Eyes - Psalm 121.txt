@@ -1,0 +1,39 @@
+title      I to the Hills Will Lift Mine Eyes
+author     Anonymous
+composer   Anonymous
+key        Eb
+tempo      160
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/233%20I%20to%20the%20Hills%20Will%20Lift%20-%20Psalm%20121%20DUNDEE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb/2 g ab bb eb f g ab/2
+alto       bb/2 eb eb eb c d eb eb/2
+tenor      g/2 bb c bb g bb bb c/2
+bass       eb/2 eb ab g- c bb eb ab/2
+
+# measure 2
+soprano    g/2 f eb eb d- eb/2
+alto       eb/2 d c c bb bb/2
+tenor      bb/2 bb g ab f g/2
+bass       eb/2 bb c ab bb eb/2
+
+# measure 3
+soprano    bb/2 eb+ d c bb bb an bb/2
+alto       eb/2 g f eb d c c d/2
+tenor      g/2 bb bb g f g f f/2
+bass       eb/2 eb bb c d eb f bb/2
+
+# measure 4
+soprano    g/2 f eb eb d- eb/2
+alto       bb/2 c g-/8 ab/8 bb bb bb/2
+tenor      g/2 ab eb f f g/2
+bass       eb/2 ab c bb bb eb/2
+
+
+

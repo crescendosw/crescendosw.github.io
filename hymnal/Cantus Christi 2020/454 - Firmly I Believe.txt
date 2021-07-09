@@ -1,0 +1,63 @@
+title      Firmly I Believe
+author     John Henry Newman (1801-1890)SHIPSTON
+composer   English traditional melody
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/454%20Firmly%20I%20Believe.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb g bb. c/8
+alto       bb eb eb. eb/8
+tenor      g bb bb. eb+/8
+bass       eb eb g. ab+/8
+
+# measure 2
+soprano    bb/8 ab/8 g/8 f/8 g eb
+alto       d d eb eb
+tenor      bb bb bb g
+bass       bb+ bb eb eb
+
+# measure 3
+soprano    eb g bb. c/8
+alto       bb eb eb. eb/8
+tenor      g c bb. ab/8
+bass       eb c g-. ab/8
+
+# measure 4
+soprano    bb/8 g/8 f/8 eb/8 f/2
+alto       eb c d/2
+tenor      g an bb/2
+bass       bb c bb/2
+
+# measure 5
+soprano    eb g/8 ab/8 bb eb+
+alto       c eb d eb
+tenor      g eb f eb
+bass       c bb ab g-
+
+# measure 6
+soprano    bb. ab/8 ab g
+alto       g f eb eb
+tenor      eb bb bb bb
+bass       c d eb g
+
+# measure 7
+soprano    eb. f/8 g ab/8 f/8
+alto       c. d/8 eb eb/8 c/8
+tenor      c bb/8 ab/8 bb c/8 ab/8
+bass       ab+ g/8 f/8 eb ab
+
+# measure 8
+soprano    eb d- eb/2
+alto       bb bb bb/2
+tenor      g f g/2
+bass       bb bb eb/2
+
+
+

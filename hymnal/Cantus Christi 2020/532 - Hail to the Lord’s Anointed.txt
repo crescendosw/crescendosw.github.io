@@ -1,0 +1,117 @@
+title      Hail to the Lord's Anointed
+author     James Montgomery, 1821ELLACOMBE
+composer   Gesangbuch der Herzogl, 1784 
+key        Bb
+tempo      101
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/532%20Hail%20to%20the%20Lord's%20Anointed.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       f
+tenor      f
+bass       f
+
+# measure 2
+soprano    bb a/8 g/8 f bb
+alto       bb+ a+/8 g/8 f f
+tenor      bb a/8 g/8 f bb
+bass       bb+ a+/8 g/8 f d
+
+# measure 3
+soprano    d- eb f f
+alto       bb/2 c d
+tenor      bb/2 a bb
+bass       g/2 f bb
+
+# measure 4
+soprano    g/8 a/8 bb c c
+alto       eb f g f
+tenor      bb bb bb a
+bass       eb d eb f
+
+# measure 5
+soprano    d/2. f
+alto       f/2. f
+tenor      bb/2. f
+bass       bb/2. f
+
+# measure 6
+soprano    bb a/8 g/8 f bb
+alto       bb+ a+/8 g/8 f f
+tenor      bb a/8 g/8 f bb
+bass       bb+ a+/8 g/8 f d
+
+# measure 7
+soprano    d- eb f f
+alto       bb/2 c d
+tenor      bb/2 a bb
+bass       g/2 f bb
+
+# measure 8
+soprano    g/8 a/8 bb bb a
+alto       eb d/8 eb/8 f f
+tenor      bb bb c c
+bass       eb g f f
+
+# measure 9
+soprano    bb/2. bb/8 c/8
+alto       f/2. d/8 eb/8
+tenor      d/2. bb
+bass       bb/2. bb
+
+# measure 10
+soprano    d c d eb+
+alto       f f f g
+tenor      bb c bb bb
+bass       bb+ a+ bb+ eb
+
+# measure 11
+soprano    c a/8 bb/8 c bb/8 c/8
+alto       f/2 f f
+tenor      a f/8 g/8 a d/8 c/8
+bass       f/2 f g/8 a+/8
+
+# measure 12
+soprano    d c d eb+
+alto       f f f g
+tenor      bb c bb bb
+bass       bb+ a+ bb+ eb
+
+# measure 13
+soprano    c/2. f
+alto       f/2. f
+tenor      a/2. f
+bass       f/2. f
+
+# measure 14
+soprano    bb a/8 g/8 f bb
+alto       bb+ a+/8 g/8 f f
+tenor      bb a/8 g/8 f bb
+bass       bb+ a+/8 g/8 f d
+
+# measure 15
+soprano    d- eb f f
+alto       bb/2 c d
+tenor      bb/2 a bb
+bass       g/2 f bb
+
+# measure 16
+soprano    g/8 a/8 bb bb a
+alto       eb d/8 eb/8 f f
+tenor      bb bb c c
+bass       eb g f f
+
+# measure 17
+soprano    bb/2.
+alto       f/2.
+tenor      d/2.
+bass       bb/2.
+
+
+
