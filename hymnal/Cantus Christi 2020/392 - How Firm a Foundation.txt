@@ -1,0 +1,117 @@
+title      How Firm a Foundation
+author     Rippon's Selection of Hymns, 1787; attr. George Keith or Robert KeeneFOUNDATION
+composer   Caldwell's Union Harmony, 1837
+key        G
+tempo      150
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/392%20How%20Firm%20a%20Foundation.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- e
+alto       b c
+tenor      g/2
+bass       g-/2
+
+# measure 2
+soprano    g/2 e g
+alto       d/2 c e
+tenor      b/2 g g
+bass       g-/2 c c
+
+# measure 3
+soprano    d-/2 g g
+alto       d/2 b b
+tenor      g/2 d- d-
+bass       b/2 g- g-
+
+# measure 4
+soprano    b/2 g b
+alto       d/2 b d
+tenor      g/2 g g
+bass       g-/2 g- b
+
+# measure 5
+soprano    d-/2 d- e
+alto       a/2 b c
+tenor      f#/2 g/2
+bass       d/2 g-/2
+
+# measure 6
+soprano    g/2 e g
+alto       d/2 c e
+tenor      b/2 g g
+bass       g-/2 c c
+
+# measure 7
+soprano    d-/2 g g
+alto       d/2 b b
+tenor      g/2 g g
+bass       b/2 e e
+
+# measure 8
+soprano    b/2 a a
+alto       d/2 d c
+tenor      g/2 f# f#
+bass       d/2 d d
+
+# measure 9
+soprano    g/2 b/2
+alto       b/2 d/2
+tenor      g/2 g/2
+bass       g-/2 g/2
+
+# measure 10
+soprano    d/2 b d
+alto       g/2 d d
+tenor      b/2 g a
+bass       g/2 g f#
+
+# measure 11
+soprano    g/2 g g
+alto       e/2 e e
+tenor      b/2 a g
+bass       e/2 c c
+
+# measure 12
+soprano    b/2 g b
+alto       d/2 b d
+tenor      g/2 g g
+bass       g-/2 g- b
+
+# measure 13
+soprano    d-/2 d- e
+alto       a/2 b c
+tenor      f#/2 g/2
+bass       d/2 g-/2
+
+# measure 14
+soprano    g/2 e g
+alto       d/2 c e
+tenor      b/2 g g
+bass       g-/2 c c
+
+# measure 15
+soprano    d-/2 g g
+alto       d/2 b b
+tenor      g/2 g g
+bass       b/2 e e
+
+# measure 16
+soprano    b/2 a a
+alto       d/2 d c
+tenor      g/2 f# f#
+bass       d/2 d d
+
+# measure 17
+soprano    g/2
+alto       b/2
+tenor      d-/2
+bass       g-/2
+
+
+

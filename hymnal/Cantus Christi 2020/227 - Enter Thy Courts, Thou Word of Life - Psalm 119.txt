@@ -1,0 +1,171 @@
+title      Enter Thy Courts, Thou Word of Life
+author     Robert Bridges, 1899FIFTH MODE MELODY
+composer   Thomas Tallis, 1557
+key        Eb
+rhythm     0 : 4
+tempo      135
+verse_count 2
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/227%20Enter%20Thy%20Courts,%20Thou%20Word%20-%20Psalm%20119%20FIFTH%20MODE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb g ab
+alto       bb eb eb
+tenor      g bb ab
+bass       eb eb c
+
+# measure 2
+soprano    bb/2 bb
+alto       f/2 eb
+tenor      f/2 g
+bass       d/2 eb
+
+# measure 3
+soprano    c/2 ab
+alto       eb/2 f
+tenor      ab. bb/8 c/8 d/8
+bass       ab/2 ab
+
+# measure 4
+soprano    bb/2 ab
+alto       bb/2 f
+tenor      eb+/2 c
+bass       g-/2 ab
+
+# measure 5
+soprano    g/2 f
+alto       eb/2 d
+tenor      bb/2 bb
+bass       bb/2 bb
+
+# measure 6
+soprano    g/2.
+alto       eb/2.
+tenor      bb/2.
+bass       eb/2.
+
+# measure 7
+soprano    eb g ab
+alto       bb eb eb
+tenor      g bb ab
+bass       eb eb c
+
+# measure 8
+soprano    bb/2 bb
+alto       f/2 eb
+tenor      f/2 g
+bass       d/2 eb
+
+# measure 9
+soprano    c/2 d
+alto       eb ab+ f
+tenor      ab ab/2
+bass       ab+ f/2
+
+# measure 10
+soprano    eb+/2 bb
+alto       g/2 f
+tenor      bb/2 f
+bass       eb/2 d
+
+# measure 11
+soprano    c/2 bb
+alto       eb. f/8 g
+tenor      ab/2 g
+bass       c. d/8 eb
+
+# measure 12
+soprano    ab g/2
+alto       f/2 en
+tenor      c/2 c
+bass       ab c/2
+
+# measure 13
+soprano    f/2.
+alto       f/2.
+tenor      ab/2.
+bass       f-/2.
+
+# measure 14
+soprano    f g ab
+alto       d bb c
+tenor      bb bb eb
+bass       bb eb c
+
+# measure 15
+soprano    bb/2 f
+alto       d. eb/8 f
+tenor      f/2 bb
+bass       bb. c/8 d
+
+# measure 16
+soprano    bb/2 an
+alto       eb c/2
+tenor      g f/2
+bass       eb f/2
+
+# measure 17
+soprano    bb/2 bb
+alto       d/2 eb
+tenor      f/2 bb
+bass       bb/2 g-
+
+# measure 18
+soprano    c/2 c
+alto       c/2 f
+tenor      an. g/8 an
+bass       f-/2 f-
+
+# measure 19
+soprano    bb/2.
+alto       d/2.
+tenor      bb/2.
+bass       bb/2.
+
+# measure 20
+soprano    g bb ab
+alto       eb eb eb
+tenor      bb g c
+bass       eb eb ab
+
+# measure 21
+soprano    g/2 c
+alto       eb/2 eb
+tenor      bb/2 eb+
+bass       eb/2 ab
+
+# measure 22
+soprano    bb. ab/8 g
+alto       g. f/8 eb
+tenor      eb+/2 bb
+bass       eb/2 eb
+
+# measure 23
+soprano    f/2 g
+alto       d/2 eb
+tenor      bb/2 bb
+bass       bb/2 eb
+
+# measure 24
+soprano    ab/2 g
+alto       eb/2 eb
+tenor      c/2 bb
+bass       ab/2 eb
+
+# measure 25
+soprano    f/2 f
+alto       c d/2
+tenor      ab f/2
+bass       ab bb/2
+
+# measure 26
+soprano    eb/2.
+alto       eb/2.
+tenor      g/2.
+bass       eb/2.
+
+
+

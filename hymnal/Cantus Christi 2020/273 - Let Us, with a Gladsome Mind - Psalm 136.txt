@@ -1,0 +1,207 @@
+title      Let Us, with a Gladsome Mind
+author     John Milton, 1624; alt.MONKLAND
+composer   John Antes, 1790; arr. John B. Wilkes, 1861
+key        Bb
+tempo      105
+rhythm     4 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/273%20Let%20Us,%20with%20a%20Gladsome%20Mind%20-%20Psalm%20136%20MONKLAND.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb- d- f d-
+alto       bb bb c bb
+tenor      d- g a f
+bass       bb g- f- bb
+
+# measure 2
+soprano    eb/8 f/8 g/8 a/8 bb/2
+alto       bb eb d/2
+tenor      g eb f/2
+bass       eb c bb/2
+
+# measure 3
+soprano    d d c bb
+alto       f f f f
+tenor      bb bb a bb
+bass       bb/8 c/8 d/8 eb/8 f d
+
+# measure 4
+soprano    a g f/2
+alto       f en f/2
+tenor      c. bb/8 a/2
+bass       c c f/2
+
+# measure 5
+soprano    c c/8 bb/8 a f
+alto       f c c f
+tenor      a g f a
+bass       f en f f/8 eb/8
+
+# measure 6
+soprano    bb d c/2
+alto       f f f/2
+tenor      bb bb a/2
+bass       d bb f/2
+
+# measure 7
+soprano    d c/8 bb/8 a bb
+alto       f f f f
+tenor      bb a/8 bb/8 c bb
+bass       bb c/8 d/8 eb d
+
+# measure 8
+soprano    bb a bb/2
+alto       f c d/2
+tenor      c f f/2
+bass       f f- bb/2
+
+# measure 9
+soprano    bb- d- f d-
+alto       bb bb c bb
+tenor      d- g a f
+bass       bb g- f- bb
+
+# measure 10
+soprano    eb/8 f/8 g/8 a/8 bb/2
+alto       bb eb d/2
+tenor      g eb f/2
+bass       eb c bb/2
+
+# measure 11
+soprano    d d c bb
+alto       f f f f
+tenor      bb bb a bb
+bass       bb/8 c/8 d/8 eb/8 f d
+
+# measure 12
+soprano    a g f/2
+alto       f en f/2
+tenor      c. bb/8 a/2
+bass       c c f/2
+
+# measure 13
+soprano    c c/8 bb/8 a f
+alto       f c c f
+tenor      a g f a
+bass       f en f f/8 eb/8
+
+# measure 14
+soprano    bb d c/2
+alto       f f f/2
+tenor      bb bb a/2
+bass       d bb f/2
+
+# measure 15
+soprano    d c/8 bb/8 a bb
+alto       f f f f
+tenor      bb a/8 bb/8 c bb
+bass       bb c/8 d/8 eb d
+
+# measure 16
+soprano    bb a bb/2
+alto       f c d/2
+tenor      c f f/2
+bass       f f- bb/2
+
+# measure 17
+soprano    bb- d- f d-
+alto       bb bb c bb
+tenor      d- g a f
+bass       bb g- f- bb
+
+# measure 18
+soprano    eb/8 f/8 g/8 a/8 bb/2
+alto       bb eb d/2
+tenor      g eb f/2
+bass       eb c bb/2
+
+# measure 19
+soprano    d d c bb
+alto       f f f f
+tenor      bb bb a bb
+bass       bb/8 c/8 d/8 eb/8 f d
+
+# measure 20
+soprano    a g f/2
+alto       f en f/2
+tenor      c. bb/8 a/2
+bass       c c f/2
+
+# measure 21
+soprano    c c/8 bb/8 a f
+alto       f c c f
+tenor      a g f a
+bass       f en f f/8 eb/8
+
+# measure 22
+soprano    bb d c/2
+alto       f f f/2
+tenor      bb bb a/2
+bass       d bb f/2
+
+# measure 23
+soprano    d c/8 bb/8 a bb
+alto       f f f f
+tenor      bb a/8 bb/8 c bb
+bass       bb c/8 d/8 eb d
+
+# measure 24
+soprano    bb a bb/2
+alto       f c d/2
+tenor      c f f/2
+bass       f f- bb/2
+
+# measure 25
+soprano    bb- d- f d-
+alto       bb bb c bb
+tenor      d- g a f
+bass       bb g- f- bb
+
+# measure 26
+soprano    eb/8 f/8 g/8 a/8 bb/2
+alto       bb eb d/2
+tenor      g eb f/2
+bass       eb c bb/2
+
+# measure 27
+soprano    d d c bb
+alto       f f f f
+tenor      bb bb a bb
+bass       bb/8 c/8 d/8 eb/8 f d
+
+# measure 28
+soprano    a g f/2
+alto       f en f/2
+tenor      c. bb/8 a/2
+bass       c c f/2
+
+# measure 29
+soprano    c c/8 bb/8 a f
+alto       f c c f
+tenor      a g f a
+bass       f en f f/8 eb/8
+
+# measure 30
+soprano    bb d c/2
+alto       f f f/2
+tenor      bb bb a/2
+bass       d bb f/2
+
+# measure 31
+soprano    d c/8 bb/8 a bb
+alto       f f f f
+tenor      bb a/8 bb/8 c bb
+bass       bb c/8 d/8 eb d
+
+# measure 32
+soprano    bb a bb/2
+alto       f c d/2
+tenor      c f f/2
+bass       f f- bb/2
+
+
+

@@ -1,0 +1,93 @@
+title      Hear the Royal Proclamation
+author     Wilson Thompson (1788-1866)ROYAL PROCLAMATION
+composer   Southern Harmony, 1854
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/539%20Hear%20the%20Royal%20Proclamation.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb g bb bb
+alto       eb eb eb eb
+tenor      bb bb g g
+bass       eb eb eb eb
+
+# measure 2
+soprano    c c/8 eb+/8 c/8 bb/8 bb
+alto       eb eb eb/8 g/8 g
+tenor      g g g/8 bb/8 bb
+bass       c c c/8 d/8 eb
+
+# measure 3
+soprano    bb g/8 f/8 g bb
+alto       eb eb/8 d/8 eb g
+tenor      bb c/8 d/8 eb+ eb+
+bass       eb eb/8 f/8 g eb
+
+# measure 4
+soprano    c c c/8 bb/8 bb
+alto       ab+ ab+ eb/8 g/8 g
+tenor      eb+ eb+ c/8 bb/8 bb
+bass       eb f g/8 bb+/8 bb+
+
+# measure 5
+soprano    eb+. bb/8 eb+ eb+
+alto       g. bb+/8 g g
+tenor      bb. g/8 bb bb
+bass       eb. f/8 eb eb
+
+# measure 6
+soprano    eb+ eb+ eb+/8 c/8 bb
+alto       g g eb/8 g/8 g
+tenor      bb bb bb/8 c/8 d
+bass       eb eb eb/8 g/8 bb+
+
+# measure 7
+soprano    c. bb/8 c/8 d/8 eb+
+alto       ab+. g/8 g eb
+tenor      eb+. f+/8 eb+ eb+
+bass       c+. bb+/8 g eb
+
+# measure 8
+soprano    bb g f/8 eb/8 c-
+alto       eb eb f/8 eb/8 c
+tenor      bb g f/8 eb/8 c-
+bass       eb g f/8 eb/8 c
+
+# measure 9
+soprano    eb. f/8 eb. f/8
+alto       eb. d/8 eb. d/8
+tenor      bb. c/8 bb. bb/8
+bass       g. f/8 g. g/8
+
+# measure 10
+soprano    g. eb/8 f/8 eb/8 c-
+alto       eb. eb/8 f/8 eb/8 c
+tenor      c. g/8 f/8 eb/8 c-
+bass       eb. g/8 f/8 eb/8 c
+
+# measure 11
+soprano    c. bb/8 c/8 d/8 eb+
+alto       ab+. g/8 g/8 g/8 eb
+tenor      c. bb/8 g/8 g/8 c
+bass       c+. bb+/8 g/8 g/8 eb
+
+# measure 12
+soprano    bb g f/8 eb/8 c-
+alto       eb eb f/8 eb/8 c
+tenor      d bb c/8 bb/8 g
+bass       eb g f/8 eb/8 c
+
+# measure 13
+soprano    eb. f/8 eb/2
+alto       eb. d/8 eb/2
+tenor      g. ab/8 g/2
+bass       eb. bb/8 eb/2
+
+
+

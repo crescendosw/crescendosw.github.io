@@ -1,0 +1,225 @@
+title      LORD, Hear My Prayer
+author     The Psalter, 1912
+composer   Anonymous
+key        F
+tempo      140
+rhythm     3 : 4
+verse_count 7
+copyright  Music: Gregory D. Wilbur, 2009. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/191%20LORD,%20Hear%20My%20Prayer%20-%20Psalm%20102%20Wilbur.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      d
+bass       d
+
+# measure 2
+soprano    a/2 a
+alto       f/2 f
+tenor      d/2 d
+bass       d/2 d
+
+# measure 3
+soprano    a g f
+alto       f e d
+tenor      d/2 a
+bass       bb/2 d
+
+# measure 4
+soprano    e d- c-
+alto       c/2 c
+tenor      a/2 a
+bass       a/2 a
+
+# measure 5
+soprano    d-/2 d-
+alto       bb/2 bb
+tenor      f/2 f
+bass       bb/2 bb
+
+# measure 6
+soprano    g/2 g
+alto       d/2 d
+tenor      bb/2 bb
+bass       g-/2 g-
+
+# measure 7
+soprano    f e d-
+alto       d/2 a
+tenor      a g f
+bass       d/2 d
+
+# measure 8
+soprano    d-/2 c-
+alto       bb/2 c
+tenor      f/2 e
+bass       bb/2 c
+
+# measure 9
+soprano    d-/2 d-
+alto       d/2 d
+tenor      d-/2 f
+bass       d/2 d
+
+# measure 10
+soprano    a/2 a
+alto       f/2 f
+tenor      c/2 c
+bass       f/2 f
+
+# measure 11
+soprano    g/2 g/8 a/8
+alto       e/2 e/8 f/8
+tenor      c/2 c
+bass       c/2 c
+
+# measure 12
+soprano    bb/2 bb
+alto       g/2 g
+tenor      d/2 d
+bass       g-/2 g-
+
+# measure 13
+soprano    a/2 a/8 g/8
+alto       f/2 f/8 e/8
+tenor      d/2 a
+bass       d/2 d
+
+# measure 14
+soprano    f e d-
+alto       d/2 bb
+tenor      bb/2 f
+bass       bb/2 bb
+
+# measure 15
+soprano    d- e f
+alto       bb/2 d
+tenor      f/2 bb
+bass       bb/2 bb
+
+# measure 16
+soprano    g/2 bb
+alto       d/2 d
+tenor      bb c d
+bass       g/2 g
+
+# measure 17
+soprano    a/2. =
+alto       e/2. =
+tenor      d/2.
+bass       a+/2. =
+
+# measure 18
+soprano    a/2 a
+alto       e/2 a+
+tenor      c#/2 a
+bass       a+/2 a+
+
+# measure 19
+soprano    d/2 d
+alto       f/2 f
+tenor      d/2 d
+bass       bb+/2 bb+
+
+# measure 20
+soprano    c/2 a
+alto       f/2 c
+tenor      a/2 c
+bass       a+/2 f
+
+# measure 21
+soprano    bb/2 bb
+alto       d/2 d/8 e/8
+tenor      bb/2 bb
+bass       g/2 g
+
+# measure 22
+soprano    a/2 a
+alto       f/2 f
+tenor      d/2 d
+bass       d/2 d
+
+# measure 23
+soprano    a g f
+alto       f/2 d
+tenor      d/2 bb
+bass       bb/2 bb
+
+# measure 24
+soprano    g/2 e
+alto       e/2 c
+tenor      c/2 a
+bass       a/2 a
+
+# measure 25
+soprano    f/2 d-
+alto       d/2 d
+tenor      bb/2 bb
+bass       g-/2 g-
+
+# measure 26
+soprano    e/2. =
+alto       d/2.
+tenor      a/2. =
+bass       a/2. =
+
+# measure 27
+soprano    e/2 d-
+alto       c#/2 d
+tenor      a/2 d-
+bass       a/2 d
+
+# measure 28
+soprano    a/2 a
+alto       d/2 d
+tenor      f/2 f
+bass       d/2 d
+
+# measure 29
+soprano    a g f
+alto       d/2 d
+tenor      bb/2 bb
+bass       g-/2 g-
+
+# measure 30
+soprano    e d- c-
+alto       c/2 c
+tenor      a/2 a
+bass       a/2 a
+
+# measure 31
+soprano    d-/2 d-
+alto       bb/2 bb
+tenor      f/2 f
+bass       bb/2 bb
+
+# measure 32
+soprano    g/2 g
+alto       d/2 d
+tenor      bb/2 bb
+bass       g-/2 g-
+
+# measure 33
+soprano    f e d-
+alto       d/2 a
+tenor      a g f
+bass       d/2 d
+
+# measure 34
+soprano    d-/2 c-
+alto       bb/2 g-
+tenor      g/2 e
+bass       c/2 c
+
+# measure 35
+soprano    d-/2.
+alto       a/2.
+tenor      d-/2.
+bass       d/2.
+
+

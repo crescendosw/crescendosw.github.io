@@ -1,0 +1,118 @@
+title      I Will Bless the LORD at All Times
+author     Douglas Wilson, 2015 (c) CONQUEST
+composer   Erbaulicher Musicalischer, Basel, 1745
+key        F
+tempo      101
+rhythm     3 : 4
+verse_count 5
+copyright  Text: Douglas Wilson, 2015. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/64%20I%20Will%20Bless%20the%20LORD%20-%20Psalm%2034%20CONQUEST.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/8 g/8
+alto       c/8 c/8
+tenor      a/8 g/8
+bass       f/8 c/8
+
+# measure 2
+soprano    a c bb/8 a/8
+alto       c c c/8 f/8
+tenor      f a g/8 c/8
+bass       f- f e/8 f/8
+
+# measure 3
+soprano    g g a/8 g/8
+alto       e e f/8 e/8
+tenor      c c a/8 c/8
+bass       c c f/8 c/8
+
+# measure 4
+soprano    f a g/8 e/8
+alto       d f e/8 c/8
+tenor      a f g/8 c/8
+bass       d a/8 bb/8 c/8 c/8
+
+# measure 5
+soprano    f/2 f/8 g/8
+alto       c/2 c/8 c/8
+tenor      a/2 a/8 g/8
+bass       f-/2 f/8 c/8
+
+# measure 6
+soprano    a c bb/8 a/8
+alto       c c c/8 f/8
+tenor      f a g/8 c/8
+bass       f- f e/8 f/8
+
+# measure 7
+soprano    g g a/8 g/8
+alto       e e f/8 e/8
+tenor      c c a/8 c/8
+bass       c c f/8 c/8
+
+# measure 8
+soprano    f a g/8 e/8
+alto       d f e/8 c/8
+tenor      a f g/8 c/8
+bass       d a/8 bb/8 c/8 c/8
+
+# measure 9
+soprano    f/2 a/8 bb/8
+alto       c/2 f/8 f/8
+tenor      a/2 c/8 bb/8
+bass       f-/2 f/8 f/8
+
+# measure 10
+soprano    c c d/8 c/8
+alto       f f f/8 f/8
+tenor      a a bb/8 a/8
+bass       f f f/8 f/8
+
+# measure 11
+soprano    bb bb c/8 bb/8
+alto       d d c/8 c/8
+tenor      g g g/8 g/8
+bass       d d c/8 e/8
+
+# measure 12
+soprano    a a g/8 f/8
+alto       c f e/8 f/8
+tenor      a c bb/8 d/8
+bass       f f bb/8 bb/8
+
+# measure 13
+soprano    a g f/8 g/8
+alto       f e c/8 c/8
+tenor      c/2 a/8 g/8
+bass       c/2 f/8 c/8
+
+# measure 14
+soprano    a a/8 c/8 bb/8 a/8
+alto       c c c/8 f/8
+tenor      f a g/8 c/8
+bass       f- f e/8 f/8
+
+# measure 15
+soprano    g g a/8 g/8
+alto       e e f/8 e/8
+tenor      c c a/8 c/8
+bass       c c f/8 c/8
+
+# measure 16
+soprano    f a g/8 e/8
+alto       d f e/8 c/8
+tenor      a f c/8 c/8
+bass       d a/8 bb/8 c/8 c/8
+
+# measure 17
+soprano    f/2
+alto       c/2
+tenor      a/2
+bass       f-/2
+
+
+

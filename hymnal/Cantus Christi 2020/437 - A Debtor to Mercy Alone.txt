@@ -1,0 +1,165 @@
+title      A Debtor to Mercy Alone
+author     Augustus M. Toplady, 1771
+composer   David Emlyn Evans (1843-1913)
+key        G
+tempo      110
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/437%20A%20Debtor%20to%20Mercy%20Alone.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       b
+tenor      g
+bass       e
+
+# measure 2
+soprano    g/2 f# e
+alto       e/2 d# e
+tenor      b/2 a b
+bass       e/2 f# g
+
+# measure 3
+soprano    d#-/2 e f#
+alto       b/2 b b
+tenor      a/2 g f#
+bass       f#/2 e d#
+
+# measure 4
+soprano    e/2. f#
+alto       b/2. d#
+tenor      g/2. b
+bass       e/2. b
+
+# measure 5
+soprano    g/2 f# g
+alto       e/2 f# e
+tenor      b/2 c b
+bass       e/2 d# e
+
+# measure 6
+soprano    a/2 g a
+alto       e/2 e e
+tenor      a/2 b e
+bass       c/2 b c
+
+# measure 7
+soprano    b/2. e
+alto       d#/2. e
+tenor      f#/2. g
+bass       b/2. e
+
+# measure 8
+soprano    g/2 f# e
+alto       e/2 d# b
+tenor      b/2 b b
+bass       e b+ a+ g
+
+# measure 9
+soprano    d#-/2 e f#
+alto       c a e dn
+tenor      a c b c
+bass       f#/2 g a+
+
+# measure 10
+soprano    g/2. a
+alto       d/2. d
+tenor      b/2. a
+bass       g/2. f#
+
+# measure 11
+soprano    b/2 a g
+alto       d/2 d b
+tenor      g/2 f# e
+bass       g/2 d e
+
+# measure 12
+soprano    a/2 b a
+alto       d/2 d c
+tenor      f#/2 f# f#
+bass       d/2 d d
+
+# measure 13
+soprano    g/2. b
+alto       b/2. b+
+tenor      g/2. b
+bass       g-/2. b+
+
+# measure 14
+soprano    b/2 g e
+alto       b+/2 g e
+tenor      b/2 g e
+bass       b+/2 g e
+
+# measure 15
+soprano    c/2 b a
+alto       e/2 e e
+tenor      a/2 g a
+bass       a/2 b c
+
+# measure 16
+soprano    b/2. b
+alto       d#/2. b+
+tenor      f#/2. b
+bass       b/2. b+
+
+# measure 17
+soprano    b/2 g e
+alto       b+/2 g e
+tenor      b/2 g e
+bass       b+/2 g e
+
+# measure 18
+soprano    e+/2 d c#
+alto       e f#/8 g/8 f# e
+tenor      b/2 a a
+bass       g/2 a+ a
+
+# measure 19
+soprano    d/2. c
+alto       f#/2. a+
+tenor      a/2. d
+bass       d/2. f#
+
+# measure 20
+soprano    b/2 a g
+alto       g/2 f# e
+tenor      d/2 c e+
+bass       g/2 a+ a#+
+
+# measure 21
+soprano    f#/2 g a
+alto       d#/2 e f#
+tenor      b/2 b d#
+bass       b+/2 b b
+
+# measure 22
+soprano    g/2. g
+alto       e/2. e
+tenor      e+/2. b
+bass       c/2. b
+
+# measure 23
+soprano    g/2 f# e
+alto       e/2 c c
+tenor      c/2 c c
+bass       a/2 a a
+
+# measure 24
+soprano    d#-/2 e f#
+alto       b/2 b b
+tenor      f#/2 g a
+bass       b/2 b b
+
+# measure 25
+soprano    e/2.
+alto       b/2.
+tenor      g/2.
+bass       e/2.
+
+
+

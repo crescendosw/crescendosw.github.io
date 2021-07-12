@@ -1,0 +1,111 @@
+title      Spirit Blest, Who Art Adored
+author     Thomas Benson Pollock (1839-1896)TON-MÂN
+composer   David Evans (1874-1948)
+key        G
+tempo      91
+rhythm     2 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/661%20Spirit%20Blest,%20Who%20Art%20Adored.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b g
+alto       d g
+tenor      b d
+bass       g b+
+
+# measure 2
+soprano    a b
+alto       f# g
+tenor      c b
+bass       a+ g
+
+# measure 3
+soprano    d b
+alto       d d/8 e/8
+tenor      a b/8 c#/8
+bass       f# g
+
+# measure 4
+soprano    a/2
+alto       f#/2
+tenor      d/2
+bass       d/2
+
+# measure 5
+soprano    b e
+alto       b b
+tenor      f# g
+bass       d# e
+
+# measure 6
+soprano    d#- e
+alto       b b/8 e/8
+tenor      a g/8 b/8
+bass       f# g
+
+# measure 7
+soprano    f# g
+alto       e c#
+tenor      b a#
+bass       f# e
+
+# measure 8
+soprano    f#/2
+alto       d#/2
+tenor      b/2
+bass       b/2
+
+# measure 9
+soprano    g e
+alto       b e/8 d/8
+tenor      g b
+bass       e g
+
+# measure 10
+soprano    a g#
+alto       c/8 d/8 e
+tenor      e+ d
+bass       c+ b+
+
+# measure 11
+soprano    a b
+alto       e fn/8 e/8
+tenor      c b
+bass       a+ g#
+
+# measure 12
+soprano    c/2
+alto       e/2
+tenor      a/2
+bass       a+/2
+
+# measure 13
+soprano    b e
+alto       e e
+tenor      b c
+bass       g a+
+
+# measure 14
+soprano    g f#
+alto       e d#
+tenor      b a
+bass       b+ b
+
+# measure 15
+soprano    f#/2
+alto       d#/2
+tenor      a/2
+bass       e/2
+
+# measure 16
+soprano    e/2
+alto       e/2
+tenor      g/2
+bass       e/2
+
+
+

@@ -1,0 +1,115 @@
+title      The God of Abraham Praise
+author     The Yigdal, Daniel ben Judah, c. 1300s; paraph. Thomas Olivers, c. 1765LEONI
+composer   Jewish melody; arr. Meyer Lyon, 1770
+key        Ab
+tempo      101
+rhythm     4 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/409%20The%20God%20of%20Abraham%20Praise.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       c
+tenor      c
+bass       c
+
+# measure 2
+soprano    f g ab bb
+alto       c en f f
+tenor      ab c c f
+bass       f c f db
+
+# measure 3
+soprano    c/2. ab
+alto       en/2. eb
+tenor      c/2. c
+bass       c/2. ab+
+
+# measure 4
+soprano    bb c db eb+
+alto       eb eb f g
+tenor      bb ab ab bb
+bass       g ab+ f eb
+
+# measure 5
+soprano    c/2. g
+alto       eb/2. eb
+tenor      c/2. bb
+bass       ab+/2. eb
+
+# measure 6
+soprano    ab bb c db
+alto       eb eb eb ab+
+tenor      ab g ab ab
+bass       c eb ab+ f
+
+# measure 7
+soprano    eb+ g ab db
+alto       g eb eb db
+tenor      bb bb ab ab
+bass       eb db c f
+
+# measure 8
+soprano    c/2 bb/2
+alto       eb/2. db
+tenor      ab/2 g/2
+bass       eb db eb/2
+
+# measure 9
+soprano    ab/2. ab
+alto       c/2. f
+tenor      ab/2. ab
+bass       ab/2. db
+
+# measure 10
+soprano    c c c c
+alto       eb eb eb f
+tenor      ab ab ab ab
+bass       ab+ ab c db
+
+# measure 11
+soprano    bb/2. ab/8 g/8
+alto       g/2. eb
+tenor      g/2. ab
+bass       eb/2. c
+
+# measure 12
+soprano    f/8 g/8 ab/8 bb/8 c f
+alto       db db c db
+tenor      ab. g/8 ab ab
+bass       db bb ab bb
+
+# measure 13
+soprano    f/2 en c-
+alto       c/2. c
+tenor      ab/2 g en
+bass       c/2. bb
+
+# measure 14
+soprano    f g ab bb
+alto       c c c f
+tenor      f en f bb
+bass       ab c f db
+
+# measure 15
+soprano    c bb/8 c/8 db c/8 bb/8
+alto       f f db f
+tenor      ab bb/8 ab/8 f db
+bass       ab db/8 c/8 bb bb
+
+# measure 16
+soprano    ab/2 g/2
+alto       f/2. en
+tenor      c db g/2
+bass       c bb c/2
+
+# measure 17
+soprano    f/2.
+alto       f/2.
+tenor      ab/2.
+bass       f-/2.
+

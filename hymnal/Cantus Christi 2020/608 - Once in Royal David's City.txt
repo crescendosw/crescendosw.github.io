@@ -1,0 +1,93 @@
+title      Once in Royal David's City
+author     Cecil Frances Alexander, 1848IRBY
+composer   Henry J. Gauntlett, 1849; harm. Arthur Henry Mann, 1919
+key        G
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/608%20Once%20in%20Royal%20David's%20City.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- f#
+alto       d f#
+tenor      b c
+bass       b+ a+
+
+# measure 2
+soprano    g. g/8 g/8 f#/8 g/8 a/8
+alto       d d c# c#
+tenor      d b a g
+bass       b+ g e a
+
+# measure 3
+soprano    a g g b
+alto       d/8 c/8 b d g
+tenor      f# g b d
+bass       d g- b+ g
+
+# measure 4
+soprano    d. b/8 b/8 a/8 g/8 f#/8
+alto       d d e d
+tenor      a b/8 d/8 d/8 c/8 b/8 a/8
+bass       f# g c d
+
+# measure 5
+soprano    g/2 d- f#
+alto       d/2 d f#
+tenor      b/2 b c
+bass       g/2 b+ a+
+
+# measure 6
+soprano    g. g/8 g/8 f#/8 g/8 a/8
+alto       d d c# c#
+tenor      d b a g
+bass       b+ g e a
+
+# measure 7
+soprano    a g g b
+alto       d/8 c/8 b d g
+tenor      f# g b d
+bass       d g- b+ g
+
+# measure 8
+soprano    d. b/8 b/8 a/8 g/8 f#/8
+alto       d d e d
+tenor      a b/8 d/8 d/8 c/8 b/8 a/8
+bass       f# g c d
+
+# measure 9
+soprano    g/2 e+ e+
+alto       d/2 e/8 f#/8 g/8 a+/8
+tenor      b/2 g c
+bass       g/2 c/8 d/8 e/8 f#/8
+
+# measure 10
+soprano    d. g/8 c c
+alto       d d e f#
+tenor      b b c d
+bass       g b+ a+ d
+
+# measure 11
+soprano    b = b e+ e+
+alto       g f# e/8 f#/8 g/8 a+/8
+tenor      d = d c c
+bass       g = g c/8 d/8 e/8 f#/8
+
+# measure 12
+soprano    d. b/8 b/8 a/8 g/8 f#/8
+alto       d/8 f#/8 g/8 g/8 e d
+tenor      b/8 c/8 d/8 d/8 d/8 c/8 b/8 a/8
+bass       g/8 a+/8 b+/8 g/8 c d
+
+# measure 13
+soprano    g = g
+alto       d = d
+tenor      b = b
+bass       g- = g-
+
+
+

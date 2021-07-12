@@ -1,0 +1,149 @@
+title      Psalm 24
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2006
+key        F
+rhythm     0 : 4
+tempo      130
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2016/08/Psalm024.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d- | c-/8 d-/8 d-/8 c-/8 - d-/8 d-/8 d-/8 | c-/8 d-/8 e/8 d- d- | g g/8 f f | e/8 - f/8 e/8 d- d-
+alto       R  | R/2 R.                               | R/2 R.              |  R/2 R.   | R/2 R.
+tenor      R  | R/2 R.                               | R/2 R.              |  R/2 R.   | R/2 R.
+bass       R  | R/2 R.                               | R/2 R.              |  R/2 R.   | R/2 R.
+
+soprano    c-/8 d-/8 d-/8 c-/8 - d-/8 d-/8 d-/8 | c-/8 d-/8 e/8 d- d-/8 d-/8 | g g/8 f f | e/8 - f/8 - e/8 d- c- | d-. = d-/2 = | d-. = d- R
+alto       R/2 R.                               | R/2 R.                     |  R/2 R.   | R/2 R.                | R/2 R.       | R/2 R.
+tenor      R/2 R.                               | R/2 R.                     |  R/2 R.   | R/2 R.                | R/2 R.       | R/2 R.
+bass       R/2 R.                               | R/2 R.                     |  R/2 R.   | R/2 R.                | R/2 R.       | R/2 R.
+
+soprano    d-. f a | d a a/8 - g/8 f/8 | e/8 f/8 g/8 a/2 | d-. f a | d a/8 a/8 a/8 - g/8 f/8 | e. = e R
+alto       R/2 R.  | R/2 R.            |  R/2 R.         | R/2 R.  | R/2 R.                  | R/2 R.
+tenor      R/2 R.  | R/2 R.            |  R/2 R.         | R/2 R.  | R/2 R.                  | R/2 R.
+bass       R/2 R.  | R/2 R.            |  R/2 R.         | R/2 R.  | R/2 R.                  | R/2 R.
+
+soprano    c-/8 d-/8 d-/8 d-/8 c-/8 d-/8 d-/8 | c-/8 - d-/8 - e/8 d- d-
+alto       R/2 R.                             | R/2 R.
+tenor      R/2 R.                             | R/2 R.
+bass       R/2 R.                             | R/2 R.
+
+soprano    g g/8 f f | e/8 - f/8 e/8 d- d-/8 d-/8 | g g/8 f f | e/8 - f/8 e/8 d- c- | d-. = d-/2 = | d-. = d- R
+alto       R/2 R.    | R/2 R.                     |  R/2 R.   | R/2 R.              | R/2 R.       | R/2 R.
+tenor      R/2 R.    | R/2 R.                     |  R/2 R.   | R/2 R.              | R/2 R.       | R/2 R.
+bass       R/2 R.    | R/2 R.                     |  R/2 R.   | R/2 R.              | R/2 R.       | R/2 R.
+
+soprano    f. f g | a. = a f | f f/8 f g | a. = a f
+alto       R/2 R. | R/2 R.   |  R/2 R.   | R/2 R.
+tenor      R/2 R. | R/2 R.   |  R/2 R.   | R/2 R.
+bass       R/2 R. | R/2 R.   |  R/2 R.   | R/2 R.
+
+soprano    b b/8 a a/8 a/8 | b b/8 a b | c. c/2 = | c. = c R
+alto       R/2 R.          | R/2 R.    | R/2 R.   | R/2 R.
+tenor      R/2 R.          | R/2 R.    | R/2 R.   | R/2 R.
+bass       R/2 R.          | R/2 R.    | R/2 R.   | R/2 R.
+
+soprano    c-/8 - d-/8 d-/8 d-/8 c-/8 - d-/8 d-/8 | c-/8 d-/8 e/8 d- c- | d- d- d-
+alto       R/2 R.                                 | R/2 R.              | R/2.
+tenor      R/2 R.                                 | R/2 R.              | R/2.
+bass       R/2 R.                                 | R/2 R.              | R/2.
+
+soprano    g g/8 f f | e/8 - f/8 - e/8 - d- - c- | d-. = d-/2 = | d-. R R | R. R/2 | R. R/2 | R/1
+alto       R/2 R.    | R/2 R.                    | R/2 R.       | R/2 R.  | R. R/2 | R. R/2 | R/1
+tenor      R/2 R.    | R/2 R.                    | R/2 R.       | R/2 R.  | R. R/2 | R. R/2 | R/1
+bass       R/2 R.    | R/2 R.                    | R/2 R.       | R/2 R.  | R. R/2 | R. R/2 | R/1
+
+key        G
+
+soprano    d  d/8.  c/16 d/2  | c/8 - d/8    e+/8 d.  d  | d  d/8.  c/16 d  d  | c/8 - d/8    e+/8 d.  c | d/2  d c
+alto       a+ a+/8. g/16 a+/2 | g/8 - a+/8 - b+/8 a+. a+ | a+ a+/8. g/16 a+ a+ | g/8 - a+/8 - b+/8 a+. g | a+/2 d d
+tenor      d  d/8.  c/16 d/2  | c/8 - b/8    e+/8 d.  d  | d  d/8.  c/16 d  d  | c/8 - d/8    e+/8 d.  c | d/2  d d
+bass       a+ a+/8. g/16 a+/2 | g/8 - a+/8   b+/8 a+. a+ | a+ a+/8. g/16 a+ a+ | g/8 - a+/8   b+/8 a+. g | a+/2 d c
+
+key        F
+
+soprano    b b/8 a.  a | g/8 - a/8 - b/8 - c.    c  | d/2 = d. =   | d/2  R d-
+alto       f f/8 f.  f | g/8 - a+/8 - b+/8 - a+. g  | a+/2 = a+. = | a+/2 R d
+tenor      d d/8 c.  c | d. - c.                 e+ | d/2 = d. =   | d/2  R d-
+bass       b b/8 f-. f | g-. - a.                a  | d/2 = d. =   | d/2  R d
+
+soprano    g g f g/8 | a a R f | b - a g/8 - f/8 g/8 | a a R f
+alto       R/2 R.    | R/1     | R/2 R.              | R/1
+tenor      R/2 R.    | R/1     | R/2 R.              | R/1
+bass       R/2 R.    | R/1     | R/2 R.              | R/1
+
+soprano    b - a g/8 f/8 e/8
+alto       R/2 R.
+tenor      R/2 R.
+bass       R/2 R.
+
+key        G
+
+soprano    d- d- = d-. = | d-/2. R
+alto       R/2 R.        | R/1
+tenor      R/2 R.        | R/1
+bass       R/2 R.        | R/1
+
+soprano    d  d/8.  c/16 d/2  | c/8 - d/8    e+/8 d.  d/8 d/8 | d  d/8. - c/16 d  d  | c/8 - d/8    e+/8 d.  c | d/2  d c
+alto       a+ a+/8. g/16 a+/2 | g/8 - a+/8 - b+/8 a+. a+      | a+ a+/8.  g/16 a+ a+ | g/8 - a+/8 - b+/8 a+. g | a+/2 d d
+tenor      d  d/8.  c/16 d/2  | c/8 - d/8    e+/8 d.  d/8 d/8 | d  d/8. - c/16 d  d  | c/8 - d/8    e+/8 d.  c | d/2  d d
+bass       a+ a+/8. g/16 a+/2 | g/8 - a+/8   b+/8 a+. a+      | a+ a+/8.  g/16 a+ a+ | g/8 - a+/8   b+/8 a+. g | a+/2 d c
+
+key        F
+
+soprano    b b/8 a.  a  | g/8 - a/8 - b/8 - c.    c  | d/2 = d. =  | d/2  R d-
+alto       f f/8 f.  f  | g/8 - a+/8 - b+/8 - a+. g  | a+/2 = a+. | a+/2 R d
+tenor      d d/8 c.  c  | d. - c.                 e+ | d/2 - d. = | d/2  R d-
+bass       b b/8 f-. f- | g-. - a.                a  | d/2 = d. = | d/2  R d
+
+soprano    g g f g/8 | a  a  R f | b/2 a/2 | g/2 R f
+alto       g g f g/8 | a+ a+ R f | f/2 f/2 | e/2 R f
+tenor      g g f g/8 | a  a  R f | d/2 c/2 | c/2 R f
+bass       g g f g/8 | a+ a+ R f | b/2 f/2 | c/2 R f
+
+soprano    b/2 a/2  | b/2   c/2    | d  d = d. =   | d/2 = d. =   | d/2 = d. = | d  R R.
+alto       f/2 f/2  | g - f e - c- | a+ a+ = a+. = | a+/2 = a+. = | a+/2 = a+. | a+ R R.
+tenor      d/2 c/2  | d/2   a/2    | a  a = a. =   | a/2 = a. =   | a/2 = a. = | a  R R.
+bass       b/2 f-/2 | g-/2  a/2    | d  d = d. =   | d/2 = d. =   | d/2 = d. = | d  R R.
+
+verse      The earth is the Lord's, and the full - ness there - of; the world, and they that dwell there - in.
+
+verse      For he hath found - ed it up - on the seas, and es - tab - lished it up - on the floods.
+
+verse      Who shall a - scend into the hill of the Lord?  Or who shall stand in his ho - ly place?
+
+verse      He that hath clean hands, and a pure heart;
+
+verse      Who hath not lift - ed up his soul un - to van - i - ty, nor sworn de - ceit - ful - ly.
+
+verse      He shall re - ceive the bless - ing from the Lord,
+
+verse      And right - eous - ness from the God of his sal - va - tion.
+
+verse      This is the gen - er - a - tion of them that seek him,
+
+verse      That seek thy face, O Jac - ob.
+
+verse      Lift up your heads, O ye gates; and be ye lift up, ye ev - er - last - ing doors;
+
+verse      And the King of glo - ry shall come in.
+
+verse      Who is this King of glo - ry? The Lord strong and might - y,
+
+verse      The Lord might - y in bat - tle.
+
+verse      Lift up your heads, O ye gates; even lift them up, ye ev - er - last - ing doors;
+
+verse      And the King of glo - ry shall come in.
+
+verse      Who is this King of glo - ry? The Lord of hosts,
+
+verse      He is the King of glo - ry.

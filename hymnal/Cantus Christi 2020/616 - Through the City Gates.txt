@@ -1,0 +1,112 @@
+title      Through the City Gates
+author     Lucy A. Martin, 1986 (c)ALLELUIA (Wesley)
+composer   Samuel Sebastian Wesley (1810-1876)
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 3
+copyright  Text: Lucy A. Martin, 1986. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/616%20Through%20the%20City%20Gates.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f. f/8 e f
+alto       c. c/8 g- c
+tenor      a a bb a
+bass       f f f f
+
+# measure 2
+soprano    d- c- d- e
+alto       bb c bn bb
+tenor      f f f c-
+bass       bb a g- c
+
+# measure 3
+soprano    f g a c
+alto       a c f f
+tenor      f c c c
+bass       d e f a
+
+# measure 4
+soprano    d d c/2
+alto       f f f/2
+tenor      c bb a/2
+bass       bb d f/2
+
+# measure 5
+soprano    c a/8 g/8 f g
+alto       f e f c
+tenor      c c/8 bb/8 a c
+bass       a c d e
+
+# measure 6
+soprano    a bb a g
+alto       f f f e
+tenor      c d c c
+bass       f bb+ c+ c+
+
+# measure 7
+soprano    e g c d
+alto       e d g f#
+tenor      c bn c c
+bass       c+ g/8 f/8 e a+
+
+# measure 8
+soprano    e+ d c/2
+alto       g g/8 fn/8 e/2
+tenor      c bn g/2
+bass       g g- c/2
+
+# measure 9
+soprano    f. f/8 e f
+alto       c. c/8 c a
+tenor      a a g f
+bass       f f c d
+
+# measure 10
+soprano    d- c- d- e
+alto       bb c bn bb
+tenor      f f f c-
+bass       bb a g- c
+
+# measure 11
+soprano    f g a e
+alto       a d c# a
+tenor      f e/8 d-/8 e a
+bass       d bb a c#/8 d/8
+
+# measure 12
+soprano    e e e/2
+alto       bn bn c#/2
+tenor      a g# a/2
+bass       e e a/2
+
+# measure 13
+soprano    c a g a
+alto       cn e d d
+tenor      e a bb f#
+bass       a c d d
+
+# measure 14
+soprano    bb bb/8 a/8 a g
+alto       d g/8 f/8 f e
+tenor      g d c c
+bass       g bb+ c+ c+
+
+# measure 15
+soprano    c d bb a
+alto       f a+ d/8 e/8 f
+tenor      c a d d
+bass       a+ f g d/8 c/8
+
+# measure 16
+soprano    g g f/2
+alto       f e f/2
+tenor      d c/8 bb/8 a/2
+bass       bb c f/2
+
+
+

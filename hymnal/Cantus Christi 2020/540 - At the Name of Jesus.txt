@@ -1,0 +1,74 @@
+title      At the Name of Jesus
+hymnal     Cantus Christi
+author     Caroline M. Noel, 1870
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/540%20At%20the%20Name%20of%20Jesus.pdf
+
+tune       KING'S WESTON
+metre      6 5. 6 5. D.
+composer   Ralph Vaughan Williams, 1925
+key        F
+rhythm     6 : 4
+tempo      240
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    d- e f/2 e/2 | d-/1    c-/2 | d- e f/2 g/2 | d-/1.
+alto       R/2  c/2 c/2 | R/1.         | R/1.         | a/1     b/2
+tenor      f/2  a/2 g/2 | f/2 g/2 a/2  | f  g a/2 b/2 | f/1.
+bass       d/2  a/2 c/2 | d/2 e/2 f/2  | d/2  c/2 b/2 | d/2 c/2 b/2
+
+soprano    f g a/2  a/2 | a/2. g f/2 | d- f g/2 f/2 | g/1.
+alto       c/2 a/2  c/2 | c/1    a/2 | f-/2 d/2 c/2 | b/2  c/2 d/2
+tenor      f/2 f/2  f/2 | R/1.       | R/1.         | R/1.
+bass       a/2 f-/2 a/2 | c/1    d/2 | c/2  b/2 a/2 | g-/2 a/2 b/2
+
+soprano    e f g/2 e/2 | a/2. g  f/2 | g a c/2 bn/2 | c/1.
+alto       e/2 d/2 c/2 | c/2 e/2 a/2 | g/2 e/2 d/2  | e/2 f/2 g/2
+tenor      R/1.        | R/1.        | R/1.         | R/1.
+bass       c/2 b/2 c/2 | a/2 c/2 d/2 | e/2 f/2 g/2  | c/2 d/2 e/2
+
+soprano    d/2  c/2 a g | c/2 a/2 g a  | f/1    e/2  | d-/1.
+alto       a+/2 g/2 e/2 | c/2 e/2 d c  | a/1    g-/2 | d/1.
+tenor      R/1.         | R/1.         | R/1.        | f/1.
+bass       f/2  e/2 c/2 | a/2 c/2 b f- | a/2. b c/2  | d/1.
+
+verse      At      the  name    of    Je  -  sus   Ev  -  'ry  knee      shall bow,
+verse      Might - y    and     mys - te  -  rious In     the  high  -   est   height,
+verse      At      His  voice   cre - a   -  tion  Sprang at   once      to    sight,
+verse      Hum  -  bled for     a     sea  - son   To     re - ceive     a     name
+verse      Bore    it   up      tri - um  -  phant With   its  hu    -   man   light,
+verse      Name    Him, broth - ers,  name   Him   With   love as'strong as    death
+verse      In      your hearts  en -  throne Him;  There  let  Him       sub - due
+verse      Broth - ers, this    Lord  Je  -  sus   Shall  re - turn      a  -  gain,
+
+verse      Ev   -  'ry  tongue con -  fess   Him    King of   glo - ry   now.
+verse      God     from ev  -  er  -  last - ing,   Ve - ry   light of   light:
+verse      All     the  an  -  gel    fac -  es,    All  the  hosts of   light,
+verse      From    the  lips   of     sin -  ners   Un - to   whom  He   came,
+verse      Through all  ranks  of     crea - tures, To   the  cen - tral height,
+verse      But     with awe    and    won -  der    And  with bat - ed   breath!
+verse      All     that is     not    ho  -  ly,    All  that is    not  true;
+verse      With    His  Fa  -  ther's glo -  ry,    With His  an -  gel  train;
+
+verse      'Tis    the   Fa   -  ther's plea - sure   We     should call   Him    Lord,
+verse      In      the   Fa   -  ther's bos -  om     With   the    Spir - it     blest,
+verse      Thrones and   dom  -  i   -  na  -  tions, Stars  up  -  on     their  way,
+verse      Faith - ful - ly      He     bore   it     Spot - less   to     the    last,
+verse      To      the   throne  of     God -  head,  To     the    Fa  -  ther's breast;
+verse      He      is    God     the    Sav -  ior,   He     is     Christ the    Lord,
+verse      Crown   Him   as      your   Cap -  tain   In     temp - ta  -  tion's hour:
+verse      For     all   wreaths of     em  -  pire   Meet   up  -  on     His    brow,
+
+verse      Who     from the      be -  gin - ning    Was     the   might - y    Word.
+verse      Love,   in   love     e  -  ter - nal,    Rest,   in    per  -  fect rest.
+verse      All     the  heav'n - ly    or -  ders    In      their great   ar - ray.
+verse      Brought it   back     vic - to -  rious,  When    from  death   He   passed.
+verse      Filled  it   with     the   glo - ry      Of      that  per  -  fect rest.
+verse      Ev   -  er   to       be    wor - shiped, Trust - ed,   and     a -  dored.
+verse      Let     His  will     en -  fold  you     In      its   light   and  pow'r.
+verse      And     our  hearts   con - fess  Him     King    of    glo  -  ry   now.

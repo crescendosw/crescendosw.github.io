@@ -1,0 +1,159 @@
+title      Not to Our Names, Thou Only Just and True
+author     st. 1-5, Isaac Watts (1674-1748); st. 6, Joel Barlow (1754-1812)OXENBRIDGE
+composer   Martin Shaw, 1931
+key        G
+tempo      145
+rhythm     0 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/219%20Not%20to%20Our%20Names,%20Thou%20-%20Psalm%20115%20OXENBRIDGE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- g a
+alto       b d d
+tenor      g g f#
+bass       g- b d
+
+# measure 2
+soprano    b/2 a
+alto       d/2 d
+tenor      g/2 a
+bass       g/2 f#
+
+# measure 3
+soprano    c/2 b
+alto       g/2 f#
+tenor      g. a/8 b
+bass       e. f#/8 g
+
+# measure 4
+soprano    a g a/2.
+alto       e e e/2.
+tenor      c b c/2.
+bass       a+ e a+/2.
+
+# measure 5
+soprano    a b c
+alto       f# g g
+tenor      d d e+
+bass       d g c+
+
+# measure 6
+soprano    d/2 c
+alto       g/2 e
+tenor      d/2 a
+bass       b+/2 a+
+
+# measure 7
+soprano    b/2 a
+alto       g/2 f#
+tenor      d/2 d
+bass       g/2 d
+
+# measure 8
+soprano    g b a/2.
+alto       g g f#/2.
+tenor      d d d/2.
+bass       b g- d/2.
+
+# measure 9
+soprano    d- g a
+alto       d d d
+tenor      d- g f#
+bass       d b d
+
+# measure 10
+soprano    b/2 a
+alto       d/2 d
+tenor      g/2 a
+bass       g/2 f#
+
+# measure 11
+soprano    c/2 b
+alto       g/2 f#
+tenor      g. a/8 b
+bass       e. f#/8 g
+
+# measure 12
+soprano    a g a/2.
+alto       e e e/2.
+tenor      c b c/2.
+bass       a+ e a+/2.
+
+# measure 13
+soprano    a b c
+alto       f# g g
+tenor      d d e+
+bass       d g c+
+
+# measure 14
+soprano    d/2 c
+alto       g/2 e
+tenor      d/2 a
+bass       b+/2 a+
+
+# measure 15
+soprano    b/2 a
+alto       g/2 f#
+tenor      d/2 d
+bass       g/2 d
+
+# measure 16
+soprano    g b a/2.
+alto       g g f#/2.
+tenor      d d d/2.
+bass       b g- d/2.
+
+# measure 17
+soprano    c b a
+alto       g g f#
+tenor      e+ d d
+bass       c g d
+
+# measure 18
+soprano    b/2 g
+alto       g/2 d
+tenor      d/2 b
+bass       g/2 g
+
+# measure 19
+soprano    e/2 d-
+alto       c/2 d
+tenor      g/2 g
+bass       c/2 b
+
+# measure 20
+soprano    e g a/2.
+alto       c b d/2.
+tenor      g g f#/2.
+bass       c e d/2.
+
+# measure 21
+soprano    c b a
+alto       e d d
+tenor      g g f#
+bass       c g d
+
+# measure 22
+soprano    b/2 g
+alto       d/2 d
+tenor      g/2 b
+bass       g/2 g-
+
+# measure 23
+soprano    e/2 d-
+alto       c/2 d
+tenor      g/2 g
+bass       c/2 b
+
+# measure 24
+soprano    e a g/2.
+alto       e f# g/2.
+tenor      c a b/2.
+bass       c d g-/2.
+
+
+

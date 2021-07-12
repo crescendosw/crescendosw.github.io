@@ -1,0 +1,135 @@
+title      O Come, O Come, Emmanuel
+author     Latin antiphon, c. 1100s; tr. John Mason Neale, 1851; alt.VENI EMMANUEL
+composer   plainchant, c. 1200s; arr. Thomas Helmore, 1856
+key        G
+tempo      120
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/547%20O%20Come,%20O%20Come,%20Emmanuel.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       e
+tenor      g
+bass       e
+
+# measure 2
+soprano    g b b b
+alto       e b d g
+tenor      b f# g d
+bass       e d b g-
+
+# measure 3
+soprano    a c b a
+alto       g/2. f#
+tenor      e+/2 d d
+bass       c a b d
+
+# measure 4
+soprano    g/2. a
+alto       d/2. d
+tenor      b/2. f#
+bass       g/2. d
+
+# measure 5
+soprano    b g e g
+alto       d d c d
+tenor      g g g b
+bass       g- b c b
+
+# measure 6
+soprano    a f# e d-
+alto       e c b b
+tenor      a/2 g f#
+bass       c a b b
+
+# measure 7
+soprano    e/2. a
+alto       b/2. e
+tenor      g/2. a
+bass       e/2. c
+
+# measure 8
+soprano    a e e f#
+alto       c c e d#
+tenor      a a b a
+bass       a a+ g f#
+
+# measure 9
+soprano    g/2 f# e
+alto       e dn/2 c#
+tenor      g/2 a g
+bass       e b a a
+
+# measure 10
+soprano    d-/2. g
+alto       d/2. b
+tenor      f#/2. g
+bass       d/2. e
+
+# measure 11
+soprano    a b b b
+alto       d d d g
+tenor      f# f# g d
+bass       d b g- b
+
+# measure 12
+soprano    a c b a
+alto       g/2. f#
+tenor      e+/2 d d
+bass       c a b d
+
+# measure 13
+soprano    g/2. d
+alto       d/2. g
+tenor      b/2. b
+bass       g/2. g
+
+# measure 14
+soprano    d/2. b
+alto       f#/2. g
+tenor      a/2. e+
+bass       d/2. e
+
+# measure 15
+soprano    b/2. b
+alto       f#/2. g
+tenor      d/2. d
+bass       b/2. g-
+
+# measure 16
+soprano    a c b a
+alto       g/2. f#
+tenor      e+/2 d d
+bass       c a b d
+
+# measure 17
+soprano    g/2. a
+alto       g/2. f#
+tenor      b/2. d
+bass       e/2. d
+
+# measure 18
+soprano    b g e g
+alto       g d c d
+tenor      d g g b
+bass       g- b c b
+
+# measure 19
+soprano    a f# e d-
+alto       e c b b
+tenor      a/2 g f#
+bass       c a b b
+
+# measure 20
+soprano    e/2.
+alto       b/2.
+tenor      g/2.
+bass       e/2.
+
+
+

@@ -1,0 +1,117 @@
+title      O Little Town of Bethlehem
+author     Anonymous
+composer   Anonymous
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/570%20O%20Little%20Town%20of%20Bethlehem%20FOREST%20GREEN.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       c
+tenor      c-
+bass       c
+
+# measure 2
+soprano    f f f g
+alto       c d c d/8 e/8
+tenor      a bb c bb
+bass       f bb+ a+ g
+
+# measure 3
+soprano    a/8 g/8 a/8 bb/8 c a
+alto       f f e d
+tenor      c f g f
+bass       f d c d
+
+# measure 4
+soprano    bb a/8 f/8 g g
+alto       d f f e
+tenor      bb c d c/8 bb/8
+bass       g- a bb c
+
+# measure 5
+soprano    f/2. c-
+alto       f/2. c
+tenor      a/2. c-
+bass       f/2. c
+
+# measure 6
+soprano    f f f g
+alto       c d c d/8 e/8
+tenor      a bb c bb
+bass       f bb+ a+ g
+
+# measure 7
+soprano    a/8 g/8 a/8 bb/8 c a
+alto       f f e d
+tenor      c f g f
+bass       f d c d
+
+# measure 8
+soprano    bb a/8 f/8 g g
+alto       d f f e
+tenor      bb c d c/8 bb/8
+bass       g- a bb c
+
+# measure 9
+soprano    f/2. f/8 a/8
+alto       f/2. f
+tenor      a/2. a
+bass       f/2. d
+
+# measure 10
+soprano    c. d/8 c/8 bb/8 a/8 g/8
+alto       e. d/8 e c
+tenor      a. f/8 c c/8 bb/8
+bass       a. bb/8 c d/8 e/8
+
+# measure 11
+soprano    f/8 g/8 a/8 bb/8 c c-
+alto       c f e c
+tenor      a f g e
+bass       f d c c/8 bb/8
+
+# measure 12
+soprano    f a g f
+alto       c c bb a/8 bb/8
+tenor      f f d-/8 e/8 f
+bass       a f- bb d
+
+# measure 13
+soprano    c-/2. c-
+alto       c/2. c
+tenor      e/2. f/8 g/8
+bass       c/2. d/8 e/8
+
+# measure 14
+soprano    f f f g
+alto       c d c d/8 e/8
+tenor      a bb c bb
+bass       f bb+ a+ g
+
+# measure 15
+soprano    a/8 g/8 a/8 bb/8 c a
+alto       f f e d
+tenor      c f g f
+bass       f d c d
+
+# measure 16
+soprano    bb a/8 f/8 g g
+alto       d f f e
+tenor      bb c/8 a/8 c c/8 bb/8
+bass       g- a/8 d/8 c c
+
+# measure 17
+soprano    f/2.
+alto       f/2.
+tenor      a/2.
+bass       f/2.
+
+
+

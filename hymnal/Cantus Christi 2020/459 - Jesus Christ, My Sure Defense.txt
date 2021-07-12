@@ -1,0 +1,51 @@
+title      Jesus Christ, My Sure Defense
+author     Praxis Pietatis Melica, 1653; tr. Catherine Winkworth, 1863JESU, MEINE ZUVERSICHT
+composer   Johann Crüger, 1653
+key        C
+tempo      115
+rhythm     0 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/459%20Jesus%20Christ,%20My%20Sure%20Defense.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g e a b c c b/2
+alto       e/8 d/8 c c f e e e/2
+tenor      c g f d c a a g#
+bass       c c f/8 e/8 d a/8 b/8 c/8 d/8 e/2
+
+# measure 2
+soprano    a c g e f e d-/2 c-/2
+alto       c c d c/8 b/8 a/8 b/8 c c b c/2
+tenor      a g g g f g a g e/2
+bass       f e b c d e f g c/2
+
+# measure 3
+soprano    g e a b c c b/2
+alto       e/8 d/8 c c f e e e/2
+tenor      c g f d c a a g#
+bass       c c f/8 e/8 d a/8 b/8 c/8 d/8 e/2
+
+# measure 4
+soprano    a c g e f e d-/2 c-/2
+alto       c c d c/8 b/8 a/8 b/8 c c b c/2
+tenor      a g g g f g a g e/2
+bass       f e b c d e f g c/2
+
+# measure 5
+soprano    e f# g# a a g# a/2
+alto       c d d e fn e/8 d/8 c/2
+tenor      a a b c b b a/2
+bass       a d/8 c/8 b a d e f/2
+
+# measure 6
+soprano    b c d e+ d d c/2
+alto       e e g g a+ g/8 f/8 e/2
+tenor      g# a b c c b c/2
+bass       e a+ gn/8 f/8 e f g c/2
+
+
+

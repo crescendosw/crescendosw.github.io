@@ -1,0 +1,112 @@
+title      God's Own Child, I Gladly Say It
+author     Erdmann Neumeister (1671-1756); tr. Robert E. Voelker (1957- ) (c)BACHOFEN
+composer   Johann Caspar Bachofen (1695-1755); alt.
+key        F
+tempo      100
+rhythm     4 : 4
+verse_count 5
+copyright  Text: Robert E. Voelker, 1991.  Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/688%20God's%20Own%20Child,%20I%20Gladly%20Say%20It.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/8 e/8 f/8 g/8 a/8 bb/8 c/8 bb/8
+alto       c c f f
+tenor      a a/8 bb/8 c a
+bass       f f f a
+
+# measure 2
+soprano    a g/8 f/8 e c-
+alto       d bb c g-
+tenor      f bb/8 a/8 g e
+bass       bb d c c
+
+# measure 3
+soprano    f/8 g/8 f/8 e/8 d- f
+alto       a c bb d
+tenor      c- f f bb
+bass       f- a bb bb
+
+# measure 4
+soprano    f. e/8 f/2
+alto       c c c/2
+tenor      g g a/2
+bass       c c f-/2
+
+# measure 5
+soprano    f/8 e/8 f/8 g/8 a/8 bb/8 c/8 bb/8
+alto       a/8 bb/8 c f f
+tenor      f/8 g/8 a/8 bb/8 c a
+bass       f f f a
+
+# measure 6
+soprano    a g/8 f/8 e c-
+alto       d/8 c/8 bb c g-
+tenor      f bb/8 a/8 g/8 f/8 e
+bass       bb d c c
+
+# measure 7
+soprano    f/8 g/8 f/8 e/8 d- f
+alto       a/8 bb/8 c bb/8 c/8 d
+tenor      c- f f bb
+bass       f- a bb bb
+
+# measure 8
+soprano    f. e/8 f/2
+alto       c/8 bb/8 c c/2
+tenor      g g/8 bb/8 a/2
+bass       c c f-/2
+
+# measure 9
+soprano    g. g/8 g a
+alto       c. d/8 e e
+tenor      e. f/8 g c
+bass       c. c/8 c a
+
+# measure 10
+soprano    bb/8 a/8 g a a
+alto       d d f f
+tenor      d bb c c
+bass       g- g- f- f-
+
+# measure 11
+soprano    g/8 a/8 bb/8 c/8 d c/8 bb/8
+alto       d g g g
+tenor      bb d/8 c/8 bb bb/8 d/8
+bass       g- g-/8 a/8 bb/8 c/8 d
+
+# measure 12
+soprano    a. bb/8 g g
+alto       f f f e
+tenor      c d c c
+bass       f f c c
+
+# measure 13
+soprano    c/8 d/8 c/8 bb/8 a/8 g/8 f/8 e/8
+alto       f f c c
+tenor      a/8 bb/8 a/8 g/8 f f
+bass       f f f a
+
+# measure 14
+soprano    d- g/8 f/8 e/2
+alto       bb bb c/2
+tenor      f bb g/2
+bass       bb d c/2
+
+# measure 15
+soprano    f/8 g/8 f/8 e/8 d- f
+alto       c c bb d
+tenor      a f f bb
+bass       f- a bb bb
+
+# measure 16
+soprano    f. e/8 f/2
+alto       c/8 bb/8 c c/2
+tenor      g g a/2
+bass       c c f-/2
+
+
+

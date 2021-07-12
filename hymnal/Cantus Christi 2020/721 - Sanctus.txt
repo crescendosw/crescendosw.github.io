@@ -1,0 +1,33 @@
+title      Sanctus
+author     Traditional
+composer   James B. Jordan, 2015
+key        F
+tempo      125
+rhythm     0 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/721%20Sanctus%20-%20JBJ.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    bb/2
+
+# measure 2
+unison    bb bb a a g/2 f/2 g/2 f e f/1
+
+# measure 3
+unison    a a a a a bb/2 bb f a a/2
+
+# measure 4
+unison    c c c bb a bb/2 f/2 a/1
+
+# measure 5
+unison    f f f f f f/2 f f eb/2 bb-/1 db- eb f/2.
+
+# measure 6
+unison    c c c bb a bb/2 f/2 a/1
+
+
+

@@ -1,0 +1,117 @@
+title      One Sole Baptismal Sign
+author     George Robinson, 1842LAUS REGIS
+composer   William E. Fischer, 1887
+key        D
+tempo      118
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/692%20One%20Sole%20Baptismal%20Sign.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2
+alto       a/2
+tenor      f#/2
+bass       d/2
+
+# measure 2
+soprano    f# d- f# a
+alto       d d d e
+tenor      a a a a
+bass       d f# d c#
+
+# measure 3
+soprano    d/2 a/2
+alto       d/2 d/2
+tenor      f#/2 f#/2
+bass       b/2 d/2
+
+# measure 4
+soprano    a f# g a
+alto       e d c# c#
+tenor      a a a a
+bass       c# d e a
+
+# measure 5
+soprano    f#/2 f#/2
+alto       d/2 d/2
+tenor      a/2 a/2
+bass       d/2 d/2
+
+# measure 6
+soprano    e a g# b
+alto       c# e e e
+tenor      a c# b g#
+bass       e e e. d/8
+
+# measure 7
+soprano    a c# e+ d
+alto       e e e f#
+tenor      a a a a
+bass       c# a c# d
+
+# measure 8
+soprano    c#/2 b/2
+alto       e/2. d
+tenor      a/2 g#/2
+bass       e/2 e/2
+
+# measure 9
+soprano    a/2. a
+alto       c#/2. d
+tenor      a/2. f#
+bass       a/2. d
+
+# measure 10
+soprano    d/2 cn/2
+alto       d/2 d/2
+tenor      a/2 a/2
+bass       f#/2 f#-/2
+
+# measure 11
+soprano    b/2. b
+alto       d/2. e
+tenor      g/2. g#
+bass       g-/2. e
+
+# measure 12
+soprano    e+/2 d/2
+alto       e/2 e/2
+tenor      b/2 b/2
+bass       g#/2 g#-/2
+
+# measure 13
+soprano    c#/2 c#/2
+alto       e/2 e/2
+tenor      a/2 a/2
+bass       a/2 a+ g
+
+# measure 14
+soprano    d/2 a/2
+alto       d/2 d/2
+tenor      a/2 f#/2
+bass       f#/2 d/2
+
+# measure 15
+soprano    c# b a g
+alto       d/2 d/2
+tenor      g/2 a b
+bass       g/2 f# g
+
+# measure 16
+soprano    f#/2 e/2
+alto       d/2. c#
+tenor      a/2. g
+bass       a+/2 a/2
+
+# measure 17
+soprano    d-/2
+alto       d/2
+tenor      f#/2
+bass       d/2
+
+
+

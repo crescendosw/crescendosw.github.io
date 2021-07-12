@@ -1,0 +1,117 @@
+title      Immortal, Invisible, God Only Wise
+author     Walter Chalmers Smith, 1867ST. DENIO [JOANNA]
+composer   John Roberts, Caniadau y Cyssegr, 1839
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/337%20Immortal,%20Invisible,%20God%20Only%20Wise.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       d
+tenor      b
+bass       g-
+
+# measure 2
+soprano    e c- a
+alto       c c e
+tenor      g e c
+bass       c c a
+
+# measure 3
+soprano    f# d- g
+alto       d d b
+tenor      a f# g
+bass       d d e
+
+# measure 4
+soprano    b b a
+alto       d d d/8 c/8
+tenor      g g f#
+bass       d d d
+
+# measure 5
+soprano    g/2 g
+alto       b/2 d
+tenor      g/2 b
+bass       g-/2 g-
+
+# measure 6
+soprano    e c- a
+alto       c c e
+tenor      g e c
+bass       c c a
+
+# measure 7
+soprano    f# d- g
+alto       d d b
+tenor      a f# g
+bass       d d e
+
+# measure 8
+soprano    b b a
+alto       d d d/8 c/8
+tenor      g g f#
+bass       d d d
+
+# measure 9
+soprano    g/2 g
+alto       b/2 d
+tenor      g/2 b
+bass       g-/2 g-
+
+# measure 10
+soprano    b b d
+alto       g g a+
+tenor      d d a
+bass       g g f#
+
+# measure 11
+soprano    b g g
+alto       d d d
+tenor      b b d/8 c/8
+bass       g g b+/8 a+/8
+
+# measure 12
+soprano    b b d
+alto       d e d
+tenor      b g g
+bass       g e b/8 c/8
+
+# measure 13
+soprano    a/2 b
+alto       d/2 d
+tenor      f#/2 g
+bass       d/2 g-
+
+# measure 14
+soprano    g e a
+alto       e e e
+tenor      g g c
+bass       c c a
+
+# measure 15
+soprano    f# d- g
+alto       d d b
+tenor      a f# g
+bass       d d e
+
+# measure 16
+soprano    b b a
+alto       d g f#
+tenor      g d d/8 c/8
+bass       d d d
+
+# measure 17
+soprano    g/2
+alto       g/2
+tenor      b/2
+bass       g-/2
+
+
+

@@ -1,0 +1,63 @@
+title      All Ye Nations, Praise the LORD
+author     James Montgomery (1771-1854)LONG MYND
+composer   Reginald S. Thatcher (1888-1957)
+key        A
+tempo      89
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/225%20All%20Ye%20Nations,%20Praise%20the%20LORD%20-%20Psalm%20117%20LONG%20MYND.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a a/8 b a/8
+alto       e f#/8 gn f#/8
+tenor      c# d/8 d d/8
+bass       a d/8 gn-/8 b/8 d/8
+
+# measure 2
+soprano    a g#/8 a.
+alto       e e/8 e.
+tenor      b b/8 c#.
+bass       e e/8 a.
+
+# measure 3
+soprano    f# e/8 f# e/8
+alto       d c#/8 d b/8
+tenor      a a/8 a g#/8
+bass       d a/8 d e/8
+
+# measure 4
+soprano    c#- d-/8 e.
+alto       a a/8 b.
+tenor      a a/8 a g#/8
+bass       f# f#/8 e.
+
+# measure 5
+soprano    e f#/8 gn f#/8
+alto       c# d/8 b/8 c#/8 d/8
+tenor      a a/8 gn a/8
+bass       a d/8 e d/8
+
+# measure 6
+soprano    b a/8 a g#/8
+alto       c# c#/8 e.
+tenor      gn a/8 b.
+bass       gn f#/8 e.
+
+# measure 7
+soprano    a a/8 b a/8
+alto       e d/8 d c#/8
+tenor      a f#/8 f# a/8
+bass       c# d/8 b/8 d/8 f#/8
+
+# measure 8
+soprano    a g#/8 a.
+alto       e e/8 e.
+tenor      b b/8 c#.
+bass       e e/8 a.
+
+
+

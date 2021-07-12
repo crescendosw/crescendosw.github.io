@@ -1,0 +1,105 @@
+title      But I Will Call on God
+author     Donald P. Owens II, 2018 (c) SIRIOLDEB
+composer   Joseph Parry (1841-1903)
+key        Ab
+tempo      101
+rhythm     3 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/106%20But%20I%20Will%20Call%20-%20Psalm%2055c%20SIRIOLDEB.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb
+alto       c
+tenor      eb
+bass       ab
+
+# measure 2
+soprano    eb/2 ab
+alto       c/2 eb
+tenor      eb/2 eb
+bass       ab/2 c
+
+# measure 3
+soprano    ab g ab
+alto       db/2 c
+tenor      eb/2 eb
+bass       bb/2 ab
+
+# measure 4
+soprano    bb/2 bb
+alto       eb/2 eb
+tenor      g/2 g
+bass       eb/2 eb
+
+# measure 5
+soprano    c/8. c/16 bb ab
+alto       eb/8. eb/16 eb eb
+tenor      ab/8. ab/16 db c
+bass       ab/8. ab/16 g- ab
+
+# measure 6
+soprano    g/2 f
+alto       eb/2 dn
+tenor      bb/2 ab
+bass       bb/2.
+
+# measure 7
+soprano    eb/2 eb
+alto       eb/2 eb
+tenor      g/2 eb+
+bass       eb/2 eb
+
+# measure 8
+soprano    bb/2 ab
+alto       g/2 ab+
+tenor      eb+/2 eb+
+bass       db+/2 c+
+
+# measure 9
+soprano    db/2 c
+alto       ab+ g ab+
+tenor      eb+/2 eb+
+bass       bb+/2 ab+
+
+# measure 10
+soprano    c bb ab
+alto       f/2 f
+tenor      eb+ db c
+bass       db/2 dn
+
+# measure 11
+soprano    g/2 bb
+alto       eb/2 eb
+tenor      bb/2 g
+bass       eb/2 eb/8 db/8
+
+# measure 12
+soprano    eb+/2 db
+alto       eb ab+ g
+tenor      ab eb+ eb+
+bass       c c+ bb+
+
+# measure 13
+soprano    c/2 c
+alto       ab+/2 ab+/8 g/8
+tenor      eb+/2 eb+
+bass       ab+/2 ab
+
+# measure 14
+soprano    bb ab g
+alto       f eb/2
+tenor      db c bb/8 db/8
+bass       db eb/2
+
+# measure 15
+soprano    ab/2
+alto       eb/2
+tenor      c/2
+bass       ab/2
+
+
+

@@ -1,0 +1,36 @@
+title      O Lord, My Heart Will Praise You
+hymnal     Cantus Christi 2020
+author     Donald P. Owens II, 2012
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/17%20O%20LORD,%20My%20Heart%20Will%20Praise%20-%20Psalm%209%20Schutz.pdf
+tune       MIT FROHLICHEM GEMUTE [BECKER 9]
+meter      7 6. 7 6. 7 6. 7 6.
+composer   Heinrich Shutz
+key        C
+rhythm     0 : 4
+tempo      180
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    a a/2 a g/2 f e/2.  e/2  | a  b/2  c  d b/2 a/2. = a/2
+alto       f f/2 f e/2 e c#/2. c#/2 | e  e/2  e  f e/2 e/2. = e/2
+tenor      d d/2 c c/2 a a/2.  a/2  | c  b/2  a  a g/2 a/2. = a/2
+bass       d d/2 f c/2 d a/2.  a/2  | a+ g#/2 a+ d e/2 a/2. = a/2
+
+soprano    a a/2 a g/2 f e/2.  e/2  | a  b/2  c  d b/2 a/2. = a/2
+alto       f f/2 f e/2 e c#/2. c#/2 | e  e/2  e  f e/2 e/2. = e/2
+tenor      d d/2 c c/2 a a/2.  a/2  | c  b/2  a  a g/2 a/2. = a/2
+bass       d d/2 f c/2 d a/2.  a/2  | a+ g#/2 a+ d e/2 a/2. = a/2
+
+soprano    a a/2 a bb/2 g a/2. f/2  | f  bb/2 bb a  a/2  g/2.  = g/2
+alto       f f/2 f f/2  e f/2. d/2  | d  d/2  d  e  d/2  d/2.  = d/2
+tenor      c c/2 c d/2  c c/2. bb/2 | f  g/2  g  g  f#/2 g/2.  = g/2
+bass       f f/2 f bb/2 c f/2. bb/2 | bb g-/2 bb c  d/2  g-/2. = g-/2
+
+soprano    g g/2 c bb/2 a  g/2. g/2 | a f/2 f g  e/2  d-/2. = d-/2
+alto       c c/2 e d/2  f  e/2. e/2 | e d/2 d d  c#/2 d/2.  = d/2
+tenor      e e/2 a f/2  c  c/2. c/2 | c a/2 a bb a/2  a/2.  = a/2
+bass       c c/2 a bb/2 f- c/2. c/2 | a d/2 d g- a/2  d/2.  = d/2
+

@@ -1,0 +1,57 @@
+title      To Thee I Cry
+author     Mary Sidney Herbert (1556-1621)SIDNEY 61
+composer   Michael E. Owens, 2018
+key        C
+tempo      112
+rhythm     0 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/115%20To%20Thee%20I%20Cry%20-%20Psalm%2061%20SIDNEY%2061.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e e g a/2.
+alto       e c d e/2.
+tenor      a a b c/2.
+bass       a a e e/2.
+
+# measure 2
+soprano    a g e e/2.
+alto       c d e c/2.
+tenor      a b a a/2.
+bass       e g a+ a+/2.
+
+# measure 3
+soprano    e e g c b a b b/2.
+alto       e c d e e f f e/2.
+tenor      a a b g g c d b/2.
+bass       a+ e d c c d d e/2.
+
+# measure 4
+soprano    b b a b c g e e/2.
+alto       e f f e e d c c/2.
+tenor      b g g g g g a a/2.
+bass       e d d c c b a a/2.
+
+# measure 5
+soprano    e g d- d- e e/2.
+alto       c c b b b c/2.
+tenor      g g g g g a/2.
+bass       c c d e e a/2.
+
+# measure 6
+soprano    e e d- d- g e/2.
+alto       c c b b d c/2.
+tenor      a a g g g g/2.
+bass       a a d e e c/2.
+
+# measure 7
+soprano    e e g a a g e e/2.
+alto       e c d e c d e c/2.
+tenor      a a b c a b a a/2.
+bass       a+ a+ g e e e a a/2.
+
+
+

@@ -1,0 +1,53 @@
+title      Psalm 128
+hymnal     Cantus Christi 2020
+author     King James Version
+
+composer   David R. Erb, 2013
+key        F
+rhythm     3 : 4
+tempo      140
+
+#hyperlink  https://vimeo.com/156804550
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     a. g/8 f | g/8 f/8 d- c- | d-/8 - f/8 - g/8 - f/8 d- | c-/2 c- | d-. - c-/8 d- | f - g f | f/2.
+
+unison     R/2 f/8 a/8 | c/2 a/8 - g/8 | a. g/8 a/8 c/8 | d - c/2 = | c/2 c | a. - g/8 f | d- f d-
+
+unison     c- - d- - f | g. - f/8 g | a. - g/8 - f - | g - f d- | d-/2.
+
+unison     R/2 d- | d-. c-/8 a- | c-. d-/8 f | d-/8 - c-/8 - d- f | g/2 f/8 g/8 | a. - g/8 f | d- c- a- | c-/2.
+
+unison     R/2 c- | d-. - c-/8 a- | c-. - d-/8 - f | d-/8 - c-/8 - d- f | g/2 f/8 g/8 | a. - g/8 f | d-/2 - f | f/2.
+
+unison     R/2 f | a. - g/8 f | g/8 - f/8 - d- c- | d-/8 - f/8 - g/8 - f/8 d- | c-/2 c- | d-. - c-/8 - d- - | f - g f | f/2.
+
+unison     R/2 f/8 - a/8 | c/2 a/8 g/8 | a. - g/8 a/8 - c/8 | d c/2 = | c/2 c | a. - g/8 f | d- - f d-
+
+unison     c- d- f | g. f/8 g | a. - g/8 f | g f d- | d-/2.
+
+unison     R/2 d- | d-. - c-/8 a- | c-. - d-/8 f | d-/8 - c-/8 d- f | g/2. | a. g/8 f | d-/2 - c- | d-/2 f | f/2.
+
+verse      Bless - ed is ev - 'ry one who fears the Lord, Who walks in His ways.
+
+verse      When you eat the la - bor of your hands, You shall be hap - py,
+
+verse      and it shall be well with you.
+
+verse      Your wife shall be like a fruit - ful vine In the ver - y heart of your house,
+
+verse      Your chil - dren like o - live plants All a - round your ta - ble.
+
+verse      Be - hold, thus shall the man be blessed Who fears the Lord.
+
+verse      The Lord bless you out of Zi - on, And may you see
+
+verse      the good of Je - ru - sa - -lem All the days of your life.
+
+verse      Yes, may you see your chil - dren's chil - dren.  Peace be up - on Is - ra - el!

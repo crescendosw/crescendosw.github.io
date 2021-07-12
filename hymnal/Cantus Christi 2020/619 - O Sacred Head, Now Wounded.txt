@@ -1,0 +1,117 @@
+title      O Sacred Head, Now Wounded
+author     attr. Bernard of Clarvaux, 1153; tr. James Waddell Alexander, 1830O HAUPT VOLL BLUT  UND WUNDEN [PASSION CHORALE] 
+composer   Hans Leo Hassler, 1601;
+key        C
+tempo      101
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/619%20O%20Sacred%20Head,%20Now%20Wounded.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       c
+tenor      g
+bass       c
+
+# measure 2
+soprano    a g f e
+alto       c c c/8 d/8 d/8 c/8
+tenor      f g a/8 g/8 g
+bass       f e a/8 b/8 c
+
+# measure 3
+soprano    d-/2 e b
+alto       c b c d
+tenor      a g g g#
+bass       f- g- c b
+
+# measure 4
+soprano    c c b/8 a/8 b
+alto       c/8 d/8 e e e/8 d/8
+tenor      e a a g#
+bass       a/8 b/8 c/8 d/8 e e-
+
+# measure 5
+soprano    a/2. e
+alto       c/2. c
+tenor      a/2. g
+bass       a/2. c
+
+# measure 6
+soprano    a g f e
+alto       c c c/8 d/8 d/8 c/8
+tenor      f g a/8 g/8 g
+bass       f e a/8 b/8 c
+
+# measure 7
+soprano    d-/2 e b
+alto       c b c d
+tenor      a g g g#
+bass       f- g- c b
+
+# measure 8
+soprano    c c b/8 a/8 b
+alto       c/8 d/8 e e e/8 d/8
+tenor      e a a g#
+bass       a/8 b/8 c/8 d/8 e e-
+
+# measure 9
+soprano    a/2. c
+alto       c/2. a+/8 g/8
+tenor      a/2. e+
+bass       a/2. a+
+
+# measure 10
+soprano    b/8 a/8 g a b
+alto       f e/8 d/8 c f
+tenor      d/8 c/8 b a/8 g/8 f/8 g/8
+bass       d e f/8 e/8 d
+
+# measure 11
+soprano    c/2 c g
+alto       f e/8 d/8 e e
+tenor      a g/8 f/8 g c
+bass       c/2 c c
+
+# measure 12
+soprano    a g f f
+alto       f e e d
+tenor      c c/8 b/8 a a
+bass       f c d/8 e/8 f/8 g/8
+
+# measure 13
+soprano    e/2. c
+alto       c#/2. d
+tenor      a/2. a
+bass       a+/2. f#
+
+# measure 14
+soprano    b/8 c/8 d c b
+alto       d d e d
+tenor      g g/8 f#/8 g/8 a/8 b/8 g/8
+bass       g b e/8 f#/8 g
+
+# measure 15
+soprano    a/2 b e
+alto       e d d c
+tenor      e/8 a/8 f# g g
+bass       c d g- c/8 b/8
+
+# measure 16
+soprano    f e d- g
+alto       c/8 b/8 c c b
+tenor      f g a d-/8 g/8
+bass       a g- f- g-
+
+# measure 17
+soprano    e/2.
+alto       c/2.
+tenor      g/2.
+bass       c/2.
+
+
+

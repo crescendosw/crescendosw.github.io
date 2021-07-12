@@ -1,0 +1,70 @@
+title      O Savior, Rend the Heavens
+author     Frederich von Spee, 1623; tr. Martin L. Seltz, 1965 (c)O HEILAND, REISS
+composer   Rheinfelssisch Deutsches Catholisches Gesangbuch, 1666 
+key        F
+tempo      100
+rhythm     6 : 4
+verse_count 5
+copyright  Text: Concordia Publishing House, 1969. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/557%20O%20Savior,%20Rend%20the%20Heavens.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      f
+bass       d
+
+# measure 2
+soprano    f/2 g a/2 d-
+alto       d/2 e e/2 d
+tenor      a/2 c c/2 a
+bass       d/2 c a/2 d
+
+# measure 3
+soprano    f e/2 d-/2.
+alto       d d c d/2.
+tenor      bb g/2 f/2.
+bass       bb c/2 d/2.
+
+# measure 4
+soprano    a a bn c/2 f
+alto       d e d c/2 d
+tenor      f a g# a/2 a
+bass       d c bn a/2 d
+
+# measure 5
+soprano    a g/2 f/2.
+alto       e f e c/2.
+tenor      a bb/2 a/2.
+bass       c bb c f/2.
+
+# measure 6
+soprano    c c c c/2 a
+alto       e f g f/2 e
+tenor      g g g a/2 a
+bass       c d e f/2 c
+
+# measure 7
+soprano    d/2 d c/2.
+alto       d e f e/2.
+tenor      bb/2 bb g/2.
+bass       bb/2 bb c/2.
+
+# measure 8
+soprano    a a g a/2 f
+alto       c f e e/2 f
+tenor      a d bn c#/2 d
+bass       f d e a+/2 d
+
+# measure 9
+soprano    g e/2 d-/2
+alto       d d c# d/2
+tenor      bb a/2 f/2
+bass       g a+/2 d/2
+
+
+

@@ -1,0 +1,64 @@
+title      Hear How the LORD on Sinai's Mountain
+author     William Helder, 1979 (c) O DIEU, DONNE-MOY DELIVRANCE
+composer   Genevan Psalter, 1543; harm. Claude Goudimel, 1564
+key        G
+tempo      165
+rhythm     0 : 4
+verse_count 8
+copyright  Text: William Helder, 1979. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/708%20Hear%20How%20the%20LORD%20on%20Sinai's%20Mountain.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 g a b/2 b c/2 c b/2 a/1
+alto       d/2 e f# g/2 g g/2 g g/2 f#/1
+tenor      b/2 b d d/2 d e+/2 e+ d/2 d/1
+bass       g/2 e d g/2 g c/2 c g/2 d/1
+
+# measure 2
+soprano    b/2 c b a g f#/2 g/2 a/1
+alto       g/2 g g f# e d#/2 e/2 f#/1
+tenor      d/2 e+ d d b b/2 b/2 d/1
+bass       g/2 c g d e b/2 e/2 d/1
+
+# measure 3
+soprano    d/2 c b a/2 f#/2 g f# e/2 d-/1
+alto       g/2 e g f#/2 d/2 e d/2 c# d/1
+tenor      b/2 g d d/2 a/2 c a a/2 a/1
+bass       g-/2 c g- d/2 d/2 c d a/2 d/1
+
+# measure 4
+soprano    b/2 c b a g b/2 a/2 g/1
+alto       g/2 g g f# e f# g/2 f# g/1
+tenor      d/2 e+ d d b d/2 d/2 d/1
+bass       g/2 c g d e b/2 d/2 g-/1
+
+# measure 5
+soprano    g/2 g a b/2 b c/2 c b/2 a/1
+alto       d/2 e f# g/2 g g/2 g g/2 f#/1
+tenor      b/2 b d d/2 d e+/2 e+ d/2 d/1
+bass       g/2 e d g/2 g c/2 c g/2 d/1
+
+# measure 6
+soprano    b/2 c b a g f#/2 g/2 a/1
+alto       g/2 g g f# e d#/2 e/2 f#/1
+tenor      d/2 e+ d d b b/2 b/2 d/1
+bass       g/2 c g d e b/2 e/2 d/1
+
+# measure 7
+soprano    d/2 c b a/2 f#/2 g f# e/2 d-/1
+alto       g/2 e g f#/2 d/2 e d/2 c# d/1
+tenor      b/2 g d d/2 a/2 c a a/2 a/1
+bass       g-/2 c g- d/2 d/2 c d a/2 d/1
+
+# measure 8
+soprano    b/2 c b a g b/2 a/2 g/1
+alto       g/2 g g f# e f# g/2 f# g/1
+tenor      d/2 e+ d d b d/2 d/2 d/1
+bass       g/2 c g d e b/2 d/2 g-/1
+
+
+

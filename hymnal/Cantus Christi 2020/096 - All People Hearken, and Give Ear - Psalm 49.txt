@@ -1,0 +1,116 @@
+title      All People Hearken, and Give Ear
+author     John Hopkins, 1562DARK PARABLE  
+composer   Mark Reagan, 2008 (c)
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 9
+copyright  Arrangement: Mark Reagan, 2008. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/96%20All%20People%20Hearken%20-%20Psalm%2049%20DARK%20PARABLE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/8 e/8
+alto       d
+tenor      d
+bass       d
+
+# measure 2
+soprano    f e f g
+alto       d e c e
+tenor      d a c c
+bass       d c a c
+
+# measure 3
+soprano    a c b. c/8
+alto       f g g. c/8
+tenor      c e+ d. f+/8
+bass       f e/8 f/8 g. a+/8
+
+# measure 4
+soprano    d c b a/8 g/8
+alto       g g f f
+tenor      d e+ f+ d
+bass       b+ c+ d+ b+
+
+# measure 5
+soprano    a/2. b
+alto       e/2. g
+tenor      d/2 c b
+bass       a+/2. e
+
+# measure 6
+soprano    c. b/8 a d-/8 e/8
+alto       e. e/8 e d
+tenor      a. b/8 c a
+bass       a+. g/8 a+ f
+
+# measure 7
+soprano    f g a. f/8
+alto       d e f. f/8
+tenor      a c c d/8 c/8
+bass       d c f d
+
+# measure 8
+soprano    g f d- f
+alto       d c d d
+tenor      bb c a bb
+bass       g a+ f d
+
+# measure 9
+soprano    g/2. c-
+alto       e/2. c
+tenor      g/2. c
+bass       c/2. c
+
+# measure 10
+soprano    f. g/8 a f
+alto       c. c/8 f/8 e/8 f/8 d/8
+tenor      a. c/8 c d
+bass       f. e/8 f d
+
+# measure 11
+soprano    a b c a/8 b/8
+alto       e f/8 g/8 a+ e
+tenor      a d e+ c
+bass       c b a a+/8 g/8
+
+# measure 12
+soprano    c d e+ c
+alto       a+ b+ c+ g
+tenor      c f+ g+ e+
+bass       f d c e
+
+# measure 13
+soprano    b/2. c/8 b/8
+alto       g/2. g
+tenor      d/2. c
+bass       g/2. e
+
+# measure 14
+soprano    a g a f
+alto       f e c d
+tenor      c b a b
+bass       f g f d
+
+# measure 15
+soprano    e d- g. a/8
+alto       d. c/8 b b
+tenor      g f g g
+bass       c a g- g/8 f/8
+
+# measure 16
+soprano    g f e/8 d-/8 c-
+alto       c d b c
+tenor      g a b a/8 g/8
+bass       e f g e
+
+# measure 17
+soprano    d-/2.
+alto       a/2.
+tenor      f/2.
+bass       d/2.
+

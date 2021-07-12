@@ -1,0 +1,63 @@
+title      Come, Ye Faithful, Raise the Strain
+author     John of Damascus, c. 700s; tr. John Mason Neale, 1859AVE VIRGO VIRGINUM
+composer   Bohemian Brethren's Gesangbuch, 1544
+key        G
+tempo      135
+rhythm     0 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/634%20Come,%20Ye%20Faithful,%20Raise%20the%20Strain.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g d- d- g a b/2
+alto       d d d d e f# g/2
+tenor      b b a a b d d/2
+bass       g g f# f# e d g/2
+
+# measure 2
+soprano    e+/2 d/2 c b a/2 g/2
+alto       g/2 f#/2 e d d/2 d/2
+tenor      c/2 a/2 g g g f# b/2
+bass       c/2 d/2 e/8 f#/8 g d/2 g-/2
+
+# measure 3
+soprano    g g d- d- g a b/2
+alto       d d d d e f# g/2
+tenor      b b a a b d d/2
+bass       g g f# f# e d g/2
+
+# measure 4
+soprano    e+/2 d/2 c b a/2 g/2
+alto       g/2 f#/2 e d d/2 d/2
+tenor      c/2 a/2 g g g f# b/2
+bass       c/2 d/2 e/8 f#/8 g d/2 g-/2
+
+# measure 5
+soprano    d/2 e+/2 d c b b a/2
+alto       g/2 g/2 f# e d d d/2
+tenor      b/2 c/2 a g g g f#/2
+bass       g/2 c/2 d e g g- d/2
+
+# measure 6
+soprano    b/2 a g/2 f# e/2 d-/2
+alto       g/2 e d/2 d c#/2 d/2
+tenor      d/2 c b/2 a a/2 f#/2
+bass       g-/2 a b/2 d a/2 d/2
+
+# measure 7
+soprano    g g d- d- g a b/2
+alto       b b d d e f# g/2
+tenor      g g a a b d d/2
+bass       e e f# f# e d g/2
+
+# measure 8
+soprano    e+/2 d/2 c b a/2 g/2
+alto       g/2 g/2 g g e d d/2
+tenor      c/2 d/2 g g g f# b/2
+bass       c/2 b/2 e d c d g-/2
+
+
+

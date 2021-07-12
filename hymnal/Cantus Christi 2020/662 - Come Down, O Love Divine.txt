@@ -1,0 +1,123 @@
+title      Come Down, O Love Divine
+author     Bianco da Siena (?-1434); tr. Richard F. Littledale, 1867DOWN AMPNEY
+composer   Ralph Vaughan Williams, 1906
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/662%20Come%20Down,%20O%20Love%20Divine.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 e f#
+alto       a/2 a d
+tenor      f#/2 a d-
+bass       d/2 c# d
+
+# measure 2
+soprano    a/2 b/2
+alto       d c# b c#
+tenor      e/2 g e
+bass       a/2 g-/2
+
+# measure 3
+soprano    a/1
+alto       d/1
+tenor      f#/1
+bass       d/1
+
+# measure 4
+soprano    a/2 b a
+alto       f#/2 f# e
+tenor      a/2 d- e
+bass       d/2 d c#
+
+# measure 5
+soprano    d c# b/2
+alto       d e d/2
+tenor      f# a a g#
+bass       b c# e/2
+
+# measure 6
+soprano    a/2 a/2
+alto       c#/2 d/2
+tenor      a/2 f#/2
+bass       a/2 d/2
+
+# measure 7
+soprano    b a g f#
+alto       d c# d d
+tenor      g e g a
+bass       g- a b d
+
+# measure 8
+soprano    e d- e f#/8 g/8
+alto       b d d d
+tenor      g a b b
+bass       g f# g e
+
+# measure 9
+soprano    e/2 d-/2
+alto       d c# d/2
+tenor      a. g/8 f#/2
+bass       a/2 d/2
+
+# measure 10
+soprano    d/2 c# b
+alto       f#/2 f# d
+tenor      b/2 a b
+bass       b+/2 f# g
+
+# measure 11
+soprano    a/2 b/2
+alto       f#/2 e d
+tenor      d c# b/2
+bass       d f# g#/2
+
+# measure 12
+soprano    a/1
+alto       c#/1
+tenor      c#/1
+bass       a+/1
+
+# measure 13
+soprano    cn/2 b a
+alto       e/2 d d
+tenor      g a b f#
+bass       e f# g d
+
+# measure 14
+soprano    g/2 f#/2
+alto       b c# d/2
+tenor      g/2 a b
+bass       e/2 f# g
+
+# measure 15
+soprano    e/2 e/2
+alto       c#/2 c#/2
+tenor      c#/2 a/2
+bass       a+/2 a g-
+
+# measure 16
+soprano    a b a g
+alto       d d c# d/8 e/8
+tenor      a g e b
+bass       f#- g- a b/8 c#/8
+
+# measure 17
+soprano    f# d- e f#/8 g/8
+alto       d d d d
+tenor      a a b g
+bass       d f# g e
+
+# measure 18
+soprano    e/2 d-/2
+alto       d c# d/2
+tenor      a. g/8 f#/2
+bass       a/2 d/2
+
+
+

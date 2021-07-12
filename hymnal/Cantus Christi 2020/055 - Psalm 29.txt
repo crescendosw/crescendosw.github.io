@@ -1,0 +1,79 @@
+title      Psalm 29
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2014
+key        Bb
+rhythm     0 : 4
+tempo      120
+#tempo change (180) needed at measure 10
+
+#hyperlink  https://www.youtube.com/watch?v=Mm6Kz7Znejo
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     d- | g/8 - f/8 g/8 a/8 g a/8 b/8 | c/8 - b/8 a/8 - g/8 f# d- | g/8 - f/8 g/8 a/8 g - f | g/8 g/8 a b d-
+
+unison     g/8 - f/8 g/8 a/8 g a/8 - b/8 | c/8 - b/8 a/8 - g/8 f#/8 - g/8 a/8 g/8 | f#/1
+
+unison     g/8 a/8 b/8 - c/8 d c/8 b/8 | a/8 b/8 a/8 - g/8 g f | g/2. g
+
+unison     b/8 g/8 f/8 g g f/8 g/8 a/8 | b/8 - a/8 g/2 g | c g f e | d- d-/2 d-
+
+unison     e/8. - d-/16 e/8 - f/8 g/8 f/8 e/8 d-/8 | e - g f#/2. g
+
+unison     b/8 g/8 f/8 g. f/8 - g/8 | b/8 a/8 g/2 g | c/8 g/8 f/8 g g/8 f/8 g/8 | b/8 a/8 g/2 g
+
+unison     b/8 g/8 f/8 g. f/8 g/8 | b/8 - a/8 g/2 g/8 g/8 | c/8 - g/8 - f/8 g g/8 g/8 f/8 g/8 a/8 | b/8 a/8 g/2 d-
+
+unison     e/8. d-/16 e/8 f/8 g f/8 e/8 | d-/1 | e/8. d-/16 e/8 f/8 g/8 f/8 e/8 d-/8 | e g f#/2. g
+
+unison     b/8 g/8 f/8 g g/8 f/8 g/8 | b/8 a/8 g/2 g | c/8 g/8 f/8 g. f/8 g/8 | b/8 a/8 g/2 d-
+
+unison     e/8. - d-/16 e/8 f/8 g/8 f/8 e/8 d-/8 | e - g f#/2. g
+
+unison     b/8 g/8 f/8 g. f/8 g/8 | b a g g | c g f e | d-/2. d-
+
+unison     e f g f | g/8 a/8 b c/2 | d/1 | d/2. d-
+
+unison     g/8 - f/8 g/8 a/8 g a/8 b/8 | c/8 - b/8 - a/8 - g/8 - f# d-/8 d-/8 | g/8 - f/8 g/8 a/8 g f | g - a b d-
+
+unison     g/8 - f/8 g/8 a/8 g a/8 b/8 | c/8 - b/8 - a/8 - g/8 f#/2. f#
+
+unison     g/8 - a/8 b/8 - c/8 d c/8 - b/8 | a/8 - b/8 a/8 - g/8 g - f | g/1
+
+verse      Give un - to the Lord, O you might - y ones, Give un - to the Lord glo - ry and strength.
+
+verse      Give un - to the Lord the glo - ry due to His name;
+
+verse      Wor - ship the Lord in the beau - ty of ho - li - ness.
+
+verse      The voice of the Lord is o - ver the waters; The God of glo - ry thun - ders;
+
+verse      The Lord is o - ver many waters.
+
+verse      The voice of the Lord is pow - er - ful; The voice of the Lord is full of maj - es - ty.
+
+verse      The voice of the Lord breaks the ce - dars, Yes, the Lord splin - ters the ce - dars of Leb - a - non.
+
+verse      He makes them al - so skip like a calf, Leb - a - non and Sir - ion like a young wild ox.
+
+verse      The voice of the Lord di - vides the flames of fire.  The voice of the Lord shakes the wild - er - ness;
+
+verse      The Lord shakes the Wild - er - ness of Ka - desh.
+
+verse      The voice of the Lord makes the deer give birth, And strips the for - ests bare;
+
+verse      And in His temple ev - 'ry - one says, Glo - ry!
+
+verse      The Lord sat enthroned at the Flood, And the Lord sits as King for - ev - er.
+
+verse      The Lord will give strength to His peo - ple;
+
+verse      The Lord will bless His peo - ple with peace.

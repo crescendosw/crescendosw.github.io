@@ -1,0 +1,70 @@
+title      I Cry Aloud, O LORD, to You
+author     Donald P. Owens II, 2011 (c)  HERR, MEIN GOTT, WENN ICH [BECKER 141]
+composer   Heinrich Schütz, 1628
+key        C
+tempo      200
+rhythm     0 : 4
+verse_count 4
+copyright  Text: Donald P. Owens II, 2011. All Rights Reserved. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/283%20I%20Cry%20Aloud,%20O%20LORD%20-%20Psalm%20141%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d/2 b/2 c a/2 g a b g/2
+alto       f/2 e/2 e d/2 g- d b e/2
+tenor      a/2 g/2 a f/2 c a d c/2
+bass       d/2 e/2 a d/2 e f g c/2
+
+# measure 2
+soprano    a/2 c/2 d bb/2 a g/2 a/2
+alto       f/2 e/2 a+ g/2 f d/2 e/2
+tenor      c/2 c/2 a d/2 c# d/2 c#/2
+bass       f/2 a+/2 f# g/2 a+ bb+/2 a+/2
+
+# measure 3
+soprano    c#/2 d/2 b cn/2 a bb g a/2
+alto       a+/2 a+/2 g g/2 f f g c/2
+tenor      e+/2 a/2 d g/2 c d c/8 bb/8 a/2
+bass       a+/2 f#/2 g e/2 fn d e f/2
+
+# measure 4
+soprano    f/2 g/2 e f/2 d- e/2 d-/2
+alto       d/2 d/2 c c/2 d d c# d/2
+tenor      a/2 d-/2 g a/2 f bb a a/2
+bass       d/2 b/2 c a/2 bb g- a d/2
+
+# measure 5
+soprano    a/2 f/2 c a/2 g a g/8 f/8 e/2
+alto       a/2 d/2 c/2 f g c d g-/2
+tenor      f/2 a/2 g c/2 c a b c/2
+bass       d/2 d/2 e f/2 e f d c/2
+
+# measure 6
+soprano    g/2 a/2 b c/2 c d/2 g/2
+alto       e/2 e/2 e a+/2 g f/2 e/2
+tenor      b/2 c/2 b a/2 c/2 b c/2
+bass       e/2 a+/2 g f/2 e d/2 c/2
+
+# measure 7
+soprano    R c/2 a f/2 e/2
+alto       R e/2 e d/2 c#/2
+tenor      R a/2 e a/2 a/2
+bass       R a/2 c# d/2 a/2
+
+# measure 8
+soprano    R a f bb a/2 g/2 f/2
+alto       R c d d c/2 c/2 c/2
+tenor      R f d- g/2 f/2 e f/2
+bass       R f- bb g- a/2 c/2 f-/2
+
+# measure 9
+soprano    c-/2 g/2 a f/2 d- e/2 d-/1
+alto       g-/2 d/2 a a/2 d d c# d/1
+tenor      e/2 d-/2 e f/2 f bb a a/1
+bass       c/2 b/2 c# d/2 bb g- a d/1
+
+
+

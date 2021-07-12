@@ -1,0 +1,40 @@
+title      God the LORD Is King
+author     Dirk van der Boom, 1972 & William Helder, 1980 (c)OR EST MAINTENANT [GENEVAN 99]
+composer   Genevan Psalter, 1562; harm. Claude Goudimel, 1564
+key        G
+tempo      175
+rhythm     0 : 4
+verse_count 6
+copyright  Text: Standing Committee for the Publication of the Book of Praise, 1984. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/183%20God%20the%20LORD%20Is%20King%20-%20Psalm%2099%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 d-/2 e f# g b/2 b c a g/1
+alto       d/2 b/2 g- d d d/2 d e d d/1
+tenor      b/2 d/2 c a b g/2 g g f# g/1
+bass       g-/2 g-/2 c d g- g/2 g c d g-/1
+
+# measure 2
+soprano    d/2 d/2 b c d b/2 d c c b/1
+alto       g/2 f#/2 e e f# d/2 g a+ a+ g#/1
+tenor      b/2 a/2 g# a a gn/2 b e+ e+ e+/1
+bass       g/2 d/2 e a d gn/2 gn a+ a+ e/1
+
+# measure 3
+soprano    d/2 c/2 b a g e/2 f# g e d-/1
+alto       g/2 e/2 d d b c#/2 d d c# d/1
+tenor      b/2 g/2 g f# g a/2 a b a f#/1
+bass       g/2 c/2 g d e a/2 d g- a d/1
+
+# measure 4
+soprano    d-/2 g/2 a b c/2 b g/2 a b c a/2 g/1
+alto       b/2 d/2 d d e/2 d b/2 d d e d/2 d/1
+tenor      g/2 b/2 a g a/2 f# e/2 f# g g/2 f# g/1
+bass       g-/2 g-/2 d b a/2 b e/2 d g c d/2 g-/1
+
+
+

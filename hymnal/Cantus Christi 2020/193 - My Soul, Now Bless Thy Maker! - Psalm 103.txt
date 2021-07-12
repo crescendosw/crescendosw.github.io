@@ -1,0 +1,93 @@
+title      My Soul, Now Bless Thy Maker!
+author     Catherine Winkworth, 1863NON LOB MEIN SEEL [BECKER 103]
+composer   Johann Kugelmann, 1540; arr. Heinrich Schütz, 1628
+key        Ab
+tempo      200
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/193%20My%20Soul,%20Now%20Bless%20-%20Psalm%20103%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    ab ab/2 g f/2 eb ab/2 bb c/2
+alto       eb eb/2 eb c/2 c c/2 eb eb/2
+tenor      c c/2 bb ab/2 g f ab g ab/2
+bass       ab+ ab+/2 eb f/2 c f/2 eb ab+/2
+
+# measure 2
+soprano    c c/2 c c/2 bb ab bb/2 ab/2. = ab/2
+alto       ab+ ab+/2 ab+ ab+/2 g f/2 g eb/2. = eb/2
+tenor      eb+ eb+/2 eb+ eb+/2 eb+ c db bb c/2. = c/2
+bass       ab+ ab+/2 ab+ ab+/2 eb f db eb ab/2. = ab/2
+
+# measure 3
+soprano    ab ab/2 g f/2 eb ab/2 bb c/2
+alto       eb eb/2 eb c/2 c c/2 eb eb/2
+tenor      c c/2 bb ab/2 g f ab g ab/2
+bass       ab+ ab+/2 eb f/2 c f/2 eb ab+/2
+
+# measure 4
+soprano    c c/2 c c/2 bb ab bb/2 ab/2. = ab/2
+alto       ab+ ab+/2 ab+ ab+/2 g f/2 g eb/2. = eb/2
+tenor      eb+ eb+/2 eb+ eb+/2 eb+ c db bb c/2. = c/2
+bass       ab+ ab+/2 ab+ ab+/2 eb f db eb ab/2. = ab/2
+
+# measure 5
+soprano    ab ab/2 c bb/2 c ab/2 g f/2
+alto       eb f/2 ab+ g/2 g f/2 en f/2
+tenor      c db/2 eb+ eb+/2 eb+ c/2. c/2
+bass       ab db/2 ab eb/2 c f-/8 g-/8 ab/8 bb/8 c f-/2
+
+# measure 6
+soprano    ab bb/2 g ab f/2 eb/2. = eb/2
+alto       f f/2 eb eb dn/2 eb/2. = eb/2
+tenor      c f/2 bb c bb/2 bb/2. = bb/2
+bass       f dn/2 eb ab bb/2 eb-/2. = eb-/2
+
+# measure 7
+soprano    eb ab/2 ab bb/2 bb c/2. ab/2
+alto       bb db/2 eb db/2 bb eb/2. db/2
+tenor      g f/2 eb f/2 g ab. g/8 eb f/2
+bass       eb db/2 c bb/2 eb ab/2. db/2
+
+# measure 8
+soprano    c db/2 db c/2 c bb/2. = bb/2
+alto       eb f/2 gb gb f/2 f/2. = f/2
+tenor      eb db- bb- bb bb/2 an bb/2. = bb/2
+bass       c bb bb+ gb eb f/2 bb/2. = bb/2
+
+# measure 9
+soprano    bb c/2 c db/2 db eb+/2. ab/2
+alto       eb eb/2 f f gb ab+ gb/2. f/2
+tenor      g ab/2 ab ab bb db db. c/16 bb/16 c db/2
+bass       eb ab+/2 f db gb f eb/2. db/2
+
+# measure 10
+soprano    c bb/2 g ab f/2 eb/2. = eb/2
+alto       ab+ f/2 eb eb dn/2 eb/2. = eb/2
+tenor      eb+ db/2 c c bb/2 bb/2. = bb/2
+bass       ab bb/2 c ab bb/2 eb-/2. = eb-/2
+
+# measure 11
+soprano    eb ab/2 g f/2 eb bb/2. bb/2
+alto       c eb/2 c ab/2 c f/2. g/2
+tenor      ab c/2 eb+ db/2 eb+ dn/2. eb+/2
+bass       ab ab/2 c db/2 ab bb/2. eb/2
+
+# measure 12
+soprano    c db c bb ab/2 g ab/2 bb c/2
+alto       ab+ ab+/2 f eb f eb c/2 bb eb/2
+tenor      eb+ f+ eb+ db c bb/2 ab/2 eb+ c/2
+bass       ab db ab bb c db eb f/2 g ab+/2
+
+# measure 13
+soprano    c db c bb ab/2 g ab/2. = ab/2
+alto       ab+ ab+/2 f eb f eb eb/2. = eb/2
+tenor      eb+ f+ eb+ db c bb/2 c/2. = c/2
+bass       ab db ab bb c db eb ab/2. = ab/2
+
+
+

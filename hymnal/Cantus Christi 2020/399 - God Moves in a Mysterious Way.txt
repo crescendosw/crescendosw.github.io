@@ -1,0 +1,103 @@
+title      God Moves in a Mysterious Way
+author     William Cowper, 1774UNION
+composer   Alexander Gillet, 1867 
+key        Bb
+tempo      118
+rhythm     3 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/399%20God%20Moves%20in%20a%20Mysterious%20Way.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb
+alto       d
+tenor      f
+bass       bb
+
+# measure 2
+soprano    g/2 c
+alto       bb/2 c
+tenor      g/2 g
+bass       eb/2 c
+
+# measure 3
+soprano    c/2 a
+alto       a/2 bb/8 c/8
+tenor      f/2 f/8 g/8
+bass       f/2 d/8 c/8
+
+# measure 4
+soprano    bb/8. c/16 d c/8 bb/8
+alto       d/8. c/16 bb bb
+tenor      bb/2 g
+bass       bb/2 c/8 g/8
+
+# measure 5
+soprano    a/2 c
+alto       a/2 f
+tenor      c/2 a
+bass       f/2 f
+
+# measure 6
+soprano    eb+/2 c
+alto       g/2 f
+tenor      bb/2 f
+bass       eb/2 f
+
+# measure 7
+soprano    d. c/8 bb
+alto       d. eb/8 d
+tenor      bb/2 bb/12 c/12 d/12
+bass       g. a+/8 bb+
+
+# measure 8
+soprano    a/2 a
+alto       c/2 c
+tenor      c/2 c
+bass       f/2 f
+
+# measure 9
+soprano    g/2 c
+alto       bb/2 a
+tenor      d/2 c
+bass       bb+/2 f
+
+# measure 10
+soprano    bb/8. c/16 d bb
+alto       bb/2 d
+tenor      bb/8. c/16 bb g
+bass       g/2 f/8 eb/8
+
+# measure 11
+soprano    a/2 d
+alto       f/8. eb/16 d bb
+tenor      a/8. g/16 f bb
+bass       d/8. c/16 d bb
+
+# measure 12
+soprano    c/2 c
+alto       a/2 a
+tenor      c/2 f
+bass       f/2 f
+
+# measure 13
+soprano    bb/2 d
+alto       bb/2 bb
+tenor      g/2 bb
+bass       eb/2 g
+
+# measure 14
+soprano    g/2 f
+alto       bb/2 a
+tenor      d/2 c
+bass       bb+/2 f
+
+# measure 15
+soprano    bb/2
+alto       bb/2
+tenor      bb/2
+bass       bb/2
+

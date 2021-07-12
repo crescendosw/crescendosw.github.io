@@ -1,0 +1,69 @@
+title      To Christ the Lord Let Every Tongue
+author     Samuel Stennett (1727-1795)EBEN
+composer   William Henry Havergal (1793-1870)
+key        Ab
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/326%20To%20Christ%20the%20Lord%20Let%20Every%20Tongue.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    ab
+alto       c
+tenor      eb
+bass       ab
+
+# measure 2
+soprano    c bb ab g
+alto       eb db c db
+tenor      eb eb eb bb
+bass       ab g- ab bb
+
+# measure 3
+soprano    ab f eb f
+alto       eb db bb db
+tenor      ab ab g ab
+bass       c db eb db
+
+# measure 4
+soprano    ab g f en
+alto       eb db c c
+tenor      c bb ab g
+bass       ab bb c c
+
+# measure 5
+soprano    f/2. ab
+alto       c/2. eb
+tenor      ab/2. c
+bass       f/2. ab+
+
+# measure 6
+soprano    ab g ab bb
+alto       eb eb eb eb
+tenor      eb+ db c bb
+bass       c+ bb+ ab+ g
+
+# measure 7
+soprano    c db eb+ ab
+alto       eb ab+ g c
+tenor      ab ab bb ab
+bass       ab+ f eb f
+
+# measure 8
+soprano    c bb ab g
+alto       eb f eb eb
+tenor      ab db c bb
+bass       c db eb eb
+
+# measure 9
+soprano    ab/2.
+alto       eb/2.
+tenor      c/2.
+bass       ab/2.
+
+
+

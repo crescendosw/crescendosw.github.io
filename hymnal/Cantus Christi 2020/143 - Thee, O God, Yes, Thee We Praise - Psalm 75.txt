@@ -1,0 +1,52 @@
+title      Thee, O God, Yes, Thee We Praise
+author     Walter van der Kamp, 1972, et. al. (c)O SEIGNEUR, LOUÉ SERA [GENEVAN 75]
+composer   Genevan Psalter, 1562; harm. Claude Goudimel, 1564
+key        F
+tempo      165
+rhythm     0 : 4
+verse_count 6
+copyright  Text: Standing Committee for the Publication of the Book of Praise, 1984. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/143%20Thee,%20O%20God,%20Yes,%20Thee%20-%20Psalm%2075%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c/2 bb/2 a d c/2 bb/2 a
+alto       a+/2 g/2 f bb+ a+/2 g/2 f
+tenor      f+/2 d/2 d f+ f+/2 d/2 d
+bass       f/2 g/2 d bb f/2 g/2 d
+
+# measure 2
+soprano    d c/2 bb/2 a/2 g g f/1
+alto       bb+ a+/2 g/2 f/2 e e f/1
+tenor      f+ f+/2 d/2 d c c/2 c/1
+bass       bb f/2 g/2 d f c/2 f/1
+
+# measure 3
+soprano    f/2 a/2 g c c bn c/2
+alto       c/2 f/2 e e f d e/2
+tenor      a/2 c/2 c g a g g/2
+bass       f/2 f/2 c c f g c/2
+
+# measure 4
+soprano    d d c a bb bb a/1
+alto       bb+ bb+ a+ a+ g g f#/1
+tenor      f+ f+ f+ f+ d d d/1
+bass       bb bb f f g g d/1
+
+# measure 5
+soprano    c/2 bb/2 a c bb a g/1
+alto       fn/2 d/2 f g g f e/1
+tenor      a/2 g/2 d g g c c/1
+bass       f/2 g/2 d c eb f c/1
+
+# measure 6
+soprano    a/2 c/2 f bb a/2 g/2 f/1
+alto       f/2 a+/2 f g/2 f/2 e f/1
+tenor      c/2 f+/2 a d c/2 c/2 c/1
+bass       f/2 f/2 d bb f/2 c/2 f/1
+
+
+

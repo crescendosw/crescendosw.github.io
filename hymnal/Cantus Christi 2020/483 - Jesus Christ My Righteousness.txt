@@ -1,0 +1,112 @@
+title      Jesus Christ My Righteousness
+author     Valerie Anne Bost, 2001 (c)PAULSGROVE
+composer   W. H. Hitchens 
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 4
+copyright  Text: Valerie Anne Bost, 2001. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/483%20Jesus%20Christ%20My%20Righteousness.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a. a/8 d a
+alto       f#. f#/8 d f#
+tenor      d. d/8 a d
+bass       d. d/8 f# d
+
+# measure 2
+soprano    c# b a/2
+alto       g g g/2
+tenor      c# d e+/2
+bass       e d c#/2
+
+# measure 3
+soprano    a f# d- g
+alto       f# c# d e
+tenor      a a# b b
+bass       d f#- b g-
+
+# measure 4
+soprano    f#/2 e/2
+alto       d/2 c#/2
+tenor      a/2 a/2
+bass       a/2 a+ g
+
+# measure 5
+soprano    a. a/8 d a
+alto       d. c#/8 d d
+tenor      a. g/8 f# a
+bass       f#. e/8 d f#
+
+# measure 6
+soprano    c# b a/2
+alto       e d c#/2
+tenor      a g# a/2
+bass       e e a g-
+
+# measure 7
+soprano    a d- f# g
+alto       c# d d d
+tenor      a f# a b
+bass       f#- b a g-
+
+# measure 8
+soprano    e/2 d-/2
+alto       d c# d/2
+tenor      a/2 f#/2
+bass       a/2 d/2
+
+# measure 9
+soprano    f#. f#/8 b d
+alto       d. e/8 d f#
+tenor      a. a#/8 b b
+bass       d. c#/8 b b
+
+# measure 10
+soprano    c# c# b/2
+alto       g f#/8 e/8 d/2
+tenor      b a# b/2
+bass       e f# b/2
+
+# measure 11
+soprano    d f# b g
+alto       d c# b e
+tenor      f# f# g b
+bass       b a g- g-
+
+# measure 12
+soprano    f#/2 e/2
+alto       d/2 c#/2
+tenor      a/2 a/2
+bass       a/2 a/2
+
+# measure 13
+soprano    a. a/8 d a
+alto       c#. c#/8 d d
+tenor      a. a/8 a a
+bass       a+. g/8 f# fn
+
+# measure 14
+soprano    c# b a/2
+alto       g g g c#
+tenor      a b e+ g
+bass       e d c# a
+
+# measure 15
+soprano    a d- f# g
+alto       d d d d
+tenor      f# a b b
+bass       d f#- b g-
+
+# measure 16
+soprano    e/2 d-/2
+alto       d c# d/2
+tenor      a/2 f#/2
+bass       a/2 d/2
+
+
+

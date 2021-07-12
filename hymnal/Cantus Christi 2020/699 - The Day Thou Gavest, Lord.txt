@@ -1,0 +1,117 @@
+title      The Day Thou Gavest, Lord
+author     John Ellerton, 1870ST. CLEMENT
+composer   Clement A. Schofield, 1874
+key        G
+tempo      100
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/699%20The%20Day%20Thou%20Gavest,%20Lord.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      d-
+bass       d
+
+# measure 2
+soprano    b c b
+alto       d e d
+tenor      g/2 g
+bass       g-/2 g
+
+# measure 3
+soprano    d b a
+alto       f#/2 f#
+tenor      a d c
+bass       d/2 d
+
+# measure 4
+soprano    g a e
+alto       e/2 e
+tenor      b c a
+bass       e a c
+
+# measure 5
+soprano    g f# e
+alto       c c c
+tenor      a a g
+bass       d d e
+
+# measure 6
+soprano    d-/2 d-
+alto       c b d
+tenor      a b a
+bass       f# g f#
+
+# measure 7
+soprano    g a b
+alto       e/2 d
+tenor      b/2 g
+bass       e/2 e
+
+# measure 8
+soprano    a/2 g
+alto       d c# c#
+tenor      e/2 a
+bass       a/2 a
+
+# measure 9
+soprano    f#/2 d-
+alto       d/2 d
+tenor      a/2 a
+bass       d/2 f#
+
+# measure 10
+soprano    b c b
+alto       d e d
+tenor      g/2 g
+bass       g/2 g
+
+# measure 11
+soprano    d b a
+alto       f#/2 f#
+tenor      a d c
+bass       d/2 d
+
+# measure 12
+soprano    g a e
+alto       e/2 e
+tenor      b c a
+bass       e a c
+
+# measure 13
+soprano    g f# e
+alto       c c a
+tenor      a a f#
+bass       d d c
+
+# measure 14
+soprano    d- e f#
+alto       d/2 c
+tenor      g/2 a
+bass       b/2 d
+
+# measure 15
+soprano    g b a
+alto       b d e
+tenor      g/2 c
+bass       e b c
+
+# measure 16
+soprano    e g f#
+alto       e/2 d
+tenor      c/2 a
+bass       c a d
+
+# measure 17
+soprano    g/2
+alto       d/2
+tenor      b/2
+bass       g-/2
+
+
+

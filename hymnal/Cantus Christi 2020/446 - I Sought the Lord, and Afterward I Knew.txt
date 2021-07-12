@@ -1,0 +1,106 @@
+title      I Sought the Lord, and Afterward I Knew
+author     The Pilgrim Hymnal, 1904FAITH (Moyer)
+composer   J. Harold Moyer, 1965 (c)
+key        G
+tempo      100
+rhythm     4 : 4
+verse_count 3
+copyright  Music: 1969, Faith and Life Press/ Mennonite Publishing House; admin. MennoMedia, Inc. All Rights Reserved. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/446%20I%20Sought%20the%20Lord,%20and%20Afterward%20I%20Knew.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e/2 e e
+alto       e/2 e e
+tenor      e/2 e e
+bass       e/2 e e
+
+# measure 2
+soprano    b/2. b
+alto       b+/2. b+
+tenor      b/2. b
+bass       b+/2. b+
+
+# measure 3
+soprano    a b a d-
+alto       a+ b+ a+ d
+tenor      a b a d-
+bass       a+ b+ a+ d
+
+# measure 4
+soprano    e/2. f#
+alto       e/2. e
+tenor      e/2. a
+bass       e/2. e
+
+# measure 5
+soprano    g/2 e/2
+alto       e/2 b/2
+tenor      b/2 g/2
+bass       e/2 e/2
+
+# measure 6
+soprano    a/2 b/2
+alto       d/2 d/2
+tenor      f#/2 g/2
+bass       d/2 g/2
+
+# measure 7
+soprano    d c# b a
+alto       e e e f#
+tenor      g a b c#
+bass       e e f# f#
+
+# measure 8
+soprano    b/2. b
+alto       d#/2. e
+tenor      b/2. g
+bass       b/2. e
+
+# measure 9
+soprano    e+/2 d/2
+alto       g/2 f#/2
+tenor      c/2 a/2
+bass       c/2 d/2
+
+# measure 10
+soprano    b/2 b c
+alto       d/2 e/2
+tenor      b/2 g/2
+bass       g/2 e c
+
+# measure 11
+soprano    d. b/8 a g
+alto       f#. d/8 e e
+tenor      b. b/8 a b
+bass       b. b/8 c e
+
+# measure 12
+soprano    a/2. b
+alto       f#/2. f#
+tenor      d/2. d
+bass       d/2. b
+
+# measure 13
+soprano    d/2 b/2
+alto       g/2 d/2
+tenor      b/2 f#/2
+bass       g-/2 b/2
+
+# measure 14
+soprano    a/2 e/2
+alto       e/2 c/2
+tenor      a/2 a/2
+bass       c/2 a/2
+
+# measure 15
+soprano    e/1
+alto       b/1
+tenor      g/1
+bass       e/1
+
+
+

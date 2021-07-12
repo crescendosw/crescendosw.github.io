@@ -1,0 +1,316 @@
+title      God Makes the Grass Grow
+author     Scott Rocca, 1992; alt. (c)THE ASH GROVE
+composer   Welsh traditional melody
+key        F
+tempo      115
+rhythm     3 : 4
+verse_count 7
+copyright  Text: Scott Rocca, 1992. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/198%20God%20Makes%20the%20Grass%20Grow%20-%20Psalm%20104%20ASH%20GROVE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       c
+tenor      g
+bass       e
+
+# measure 2
+soprano    f a c/8 bb/8
+alto       c f g
+tenor      a c c
+bass       f f e
+
+# measure 3
+soprano    a f f
+alto       f c d
+tenor      c a a
+bass       f f d
+
+# measure 4
+soprano    g bb/8 a/8 g/8 f/8
+alto       d bb d
+tenor      g g g
+bass       bb g- bb
+
+# measure 5
+soprano    e c- c-
+alto       c c c
+tenor      g f g
+bass       c d e
+
+# measure 6
+soprano    f a/8 g/8 f/8 e/8
+alto       c c c
+tenor      a f f
+bass       f f-/8 g-/8 a
+
+# measure 7
+soprano    d- bb- d-
+alto       bb bb bb
+tenor      f f f
+bass       bb d bb
+
+# measure 8
+soprano    c- f e
+alto       a c c
+tenor      f a bb
+bass       c c c
+
+# measure 9
+soprano    f/2 a/8 bb/8
+alto       c/2 f
+tenor      a/2 c
+bass       f/2 f/8 g/8
+
+# measure 10
+soprano    c a/8 bb/8 c/8 d/8
+alto       f f f
+tenor      c c c
+bass       a+ f/8 g/8 a+/8 bb+/8
+
+# measure 11
+soprano    c bb a
+alto       f g f
+tenor      c c c
+bass       a+ e f
+
+# measure 12
+soprano    bb g/8 a/8 bb/8 c/8
+alto       e g/8 f/8 e
+tenor      c c c
+bass       g e/8 f/8 g/8 a+/8
+
+# measure 13
+soprano    bb a g
+alto       e f e
+tenor      c c c
+bass       g f c
+
+# measure 14
+soprano    a f/8 g/8 a/8 bb/8
+alto       f f f
+tenor      c a/8 bb/8 c/8 d/8
+bass       f f f
+
+# measure 15
+soprano    a g f
+alto       f e d
+tenor      c bb a
+bass       f c# d
+
+# measure 16
+soprano    e c bn
+alto       c e d
+tenor      g g g
+bass       g g g-
+
+# measure 17
+soprano    c/2 c-
+alto       e/2 c
+tenor      g/2 g
+bass       c/2 e
+
+# measure 18
+soprano    f a c/8 bb/8
+alto       c f g
+tenor      a c c
+bass       f f e
+
+# measure 19
+soprano    a f f
+alto       f f d
+tenor      c a a
+bass       f f/8 e/8 d/8 c/8
+
+# measure 20
+soprano    g bb/8 a/8 g/8 f/8
+alto       d bb d
+tenor      g g g
+bass       bb/8 a/8 g-/8 a/8 bb
+
+# measure 21
+soprano    e c- c-
+alto       c c c
+tenor      g f g
+bass       c d e
+
+# measure 22
+soprano    f a/8 g/8 f/8 e/8
+alto       c c c
+tenor      a f f
+bass       f f-/8 g-/8 a
+
+# measure 23
+soprano    d- bb- d-
+alto       bb bb bb
+tenor      f f f
+bass       bb/8 c/8 d bb
+
+# measure 24
+soprano    c- f e
+alto       a c c
+tenor      f a bb
+bass       c c c
+
+# measure 25
+soprano    f/2
+alto       c/2
+tenor      a/2
+bass       f/2
+
+# measure 26
+soprano    c-
+alto       c
+tenor      g
+bass       e
+
+# measure 27
+soprano    f a c/8 bb/8
+alto       c f g
+tenor      a c c
+bass       f f e
+
+# measure 28
+soprano    a f f
+alto       f c d
+tenor      c a a
+bass       f f d
+
+# measure 29
+soprano    g bb/8 a/8 g/8 f/8
+alto       d bb d
+tenor      g g g
+bass       bb g- bb
+
+# measure 30
+soprano    e c- c-
+alto       c c c
+tenor      g f g
+bass       c d e
+
+# measure 31
+soprano    f a/8 g/8 f/8 e/8
+alto       c c c
+tenor      a f f
+bass       f f-/8 g-/8 a
+
+# measure 32
+soprano    d- bb- d-
+alto       bb bb bb
+tenor      f f f
+bass       bb d bb
+
+# measure 33
+soprano    c- f e
+alto       a c c
+tenor      f a bb
+bass       c c c
+
+# measure 34
+soprano    f/2 a/8 bb/8
+alto       c/2 f
+tenor      a/2 c
+bass       f/2 f/8 g/8
+
+# measure 35
+soprano    c a/8 bb/8 c/8 d/8
+alto       f f f
+tenor      c c c
+bass       a+ f/8 g/8 a+/8 bb+/8
+
+# measure 36
+soprano    c bb a
+alto       f g f
+tenor      c c c
+bass       a+ e f
+
+# measure 37
+soprano    bb g/8 a/8 bb/8 c/8
+alto       e g/8 f/8 e
+tenor      c c c
+bass       g e/8 f/8 g/8 a+/8
+
+# measure 38
+soprano    bb a g
+alto       e f e
+tenor      c c c
+bass       g f c
+
+# measure 39
+soprano    a f/8 g/8 a/8 bb/8
+alto       f f f
+tenor      c a/8 bb/8 c/8 d/8
+bass       f f f
+
+# measure 40
+soprano    a g f
+alto       f e d
+tenor      c bb a
+bass       f c# d
+
+# measure 41
+soprano    e c bn
+alto       c e d
+tenor      g g g
+bass       g g g-
+
+# measure 42
+soprano    c/2 c-
+alto       e/2 c
+tenor      g/2 g
+bass       c/2 e
+
+# measure 43
+soprano    f a c/8 bb/8
+alto       c f g
+tenor      a c c
+bass       f f e
+
+# measure 44
+soprano    a f f
+alto       f f d
+tenor      c a a
+bass       f f/8 e/8 d/8 c/8
+
+# measure 45
+soprano    g bb/8 a/8 g/8 f/8
+alto       d bb d
+tenor      g g g
+bass       bb/8 a/8 g-/8 a/8 bb
+
+# measure 46
+soprano    e c- c-
+alto       c c c
+tenor      g f g
+bass       c d e
+
+# measure 47
+soprano    f a/8 g/8 f/8 e/8
+alto       c c c
+tenor      a f f
+bass       f f-/8 g-/8 a
+
+# measure 48
+soprano    d- bb- d-
+alto       bb bb bb
+tenor      f f f
+bass       bb/8 c/8 d bb
+
+# measure 49
+soprano    c- f e
+alto       a c c
+tenor      f a bb
+bass       c c c
+
+# measure 50
+soprano    f/2
+alto       c/2
+tenor      a/2
+bass       f/2
+
+
+

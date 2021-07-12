@@ -1,0 +1,117 @@
+title      Lift Up Your Heads
+author     Georg Weissel, 1642; tr. Catherine Winkworth, 1855MACHT HOCH DIE TÜR
+composer   Johann Anastasius Freylinghausen's Gesangbuch, 1704
+key        F
+tempo      135
+rhythm     6 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/550%20Lift%20Up%20Your%20Heads%20MACHT%20HOCH.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       f
+tenor      c
+bass       f
+
+# measure 2
+soprano    c/2 bb a/2 g
+alto       f/2 d f/2 e
+tenor      a/2 bb c/2 c
+bass       f/2 g f/2 c
+
+# measure 3
+soprano    f g a g/2 c
+alto       d/2 f e/2 f
+tenor      a/2 c c/2 a
+bass       d/2 a c/2 f
+
+# measure 4
+soprano    bb/2 bb a g a
+alto       f/2 e f/2 f
+tenor      bb/2 bb c/2 d
+bass       g/2 g f/2 d
+
+# measure 5
+soprano    g f g f/2 a
+alto       d/2 e c/2 f
+tenor      bb/2 c a/2 c
+bass       g/2 c f/2 f
+
+# measure 6
+soprano    g/2 g a bn c
+alto       e/2 g f/2 g
+tenor      c/2 c c/2 c
+bass       c/2 e f/2 e
+
+# measure 7
+soprano    c d bn c/2 g
+alto       f/2 d e/2 e
+tenor      a/2 g g/2 c
+bass       d/2 g c/2 c
+
+# measure 8
+soprano    a/2 g a bn c
+alto       f/2 e f/2 g
+tenor      c/2 c c/2 c
+bass       f/2 c f/2 e
+
+# measure 9
+soprano    c d bn c/2 c
+alto       f/2 d e/2 f
+tenor      a/2 g g/2 a
+bass       d/2 g c/2 f
+
+# measure 10
+soprano    d/2 c d/2 c
+alto       f e f f e f
+tenor      bb/2 c bb/2 c
+bass       bb+/2 a+ bb+/2 a+
+
+# measure 11
+soprano    d c bb a/2 c
+alto       f/2 g f/2 f
+tenor      bb c d d/2 a
+bass       bb+ a+ g d/2 f
+
+# measure 12
+soprano    d/2 c d/2 c
+alto       f/2 f f/2 g
+tenor      bb/2 a bb/2 g
+bass       bb/2 f bb/2 eb
+
+# measure 13
+soprano    d c bb a/2 c
+alto       f#/2 g f#/2 g
+tenor      a/2 bb d/2 c
+bass       d/2 d d/2 e
+
+# measure 14
+soprano    f/2 f bb/2 a
+alto       c/2 d d e f
+tenor      a/2 a bb/2 c
+bass       f/2 d g-/2 a
+
+# measure 15
+soprano    g/2. = g/2 c
+alto       e/2. = e/2 f
+tenor      c/2. = c/2 a
+bass       c/2. = c/2 f-
+
+# measure 16
+soprano    bb/2 a g f g
+alto       f e f d/2 e
+tenor      bb/2 c d/2 c
+bass       g-/2 a bb/2 c
+
+# measure 17
+soprano    f/2. = f/2
+alto       c/2. = c/2
+tenor      a/2. = a/2
+bass       f/2. = f/2
+
+
+

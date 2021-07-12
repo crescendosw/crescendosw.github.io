@@ -1,0 +1,58 @@
+title      My Heart, O God, Is Resolute
+author     Donald P. Owens II, 2013 (c) MIT RECHTEM ERNST [BECKER 108]
+composer   Heinrich Schütz, 1661
+key        C
+tempo      165
+rhythm     0 : 4
+verse_count 5
+copyright  Text: Donald P. Owens II, 2013. All Rights Reserved. Used by permission. 203 Text: Donald P. Owens II, 2018. All Rights Reserved. Used by permission. 204 Text: Donald P. Owens II, 2011. All Rights Reserved. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/202%20My%20Heart,%20O%20God,%20Is%20Resolute%20-%20Psalm%20108%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g b c d/2 c b/2 b a/2.
+alto       d g g g/2 e g/2 g f#/2.
+tenor      b d e+ b/2 c d/2 d d/2.
+bass       g g c g/2 a+ g/2 g d/2.
+
+# measure 2
+soprano    e+ d c d. c/8 b c a/2 g/2.
+alto       e g g g/2. g f#/2 g/2.
+tenor      g d e+ b. c/8 d e+ d/2 d/2.
+bass       c b c g/2. c d/2 g/2.
+
+# measure 3
+soprano    g b c d/2 c b/2 b a/2.
+alto       d g g g/2 e g/2 g f#/2.
+tenor      b d e+ b/2 c d/2 d d/2.
+bass       g g c g/2 a+ g/2 g d/2.
+
+# measure 4
+soprano    e+ d c d. c/8 b c a/2 g/2.
+alto       e g g g/2. g f#/2 g/2.
+tenor      g d e+ b. c/8 d e+ d/2 d/2.
+bass       c b c g/2. c d/2 g/2.
+
+# measure 5
+soprano    g c g a/2 e a g f e/2.
+alto       e g e f/2 g f e d b/2.
+tenor      c e+ c c/2 c c/2 a g#/2.
+bass       c c c f/2 c f c d e/2.
+
+# measure 6
+soprano    e a e f/2 g f e d- c-/2.
+alto       c e c d/2 c c/2 b c/2.
+tenor      a c a a/2 g a g g g/2.
+bass       a+ a+ a d/2 e f c g- c/2.
+
+# measure 7
+soprano    g a f g a/8 b/8 c b a/2 g
+alto       e c d e. f/8 g g f#/2 g
+tenor      c a a c. d/8 e+ d d/2 d
+bass       c f d c/2. g d/2 g
+
+
+

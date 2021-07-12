@@ -1,0 +1,141 @@
+title      Let All the World in Every Corner Sing
+author     George Herbert (1593-1632)UNIVERSAL PRAISE
+composer   Walter G. Whinfield, 1906
+key        D
+tempo      115
+rhythm     4 : 4
+verse_count 2
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/315%20Let%20All%20the%20World%20in%20Every%20Corner%20Sing.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      f#
+bass       d
+
+# measure 2
+soprano    d-. e/8 f# g
+alto       d/2. d
+tenor      f#. g/8 a d
+bass       d/2. b
+
+# measure 3
+soprano    a/2. a
+alto       e/2. f#
+tenor      d c#/8 b/8 c# d
+bass       a/2. d
+
+# measure 4
+soprano    b c# d f#
+alto       g g f# d
+tenor      d g a a
+bass       g e d f#
+
+# measure 5
+soprano    e/2 a/2
+alto       c#/2 e/2
+tenor      a/2 a e+
+bass       a+/2 c#/2
+
+# measure 6
+soprano    a/2 g#/2
+alto       f#/2 e d
+tenor      e+ d/8 c#/8 b/2
+bass       d/2 e/2
+
+# measure 7
+soprano    a/2. e
+alto       c#/2. c#
+tenor      a/2. a
+bass       a/2. a+
+
+# measure 8
+soprano    e f# g a
+alto       c# d d e
+tenor      a a b c#
+bass       g f# e a
+
+# measure 9
+soprano    f#/2. a
+alto       a/2. f#
+tenor      d/2. d
+bass       d/2. d
+
+# measure 10
+soprano    a b cn d
+alto       f# f# g f#
+tenor      d d e+ d/8 cn/8
+bass       cn+ b+ b+ a+
+
+# measure 11
+soprano    b/2. b
+alto       g/2. g
+tenor      d/2 d/2
+bass       g/2 g-/2
+
+# measure 12
+soprano    b a g f#
+alto       g f# e d#
+tenor      cn cn b b
+bass       a a b b
+
+# measure 13
+soprano    g/2 e/2
+alto       e d d c#
+tenor      b/2 a/2
+bass       e/2 g/2
+
+# measure 14
+soprano    a. g/8 f# e
+alto       d d d c#
+tenor      a d a g
+bass       f# b+ a+ a
+
+# measure 15
+soprano    d-/2. d-
+alto       d/2. d
+tenor      f#/2. d-
+bass       d/2. d
+
+# measure 16
+soprano    d-. e/8 f# g
+alto       d. e/8 f# g
+tenor      d-. e/8 f# g
+bass       d. e/8 f# g
+
+# measure 17
+soprano    a/2. a
+alto       a+/2. a+
+tenor      a. b/8 c# d/8 e+/8
+bass       a+/2. b+/8 c#+/8
+
+# measure 18
+soprano    b c#/8 d/8 e+. d/8
+alto       a+ a+ a+ g#
+tenor      f#+ e+ d e+
+bass       d+ c#+ b+ e
+
+# measure 19
+soprano    c#/2 d/2
+alto       a+/2 a+ g/8 f#/8
+tenor      e+/2 a b
+bass       a+ g f# g
+
+# measure 20
+soprano    d/2 c#/2
+alto       e/2. g
+tenor      e+ a/2 a
+bass       a+/2 a/2
+
+# measure 21
+soprano    d/2.
+alto       f#/2.
+tenor      a/2.
+bass       d/2.
+
+
+

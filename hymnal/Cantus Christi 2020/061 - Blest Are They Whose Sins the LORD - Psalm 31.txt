@@ -1,0 +1,64 @@
+title      Blest Are They Whose Sins the LORD
+author     The Ailbe Psalter, 2006 (c) DENT DALE
+composer   English traditional melody
+key        A
+tempo      115
+rhythm     4 : 4
+verse_count 6
+copyright  Text: The Fellowship of Ailbe, 2006. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/61%20Blest%20Are%20Thy%20Whose%20Sins%20-%20Psalm%2031%20DENT%20DALE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a. a/8 a a
+alto       c#. c#/8 f# e
+tenor      a a a a
+bass       a+ f# d c#
+
+# measure 2
+soprano    g# a b/2
+alto       d c# e/2
+tenor      e e g#/2
+bass       b a e/2
+
+# measure 3
+soprano    a. b/8 c# c#
+alto       a+. e/8 e f#
+tenor      c#. b/8 a a
+bass       f#. g#/8 a+ f#
+
+# measure 4
+soprano    d/8 c#/8 b/8 a/8 e/2
+alto       f#/8 e/8 d/8 c#/8 b/2
+tenor      a f# g#/2
+bass       b d e/2
+
+# measure 5
+soprano    f#/8 e/8 a/8 f#/8 e e
+alto       d/8 e/8 d e c#
+tenor      a a/8 g#/8 a a
+bass       d/8 c#/8 b c#/8 b/8 a
+
+# measure 6
+soprano    d-. e/8 c#-/2
+alto       d/8 c#/8 b a/2
+tenor      a g# a/2
+bass       b e a/2
+
+# measure 7
+soprano    e. e/8 e d
+alto       e. e/8 e f#
+tenor      e f#/8 g#/8 a a
+bass       e d c# b
+
+# measure 8
+soprano    c# b a/2
+alto       e. d/8 c#/2
+tenor      a g# a/2
+bass       e e a/2
+
+
+

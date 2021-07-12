@@ -1,0 +1,123 @@
+title      Round the Lord in Glory Seated
+author     Richard Mant, 1837SANCTUS
+composer   John Richards, Isalaw (1843-1901)
+key        Bb
+tempo      125
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/338%20Round%20the%20Lord%20in%20Glory%20Seated.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb. bb/8 a g
+alto       bb+. bb+/8 a+ g
+tenor      bb. bb/8 a g
+bass       bb+. bb+/8 a+ g
+
+# measure 2
+soprano    f g f d-
+alto       f g f d
+tenor      f g f d-
+bass       f g f d
+
+# measure 3
+soprano    f. f/8 f f
+alto       c. d/8 eb d
+tenor      f. bb/8 a bb
+bass       a. bb/8 c d
+
+# measure 4
+soprano    g bb a/2
+alto       c g f/2
+tenor      c c c/2
+bass       eb en f/2
+
+# measure 5
+soprano    bb. bb/8 a g
+alto       bb+. bb+/8 a+ g
+tenor      bb. bb/8 a g
+bass       bb+. bb+/8 a+ g
+
+# measure 6
+soprano    f g f d-
+alto       f g f d
+tenor      f g f d-
+bass       f g f d
+
+# measure 7
+soprano    d. c/8 bb c
+alto       f. eb/8 f eb
+tenor      bb. a/8 bb g
+bass       bb. c/8 d eb
+
+# measure 8
+soprano    f a bb/2
+alto       d eb d/2
+tenor      bb c bb/2
+bass       f f bb/2
+
+# measure 9
+soprano    g d- bb a
+alto       d d d d
+tenor      bb a g f#
+bass       g f# g d
+
+# measure 10
+soprano    g f# g d-
+alto       d d d d
+tenor      g d- bb a
+bass       bb+ a+ g f#
+
+# measure 11
+soprano    g d- d c
+alto       g d d eb
+tenor      g d- g g
+bass       g d bb c
+
+# measure 12
+soprano    bb a g/2
+alto       d c bb/2
+tenor      g f# g/2
+bass       d d g-/2
+
+# measure 13
+soprano    a a bb bb
+alto       d d d en
+tenor      g f# g bb
+bass       d d g g
+
+# measure 14
+soprano    c c d d
+alto       f f f f
+tenor      bb a bb bb
+bass       f f bb+ bb+
+
+# measure 15
+soprano    bb/2 bb/2
+alto       g/2 d/2
+tenor      d/2 bb/2
+bass       g/2 g/2
+
+# measure 16
+soprano    bb/2 g/2
+alto       eb/2 eb/2
+tenor      g/2 bb/2
+bass       eb/2 eb/2
+
+# measure 17
+soprano    bb/2 c/2
+alto       d/2 eb/2
+tenor      bb/2 a/2
+bass       f/2 f/2
+
+# measure 18
+soprano    bb/1
+alto       d/1
+tenor      bb/1
+bass       bb/1
+
+
+

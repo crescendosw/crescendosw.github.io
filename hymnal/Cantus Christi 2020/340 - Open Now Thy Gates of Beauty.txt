@@ -1,0 +1,87 @@
+title      Open Now Thy Gates of Beauty
+author     John Ross Macduff (1818-1895)UNSCHER HERSCHER [NEANDER]
+composer   Joachim Neander, 1680
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/340%20Open%20Now%20Thy%20Gates%20of%20Beauty.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-. d-/8 e c-
+alto       c. c/8 c c
+tenor      e. f/8 g g
+bass       c. c/8 c e
+
+# measure 2
+soprano    e f g g
+alto       c c d d
+tenor      g a b b
+bass       c a g- g
+
+# measure 3
+soprano    c b/8 a/8 g e+
+alto       c c g g
+tenor      g f g c
+bass       e f e c
+
+# measure 4
+soprano    d d c/2
+alto       a+ g e/2
+tenor      c b c/2
+bass       f g c/2
+
+# measure 5
+soprano    c-. d-/8 e c-
+alto       c. c/8 c c
+tenor      e. f/8 g g
+bass       c. c/8 c e
+
+# measure 6
+soprano    e f g g
+alto       c c d d
+tenor      g a b b
+bass       c a g- g
+
+# measure 7
+soprano    c b/8 a/8 g e+
+alto       c/8 d/8 e/8 f/8 g g
+tenor      c c c c
+bass       a+ g/8 f/8 e c
+
+# measure 8
+soprano    d d c/2
+alto       a+ g e/2
+tenor      c b c/2
+bass       f g c/2
+
+# measure 9
+soprano    e+. e+/8 d d
+alto       g g g g
+tenor      c c c b
+bass       c e/8 f/8 g g
+
+# measure 10
+soprano    c. c/8 b/2
+alto       e e e/2
+tenor      a a g#/2
+bass       a+ c/8 d/8 e/2
+
+# measure 11
+soprano    a. a/8 g c
+alto       c f e e
+tenor      a/8 b/8 c/8 d/8 e+ c
+bass       f/8 g/8 a+/8 b+/8 c+ a+
+
+# measure 12
+soprano    d b c/2
+alto       d d e/2
+tenor      a g g/2
+bass       f g c/2
+
+
+

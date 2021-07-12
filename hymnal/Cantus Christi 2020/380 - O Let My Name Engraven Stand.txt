@@ -1,0 +1,49 @@
+title      O Let My Name Engraven Stand
+hymnal     Cantus Christi
+author     Isaac Watts, 1709
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/380%20Oh,%20Let%20My%20Name%20Engraven%20Stand.pdf
+
+tune       INVITATION
+metre      L.M.
+composer   Jacob Kimball, 1784
+key        C
+rhythm     4 : 4
+tempo      150
+
+status     header  tune  double  checked
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g/2 g a/8 b/8 | c/2 g/2 | g g g/2 | c/2 g g | a g a a
+alto       e/2 c c       | c/2 e/2 | f d e/2 | e/2 e d | d c d d
+tenor      g/2 c g       | a/2 g/2 | a b c/2 | g/2 c b | c g f e
+bass       c/2 c c       | f/2 e/2 | d g c/2 | c/2 c g | f e d c
+
+soprano    g/2  g  g/8  g/8  | g g  g       a/8 b/8 | c/2 c c/8 c/8
+alto       d/2  d  d/8  d/8  | e e  e       g       | f/2 g g/8 g/8
+tenor      d-/2 d- d-/8 d-/8 | e c- e/8 f/8 g       | a/2 g g/8 g/8
+bass       g-/2 g- g-/8 g-/8 | c c  c/8 d/8 e       | f/2 e e/8 e/8
+
+soprano    g g a       g  | g/1  | R/1           | R/1
+alto       e e c       d  | e/1  | R/1           | R/1
+tenor      c g f/8 e/8 d- | c-/1 | R/1           | R/2 g g/8 g/8
+bass       c c f-      g- | c/1  | R/2 c c/8 c/8 | g f e d
+
+soprano    R/2 c c/8 c/8 | g g     c/8. d/16 c/8. b/16 | a/2   g/2
+alto       R/1           | R/2     e e/8 e/8           | d  e  f e
+tenor      c g c d       | e+. d/8 c c/8 c/8           | f+ e+ d c
+bass       c/2 f f/8 f/8 | e e     c/2                 | d  c  b a
+
+soprano    g/2  b/8. c/16 b/8. a/16 | g/8. a/16 g/8. f/16 e         e/8  f/8  | g a g g
+alto       d/2  g/8. a/16 g/8. f/16 | e/8. f/16 e/8. d/16 c         c/8  d/8  | e d d d
+tenor      d/2  d         d/8  d/8  | c         c         g/8. a/16 g/8. f/16 | e f g/2
+bass       g-/2 g-        g-/8 g-/8 | c         c         e/8. f/16 e/8. d/16 | c d g-/2
+
+soprano    g/2                 g g/8 g/8 | g/2.                   b  | c/8.  d/16 e+/8. d/16 c  d/8 b/8 | c/1
+alto       e/2                 e e/8 e/8 | e f/8 e/8            g g  | g/2.                     g/8 f/8 | e/1
+tenor      g/8. a/16 g/8. f/16 g g/8 g/8 | c/8. d/16 e+/8. d/16 c f+ | e+/8. d/16 c/8. d/16  e+ d       | c/1
+bass       c/2.                  c/8 c/8 | c/2.                   d  | e/8.  f/16 e/8. f/16  g  g-      | c/1
+

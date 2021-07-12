@@ -1,0 +1,118 @@
+title      Tis Not that I Did Choose Thee
+author     Josiah Conder, 1836
+composer   Gregg Strawbridge, 1996 
+key        D
+tempo      105
+rhythm     4 : 4
+verse_count 2
+copyright  Music: Gregg Strawbridge, 1996. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/450%20Tis%20Not%20That%20I%20Did%20Choose%20Thee.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/8 c#-/8
+alto       a
+tenor      f#/8 e/8
+bass       d
+
+# measure 2
+soprano    d- e f# a
+alto       b a d d
+tenor      f# a a a
+bass       b c# d f#
+
+# measure 3
+soprano    g e f# a
+alto       e/2 d d
+tenor      b a a d
+bass       e c# d f#
+
+# measure 4
+soprano    b a f# d-
+alto       g f# d d
+tenor      d d b b
+bass       g g g- g-
+
+# measure 5
+soprano    e/2. d-/8 c#-/8
+alto       d c#/2 a
+tenor      a/2. f#/8 e/8
+bass       a/2. d
+
+# measure 6
+soprano    d- e f# a
+alto       b a d d
+tenor      f# a a a
+bass       b c# d f#
+
+# measure 7
+soprano    g f# e g
+alto       b d a c#
+tenor      b a a a
+bass       e d c# a
+
+# measure 8
+soprano    f# d- d- c#-
+alto       d d b c#
+tenor      a a b a/8 g/8
+bass       d f# g a+
+
+# measure 9
+soprano    d-/2. e
+alto       a/2. a
+tenor      f#/2. a
+bass       d/2. c#
+
+# measure 10
+soprano    e f# f# a
+alto       a d d d
+tenor      a a a d
+bass       c# d d f#
+
+# measure 11
+soprano    d c# b b
+alto       d e f# f#
+tenor      f#+ e+ d d
+bass       b+ a+ g g
+
+# measure 12
+soprano    a f# f#/8 g/8 a
+alto       d d d d
+tenor      d a a a
+bass       f# d d f#
+
+# measure 13
+soprano    b/2. d-/8 c#-/8
+alto       d/2. a
+tenor      g/2. f#/8 e/8
+bass       g/2. d
+
+# measure 14
+soprano    d- e f# a
+alto       b a d d
+tenor      f# a a a
+bass       b c# d f#
+
+# measure 15
+soprano    g f# e a/8 g/8
+alto       b d a c#
+tenor      b a a a
+bass       e d c# a
+
+# measure 16
+soprano    f# d- d- c#-
+alto       d d b c#
+tenor      a a b a/8 g/8
+bass       d f#- g- a
+
+# measure 17
+soprano    d-/2.
+alto       a/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

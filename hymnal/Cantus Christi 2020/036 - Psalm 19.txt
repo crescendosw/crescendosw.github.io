@@ -1,0 +1,122 @@
+title      Psalm 19
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2007
+key        C
+rhythm     0 : 4
+tempo      130
+
+#hyperlink  https://www.youtube.com/watch?v=pPPSVGXFIxM
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     e | a/8 g/8 b/8 a a | a/8 g/8 b/8 a a/8 a/8 | c/8 b/8 g/8 f/8 d-/8 e/8 f/8 | e/1
+
+unison     e/8 e/8 e/8 e/8 e/8 d-/8 e e | e/8 e/8 e/8 e/8 d-/8 e/8 - f/8 | g - f e/2 R/8 e/8 e/8 e/8
+
+unison     a g b a/2 e/8 e/8 | d-/8 e/8 f/8 - d-/8 e/2. e
+
+unison     a/8 g/8 b/8 a a | a/8 - g/8 b/8 a a/8 a/8 | c/8 b/8 g/8 f/8 - d-/8 e/8 f/8 | e/2. e
+
+unison     e e/8 e/8 e/8 d-/8 e/8 f/8 | g f e d- | e/1
+
+unison     a a a a a a a a a g a b a/2 a a a a a a a g a c - b a - g e/2
+
+unison     e | a/8 g/8 b/8 a a | a/8 - g/8 b/8 a a/8 a/8 | c/8 - b/8 g/8 f/8 d-/8 e/8 f/8 | e/2. e
+
+unison     e e e/8 - d-/8 e/8 - f/8 | g f e d- | e/1
+
+unison     a a a a a a a a a g a b a/2
+
+unison     a a a a a a a a a a g a c - b a - g e/2
+
+unison     a a a a a a a a a g a b a/2
+
+unison     a a a a a a a a a a g a c - b a - g e/2
+
+unison     a a a a a a a a a g a b a/2
+
+unison     a a a a a a a a a g a c - b a - g e/2
+
+unison     e/8 d-/8 e/8 f/8 e d- | c- d- e/2 | e/8 - d-/8 e/8 - f/8 g f | e/2 e/8 e/8 e/8 e/8
+
+unison     a - g b a = | a e/8 e/8 d- f | e/2. e
+
+unison     a/8 g/8 a/8 - b/8 a/2 = | a/2 a/8 - g/8 - a/8 - b/8 | c - b a g | e/2 e e
+
+unison     e/8 e/8 e/2 e/8 e/8 | f/2 d-/2 | e/1
+
+unison     a a a a g a b a/2
+
+unison     a g a c - b a - g e/2
+
+unison     a a a a a a a a g a b a/2
+
+unison     a a a a a g a c - b a - g e/2
+
+unison     a a g a b a/2
+
+unison     a a a a a a g a c - b a - g e/2
+
+unison     e/8 e/8 | a/8 - g/8 a/8 b/8 a/2 = | a/2 a/8 g/8 a/8 b/8 | c b a g | e/2 e e
+
+unison     e/8 e/8 e/2 e/8 e/8 | f/2 d-/2 | e f g/8 f/8 e/8 d-/8 | e e/2(1)
+
+verse      The heav - ens de - clare the glo - ry of God; And the firm - a - ment shows His hand - i - work.
+
+verse      Day un - to day ut - ters speech, And night un - to night re - veals know - ledge.
+
+verse      There is no speech nor lan - guage Where their voice is not heard.
+
+verse      Their line has gone out through all the earth, And their words to the end of the world.
+
+verse      In them He has set a ta - ber - na - cle for the sun,
+
+verse      Which is like a bridegroom coming out of his chamb - er, And rejoices like a strong man to run its race.
+
+verse      Its ris - ing is from one end of heav'n, And its cir - cuit to the oth - er end;
+
+verse      And there is noth - ing hid - den from its heat.
+
+verse      The law of the Lord is perfect, con - vert - ing the soul;
+
+verse      The testimony of the Lord is sure, mak - ing wise the simple;
+
+verse      The statutes of the Lord are right, re - joic - ing the heart;
+
+verse      The commandment of the Lord is pure, en - light - en - ing the eyes;
+
+verse      The fear of the Lord is clean, en - dur - ing forever;
+
+verse      The judgments of the Lord are true and right - eous al - to - gether.
+
+verse      More to be de - sired are they than gold, Yea, than much fine gold;
+
+verse      Sweet - er al - so than hon - ey and the hon - ey - comb.
+
+verse      More - o - ver by them Your ser - vant is warned,
+
+verse      And in keep - ing them there is great reward.
+
+verse      Who can under - stand his errors?
+
+verse      Cleanse me from sec - ret faults.
+
+verse      Keep back Your servant also from pre - sump - tuous sins;
+
+verse      Let them not have do - min - ion o - ver me.
+
+verse      Then I shall be blame - less,
+
+verse      And I shall be inno - cent of great trans - gression.
+
+verse      Let the words of my mouth and the med - i - ta - tion of my heart
+
+verse      Be ac - cept - a - ble in Your sight, O Lord, my strength and my Re - deem - er.

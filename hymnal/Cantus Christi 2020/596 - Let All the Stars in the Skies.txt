@@ -1,0 +1,112 @@
+title      Let All the Stars in the Skies
+author     Anonymous
+composer   Anonymous
+key        D
+tempo      140
+rhythm     4 : 4
+verse_count 3
+copyright  Music & text: Douglas Wilson, 1990. Used by permission. Arrangement: Mark Reagan, 2014. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/596%20Let%20All%20the%20Stars%20in%20the%20Skies%20(Wilson).pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 f# e
+alto       a/2 d e
+tenor      f# a b c#
+bass       d f# g a+
+
+# measure 2
+soprano    d-/2 f# a
+alto       d/2 d d
+tenor      d c# b a
+bass       b+ a+ g f#
+
+# measure 3
+soprano    b/2 b/2
+alto       e f# e d
+tenor      g a g f#
+bass       e/2 g-/2
+
+# measure 4
+soprano    a/1
+alto       c# d c# b
+tenor      e b a g
+bass       a/1
+
+# measure 5
+soprano    a/2 b c#
+alto       d/2 d e
+tenor      a b a g
+bass       f# g f# e
+
+# measure 6
+soprano    d/2 c# b
+alto       d/2 f# g
+tenor      f# d d d
+bass       b b+ a+ g
+
+# measure 7
+soprano    a/2 f#/2
+alto       e/2 d/2
+tenor      c# b a b
+bass       a+ g f# g
+
+# measure 8
+soprano    e/1
+alto       e/1
+tenor      c# d c# b
+bass       a+ b+ a+ g
+
+# measure 9
+soprano    f#/2 f# e
+alto       d/2 c# c#
+tenor      a b a g
+bass       f# g a+ a
+
+# measure 10
+soprano    d- b- d- e
+alto       b b d b
+tenor      f# g a g
+bass       b g f# e
+
+# measure 11
+soprano    f#/2 a/2
+alto       d e d c#
+tenor      a/2 d-/2
+bass       d c# b a
+
+# measure 12
+soprano    b/1
+alto       d/1
+tenor      g/1
+bass       g- d g f#
+
+# measure 13
+soprano    b/2 d b
+alto       g f# e d
+tenor      b a g g
+bass       e/2 e e-
+
+# measure 14
+soprano    a/2 f# d-
+alto       c# d c# b
+tenor      a b a/8 g/8 f#
+bass       f#-/2 a b
+
+# measure 15
+soprano    f#/2 e/2
+alto       b d c# b
+tenor      g b a g
+bass       g-/2 a/2
+
+# measure 16
+soprano    d-/1
+alto       a/1
+tenor      f#/1
+bass       d/1
+
+
+

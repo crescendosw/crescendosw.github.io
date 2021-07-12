@@ -1,0 +1,117 @@
+title      Away in a Manger
+author     st. 1&2, attr. Martin Luther, 1500s; st. 3, John T. MacFarland, 1892CRADLE SONG
+composer   William J. Kirkpatrick, 1895
+key        F
+tempo      101
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/590%20Away%20in%20a%20Manger%20CRADLE%20SONG.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       c
+tenor      c/8 bb/8
+bass       c
+
+# measure 2
+soprano    f f g/8 a/8
+alto       c c c
+tenor      a a bb/8 c/8
+bass       f f f
+
+# measure 3
+soprano    f f a/8 bb/8
+alto       c c f
+tenor      a a c
+bass       f f f/8 g/8
+
+# measure 4
+soprano    c c d
+alto       f f f
+tenor      c c a
+bass       a+ a+ d
+
+# measure 5
+soprano    bb/2 g/8 a/8
+alto       d/2 g
+tenor      bb/2 bb/8 c/8
+bass       g/2 g
+
+# measure 6
+soprano    bb bb c
+alto       g. f/8 e
+tenor      d d c
+bass       g g c
+
+# measure 7
+soprano    a a f/8 a/8
+alto       f f f
+tenor      c c a/8 c/8
+bass       f f f
+
+# measure 8
+soprano    g d- f
+alto       d d bn
+tenor      bn b g
+bass       g g g-
+
+# measure 9
+soprano    e/2 c-
+alto       c/2 c
+tenor      g/2 c/8 bb/8
+bass       c/2 c
+
+# measure 10
+soprano    f f g/8 a/8
+alto       c c c
+tenor      a a bb/8 c/8
+bass       f f f
+
+# measure 11
+soprano    f f a/8 bb/8
+alto       c c f
+tenor      a a c
+bass       f f f/8 g/8
+
+# measure 12
+soprano    c c d
+alto       e e f#
+tenor      c c a
+bass       a+ a+ d
+
+# measure 13
+soprano    bb/2 g/8 a/8
+alto       d/2 g
+tenor      bb/2 bb/8 c/8
+bass       g/2 g
+
+# measure 14
+soprano    bb bb c
+alto       g. f/8 e
+tenor      d d c
+bass       g g c
+
+# measure 15
+soprano    a a f/8 a/8
+alto       f f f
+tenor      c c c
+bass       f f a
+
+# measure 16
+soprano    g d- e
+alto       d d c/8 bb/8
+tenor      bb. a/8 g
+bass       bb bb c
+
+# measure 17
+soprano    f/2
+alto       a/2
+tenor      f/2
+bass       f-/2
+
+
+

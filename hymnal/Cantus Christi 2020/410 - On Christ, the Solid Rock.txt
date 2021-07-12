@@ -1,0 +1,49 @@
+title      On Christ, the Solid Rock
+author     Edward Mote
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/410%20On%20Christ,%20the%20Solid%20Rock.pdf
+
+composer   David R. Erb (b. 1970)
+key        G
+rhythm     4 : 4
+tempo      130
+
+copyright  music: David R. Erb, copyright 2017.  Used by permission.
+
+status     header  tune  double  checked  partial lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    b/2 | b         b          b  f  | e a g           e         | g e e e | e d#- e/2
+alto       e/2 | g         e          d# d# | e d b           e         | e b c a | b b   b/2
+tenor      b/2 | b/8 - a/8 g          f  b  | g f e/8 - f/8 - g/8 - a/8 | b g a c | g f   e/2
+bass       e/2 | e         g-/8 - a/8 b  b  | c d e           e         | e d c a | b b   e/2
+
+soprano    R  g       d/8  c/8 b/8 b/8  | a g         g f | g         b          b  f  | e d- e(2) R
+alto       b  b/8 c/8 d        d        | e d         d d | e         e          d# d# | e a  b(2) R
+tenor      d- g/8 a/8 b        g        | c b         a b | b/8 - a/8 g          f  b  | g f  e(2) R
+bass       R  g-      g-/8 a/8 b/8 g-/8 | a b/8 - c/8 d b | e         g-/8 - a/8 b  b  | c d  e(2) b
+
+key        E
+
+soprano    R/1                 | R/1                   | R/2.              b   | b/8 b/8 b/8 b/8 c   e+ | d/2   e+/2
+alto       R/1                 | R/2.               c  | f/8 f/8 f/8 f/8 e f   | g - f           e/2    | f/2   e/2
+tenor      R/2.             b  | b/8 b/8 b/8 b/8 c  e+ | d/2               a/2 | g - b           a - c  | b - a g/2
+bass       e/8 e/8 e/8 e/8 f f | g/2             a+ g  | b+        b     c d   | e   d           c   a  | b/2   c - b
+
+soprano    c           a         b         g         | f  b   g g | a           a         g         e         | f - e d-/2 | e/1
+alto       e           e         e         e         | f  d   e e | c/8 - d/8 - e/8 - f/8 d         c         | c/2   b/2  | b/1
+tenor      a           a         g         b         | b. a/8 g g | a           a         b         g         | a - g f/2  | g/1
+bass       a/8 - b/8 - c/8 - d/8 e/8 - f/8 g/8 - e/8 | d  b   c b | a/8 - b/8   c/8 - d/8 e/8 - d/8 c/8 - b/8 | a/2   b/2  | e/1
+
+verse      	My   hope   is    built on   noth - ing less   Than  Je - sus' blood and  right - eous - ness;
+verse       When dark - ness  veils His  love - ly  face,  I     rest on   His   un - chang - ing    grace;
+verse       His  oath,  His   cov - e -  nant,  His blood, Sup - port me   in    the  whelm - ing    flood;
+verse       When He     shall come  with trum - pet sound, Oh,   may  I    then  in   Him     be     found;
+
+verse       I       dare not trust   the    sweet - est   frame, But     whol - ly   lean  on     Je - sus' name.
+verse       In      ev - ery high    and    stor -  my    gale,  My      an  -  chor holds with - in   the  veil.
+verse       When    all  a - round   my     soul    gives way,   He      then   is   all   my     hope and  stay.
+verse       Dressed in   His right - eous - ness,   a  -  lone,  Fault - less   to   stand be  -  fore the  throne.

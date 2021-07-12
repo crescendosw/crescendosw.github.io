@@ -1,0 +1,183 @@
+title      Lord, Teach Us How to Pray Aright
+author     James Montgomery, 1818FIRST MODE MELODY
+composer   Thomas Tallis, 1567
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/363%20Lord,%20Teach%20Us%20How%20to%20Pray%20Aright.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e e e
+alto       b b b
+tenor      e g g
+bass       e e e
+
+# measure 2
+soprano    d#-/2 e
+alto       b/2 b
+tenor      f#/2 e
+bass       b/2 e
+
+# measure 3
+soprano    g/2 f#
+alto       e/2 c#
+tenor      b/2 a
+bass       e/2 f#
+
+# measure 4
+soprano    f#/2 f#
+alto       d/2 d
+tenor      b/2 f#
+bass       b/2 b
+
+# measure 5
+soprano    f#/2 b
+alto       c#. d/8 e
+tenor      a/2 b
+bass       f#/2 g
+
+# measure 6
+soprano    b a#/2
+alto       f#/2 f#
+tenor      c#/2 c#
+bass       f#/2 f#
+
+# measure 7
+soprano    b/2.
+alto       f#/2.
+tenor      b/2.
+bass       b/2.
+
+# measure 8
+soprano    b b b
+alto       f# f# f#
+tenor      d d d
+bass       b b b
+
+# measure 9
+soprano    a/2 a
+alto       f#/2 c#
+tenor      c#/2 a
+bass       f#/2.
+
+# measure 10
+soprano    g. f#/8 e
+alto       d b/2
+tenor      b g/2
+bass       b e e
+
+# measure 11
+soprano    d#-/2 e
+alto       b/2 b
+tenor      f#/2 g
+bass       b/2 e
+
+# measure 12
+soprano    f#/2 f#
+alto       c#/2 d
+tenor      a/2 f#
+bass       a/2 d
+
+# measure 13
+soprano    e/2 d#-
+alto       b/2 b
+tenor      g f#/2
+bass       e b/2
+
+# measure 14
+soprano    e/2.
+alto       b/2.
+tenor      e/2.
+bass       e/2.
+
+# measure 15
+soprano    g g g
+alto       e e e
+tenor      b b b
+bass       e e e
+
+# measure 16
+soprano    g/2 g
+alto       e/2 e
+tenor      b/2 b
+bass       e/2 e
+
+# measure 17
+soprano    g/2 f#
+alto       e d/2
+tenor      c a/2
+bass       c d/2
+
+# measure 18
+soprano    g/2 g
+alto       d/2 d
+tenor      g/2 g
+bass       g-/2 g
+
+# measure 19
+soprano    d/2 d
+alto       d. e/8 f#
+tenor      b/2 a
+bass       g/2 d
+
+# measure 20
+soprano    a. g/8 e
+alto       d e e
+tenor      d/2 c#
+bass       f# e/2
+
+# measure 21
+soprano    a/2.
+alto       f#/2.
+tenor      d/2.
+bass       d/2.
+
+# measure 22
+soprano    b b b
+alto       g g g
+tenor      d d d
+bass       g g g
+
+# measure 23
+soprano    c/2 b
+alto       g/2 g
+tenor      e+/2 d
+bass       c/2 g
+
+# measure 24
+soprano    a. g/8 g
+alto       e/2 c
+tenor      c/2 g
+bass       c e/2
+
+# measure 25
+soprano    f#/2 a
+alto       d/2 d
+tenor      a/2 f#
+bass       d/2 d
+
+# measure 26
+soprano    g/2 f#
+alto       d/2 d
+tenor      b/2 a
+bass       b. c/8 d
+
+# measure 27
+soprano    e/2 d#-
+alto       b/2 b
+tenor      g f#/2
+bass       g- b/2
+
+# measure 28
+soprano    e/2.
+alto       b/2.
+tenor      e/2.
+bass       e/2.
+
+
+

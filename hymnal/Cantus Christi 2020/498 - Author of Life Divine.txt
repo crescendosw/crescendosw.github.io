@@ -1,0 +1,117 @@
+title      Author of Life Divine
+author     Charles Wesley, 1745RHOSYMEDRE
+composer   John David Edwards, 1840
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 2
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/498%20Author%20of%20Life%20Divine.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      b
+bass       g
+
+# measure 2
+soprano    g g a a
+alto       d g g f#
+tenor      b b d d
+bass       g e d d
+
+# measure 3
+soprano    b/2. g
+alto       g/2. g
+tenor      d/2. b
+bass       g/2. g
+
+# measure 4
+soprano    c c b a
+alto       g g g f#
+tenor      c e+ d c
+bass       e c d d
+
+# measure 5
+soprano    g/2. d-
+alto       d/2. d
+tenor      b/2. b
+bass       g/2. g
+
+# measure 6
+soprano    g g a a
+alto       d g g f#
+tenor      b b d d
+bass       g e d d
+
+# measure 7
+soprano    b/2. g
+alto       g/2. g
+tenor      d/2. b
+bass       g/2. g
+
+# measure 8
+soprano    c c b a
+alto       g g g f#
+tenor      c e+ d c
+bass       e c d d
+
+# measure 9
+soprano    g/2. d
+alto       g/2. d
+tenor      b/2. a
+bass       g/2. f#
+
+# measure 10
+soprano    b b b d
+alto       d d e d
+tenor      g g g g
+bass       g g e b
+
+# measure 11
+soprano    c/2 b/2
+alto       e/2 d/2
+tenor      g/2 g/2
+bass       c/2 g-/2
+
+# measure 12
+soprano    a/2. d
+alto       d/2. d
+tenor      f#/2. g
+bass       d/2. b
+
+# measure 13
+soprano    c b a g
+alto       g g d d
+tenor      g d f# g
+bass       e d c b
+
+# measure 14
+soprano    f# g a f#
+alto       d d d d
+tenor      c b f# a
+bass       a g- d c
+
+# measure 15
+soprano    g a b c
+alto       d d d e
+tenor      g f# g g
+bass       b d g c
+
+# measure 16
+soprano    b/2 a/2
+alto       d/2 d c
+tenor      g/2 f#/2
+bass       d/2 d/2
+
+# measure 17
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+
+

@@ -1,0 +1,69 @@
+title      To Jordan Came Our Lord, the Christ
+author     Martin Luther, 1541; tr. Richard Massie, 1854; alt.CHRIST UNSER HERR ZUM
+composer   Martin Luther, 1524; harm. Lucas Osiander, 1586
+key        Bb
+tempo      101
+rhythm     0 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/693%20To%20Jordan%20Came%20Our%20Lord,%20the%20Christ.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-/2 eb f g f bb a g
+alto       c/2 c d eb d f f d
+tenor      g/2 g bb bb bb d c bb
+bass       c/2 c bb eb bb bb f- g-
+
+# measure 2
+soprano    R/8 g/8 bb. a/8 g f eb d- c-/2
+alto       R/8 d/8 eb c eb d c bn g-/2
+tenor      R/8 bb/8 g a bb bb g/2 g/2
+bass       R/8 g-/8 eb- f- eb- bb c g- c/2
+
+# measure 3
+soprano    c-/2 eb f g f bb a g
+alto       c/2 c d eb d f f d
+tenor      g/2 g bb bb bb d c bb
+bass       c/2 c bb eb bb bb f- g-
+
+# measure 4
+soprano    R/8 g/8 bb. a/8 g f eb d- c-
+alto       R/8 d/8 eb c eb d c bn g-
+tenor      R/8 bb/8 g a bb bb g/2 g
+bass       R/8 g-/8 eb- f- eb- bb c g- c
+
+# measure 5
+soprano    R/8 c-/8 f f d- g g f# g
+alto       R/8 a/8 c d bb d eb d d
+tenor      R/8 f/8 a bb f bb c a bb
+bass       R/8 f-/8 f- bb bb g- c d g-
+
+# measure 6
+soprano    R/8 g/8 c c d bb/8 c bb/8 a g
+alto       R/8 d/8 f f bb d/8 f d/8 f d
+tenor      R/8 bb/8 a a f f/8 a bb/8 d bb
+bass       R/8 g-/8 f- f- bb bb/8 f g/8 d g-
+
+# measure 7
+soprano    R/8 g/8 bb a g f g eb d-
+alto       R/8 d/8 d f eb d eb/8 d/8 c bn
+tenor      R/8 bb/8 g c c a c/8 g/8 g g
+bass       R/8 g-/8 g- f- c d c/8 bn/8 c g-
+
+# measure 8
+soprano    R/8 c-/8 eb f g eb/8 f eb/8 d- c-
+alto       R/8 g-/8 c d eb bb/8 d c/8 b g-
+tenor      R/8 eb/8 g bb bb g/8 bb g/8 g eb
+bass       R/8 c/8 c bb eb eb/8 bb c/8 g- c
+
+# measure 9
+soprano    R/8 c/8 c c d. c/8 bb a g/1
+alto       R/8 eb/8 f f f f d f# d/1
+tenor      R/8 g/8 a a bb a bb/8. c/16 d bn/1
+bass       R/8 c/8 f- f- bb f g d g-/1
+
+
+

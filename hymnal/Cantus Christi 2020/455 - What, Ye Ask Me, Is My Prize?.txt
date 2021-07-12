@@ -1,0 +1,87 @@
+title      What, Ye Ask Me, Is My Prize?
+author     Johann Christoph Schwedler (1672-1730); tr. George Ratcliffe Woodward, 1904WOLLT IHR WISSEN
+composer   J. Cammin; harm. George Herbert Palmer (1842-1926)
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/455%20What,%20Ye%20Ask%20Me,%20Is%20My%20Prize.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c b a g
+alto       g g e g
+tenor      e+ d c c
+bass       c+ g a+ e
+
+# measure 2
+soprano    a b c/2
+alto       f f e/2
+tenor      c d g/2
+bass       f/8 e/8 d c/2
+
+# measure 3
+soprano    e+ d c d
+alto       g g e a+
+tenor      c b a a/8 d/8
+bass       c g a+ f#
+
+# measure 4
+soprano    b a g/2
+alto       g f# g/2
+tenor      d. c/8 b/2
+bass       g d g/2
+
+# measure 5
+soprano    a g f e
+alto       f e d c
+tenor      c c a a
+bass       f c d a
+
+# measure 6
+soprano    f a g/2
+alto       c d e/2
+tenor      a a/8 b/8 c/2
+bass       f- f c/2
+
+# measure 7
+soprano    a g f e
+alto       e e d c
+tenor      c c a a
+bass       a c d a+/8 g/8
+
+# measure 8
+soprano    f a g/2
+alto       c f d/2
+tenor      a d/8 c/8 b/2
+bass       f d g/2
+
+# measure 9
+soprano    e+/2 d/2
+alto       g/2 g/2
+tenor      c/2 b/2
+bass       c/2 g/2
+
+# measure 10
+soprano    c/2 b/2
+alto       e/2 e/2
+tenor      a/2 g#/2
+bass       a+/2 e/2
+
+# measure 11
+soprano    a b c e+
+alto       c g/8 f/8 e g
+tenor      a g g c
+bass       f e/8 d/8 c c+
+
+# measure 12
+soprano    d b c/2
+alto       a+ g/8 f/8 e/2
+tenor      c e+/8 d/8 c/2
+bass       f g c/2
+
+
+

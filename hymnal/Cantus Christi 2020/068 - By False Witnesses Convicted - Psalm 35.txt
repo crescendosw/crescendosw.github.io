@@ -1,0 +1,117 @@
+title      By False Witnesses Convicted
+author     Christopher Smart (1722-1771)BABYLON IS FALLEN
+composer   W. E. Chute, 1878
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/68%20By%20False%20Witnesses%20-%20Psalm%2035b%20BABYLON%20IS%20FALLEN.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a a
+alto       d d
+tenor      f f
+bass       d d
+
+# measure 2
+soprano    f/8 e/8 d- g g/8 e/8
+alto       c# d e e
+tenor      a f/8 a/8 bb/8 g/8 c
+bass       a d c c
+
+# measure 3
+soprano    f g a a
+alto       c e d d
+tenor      c c f f
+bass       a c f d
+
+# measure 4
+soprano    f/8 e/8 d-/8 f/8 e e
+alto       d d c# c#
+tenor      a/8 g/8 f a a/8 g/8
+bass       d d a a
+
+# measure 5
+soprano    d-/2 a a
+alto       d/2 d d
+tenor      a/2 f f
+bass       d/2 d d
+
+# measure 6
+soprano    f/8 e/8 d- g g/8 e/8
+alto       c# d e e
+tenor      a f/8 a/8 bb/8 g/8 c
+bass       a d c c
+
+# measure 7
+soprano    f g a a
+alto       c e d d
+tenor      c c f f
+bass       a c f d
+
+# measure 8
+soprano    f/8 e/8 d-/8 f/8 e e
+alto       d d c# c#
+tenor      a/8 g/8 f a a/8 g/8
+bass       d d a a
+
+# measure 9
+soprano    d-/2 a. bb/8
+alto       d/2 d. d/8
+tenor      a/2 a. g/8
+bass       d/2 f. g/8
+
+# measure 10
+soprano    c/8 a/8 c d e+
+alto       f f f c
+tenor      f f bb a
+bass       a+ f d a
+
+# measure 11
+soprano    d/8 c/8 a a. bb/8
+alto       d d d. d/8
+tenor      a f a. g/8
+bass       d d f. g/8
+
+# measure 12
+soprano    c/8 a/8 c d e+
+alto       f f f c
+tenor      f f bb a
+bass       a+ f d a
+
+# measure 13
+soprano    d/2 a a
+alto       d/2 d d
+tenor      a/2 f f
+bass       d/2 d d
+
+# measure 14
+soprano    f/8 e/8 d- g g/8 e/8
+alto       c# d e e
+tenor      a f/8 a/8 bb/8 g/8 c
+bass       a d c c
+
+# measure 15
+soprano    f g a a
+alto       c e d d
+tenor      c c f f
+bass       a c f d
+
+# measure 16
+soprano    f/8 e/8 d-/8 f/8 e e
+alto       d d c# c#
+tenor      a/8 g/8 f a a/8 g/8
+bass       d d a a
+
+# measure 17
+soprano    d-/2
+alto       d/2
+tenor      a/2
+bass       d/2
+
+
+

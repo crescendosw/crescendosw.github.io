@@ -1,0 +1,135 @@
+title      Thee We Adore, Eternal Lord
+author     Moravian Collection, 1724PARK STREET 
+composer   Frederick M. A. Venua, c. 1810
+key        F
+tempo      101
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/462%20The%20We%20Adore,%20Eternal%20Lord.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f f
+alto       c c c
+tenor      a c a
+bass       f- a c
+
+# measure 2
+soprano    f. g/8 a
+alto       c/2 c
+tenor      a. bb/8 c
+bass       f/2 f
+
+# measure 3
+soprano    g f e
+alto       d c c
+tenor      bb a g
+bass       bb c c
+
+# measure 4
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f-/2.
+
+# measure 5
+soprano    a a a
+alto       c c c
+tenor      f f f
+bass       f- a c
+
+# measure 6
+soprano    a. bn/8 c
+alto       c/2 c
+tenor      f/2 g/8 a/8
+bass       f/2 e/8 f/8
+
+# measure 7
+soprano    g. e/8 f/8 d-/8
+alto       e. c/8 d/8 bn/8
+tenor      g/2 g/8 f/8
+bass       g/2 g-
+
+# measure 8
+soprano    c-/2 c-
+alto       c/2 c
+tenor      e/2 e
+bass       c/2 c
+
+# measure 9
+soprano    g/2 g
+alto       c/2 c
+tenor      e/2 e
+bass       c/2 c
+
+# measure 10
+soprano    a/2 a
+alto       c/2 c
+tenor      f/2 f
+bass       c/2 c
+
+# measure 11
+soprano    bb/2 bb
+alto       c/2 c
+tenor      g/2 g
+bass       c/2 c
+
+# measure 12
+soprano    a/2.
+alto       c/2.
+tenor      f/2.
+bass       f/2.
+
+# measure 13
+soprano    c a d
+alto       d d d
+tenor      f# f# f#
+bass       d d d
+
+# measure 14
+soprano    bb/2 bb
+alto       d/2 d
+tenor      g/2 g
+bass       g/2 g
+
+# measure 15
+soprano    bb g c
+alto       c/2 c
+tenor      e/2 e
+bass       c/2 c
+
+# measure 16
+soprano    a/2.
+alto       c/2.
+tenor      f/2.
+bass       f/2.
+
+# measure 17
+soprano    f f f
+alto       c c c
+tenor      a c a
+bass       f- a f-
+
+# measure 18
+soprano    f e f
+alto       c/2 c
+tenor      g/2 f
+bass       c. bb/8 a
+
+# measure 19
+soprano    g f e
+alto       d c c
+tenor      bb a g
+bass       bb c c
+
+# measure 20
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f-/2.
+
+
+

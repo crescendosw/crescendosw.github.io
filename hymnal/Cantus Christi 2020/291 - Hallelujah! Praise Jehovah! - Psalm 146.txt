@@ -1,0 +1,118 @@
+title      Hallelujah! Praise Jehovah!
+author     The Psalter, 1912; alt.8 7. 8 7. 3 3 7. 3 3 7.
+composer   Scottish traditional melody, c. 1600
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 4
+copyright  Text: Crown & Covenant Publications, 1973. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/291%20Hallelujah!%20Praise%20Jehovah!%20-%20Psalm%20146%20Scottish.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b/8 c/8
+alto       g/8 a+/8
+tenor      d/8 d/8
+bass       d/8 d/8
+
+# measure 2
+soprano    d b g a
+alto       b+ g d d
+tenor      d d b a
+bass       g g g f#
+
+# measure 3
+soprano    b g/2 b/8 c/8
+alto       d d/2 g/8 a+/8
+tenor      g b/2 d/8 d/8
+bass       g g-/2 d/8 d/8
+
+# measure 4
+soprano    d b a g
+alto       b+ d/8 e/8 f# g
+tenor      d d d b
+bass       g g d e
+
+# measure 5
+soprano    a/2. b/8 c/8
+alto       f#/2. g/8 a+/8
+tenor      d/2. d/8 d/8
+bass       d/2. d/8 d/8
+
+# measure 6
+soprano    d b g a
+alto       b+ g d d
+tenor      d d b a
+bass       g g g f#
+
+# measure 7
+soprano    b g/2 c/8 b/8
+alto       d d/2 c/8 d/8
+tenor      g b/2 e+/8 d/8
+bass       g g-/2 a/8 b/8
+
+# measure 8
+soprano    a g g f#
+alto       e b/8 c/8 d d
+tenor      c g a a
+bass       c e d d
+
+# measure 9
+soprano    g/2. e/8 fn/8
+alto       b/2. c/8 c/8
+tenor      g/2. g/8 g/8
+bass       g-/2. c/8 c/8
+
+# measure 10
+soprano    g/2. a/8 b/8
+alto       d/2. d/8 d/8
+tenor      g/8 a/8 b/2 d/8 d/8
+bass       b g-/2 fn/8 fn/8
+
+# measure 11
+soprano    c/2. b/8 c/8
+alto       g/2. g/8 g/8
+tenor      c/8 d/8 e+/2 d/8 d/8
+bass       e c/2 g/8 a+/8
+
+# measure 12
+soprano    d. e+/8 d. c/8
+alto       g. g/8 g f#
+tenor      b. c/8 d d
+bass       g. c+/8 b+. a+/8
+
+# measure 13
+soprano    b/2. e/8 fn/8
+alto       g/2. c/8 c/8
+tenor      d/2. g/8 g/8
+bass       g/2. c/8 c/8
+
+# measure 14
+soprano    g/2. a/8 b/8
+alto       d/2. d/8 d/8
+tenor      g/8 a/8 b/2 d/8 d/8
+bass       b g-/2 fn/8 fn/8
+
+# measure 15
+soprano    c/2. c/8 b/8
+alto       g/2. c/8 d/8
+tenor      c/8 d/8 e+/2 e+/8 d/8
+bass       e c/2 a/8 b/8
+
+# measure 16
+soprano    a g g f#
+alto       e b/8 c/8 d d
+tenor      c g a a
+bass       c e d d
+
+# measure 17
+soprano    g/2.
+alto       d/2.
+tenor      b/2.
+bass       g-/2.
+
+
+

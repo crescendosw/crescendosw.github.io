@@ -1,0 +1,124 @@
+title      Tis by Thy Strength the Mountains Stand
+hymnal     Cantus Christi
+author     Isaac Watts, 1719 (based on Psalm 65)
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/124%20'Tis%20by%20Thy%20Strength%20-%20Psalm%2065%20RAINBOW.pdf
+
+tune       RAINBOW
+metre      C.M.
+composer   Timothy Swan, 1788
+key        C
+rhythm     4 : 4
+tempo      180
+
+status     header  tune  double  checked
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    c/2 g g | g - c b - g | a  c b/2 = | b/2 e+/2
+alto       c/2 e e | e/2   g/2   | g  g g/2 = | g/2 e/2
+tenor      g/2 c c | c/2   d/2   | e+ c d/2 = | d/2 c/2
+bass       c/2 c c | c/2   g/2   | c+ c g/2 = | g/2 a+/2
+
+soprano    e+ e+ d b | c/2.  g | c. - d/8 - c g
+alto       e  e  g g | g/2.  R | R/2        R e
+tenor      c  c  d d | e+/2. R | R/1
+bass       a+ a+ g g | c/2.  R | R/1
+
+soprano    e/2.         g | c c      c - d | e+/2         e+ d
+alto       c. - d/8 - c d | e/2.         g | g g         c - d
+tenor      R/2.         g | c. - d/8 - c g | e/2.            g
+bass       R/1            | R/2.         g | c+. - d+/8 - c+ g
+
+soprano    e+ g c/2 - | d/2 - e+ - c - | d/2   e   c-
+alto       e/2  g g   | g  g  c/2 -    | d/2 - e - c
+tenor      c c  e+/2  | d/2   c    e+  | d g   c/2 -
+bass       e/2. c     | g- g- c/2      | g-/2  a a
+
+soprano    d-/2  R/2      | R/1          | R/2 e+/2 | d e+ d d
+alto       d/2   R/2      | R/1          | R/2 e/2  | g g  g g
+tenor      d/2 - e+ - c - | d/2    R/2   | R/2 c/2  | d c  b g
+bass       g- g- c/2 -    | g-/2 - c/2 = | c/2 c/2  | g c+ g g
+
+soprano    c. - d/8 - c - g -   | a/2.          c  | b. c/8  d b | c/2.
+alto       g/2 - a+ - g -       | f. - g/8 - a+ g  | g. e/8  d g | e/2.
+tenor      e+. - d/8 - e+ - c - | f+/2.         e+ | d. c/8  b g | c/2.
+bass       c. - b/8 - a - c -   | f. - e/8 - d  c  | g. a+/8 g g | c/2.
+
+
+verse    'Tis    by      thy    strength  the   moun - tains stand,
+verse    Thy     morn -  ing    light     and   ev -   'ning shade
+verse    Sea -   sons    and    times,    and   moons  and   hours,
+verse    Those   wan -   'dring cis -     terns in     the   sky,
+verse    The     thir -  sty    rid -     ges   drink  their fill,
+
+verse    God     of     e -  ter - nal   power;
+verse    Suc -   ces -  sive com - forts bring;
+verse    Heav'n, earth, and  air,  are   thine;
+verse    Borne   by     the  winds a -   round
+verse    And     ranks  of   corn  ap -  pear;
+
+
+s_verse  The  sea    grows calm   at    thy     com - mand,
+s_verse  Thy  plen - teous fruits make  har -   vest  glad,
+s_verse  When clouds dis - til    in    fruit - ful   showers,
+s_verse  With wat -  'ry   trea - sures well    sup - ply
+s_verse  Thy  ways   a -   bound  with  bles -  sings still,
+
+a_verse  _  _  _  The  sea    grows calm   at    thy     com - mand,
+a_verse  _  _  _  Thy  plen - teous fruits make  har -   vest  glad,
+a_verse  _  _  _  When clouds dis - til    in    fruit - ful   showers,
+a_verse  _  _  _  With wa -   'try  trea - sures well    sup - ply
+a_verse  _  _  _  Thy  ways   a -   bound  with  bles -  sings still,
+
+t_verse  _  _  _  _  The  sea    grows calm   at    thy     com - mand,
+t_verse  _  _  _  _  Thy  plen - teous fruits make  har -   vest  glad,
+t_verse  _  _  _  _  When clouds dis - til    in    fruit - ful   showers,
+t_verse  _  _  _  _  With wa -   'try  trea - sures well    sup - ply
+t_verse  _  _  _  _  Thy  ways   a -   bound  with  bles -  sings still,
+
+b_verse  _  _  _  _  _  The  sea    grows calm   at    thy     com - mand,
+b_verse  _  _  _  _  _  Thy  plen - teous fruits make  har -   vest  glad,
+b_verse  _  _  _  _  _  When clouds dis - til    in    fruit - ful   showers,
+b_verse  _  _  _  _  _  With wa -   'try  trea - sures well    sup - ply
+b_verse  _  _  _  _  _  Thy  ways   a -   bound  with  bles -  sings still,
+
+
+s_verse  And tem -   pests cease  to   roar.    _  _  _  _
+s_verse  Thy flowers a -   dorn   the  spring.  _  _  _  _
+s_verse  The Au -    thor  is     di - vine.    _  _  _  _
+s_verse  The fur -   rows  of     the  ground.  _  _  _  _
+s_verse  Thy good -  ness  crowns the  year.    _  _  _  _
+
+a_verse  And tem -   pests cease  to   roar.    _  _  _
+a_verse  Thy flowers a -   dorn   the  spring.  _  _  _
+a_verse  The Au -    thor  is     di - vine.    _  _  _
+a_verse  The fur -   rows  of     the  ground.  _  _  _
+a_verse  Thy good -  ness  crowns the  year.    _  _  _
+
+t_verse  And tem -   pests cease  to   roar.    _  _
+t_verse  Thy flowers a -   dorn   the  spring.  _  _
+t_verse  The Au -    thor  is     di - vine.    _  _
+t_verse  The fur -   rows  of     the  ground.  _  _
+t_verse  Thy good -  ness  crowns the  year.    _  _
+
+b_verse  And tem -   pests cease  to   roar.
+b_verse  Thy flowers a -   dorn   the  spring.
+b_verse  The Au -    thor  is     di - vine.
+b_verse  The fur -   rows  of     the  ground.
+b_verse  Thy good -  ness  crowns the  year.
+
+
+verse    And tem -   pests cease  to   roar.
+verse    Thy flowers a -   dorn   the  spring.
+verse    The Au -    thor  is     di - vine.
+verse    The fur -   rows  of     the  ground.
+verse    Thy good -  ness  crowns the  year.
+
+verse    And tem -   pests cease  to   roar.
+verse    Thy flowers a -   dorn   the  spring.
+verse    The Au -    thor  is     di - vine.
+verse    The fur -   rows  of     the  ground.
+verse    Thy good -  ness  crowns the  year.

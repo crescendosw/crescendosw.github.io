@@ -1,0 +1,75 @@
+title      Of the Father's Love Begotten
+hymnal     Cantus Christi
+author     Aurelius Clemens Prudentius, 348-413
+translator John Mason Neale, 1851
+translator Henry Williams Baker, 1861
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/587%20Of%20the%20Father's%20Love%20Begotten.pdf
+
+tune       DIVINUM MYSTERIUM (CORDE NATUS EX PARENTIS)
+metre      8 7. 8 7. 8 7. 7
+harmony    12th-15th century tropes
+key        Eb
+rhythm     0 : 4
+tempo      80
+type       unison
+status     header  tune  double  checked  lyrics
+
+voice      soprano  E4 to D5
+voice      alto     A3 to G4
+voice      tenor    E3 to D4
+voice      bass     A2 to G3
+voice      unison   E4 to D5
+
+# unison
+
+unison      e/8 f/8 g/8 a/8 g/8 f/8 g/8 f/8 e(1) g/8 a/8 b/8 c/8  b/8 g/8 a/8 b(1)
+#alto       R/2             c       d       e(1) e/2              e       f/8 f(1)
+#tenor      g/8 a/8 b       R       b       g(1) R/2              b       c/8 d(1)
+#bass       e/2             a       b       e(1) e/8 f/8 g/8 a+/8 g       f/8 b+(1)
+
+unison      c/8 d/8 e+/8 b/8 b/8  a/8 g/8 f/8 e(1) c-/8 d-/8 e/8 f/8 e/8 c-/8 d-/8 e(1)
+#alto       e/2              e        d       c(1) R/2               R        R/8  R(1)
+#tenor      c       b        b/8  c/8 b       g(1) a         b       g        b/8  g(1)
+#bass       a+      g        g-/8 a/8 b       c(1) a         g-      c        b/8  e(1)
+
+unison      e/8 f/8 g/8 a/8 g/8 f/8 b/8 c/8 b/8 g/8 a/8 b(1) e/8 d-/8
+#alto       R/2             c       e       e.          d(1) b
+#tenor      g/8 a/8 b       R       e       e.          f(1) g
+#bass       e/2             a       g-.         c       b(1) g-
+
+unison      c-/8 d-/8 e/8  c-/8 b-(1) e/8 f/8 g/8 b/8 g/8 e/8 f       e(1)
+#alto       a         g-/8 a/8  f-(1) b/2             c       c/8 d/8 e(1)
+#tenor      e/2                 d-(1) e/2             e/8 g/8 f       g(1)
+#bass       a/8  b/8  c/8  a/8   b(1) g-/2            c       a/8 b/8 e(1)
+
+verse      Of     the   Fa - ther's love    be  - got - ten    Ere    the  worlds  be - gan    to   be,
+verse      At     His  Word   the   worlds were   fra - med;   He     com - mand - ed;  it    was   done:
+verse      He      is  found   in    hu  -  man  fash - ion,  Death   and   sor - row  here    to   know,
+verse      O      that birth  for -  ev  -  er   bless - ed,  When    the   Vir - gin,  full   of   grace,
+verse      This    is   He    Whom  seers   in    old   time  Chant - ed     of   with  one    ac - cord,
+verse      O       ye heights  of   heav'n,  a - dore   Him;   An  -  gel  hosts, His  prais - es   sing;
+verse      Christ, to  thee,  with  God     the   Fa -  ther,  And,    O     Ho -  ly  Ghost,  to   thee,
+
+verse      He      is   Al -  pha   and    O   -  me  -  ga,   He    the  Source, the   End -  ing He,
+verse      Heav'n and  earth  and  depths of      o  -  cean   In   their three - fold  or  -  der one;
+verse      That   the  race    of    Ad - am's   chil - dren Doomed   by   law     to   end - less woe,
+verse      By     the   Ho  -  ly  Ghost  con -  ceiv -  ing, Bore   the   Sav -  ior   of     our race;
+verse      Whom   the  voic -  es    of   the    proph - ets  Prom - ised   in   their faith - ful word;
+verse      Pow'rs, do - min - ions, bow    be -  fore    Him,  And    ex - tol    our   God    and King;
+verse      Hymn   and  chant  with  high thanks - giv -  ing   And    un - wear - ied  prais - es  be,
+
+verse      Of   the things   that   are,  that  have      been,  And that
+verse      All  that grows    be - neath  the   shin - - - ing   Of   the
+verse      May  not  hence - forth  die   an     per - - - ish   In   the
+verse      And  the  babe,    the  world's Re - deem - - - er,  First re -
+verse      Now   he shines,   the   long - ex - pect - - - ed;   Let  cre -
+verse      Let   no tongue    on   earth   be     si - - - lent, Ev - 'ry
+verse      Hon - or, glo   -  ry,   and    do  - min - - - ion   And   e -
+
+verse      fu  -  ture  years shall see, Ev - er - more and ev - er - more!
+verse      moon    and  burn - ing  sun, Ev - er - more and ev - er - more!
+verse      dread - ful  gulf   be - low, Ev - er - more and ev - er - more!
+verse      vealed  His   sa - cred face, Ev - er - more and ev - er - more!
+verse      a   -  tion praise  its Lord, Ev - er - more and ev - er - more!
+verse      voice   in   con - cert sing, Ev - er - more and ev - er - more!
+verse      ter  -  nal  vic -  to - ry,  Ev - er - more and ev - er - more!

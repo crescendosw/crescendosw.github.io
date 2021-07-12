@@ -1,0 +1,94 @@
+title      All Praise to Christ
+author     James Montgomery Boice, 1999 (c) IPSI GLORIA
+composer   Paul Steven Jones, 1999 (c)
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 4
+copyright  Music & text: Linda M. Boice and Paul S. Jones, 1999. Distributed by Paul Jones Music Inc. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/333%20All%20Praise%20to%20Christ.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       e
+tenor      e
+bass       e
+
+# measure 2
+soprano    g g a d-
+alto       e d e d
+tenor      b b g f#
+bass       e b c d
+
+# measure 3
+soprano    b/8 a/8 g e d-
+alto       d d c/8 b/8 a
+tenor      g b/8 a/8 g f#
+bass       g-/8 a/8 b c d
+
+# measure 4
+soprano    e g a a
+alto       c d e d
+tenor      g g g f#
+bass       a b c d
+
+# measure 5
+soprano    b/2. e
+alto       d/2. b
+tenor      g/2. g
+bass       g-/2. e
+
+# measure 6
+soprano    g g a d-
+alto       e d e d
+tenor      b b g f#
+bass       e b c d
+
+# measure 7
+soprano    b/8 a/8 g e f#
+alto       d d c/8 b/8 a
+tenor      g b/8 a/8 g d#-
+bass       g-/8 a/8 b c b
+
+# measure 8
+soprano    g e g f#
+alto       b c/8 b/8 a d
+tenor      e g g a
+bass       e/8 dn/8 c d d
+
+# measure 9
+soprano    e/2. d-
+alto       c/2 b c
+tenor      a/2 g f#
+bass       e/2. d
+
+# measure 10
+soprano    g. b/8 d d
+alto       b d g f#
+tenor      g g g g
+bass       g- f# e b
+
+# measure 11
+soprano    c b a d-
+alto       e g f# d
+tenor      g e+ a b
+bass       c c# d b
+
+# measure 12
+soprano    e. g/8 a a
+alto       b c e d
+tenor      g e g f#
+bass       e a d d
+
+# measure 13
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+
+

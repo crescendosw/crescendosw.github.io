@@ -1,0 +1,165 @@
+title      We Plow the Fields and Scatter
+author     Matthias Claudius, 1782; tr. Jane M. Campbell, 1861WIR PFLÜGEN
+composer   Johann A. P. Schulz, 1800
+key        A
+tempo      100
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/678%20We%20Plow%20the%20Fields%20and%20Scatter.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       e
+tenor      e
+bass       e
+
+# measure 2
+soprano    a a e e
+alto       a+ a+ e e
+tenor      a a e e
+bass       a+ a+ e e
+
+# measure 3
+soprano    c#/2 a e
+alto       c#/2 a+ e
+tenor      c#/2 a e
+bass       c#+/2 a+ e
+
+# measure 4
+soprano    d- c#- b- a-
+alto       d c# b a
+tenor      d- c#- b- a-
+bass       d c# b a
+
+# measure 5
+soprano    e/2. a
+alto       e/2. e
+tenor      e/2. a
+bass       e/2. c#
+
+# measure 6
+soprano    g# f# e c#
+alto       e d# e e
+tenor      b b b a
+bass       b a g#- a
+
+# measure 7
+soprano    b a g# e
+alto       e d# e e
+tenor      g# f# e b
+bass       b/2 c# g#-
+
+# measure 8
+soprano    f# c# b d#-
+alto       e e d# b
+tenor      c# a a a
+bass       a a b b
+
+# measure 9
+soprano    e/2. e
+alto       b/2. e
+tenor      g#/2. g#
+bass       e/2. e
+
+# measure 10
+soprano    b b c# c#
+alto       g# g# a+ e
+tenor      e+ d c# a
+bass       e e e e
+
+# measure 11
+soprano    d/2 b b
+alto       e/2 e g#
+tenor      g# b d d
+bass       e/2 g# b+
+
+# measure 12
+soprano    e+. e+/8 d c#
+alto       a+. e/8 g# a+
+tenor      e+. c#/8 d e+
+bass       c#+. c#+/8 b+ a+
+
+# measure 13
+soprano    b/2. e
+alto       g#/2. e
+tenor      e+/2. e
+bass       e/2. e
+
+# measure 14
+soprano    a a e e
+alto       a+ a+ e e
+tenor      a a e e
+bass       a+ a+ e e
+
+# measure 15
+soprano    f#/2 c#- c#-
+alto       f#/2 c# c#
+tenor      f#/2 c#- c#-
+bass       f#/2 c# c#
+
+# measure 16
+soprano    d-. b-/8 e g#
+alto       d. b/8 e d
+tenor      d-. b-/8 e b
+bass       d. b/8 e e
+
+# measure 17
+soprano    a/2. R
+alto       c#/2. R
+tenor      a/2. R
+bass       a/2. R
+
+# measure 18
+soprano    a a a a
+alto       c# c# e e
+tenor      e e a c#
+bass       a e c# a
+
+# measure 19
+soprano    b/2 b b
+alto       e/2 e g#
+tenor      g#/2 g# e+
+bass       e/2 e e
+
+# measure 20
+soprano    c#. e+/8 d c#
+alto       a+. a+/8 g# a+
+tenor      e+. c#/8 d e+
+bass       a+. c#+/8 b+ a+
+
+# measure 21
+soprano    b/2. b
+alto       g#/2. g#
+tenor      e+/2. e+
+bass       e/2. e
+
+# measure 22
+soprano    c# b c#. b/8
+alto       a+ g# a+. g#/8
+tenor      e+ e+ e+. e+/8
+bass       a+ e a+. e/8
+
+# measure 23
+soprano    a g# a. en/8
+alto       f# e# f#. en/8
+tenor      c# c# c#. a/8
+bass       f# c# f#. c#/8
+
+# measure 24
+soprano    f# b a g#
+alto       e d c# d
+tenor      f#/2 e b
+bass       d/2 e e
+
+# measure 25
+soprano    a/2.
+alto       c#/2.
+tenor      a/2.
+bass       a/2.
+
+
+

@@ -1,0 +1,152 @@
+title      I Bind unto Myself Today
+hymnal     Cantus Christi
+author     Ascribed to St. Patrick, 372-466
+translator Cecil Frances Humphreys Alexander, 1889
+copyright  setting: Adapted from The Harmonia Sacra, Twenty-Fifth Edition.  Copyright by Good Books.  All rights reserved.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/518%20I%20Bind%20unto%20Myself%20Today.pdf
+
+tune       ST. PATRICK
+metre      L.M.D.
+composer   From an ancient Irish hymn melody
+key        Bb
+rhythm     3 : 4
+tempo      180
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+# Verse 1
+
+soprano    d- | g/2 g | f - d- f | b - d c | b/2 b | c - a f
+alto       R  | R R R | R   R  R | R   R R | R R R | R   R R
+tenor      R  | R R R | R   R  R | R   R R | R R R | R   R R
+bass       R  | R R R | R   R  R | R   R R | R R R | R   R R
+
+soprano    f - a c | b/2 b | a/2 d | g. - a/8 b/8 g/8 | f - d- b-
+alto       R   R R | R R R | R R R | R    R   R       | R   R  R
+tenor      R   R R | R R R | R R R | R    R   R       | R   R  R
+bass       R   R R | R R R | R R R | R    R   R       | R   R  R
+
+soprano    b/2 f | g - a b/8 c/8 | d/2 c/8 d/8 | b - g a | g/2 g | g/2(1)
+alto       R R R | R   R R       | R R R       | R   R R | R R R | R/2(1)
+tenor      R R R | R   R R       | R R R       | R   R R | R R R | R/2(1)
+bass       R R R | R   R R       | R R R       | R   R R | R R R | R/2(1)
+
+# Verses 2-7, 9
+
+soprano    d- | g/2 g | f - d- f | b - d c | b b b | c - a f
+alto       R  | R R R | R   R  R | R   R R | R R R | R   R R
+tenor      R  | R R R | R   R  R | R   R R | R R R | R   R R
+bass       R  | R R R | R   R  R | R   R R | R R R | R   R R
+
+soprano    f - a c | b/2 b | a a d | g. - a/8 b/8 g/8 | f - d- b-
+alto       R   R R | R R R | R R R | R    R   R       | R   R  R
+tenor      R   R R | R R R | R R R | R    R   R       | R   R  R
+bass       R   R R | R R R | R R R | R    R   R       | R   R  R
+
+soprano    b/2 f | g a b/8 c/8 | d/2 c/8 d/8 | b - g a | g/2 g | g g f
+alto       R R R | R R R       | R R R       | R   R R | R R R | R R R
+tenor      R R R | R R R       | R R R       | R   R R | R R R | R R R
+bass       R R R | R R R       | R R R       | R   R R | R R R | R R R
+
+soprano    b/2 b | b/2 c/8 d/8 | c/2 bn | c c d | g/2 g
+alto       R R R | R   R R     | R R R  | R R R | R R R
+tenor      R R R | R   R R     | R R R  | R R R | R R R
+bass       R R R | R   R R     | R R R  | R R R | R R R
+
+soprano    f - a c | b/2 b | a a d- | g. - a/8 b/8 g/8 | f - d- b- | b/2 f
+alto       R   R R | R R R | R R R  | R    R   R       | R   R  R  | R R R
+tenor      R   R R | R R R | R R R  | R    R   R       | R   R  R  | R R R
+bass       R   R R | R R R | R R R  | R    R   R       | R   R  R  | R R R
+
+soprano    g - a b/8 c/8 | d/2 c/8 d/8 | b - g a | g/2 g | g g
+alto       R   R R       | R R R       | R   R R | R R R | R R
+tenor      R   R R       | R R R       | R   R R | R R R | R R
+bass       R   R R       | R R R       | R   R R | R R R | R R
+
+# Verse 8
+
+tempo      90
+
+soprano    g/8.  e/16 | g       d- e/8. a/16 | g g g/8. g/16 | c b  a/8. g/16 | b       a b/8. a/16
+alto       d/8.  e/16 | d       a  c/8. c/16 | e e g/8. f/16 | e d  c/8. e/16 | d/8 e/8 f g/8. f/16
+tenor      b/8.  c/16 | g       f  g/8. a/16 | b b g/8. g/16 | g g  c/8. b/16 | g       d d/8. d/16
+bass       g-/8. c/16 | b/8 c/8 d  c/8. b/16 | e e e/8. d/16 | c g- a/8. e/16 | b/8 c/8 d g/8. d/16
+
+soprano    c  b  b/8. a/16 | a g g/8. e/16 | g g       g/8. b/16  | a       g(1)
+alto       g  g  f/8. f/16 | e e d/8. e/16 | d e       e/8. d/16  | e/8 d/8 b(1)
+tenor      e+ e+ d/8. d/16 | c c g/8. g/16 | g g       g/8. g/16  | g/8 f/8 g(1)
+bass       c  e  b/8. d/16 | a c b/8. c/16 | b e/8 d/8 c/8. g-/16 | c/8 d/8 g-(1)
+
+
+
+# Verse 1
+
+verse      I bind un - to my - self to - day The strong name
+
+verse      of the Trin - i - ty, By in - vo - ca - tion
+
+verse      of the same, The Three in One and One in Three.
+
+# Verses 2-7, 9
+
+verse      I   bind   this day  to    me     for - ev -  er, By  pow'r  of
+verse      I   bind   un - to   my -  self   the   pow'r_    Of  the    great
+verse      I   bind   un - to   my -  self   to -  day_      The vir -  tues
+verse      I   bind   un - to   my -  self   to -  day_      The pow'r  of
+verse      A - gainst the  de - mon   snares of    sin,_     The vice   that
+verse      A - gainst all  Sa - tan's spells and   wiles,_   A - gainst false
+verse      I   bind   un - to   my -  self   the   name,_    The strong name
+
+verse      faith, Christ's In  -  car - na - tion, His bap -  tism  in      the
+verse      love   of       Cher - u  -  bim;__     The sweet  Well  done    in
+verse      of     the      star - lit   heav - en, The glo -  rious sun's   life -
+verse      God    to       hold   and   lead,__    His eye    to    watch,  His
+verse      gives  temp  -  ta  -  tion  force,__   The na  -  tural lusts   that
+verse      words  of       her  - e  -  sy,__      A - gainst the   knowl - edge
+verse      of     the      Trin - i  -  ty,_       By  in  -  vo -  ca  -   tion
+
+verse      Jor -  dan   riv - er, His death   on   cross   for  my    sal - vation,
+verse      judg - ment  hour;__   The serv -  ice  of      the  Ser - a  -  phim;
+verse      giv - ing    ray,__    The white - ness of      the  moon  at    even,
+verse      might to     stay,__   His ear     to   heark - en   to    my    need.
+verse      war   with - in,__     The hos  -  tile men     that mar   my    course;
+verse      that  de  -  files,__  A - gainst  the  heart's i -  dol - a  -  try,
+verse      of    the    same,__   The Three   in   One     and  One   in    Three,
+
+verse      His   burst - ing   from   the   spic -  ed    tomb,_    His rid  -  ing
+verse      Con - fes  -  sor's faith, A  -  pos  -  tles' word,_    The Pa   -  triarchs'
+verse      The   flash - ing   of     the   light - ning  free,_    The whirl - ing
+verse      The   wis  -  dom   of     my    God     to    teach,_   His hand    to
+verse      Or    few     or    man -  y,    far     or    nigh,_    In  ev   -  'ry
+verse      A  -  gainst  the   wiz -  ard's e   -   vil   craft,_   A - gainst  the
+verse      Of    whom    all   na  -  ture  hath    cre - a - tion; E - ter  -  nal
+
+verse      up       the   heav'n - ly    way,     His    com -  ing   at     the   day   of
+verse      prayers, the   Proph -  ets'  scrolls, All    good   deeds done   un -  to    the
+verse      wind's   tem - pes  -   tuous shocks,  The    sta -  ble   earth, the   deep  salt
+verse      guide,   His   shield   to    ward,    The    word   of    God    to    give  me
+verse      place,   and   in       all   hours,   A  -   gainst their fierce hos - til - i -
+verse      death -  wound and      the   burning, The    chok - ing   wave,  the   poi - soned
+verse      Fa   -   ther, Spir  -  it,   Word:    Praise to     the   Lord   of    my    sal -
+
+verse      doom;__    I     bind     un - to      my -  self   to - day._
+verse      Lord,__    And   pu   -   ri - ty      of    vir -  gin  souls._
+verse      sea,__     A  -  round    the  old     e  -  ter -  nal  rocks._
+verse      speech,__  His   heav'n - ly   host    to    be     my   guard._
+verse      ty,__      I     bind     to   me      these ho  -  ly   pow'rs._
+verse      shaft,__   Pro - tect     me,  Christ, till  Thy    re - turn - ing.
+verse      va - tion, Sal - va   -   tion is      of    Christ the  Lord!_
+
+# Verse 8
+
+verse      Christ be   with  me, Christ with - in   me, Christ be - hind  me, Christ be - fore  me,
+verse      Christ be - neath me, Christ a   -  bove me, Christ in   qui - et, Christ in   dan - ger,
+
+verse      Christ be - side   me, Christ to   win  me, Christ to com - fort and    re - store   me.
+verse      Christ in   hearts of  all    that love me, Christ in mouth of   friend and  stran - ger.

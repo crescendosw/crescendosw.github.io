@@ -1,0 +1,69 @@
+title      Oh, Save Me by Thy Name
+author     The Psalter, 1912; alt.ASTON
+composer   John Heywood, 1863
+key        Bb
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/104%20O%20Save%20Me%20by%20Thy%20Name%20-%20Psalm%2054%20ASTON.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb
+alto       d
+tenor      g
+bass       g-
+
+# measure 2
+soprano    a g g f#
+alto       c d eb d
+tenor      f# g c a
+bass       a bb c d
+
+# measure 3
+soprano    g/2. f
+alto       d/2. eb
+tenor      bb/2. c
+bass       g-/2. a
+
+# measure 4
+soprano    f d c a
+alto       d f eb c
+tenor      bb bb g f
+bass       bb bb eb f
+
+# measure 5
+soprano    bb/2. bb
+alto       d/2. d
+tenor      f/2. f
+bass       bb/2. bb
+
+# measure 6
+soprano    a g f g
+alto       d bb d d
+tenor      f g bb bb
+bass       d eb bb g-
+
+# measure 7
+soprano    f eb d- d-
+alto       c c bb c
+tenor      f f f f#
+bass       a a bb a
+
+# measure 8
+soprano    d- bb a f#
+alto       bb d eb d
+tenor      g g a a
+bass       g- g- c d
+
+# measure 9
+soprano    g/2.
+alto       d/2.
+tenor      bb/2.
+bass       g-/2.
+
+
+

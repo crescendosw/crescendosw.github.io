@@ -1,0 +1,226 @@
+title      Let All Things Now Living
+author     Katherine K. Davis, 1939 (c)THE ASH GROVE
+composer   Welsh traditional melody
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 2
+copyright  Text: E. C. Schirmer Music Co. 1939, 1966, ECS Publishing. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/675%20Let%20All%20Things%20Now%20Living.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      d-
+bass       d
+
+# measure 2
+soprano    g b d/8 c/8
+alto       d d d
+tenor      b g a
+bass       g g f#
+
+# measure 3
+soprano    b g g
+alto       d g e
+tenor      g d b
+bass       g b e
+
+# measure 4
+soprano    a c/8 b/8 a/8 g/8
+alto       e e e
+tenor      a a a
+bass       c a c
+
+# measure 5
+soprano    f# d- d-
+alto       d d d
+tenor      a f# f#
+bass       d d c
+
+# measure 6
+soprano    g b/8 a/8
+alto       d d
+tenor      g g
+bass       b g-
+
+# measure 7
+soprano    g/8 f#/8
+alto       d
+tenor      g
+bass       b
+
+# measure 8
+soprano    e c- e
+alto       c c c
+tenor      g g g
+bass       c e a
+
+# measure 9
+soprano    d- g f#
+alto       b d d
+tenor      g b c
+bass       d d d
+
+# measure 10
+soprano    g/2 d-
+alto       d/2 d
+tenor      b/2 d-
+bass       g/2 d
+
+# measure 11
+soprano    g b d/8 c/8
+alto       d d d
+tenor      b g a
+bass       g g f#
+
+# measure 12
+soprano    b g g
+alto       d g e
+tenor      g d b
+bass       g b e
+
+# measure 13
+soprano    a c/8 b/8 a/8 g/8
+alto       e e e
+tenor      a a a
+bass       c a c
+
+# measure 14
+soprano    f# d- d-
+alto       d d d
+tenor      a f# f#
+bass       d d c
+
+# measure 15
+soprano    g b/8 a/8 g/8 f#/8
+alto       d d d
+tenor      g g g
+bass       b g- b
+
+# measure 16
+soprano    e c- e
+alto       c c c
+tenor      g g g
+bass       c e a
+
+# measure 17
+soprano    d- g f#
+alto       b d d
+tenor      g b c
+bass       d d d
+
+# measure 18
+soprano    g/2
+alto       d/2
+tenor      b/2
+bass       g/2
+
+# measure 19
+soprano    b/8 c/8
+alto       g/8 a+/8
+tenor      g
+bass       g
+
+# measure 20
+soprano    d b/8 c/8 d/8 e+/8
+alto       b+ g/8 a+/8 b+/8 c+/8
+tenor      g g g
+bass       g g g
+
+# measure 21
+soprano    d c b
+alto       b+ a+ g
+tenor      g g g
+bass       g g g
+
+# measure 22
+soprano    c a/8 b/8 c/8 d/8
+alto       a+ f#/8 g/8 a+/8 b+/8
+tenor      d d d
+bass       d d d
+
+# measure 23
+soprano    c b a
+alto       a+ g f#
+tenor      d d d
+bass       d d d
+
+# measure 24
+soprano    b g/8 a/8 b/8 c/8
+alto       g g g
+tenor      d b/8 c/8 d/8 e+/8
+bass       g g g
+
+# measure 25
+soprano    b a g
+alto       g f# e
+tenor      d b b
+bass       g d# e
+
+# measure 26
+soprano    f# d c#
+alto       d f# e
+tenor      a a a
+bass       a+ a+ a
+
+# measure 27
+soprano    d/2 d-
+alto       f#/2 d
+tenor      a/2 d-
+bass       d/2 d
+
+# measure 28
+soprano    g b d/8 c/8
+alto       d d d
+tenor      b g a
+bass       g g f#
+
+# measure 29
+soprano    b g g
+alto       d g e
+tenor      g d b
+bass       g b e
+
+# measure 30
+soprano    a c/8 b/8 a/8 g/8
+alto       e e e
+tenor      a a a
+bass       c a c
+
+# measure 31
+soprano    f# d- d-
+alto       d d d
+tenor      a f# f#
+bass       d d c
+
+# measure 32
+soprano    g b/8 a/8 g/8 f#/8
+alto       d d d
+tenor      g g g
+bass       b g- b
+
+# measure 33
+soprano    e c- e
+alto       c c c
+tenor      g g g
+bass       c e a
+
+# measure 34
+soprano    d- g f#
+alto       b d d
+tenor      g b c
+bass       d d d
+
+# measure 35
+soprano    g/2
+alto       d/2
+tenor      b/2
+bass       g/2
+
+
+

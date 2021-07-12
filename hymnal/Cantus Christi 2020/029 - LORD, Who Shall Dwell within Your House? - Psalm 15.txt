@@ -1,0 +1,40 @@
+title      LORD, Who Shall Dwell within Your House?
+author     Douglas Wilson, 2001 (c)WER WIRD, HERR [BECKER 15-1]
+composer   Heinrich Schütz, 1628
+key        F
+tempo      150
+rhythm     0 : 4
+verse_count 4
+copyright  Text: Douglas Wilson, 2001. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/29%20LORD,%20Who%20Shall%20Dwell%20-%20Psalm%2015%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2 f d- a/2 c/2 bb bb a/2
+alto       a/2 a d c/2 a/2 d g- c/2
+tenor      f/2 d- d- e/2 f f/2 e f/2
+bass       d/2 d bb a/2 f-/2 g- g- f-/2
+
+# measure 2
+soprano    f/2 f d- e/2 f#/2 g fn e/2
+alto       d/2 d bb g-/2 a/2 d d c#/2
+tenor      d-/2 d- f c/2 c/2 bb a a/2
+bass       bb/2 bb bb c/2 a/2 g- d a/2
+
+# measure 3
+soprano    c/2 bn c a/2 a/2 bn c# d/2
+alto       e/2 e e f/2 f/2 d g f#/2
+tenor      a/2 g# a/2 d c/2 bn g a/2
+bass       a/2 e a d/2 f/2 gn e d/2
+
+# measure 4
+soprano    d/2 c bn c/2 a bb. a/8 g a. g/8 f g. f/8 e/8 d-/8 e e d-/1
+alto       f/2 e e e/2 d d/2 g- c/2 f- bb. c/8 d/2 c# d/1
+tenor      a/2 a g# a/2 f# gn. f#/8 e fn. e/8 d-. c-/8 d-/8 e/8 f a/2 a/1
+bass       d/2 a e a/2 d g-/2 c f-/2 bb g-/2 d a/2 d/1
+
+
+

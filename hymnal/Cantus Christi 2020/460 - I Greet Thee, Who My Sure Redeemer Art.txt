@@ -1,0 +1,111 @@
+title      I Greet Thee, Who My Sure Redeemer Art
+author     attr. Jean Calvin (1509-1564); tr. Elizabeth Lee Smith, 1868, alt.LONGWOOD (Barnby)
+composer   Joseph Barnby (1838-1896)
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/460%20I%20Greet%20Thee,%20Who%20My%20Sure%20Redeemer%20Art.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 g ab
+alto       bb/2 eb eb
+tenor      eb/2 eb f
+bass       eb/2 c c
+
+# measure 2
+soprano    bb g f eb
+alto       eb d c c
+tenor      g bb ab g
+bass       g- g- ab ab
+
+# measure 3
+soprano    eb/2 d-/2
+alto       bb/2 bb/2
+tenor      f/2 f/2
+bass       bb/2 bb/2
+
+# measure 4
+soprano    eb/1
+alto       bb/1
+tenor      g/1
+bass       eb/1
+
+# measure 5
+soprano    g/2 g an
+alto       eb/2 g g
+tenor      bb/2 eb+ eb+
+bass       eb/2 c c
+
+# measure 6
+soprano    bb d c g
+alto       g f eb g
+tenor      d bb g eb+
+bass       g g c c
+
+# measure 7
+soprano    bb/2 an/2
+alto       f/2 eb/2
+tenor      d/2 c/2
+bass       f/2 f/2
+
+# measure 8
+soprano    bb/1
+alto       d/1
+tenor      bb/1
+bass       bb/1
+
+# measure 9
+soprano    f/2 eb eb
+alto       d/2 eb bb
+tenor      bb/2 bb g
+bass       ab+/2 g g
+
+# measure 10
+soprano    ab/2 g/2
+alto       c d eb/2
+tenor      ab/2 bb/2
+bass       f/2 eb/2
+
+# measure 11
+soprano    bb bb ab bb
+alto       eb eb eb g
+tenor      g g ab db
+bass       db db c bb
+
+# measure 12
+soprano    c/1
+alto       ab+/1
+tenor      c/1
+bass       ab/1
+
+# measure 13
+soprano    d/2 eb+ bb
+alto       f/2 eb eb
+tenor      bb/2 bb bb
+bass       ab+/2 g g
+
+# measure 14
+soprano    ab ab g bb
+alto       eb f bb db
+tenor      c d eb+ bb
+bass       f bb eb g-
+
+# measure 15
+soprano    eb/2. f
+alto       c/2 c/2
+tenor      bb/2 ab/2
+bass       ab/2 ab/2
+
+# measure 16
+soprano    g/1
+alto       bb/1
+tenor      g/1
+bass       eb/1
+
+
+

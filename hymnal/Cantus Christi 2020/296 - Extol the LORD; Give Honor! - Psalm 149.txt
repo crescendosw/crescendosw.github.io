@@ -1,0 +1,64 @@
+title      Extol the LORD; Give Honor!
+author     Donald P. Owens II, 2012 (c) DIE HEILIGE GEMEINE [BECKER 149]
+composer   Heinrich Schütz, 1661
+key        Eb
+tempo      195
+rhythm     0 : 4
+verse_count 3
+copyright  Text: Donald P. Owens II, 2012. All Rights Reserved. Used by permission. 297 Music: David R. Erb, 2006. Used by permission. Text: Thomas Nelson, 1982. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/296%20Extol%20the%20LORD;%20Give%20Honor%20-%20Psalm%20149%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 ab/2 g ab/2 bb c/2 c/2
+alto       c/2 f/2 en f/2 g eb/2 eb/2
+tenor      ab/2 c/2 c c/2 eb+ c/2 c/2
+bass       f/2 f/2 c f/2 eb ab+/2 ab+/2
+
+# measure 2
+soprano    db/2 c/2 bb ab/2 bb ab g f/2
+alto       f/2 eb/2 eb c/2 db c c c/2
+tenor      ab/2 ab/2 g ab. g/8 f/8 en/8 f en f/2
+bass       db/2 ab/2 eb f/2 bb f- c f-/2
+
+# measure 3
+soprano    f/2 ab/2 g ab/2 bb c/2 c/2
+alto       c/2 f/2 en f/2 g eb/2 eb/2
+tenor      ab/2 c/2 c c/2 eb+ c/2 c/2
+bass       f/2 f/2 c f/2 eb ab+/2 ab+/2
+
+# measure 4
+soprano    db/2 c/2 bb ab/2 bb ab g f/2
+alto       f/2 eb/2 eb c/2 db c c c/2
+tenor      ab/2 ab/2 g ab. g/8 f/8 en/8 f en f/2
+bass       db/2 ab/2 eb f/2 bb f- c f-/2
+
+# measure 5
+soprano    ab/2 ab/2 bb g/2 ab f/2 f/2
+alto       f/2 f/2 f eb/2 eb db/2 db/2
+tenor      c/2 c/2 db bb/2 c ab/2 ab/2
+bass       f/2 f/2 bb eb/2 ab db/2 db/2
+
+# measure 6
+soprano    eb/2 f/2 ab ab/2 g ab/1
+alto       c/2 db/2 c eb/2 eb eb/1
+tenor      ab/2 ab/2 f bb/2 bb c/1
+bass       ab/2 db/2 f eb/2 eb ab/1
+
+# measure 7
+soprano    eb/2 bb/2 bb c/2 bb ab/2 g/2
+alto       bb/2 eb/2 eb eb c eb/2 d eb/2
+tenor      g/2 g/2 g ab/2 bb c f bb/2
+bass       eb/2 eb/2 eb ab+/2 g f/2 eb/2
+
+# measure 8
+soprano    c/2 ab/2 bb c/2 bb ab bb g/2 f/1
+alto       eb/2 f/2 g eb/2 g c f/2 en f/1
+tenor      ab/2 c/2 eb+ c/2 eb+ ab db c/2 c/1
+bass       ab+/2 f/2 eb ab+/2 eb f bb c/2 f/1
+
+
+

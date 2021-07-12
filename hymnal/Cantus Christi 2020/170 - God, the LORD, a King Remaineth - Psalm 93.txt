@@ -1,0 +1,87 @@
+title      God, the LORD, a King Remaineth
+author     John Keble, 1839LEWISHAM
+composer   James Tilleard (1827-1876)
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/170%20God,%20the%20LORD,%20a%20King%20-%20Psalm%2093%20LEWISHAM.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb- eb g. f/8
+alto       bb bb d. d/8
+tenor      g g bb. ab/8
+bass       eb eb bb. bb/8
+
+# measure 2
+soprano    eb g bb ab
+alto       eb eb f f
+tenor      g c bb bb
+bass       c c d d
+
+# measure 3
+soprano    g g f c-
+alto       eb d c c
+tenor      bb bn c ab
+bass       eb g- ab f-
+
+# measure 4
+soprano    eb f eb/2
+alto       bb d eb/2
+tenor      g ab g/2
+bass       bb bb eb/2
+
+# measure 5
+soprano    eb g c. bb/8
+alto       bb eb g. g/8
+tenor      g bb eb+. d/8
+bass       eb eb c. c/8
+
+# measure 6
+soprano    an c eb+ d
+alto       f an+ an+ bb+
+tenor      c c c bb
+bass       f f f# g
+
+# measure 7
+soprano    c g bb an
+alto       eb g f f
+tenor      g c d c
+bass       c eb f f
+
+# measure 8
+soprano    d c bb/2
+alto       f eb d/2
+tenor      an an bb/2
+bass       f- f- bb/2
+
+# measure 9
+soprano    eb+. bb/8 d c
+alto       eb. bb+/8 bb+ ab+
+tenor      bb. eb+/8 eb+ eb+
+bass       g. g/8 ab+ ab+
+
+# measure 10
+soprano    bb. f/8 ab g
+alto       f. f/8 f eb
+tenor      d. d/8 d eb+
+bass       bb+. bb+/8 bn+ c+
+
+# measure 11
+soprano    f. c-/8 eb d-
+alto       c. c/8 bb bb
+tenor      ab. ab/8 g f
+bass       f. f/8 bb bb
+
+# measure 12
+soprano    g f eb/2
+alto       d d eb/2
+tenor      bb ab g/2
+bass       bb bb eb/2
+
+
+

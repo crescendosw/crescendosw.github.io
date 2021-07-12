@@ -1,0 +1,63 @@
+title      Lord, Should Rising Whirlwinds Tear
+author     Anna L. Barbauld, 1773ORIENTIS PARTIBUS
+composer   French melody, 1200's; harm. Richard Redhead, 1853
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/683%20Lord,%20Should%20Rising%20Whirlwinds%20Tear.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb. f/8 g eb
+alto       bb. bb/8 bb bb
+tenor      g. ab/8 bb bb
+bass       eb. eb/8 eb g-
+
+# measure 2
+soprano    f d- eb/2
+alto       c bb bb/2
+tenor      ab f g/2
+bass       ab bb eb/2
+
+# measure 3
+soprano    bb bb c g/8 ab/8
+alto       eb eb eb eb
+tenor      g g ab eb
+bass       eb eb ab c
+
+# measure 4
+soprano    bb bb g/2
+alto       eb d eb/2
+tenor      f f g/2
+bass       bb bb eb/2
+
+# measure 5
+soprano    g f ab g
+alto       eb bb eb eb
+tenor      bb bb ab bb
+bass       eb d c bb
+
+# measure 6
+soprano    f eb/8 f/8 g/2
+alto       c c d/2
+tenor      c c bn/2
+bass       ab ab g-/2
+
+# measure 7
+soprano    bb. ab/8 g eb
+alto       eb. eb/8 d c
+tenor      bb. c/8 bb g
+bass       g-. ab/8 bb c
+
+# measure 8
+soprano    f d- eb/2
+alto       c bb bb/2
+tenor      ab f g/2
+bass       ab bb eb/2
+
+
+
