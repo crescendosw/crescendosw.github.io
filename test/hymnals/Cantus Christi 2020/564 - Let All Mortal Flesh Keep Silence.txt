@@ -1,0 +1,65 @@
+title      Let All Mortal Flesh Keep Silence
+hymnal     Cantus Christi
+author     Liturgy of St. James
+translator Gerard Moultrie, 1864
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/564%20Let%20All%20Mortal%20Flesh%20Keep%20Silence.pdf
+
+tune       PICARDY
+metre      8 7. 8 7. 8 7
+composer   French traditional carol, 17th century
+harmony    arr. Ralph Vaughan Williams, 1906
+key        F
+rhythm     4 : 4
+tempo      160
+type       unison
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+# unison
+
+unison       d- e f g | a/2   a g | a/2 a/2 | a a b c
+# alto       d/1      | = d/2 d/2 | c/1     | f/2 eb/2
+# tenor      f/1      | = f/2 R/2 | R/1     | f/1 =
+# bass       d/1      | = d/2 b/2 | f-/1    | d/2 c a
+
+unison       b/2  a g   | a/1  | d- e f g | a/2  a g  | a/2 a/2
+# alto       d/2.   e   | c#/1 | d/1      | c/2  b/2  | d/1
+# tenor      f/2.   e = | e/1  | f/1 =    | f/2.   e  | d/1
+# bass       b/1        | a/1  | b/1      | f-/2 g-/2 | d-/1
+
+unison      a a b c  | b/2  a g | a/1  | a a d a
+#alto       f/2 eb/2 | d/2.   e | c/1  | d/1 =
+#tenor      f/1 =    | f/2.   e | f/1  | d-/1 =
+#bass       d/2 c a  | b/1      | f-/1 | f#-/1
+
+unison      g/2. f | d- f a f | e/1 | a a d a | g/2  e  f  | d-/1
+#alto       b/1    | d/1      | e/1 | d/1     | b/2  g- a  | a/1
+#tenor      d-/1   | a/2.   b | c/1 | d-/1 =  | d-/2 c- a- | f/1
+#bass       g-/1   | d/1      | c/1 | f-/1    | g-/2 c  a  | d-/1
+
+verse      Let  all mor -  tal flesh keep   si  -  lence, And     with fear  and
+verse      King of  kings, yet born  of     Mar -  y,     As      of   old   on
+verse      Rank on  rank   the host  of     heav - en     Spreads its  van - guard
+verse      At   His feet   the six - winged ser -  aph,   Cher -  u -  bim,  with
+
+verse      trem -  bling stand; Pon - der   noth - ing earth - ly - mind -  ed,
+verse      earth   He    stood, Lord  of    lords, in  hu   -  man  ves  -  ture,
+verse      on      the   way,   As    the   Light  of  light   de - scend - eth
+verse      sleep - less  eye,   Veil  their fac -  es  to      the  pres -  ence,
+
+verse      For  with bless - ing  in    His  hand,  Christ our  God    to
+verse      In   the  bod  -  y    and   the  blood, He     will give   to
+verse      From the  realms  of   end - less day,   That   the  pow'rs of
+verse      As   with cease - less voice they cry,   Al  -  le - lu  -  ia,
+
+verse      earth de - scend - eth, Our  full hom  - age  to       de - mand.
+verse      all   the  faith - ful  His  own  self   for  heav'n - ly   food.
+verse      hell  may  van  -  ish  As   the  dark - ness clears   a -  way.
+verse      al -  le - lu   -  ia.  Al - le - lu  -  ia,  Lord     Most High!
+

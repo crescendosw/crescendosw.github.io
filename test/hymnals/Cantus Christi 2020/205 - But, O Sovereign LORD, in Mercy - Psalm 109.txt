@@ -1,0 +1,69 @@
+title      But, O Sovereign LORD, in Mercy
+author     Sing Psalms, 2003 (c)PENDERI
+composer   Albert E. Price (1897-?)
+key        G
+tempo      110
+rhythm     4 : 4
+verse_count 3
+copyright  Text: Free Church of Scotland, 2003. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/205%20But,%20O%20Sovereign%20LORD%20-%20Psalm%20109b%20PENDERI.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g e
+alto       b e
+tenor      g g/8 a/8
+bass       e/8 d/8 c
+
+# measure 2
+soprano    b. a/8 g f#/8 e/8
+alto       d# f# e c
+tenor      b b b a
+bass       b d# e a
+
+# measure 3
+soprano    e d#- e f#
+alto       c b/8 a/8 g- dn
+tenor      a/8 g/8 f# e a
+bass       b b c c
+
+# measure 4
+soprano    g a b c#
+alto       d f# g g
+tenor      g/8 d/8 d d a
+bass       b/8 b+/8 a+ g/8 f#/8 e
+
+# measure 5
+soprano    d/2 d. e+/8
+alto       g f# f# g
+tenor      a/2 b b
+bass       d/2 b/8 a/8 g-
+
+# measure 6
+soprano    c b e f#
+alto       c d e d#
+tenor      a g g b
+bass       a b c b
+
+# measure 7
+soprano    a g c b
+alto       f# e e d
+tenor      c b a d
+bass       e e a b
+
+# measure 8
+soprano    a g f# d#-
+alto       e e c b
+tenor      c b a/8 g/8 f#
+bass       c/8 d/8 e a b
+
+# measure 9
+soprano    e/2
+alto       b/2
+tenor      g/2
+bass       e-/2
+
+

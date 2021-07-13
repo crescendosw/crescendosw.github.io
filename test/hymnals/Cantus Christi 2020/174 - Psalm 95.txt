@@ -1,0 +1,157 @@
+title      Psalm 95
+hymnal     Cantus Christi
+translator Mile Coverdale, 1535
+psalm      95
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/174%20Psalm%2095%20-%20Tallis%20prose.pdf
+
+composer   Thomas Tallis, The Dorian Service, c. 1550
+key        D
+rhythm     4 : 4
+tempo      160
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    R/2 e e | g/2. g | f b b a# | b/2 f f | f. g/8 a b
+alto       R/2 e e | e/2. b | d e f f  | f/2 d d | d. e/8 f g
+tenor      R/2 b b | b/2. g | a b c c  | b/2 b b | a. b/8 a d-
+bass       e/2 e/2 | e/2. e | d g f f  | b/2 b b | d. d/8 d b
+
+soprano    c/2  b   b   | d  d   c  b | b - a# b/2 | R f/2 f | f f g a
+alto       f e. e/8 g = | g  f   f  f | f/2    f/2 | R d/2 d | d d e f
+tenor      a/2  g   e   | b. b/8 a# d | c/2    b/2 | R b/2 b | b b b d
+bass       a/2  e   e   | b  b   f  d | f/2    b/2 | R b/2 b | b b e d
+
+soprano    b/2  a g = | g f e/2 | d#-/2 b c = | c/8 c/8 a d/2
+alto       g/2  f e = | e b b/2 | b/2   d e = | e/8 e/8 f g  f =
+tenor      d/2  d b = | b f g/2 | f/2   f a = | a/8 a/8 a b. b/8
+bass       g-/2 d e = | e d e/2 | b/2   b a = | a/8 a/8 d b/2
+
+soprano    c b.  a/8 - f   | g#/2 R g = | g f g b = | b/8 b/8 a#  b  g =
+alto       f/8 - e/8 e/2 d | e/2  R e = | e d e e   | f       f   d# e =
+tenor      g/2         a/2 | b/2  R b = | b b b b   | c.      c/8 b  b =
+bass       e         g f/2 | e/2  R e = | e b e g   | f       f   b  e =
+
+soprano    g/8 g/8 f g b | b a# b  f = | f/8 g/8 a b c/8  c/8  | d.  c/8  b b
+alto       e/8 e/8 d e e | f f  d# d = | d/8 d/8 c b e/8  e/8  | g   f    f e
+tenor      b/8 b/8 b b b | c c  b  b = | b/8 b/8 a d c/8  c/8  | b   d    d b
+bass       e/8 e/8 b e g | f f  b  b = | b/8 b/8 f g a+/8 a+/8 | b+. a+/8 g g
+
+soprano    a# f. g/8 a | b c  d.  c/8  | b b a# b | g a f g
+alto       f  d. d/8 c | b e  g   f    | f e f  f | e e d d
+tenor      c  b. b/8 a | d c  b   d    | d b c  d | b c a b
+bass       f  b. b/8 f | g a+ b+. a+/8 | g g f  b | e a d b
+
+soprano    f e d#- b/8 b/8 | g a f g | f e d#- b = | b b b d
+alto       d b b   d/8 f/8 | e e d d | d b b   d = | d g g g
+tenor      a g f   d/8 d/8 | b c a b | a g f   b = | b d d d
+bass       d e b   b/8 b/8 | e a d b | d e b   g = | g g g b+
+
+soprano    c  b  b a# | b  b b. b/8 | b b  c  b = | b a# b b
+alto       a+ f  f f  | d# d g. g/8 | g g  a+ f   | f/2  f g
+tenor      e+ d  c c  | b  b d. d/8 | d d  e+ d   | c/2  b d
+bass       a+ b+ f f  | b  g g. g/8 | g b+ a+ b+  | f/2  b g
+
+soprano    c/2      b a | a g# a b | c  c/8  c/8  b a | a g# a a
+alto       e. - f/8 g d | e e  e g | e  e/8  f/8  g d | e e  c c
+tenor      c/2      d a | b b  a d | c  c/8  c/8  d a | b b  a a
+bass       a+/2     g f | e e  a g | a+ a+/8 a+/8 g f | e e  a a
+
+soprano    R f g/2      | f e/2 d#- | e/2 R g  | e f g e
+alto       R d b. - c/8 | d a b/2   | b/2 R g- | b d b c
+tenor      R a g/2      | a e f/2   | e/2 R b  | g a g a
+bass       R d e/2      | d c b/2   | e/2 R e  | e d e a
+
+soprano    f g e f = | f/8 e/8 e/2 d#- | e g  e f | g e f - g
+alto       d b c d = | d/8 d/8 b/2 b   | b g- b d | b c d - b
+tenor      a g a a = | a/8 a/8 g f/2   | e b  g a | g a a - g
+bass       d e a d = | d/8 d/8 e b/2   | e e  e d | e a d - e
+
+soprano    e f f e/8 e/8 | d#- e f g = | g/8 - f/8 e d#- e | e  d#- e b
+alto       c d d b/8 b/8 | b   c d d = | d         b b   b | b. b/8 b f =
+tenor      a a a g/8 g/8 | f   g a b = | b/8 - a/8 g f   g | f. f/8 e b
+bass       a d d e/8 e/8 | b   e d b = | b/8 - d/8 e b   e | b  b   e b
+
+soprano    a#      b f  b = | b a# b b   | a#      b f  b = | b a# b g
+alto       f/8 e/8 d c  f = | f f  f f = | f/8 e/8 d c  f = | f f  f e
+tenor      c       b a  d   | c/2  b d   | c       b a  d   | c/2  b b
+bass       f       g a+ b+  | f/2  b b   | f       g a+ b+  | f/2  b e
+
+soprano    f  e d#- b | a g f d  | c  b/8  b/8  a# b = | b a# b g
+alto       b  b b   f | f d d a+ | a+ g/8  g/8  f  e   | f/2  f e
+tenor      f  g f   b | c b a f+ | e+ e+/8 e+/8 c  b   | c/2  b b
+bass       d# e b   b | f g d d  | a+ e/8  e/8  f  g   | f/2  b e
+
+soprano    f/8  f/8  e d#- b/8 b/8 | a g/8 g/8 f d    | c     b   a# b =
+alto       b/8  b/8  b b   f/8 f/8 | f d/8 d/8 d a+ = | a+    g   f  e
+tenor      f/8  f/8  g f   d/8 d/8 | c b/8 b/8 a f+   | e+. - d/8 c  b
+bass       d#/8 d#/8 e b   b/8 b/8 | f g/8 g/8 d d    | a+    e   f  g
+
+soprano    b a# b  b  | b  c/2 b  | c/2 d/8. c/16 b/8 d/8 | c a b  c =
+alto       f f  d# e  | e  e/2 e  | e   f/2       b       | e e e  e =
+tenor      c c  b  g# | g# a/2 g# | a   a/2       g#      | a a g# a =
+bass       f/2  b  e  | e  a/2 e  | a/2 b         b       | a a e  a =
+
+soprano    c b  c  c   | b  c d/8. c/16 b/8 d/8 | c/1 | R c/2 c | c/2      b  d
+alto       e e  e  e   | e/2   f        b       | e/1 | R e/2 e | e. - f/8 g  f
+tenor      a g# a. a/8 | g# a.    b/8 - g       | a/1 | R a/2 a | c. - d/8 e+ d
+bass       a e  c  a   | e  c  b/2              | a/1 | R a/2 a | a+/2     e  b+
+
+soprano    c/2  b a | a g# a/2 | R f g f =    | f e/2  d#-
+alto       a+/2 f d | e e  c/2 | R d d/2 =    | d b  b b
+tenor      e+/2 d a | b b  a/2 | R a b. - a/8 | f g  f/2
+bass       a+/2 d f | e e  a/2 | R d b/2 =    | b g- b b
+
+soprano    e/2 R b = | b/8 b/8 f g a | b c. b/8 b = | b - a#   b/2
+alto       b/2 R b = | b/8 c/8 d e f | f g/2    f   | f. - e/8 d#/2
+tenor      e/2 R g = | g/8 g/8 a b c | d e+/2   d   | c/2      b/2
+bass       e/2 R e = | e/8 e/8 d g f | b e/2    b   | f/2      b/2
+
+soprano    R e e/8  e/8  b-  | c- d- e f = | f/8 - e/8 e/2 d#- | e/1
+alto       R b g-/8 g-/8 f-  | e- b  a c = | c a           b/2 | b/1
+tenor      R g b/8  b    a/8 | g  f  e a = | a/8 - g/8 e   f/2 | e/1
+bass       R e e/8  e/8  d#  | e  b  c a   | c/2           b/2 | e/1
+
+verse      O come, let us sing un - to the Lord; let us heart - i - ly re -
+
+verse      joice in the strength of our sal - va - tion.  Let us come be - fore His
+
+verse      pres - ence with thanks - giv - ing; and show our - selves glad
+
+verse      in Him with psalms.  For the Lord is a great God; and
+
+verse      a great King a - bove all gods.  In His hand are all the cor - ners of the
+
+verse      earth; and the strength of the hills is His al - so.  The sea is His, and
+
+verse      He made it; and His hands pre - par - ed the dry land.  O come, let us
+
+verse      wor - ship and fall down, and kneel be - fore the Lord our Mak - er.  For
+
+verse      He is the Lord our God and we are the peo - ple of His pas - ture,
+
+verse      and the sheep of His hand.  Today if ye will
+
+verse      hear his voice, hard - en not your hearts as in the pro - vo - ca -
+
+verse      tion, and as in the day of temp - ta - tion in the wil - der - ness: When
+
+verse      your fathers tempt - ed Me, prov - ed Me, and saw My work.  For -
+
+verse      ty years long was I griev - ed with this gen - er - a - tion, and said, It
+
+verse      is a peo - ple that do err in their hearts, for they have not known
+
+verse      My ways: un - to whom I swore in My wrath that they should
+
+verse      not en - ter in - to my rest.  Glo - ry be to the
+
+verse      Fa - ther and to the Son and to the Ho - ly
+
+verse      Ghost; as it was in the be - gin - ning, is now
+
+verse      and ev - er shall be, world with - out end.  A - men.

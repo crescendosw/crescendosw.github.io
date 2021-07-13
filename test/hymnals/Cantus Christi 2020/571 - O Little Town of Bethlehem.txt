@@ -1,0 +1,117 @@
+title      Little Town of Bethlehem FOREST GREEN 
+author     Phillip Brooks, 1868ST. LOUIS (Redner)
+composer   Lewis H. Redner, 1868
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/571%20O%20Little%20Town%20of%20Bethlehem%20ST.%20LOUIS.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       c
+tenor      f
+bass       f
+
+# measure 2
+soprano    a a g# a
+alto       c c bn c
+tenor      f f f f
+bass       f f f f
+
+# measure 3
+soprano    c bb d- g
+alto       eb d bb d
+tenor      f# g g bb
+bass       bb bb bb bb
+
+# measure 4
+soprano    f e/8 f/8 g c-
+alto       c c c c
+tenor      a g/8 a/8 bb bb
+bass       c c c c
+
+# measure 5
+soprano    a/2. a
+alto       c/2. c
+tenor      a/2. f
+bass       f-/2. f
+
+# measure 6
+soprano    a a d c
+alto       c f f# f#
+tenor      f a a d
+bass       f eb d d
+
+# measure 7
+soprano    c bb d- g
+alto       g d bb d
+tenor      d d d bb
+bass       g g g- bb
+
+# measure 8
+soprano    f e/8 f/8 a g
+alto       c c e e
+tenor      a g#/8 a/8 c bb
+bass       c. c/8 c c
+
+# measure 9
+soprano    f/2. a
+alto       f/2. f
+tenor      a/2. c
+bass       f/2. f
+
+# measure 10
+soprano    a a g f
+alto       f f e d
+tenor      c a bb bn
+bass       f f g g#
+
+# measure 11
+soprano    e/2 e e
+alto       c#/2 c# c#
+tenor      c#/2 c# a
+bass       a+/2 a+ a
+
+# measure 12
+soprano    d- e f g
+alto       d e f d
+tenor      d- e f d
+bass       d e f bb+
+
+# measure 13
+soprano    a/2. a
+alto       e/2. f
+tenor      c#/2. cn
+bass       a+/2. f
+
+# measure 14
+soprano    a a g# a
+alto       c c bn c
+tenor      c a f f
+bass       f f f f
+
+# measure 15
+soprano    c bb d- d
+alto       d d bb d/8 e/8
+tenor      f# g g bb
+bass       bb bb bb bb
+
+# measure 16
+soprano    c f a. g/8
+alto       f bn c. bb/8
+tenor      a g/8 f/8 f. e/8
+bass       c d c. c/8
+
+# measure 17
+soprano    f/2.
+alto       a/2.
+tenor      f/2.
+bass       f-/2.
+
+
+

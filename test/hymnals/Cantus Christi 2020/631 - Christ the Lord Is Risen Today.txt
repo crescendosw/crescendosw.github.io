@@ -1,0 +1,111 @@
+title      Christ the Lord Is Risen Today
+author     Charles Wesley, 1739EASTER HYMN
+composer   Lyra Davidica, London, 1708
+key        C
+tempo      125
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/631%20Christ%20the%20Lord%20Is%20Risen%20Today.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c- e g c-
+alto       c c d c
+tenor      e g g e
+bass       c c b c
+
+# measure 2
+soprano    f a a g
+alto       c f f e
+tenor      f c c/2
+bass       a f- c/2
+
+# measure 3
+soprano    e/8 f/8 g/8 c-/8 f e/8 f/8
+alto       c/2 = c/8 b/8 c
+tenor      g/2 a/8 f/8 g/8 a/8
+bass       c/8 d/8 e d c/8 f-/8
+
+# measure 4
+soprano    e d- c-/2
+alto       c b c/2
+tenor      g. f/8 e/2
+bass       g-/2 c/2
+
+# measure 5
+soprano    f g a g
+alto       c c c c
+tenor      f e f g
+bass       a c f e
+
+# measure 6
+soprano    f e e d-
+alto       c/8 b/8 c c b
+tenor      a/8 f/8 g g/2
+bass       d c g-/2
+
+# measure 7
+soprano    e/8 f/8 g/8 c-/8 f e/8 f/8
+alto       c/2 = c/8 b/8 c
+tenor      g/2 a/8 f/8 g/8 a/8
+bass       c/8 d/8 e d c/8 f-/8
+
+# measure 8
+soprano    e d- c-/2
+alto       c b c/2
+tenor      g. f/8 e/2
+bass       g-/2 c/2
+
+# measure 9
+soprano    b c d g
+alto       g. f#/8 g g
+tenor      d c b b
+bass       g- a b g/8 f/8
+
+# measure 10
+soprano    c d e+/2
+alto       g f e/2
+tenor      c. b/8 c/2
+bass       e d c/2
+
+# measure 11
+soprano    b/8 c/8 d/8 g/8 c b/8 c/8
+alto       g/2 = g/8 f#/8 g
+tenor      d/2. d/8 c/8
+bass       g/8 a+/8 b+ a+ g/8 e/8
+
+# measure 12
+soprano    b a g/2
+alto       g f# g/2
+tenor      d. c/8 b/2
+bass       d/2 g-/2
+
+# measure 13
+soprano    g/8 a/8 b/8 g/8 c e
+alto       b/8 c/8 d/8 b/8 c c
+tenor      g g g g
+bass       g. f/8 e c/8 b/8
+
+# measure 14
+soprano    f a a g
+alto       c f f e
+tenor      f c c/2
+bass       a f- c/2
+
+# measure 15
+soprano    c/8 b/8 c/8 g/8 a/8 b/8 c/8 d/8
+alto       e/8 f/8 g/8 e/8 f e/8 d/8
+tenor      g. c/8 = c/8 d/8 g/8 a/8
+bass       c/8 d/8 e/8 c/8 f/8 d/8 e/8 f/8
+
+# measure 16
+soprano    c b c/2
+alto       e g/8 f/8 e/2
+tenor      g/2 g/2
+bass       g g- c/2
+
+
+

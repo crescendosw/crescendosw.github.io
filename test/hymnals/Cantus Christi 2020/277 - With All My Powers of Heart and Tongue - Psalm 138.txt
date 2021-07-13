@@ -1,0 +1,87 @@
+title      With All My Powers of Heart and Tongue
+author     Isaac Watts (1674-1748)SOLOTHURN
+composer   Swiss melody
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/277%20With%20All%20My%20Powers%20-%20Psalm%20138%20SOLOTHURN.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       a
+tenor      f#
+bass       d
+
+# measure 2
+soprano    d- e f# d-
+alto       a a d b
+tenor      f# a f# f#
+bass       d c# b b
+
+# measure 3
+soprano    a/2 e/2
+alto       a/2 c#/2
+tenor      d-/2 e/2
+bass       f#-/2 a/2
+
+# measure 4
+soprano    d-/2. a
+alto       a/2. d
+tenor      f#/2. f#
+bass       d/2. d
+
+# measure 5
+soprano    a b c# a
+alto       c# c# c# c#
+tenor      e e a a
+bass       a a f#- f#-
+
+# measure 6
+soprano    d/2 b/2
+alto       d f# e d
+tenor      a/2 g#/2
+bass       b/2 e/2
+
+# measure 7
+soprano    a/2. a
+alto       c#/2. c#
+tenor      a/2. a
+bass       a/2. g
+
+# measure 8
+soprano    d c# b a
+alto       d d g e
+tenor      a a b c#
+bass       f# f#- g- a
+
+# measure 9
+soprano    d b a a
+alto       d e f# c#
+tenor      g g f# g
+bass       b c# d e
+
+# measure 10
+soprano    d- e f# g
+alto       d c# d d
+tenor      a a a g
+bass       f# e d b
+
+# measure 11
+soprano    a/2 e/2
+alto       d/2 c#/2
+tenor      d-/2 g/2
+bass       f#-/2 a/2
+
+# measure 12
+soprano    d-/2.
+alto       a/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

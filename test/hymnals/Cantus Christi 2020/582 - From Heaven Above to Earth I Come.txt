@@ -1,0 +1,87 @@
+title      From Heaven Above to Earth I Come
+author     Martin Luther, 1535; tr. Catherine Winkworth, 1855VOM HIMMEL HOCH
+composer   Geistliche Lieder, Leipzig, 1539; attr. Martin Luther (1483-1546)
+key        C
+tempo      101
+rhythm     0 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/582%20From%20Heaven%20Above%20to%20Earth%20I%20Come.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    R/8 c/8 b a b g a b c
+alto       R/8 e/8 d d d c f f e
+tenor      R/8 g/8 g f# g g c d g
+bass       R/8 c/8 g d g e fn/8 e/8 d c
+
+# measure 2
+soprano    R/8 c/8 c g g e g f e
+alto       R/8 e/8 e e d c d d b
+tenor      R/8 g/8 a b g g b a g#
+bass       R/8 c/8 a e b c g- d e
+
+# measure 3
+soprano    R/8 e/8 a a g b c a g
+alto       R/8 c/8 c d d d e d/8 c/8 b
+tenor      R/8 a/8 a f g g g f# g
+bass       R/8 a+/8 f d/8 c/8 b g- c d g-
+
+# measure 4
+soprano    R/8 c/8 b a g g f/8 e/8 d- c-/2
+alto       R/8 c/8 d d/8 c/8 b c a b c/2
+tenor      R/8 e/8 g f# g e fn g e/2
+bass       R/8 a/8 b d e c d g- c/2
+
+# measure 5
+soprano    R/8 c/8 b a b g a b c
+alto       R/8 e/8 d d d c f f e
+tenor      R/8 g/8 g f# g g c d g
+bass       R/8 c/8 g d g e fn/8 e/8 d c
+
+# measure 6
+soprano    R/8 c/8 c g g e g f e
+alto       R/8 e/8 e e d c d d b
+tenor      R/8 g/8 a b g g b a g#
+bass       R/8 c/8 a e b c g- d e
+
+# measure 7
+soprano    R/8 e/8 a a g b c a g
+alto       R/8 c/8 c d d d e d/8 c/8 b
+tenor      R/8 a/8 a f g g g f# g
+bass       R/8 a+/8 f d/8 c/8 b g- c d g-
+
+# measure 8
+soprano    R/8 c/8 b a g g f/8 e/8 d- c-/2
+alto       R/8 c/8 d d/8 c/8 b c a b c/2
+tenor      R/8 e/8 g f# g e fn g e/2
+bass       R/8 a/8 b d e c d g- c/2
+
+# measure 9
+soprano    R/8 c/8 b a b g a b c
+alto       R/8 e/8 d d d c f f e
+tenor      R/8 g/8 g f# g g c d g
+bass       R/8 c/8 g d g e fn/8 e/8 d c
+
+# measure 10
+soprano    R/8 c/8 c g g e g f e
+alto       R/8 e/8 e e d c d d b
+tenor      R/8 g/8 a b g g b a g#
+bass       R/8 c/8 a e b c g- d e
+
+# measure 11
+soprano    R/8 e/8 a a g b c a g
+alto       R/8 c/8 c d d d e d/8 c/8 b
+tenor      R/8 a/8 a f g g g f# g
+bass       R/8 a+/8 f d/8 c/8 b g- c d g-
+
+# measure 12
+soprano    R/8 c/8 b a g g f/8 e/8 d- c-/2
+alto       R/8 c/8 d d/8 c/8 b c a b c/2
+tenor      R/8 e/8 g f# g e fn g e/2
+bass       R/8 a/8 b d e c d g- c/2
+
+
+

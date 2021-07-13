@@ -1,0 +1,69 @@
+title      Praise the LORD with Exaltation
+author     Charles Haddon Spurgeon (1834-1892)OMNI DIE (Corner)
+composer   Gross Catholische Gesangbuch, 1631
+key        F
+tempo      135
+rhythm     6 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/210%20Praise%20the%20LORD%20with%20Exaltation%20-%20Psalm%20111%20OMNI%20DIE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f
+alto       c d
+tenor      a a
+bass       f d
+
+# measure 2
+soprano    g/2 f/2 a c
+alto       e/2 f/2 f f
+tenor      c/2 a/2 c a
+bass       c/2 f/2 f f
+
+# measure 3
+soprano    bb/2 a/2 f g
+alto       f e f/2 c e
+tenor      bb/2 c/2 a c
+bass       g/2 f/2 f c
+
+# measure 4
+soprano    a c c/2 bn/2
+alto       f g f/2 f/2
+tenor      c c a g f/2
+bass       f e f e d/2
+
+# measure 5
+soprano    c/1 c c
+alto       e/1 f g
+tenor      g/1 a g
+bass       c/1 f e
+
+# measure 6
+soprano    d/2 c/2 bb a
+alto       f/2 f/2 f f
+tenor      a/2 a/2 d c
+bass       d/2 f/2 bb f
+
+# measure 7
+soprano    g/2 a/2 f g
+alto       e d e/2 d e
+tenor      c d c#/2 a cn
+bass       c bb a/2 d c
+
+# measure 8
+soprano    a bb g/2. f
+alto       f f f/2 e/2
+tenor      c d c/2 c/2
+bass       f bb c/2 c/2
+
+# measure 9
+soprano    f/1
+alto       f/1
+tenor      a/1
+bass       f-/1
+
+
+

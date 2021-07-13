@@ -1,0 +1,117 @@
+title      This Is My Father's World
+author     Maltbie D. Babcock, 1901TERRA BEATA
+composer   Franklin L. Sheppard, 1915; arr. Edward Shippen Barnes, 1926
+key        Eb
+tempo      100
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/346%20This%20Is%20My%20Father's%20World.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb/8 f/8
+alto       eb
+tenor      g/8 ab/8
+bass       eb
+
+# measure 2
+soprano    g bb g f
+alto       eb eb eb d
+tenor      bb bb bb ab
+bass       eb g- bb bb
+
+# measure 3
+soprano    eb/2. f/8 g/8
+alto       eb/2. c/8 en/8
+tenor      g/2. c
+bass       c/2. ab+/8 g/8
+
+# measure 4
+soprano    ab c bb g
+alto       f f f eb
+tenor      c ab f g/8 ab/8
+bass       f eb d eb
+
+# measure 5
+soprano    f/2. c
+alto       d/2. d
+tenor      bb/2. bb
+bass       bb/2. ab+
+
+# measure 6
+soprano    bb g g f/8 eb/8
+alto       eb eb d c
+tenor      bb bb bn g
+bass       g eb g- c
+
+# measure 7
+soprano    g f eb bb-
+alto       d bn c bb
+tenor      g g g ab
+bass       bn g- c d
+
+# measure 8
+soprano    eb/8 f/8 g bb f/8 g/8
+alto       eb eb eb d
+tenor      g/8 ab/8 bb bb ab/8 bb/8
+bass       eb eb g- bb
+
+# measure 9
+soprano    eb/2. bb
+alto       eb/2. eb/8 f/8
+tenor      g/2. g/8 ab/8
+bass       eb/2. eb
+
+# measure 10
+soprano    eb+ bb c d
+alto       g/8 ab+/8 g/8 f/8 eb ab+
+tenor      bb bb ab ab
+bass       eb/8 f/8 g ab+/8 g/8 f
+
+# measure 11
+soprano    eb+/2. eb+/8 d/8
+alto       g/2. g
+tenor      bb/2. c/8 bn/8
+bass       eb/2. c/8 d/8
+
+# measure 12
+soprano    c eb+ d c
+alto       g g f eb
+tenor      c bb an g/8 an/8
+bass       eb c f f
+
+# measure 13
+soprano    bb/2. c/8 = c/8
+alto       d/2. d/8 = d/8
+tenor      bb/2. ab/8 = ab/8
+bass       bb/2. bb/8 = bb/8
+
+# measure 14
+soprano    bb g g f/8 eb/8
+alto       eb eb eb d/8 c/8
+tenor      g bb g g/8 = g/8
+bass       bb bb bn c/8 = c/8
+
+# measure 15
+soprano    g f eb bb-
+alto       bb d c bb
+tenor      g g g ab
+bass       g- bn c d
+
+# measure 16
+soprano    eb/8 f/8 g bb f/8 g/8
+alto       eb eb eb d/8 = d/8
+tenor      g/8 ab/8 bb bb ab/8 bb/8
+bass       eb eb g-/8 ab/8 bb/8 = bb/8
+
+# measure 17
+soprano    eb/2.
+alto       eb/2.
+tenor      g/2.
+bass       eb/2.
+
+
+

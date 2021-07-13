@@ -1,0 +1,51 @@
+title      Oh, That I Had a Thousand Voices
+author     Johann Mentzer, 1704; tr. composite
+composer   Johann B. König, 1738
+key        F
+tempo      100
+rhythm     0 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/464%20Oh,%20That%20I%20Had%20a%20Thousand%20Voices.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    R c a c d c bb a g/2 f/2
+alto       R f f f f e f f f e f/2
+tenor      R a c a bb g d c c/2 a/2
+bass       R f f f bb c d f c/2 f-/2
+
+# measure 2
+soprano    R a g f g a bb a g/2
+alto       R f e d e f f f e/2
+tenor      R c c a bb c d c c/2
+bass       R f c d g f bb f c/2
+
+# measure 3
+soprano    R c a c d c bb a g/2 f/2
+alto       R g f f f e f f f e f/2
+tenor      R c c a bb g d c c/2 a/2
+bass       R e f f bb c d f c/2 f-/2
+
+# measure 4
+soprano    R a g f g a bb a g/2
+alto       R f e d e f f f e/2
+tenor      R c c a bb c d c c/2
+bass       R f c d g f bb f c/2
+
+# measure 5
+soprano    R g g g a c c bn c/2
+alto       R c d e f g d d e/2
+tenor      R e g c c c a g g/2
+bass       R c bn c f e f g c/2
+
+# measure 6
+soprano    R c a f d bb a/2 g/2 f/1
+alto       R c c d f g f/2 f e c/1
+tenor      R g a a bb d c/2 c/2 a/1
+bass       R e f d bb g- c/2 c/2 f-/1
+
+
+

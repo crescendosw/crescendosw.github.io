@@ -1,0 +1,35 @@
+title      Before Thee Let My Cry Come Near
+hymnal     Cantus Christi
+author     "The Book of Psalms for Singing", 1973
+psalm      119: 169-176
+copyright  text: Taken from the Book of Psalms for Singing Copyright 1973 Crown & Covenant Publications.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/229%20Before%20Thee%20Let%20My%20Cry%20-%20Psalm%20119%20RUSSIA.pdf
+
+tune       RUSSIA
+metre      L.M.
+composer   Daniel Read, 1786
+key        Bb
+rhythm     4 : 4
+tempo      120
+
+status     header  tune  double  checked
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g/2 g a | b a g g       | f#/2 f#/2 | fn b       a g | f#/2. f#
+alto       d/2 d d | d d e d       | d/2  d/2  | f  f       f e | d/2.  d
+tenor      g/2 b a | g f g b       | a/2  a/2  | d  d       c b | a/2.  a
+bass       g/2 g f | g d c b/8 c/8 | d/2  d/2  | d  d/8 e/8 f g | d/2.  d
+
+soprano    g/2.  R | R/1           | R/1           | R/2 R       g
+alto       d/2.  R | R/1           | R/2 R       d | g g g       f
+tenor      g/2.  R | R/2 R       g | d d d/8 c/8 b | c c c/8 b/8 a
+bass       g-/2. d | g g g/8 f/8 e | d d d e/8 d/8 | c c c d/8 c/8
+
+soprano    d d d       d/8 c/8 | a a a       a | b       g       a       g | f#/2. f# | g/1
+alto       f/2.        e       | d/2.        d | d       d       d       e | d/2.  d  | d/1
+tenor      b b b/8 a/8 g/8 b/8 | a a a/8 g/8 f | g/8 a/8 b/8 c/8 d c/8 b/8 | a/2.  a  | g/1
+bass       b/2.        c       | d/2.        d | g       g       f       g | d/2.  d  | g-/1

@@ -1,0 +1,51 @@
+title      Psalm 127
+hymnal     Cantus Christi 2020
+author     King James Version
+
+composer   David R. Erb, 2006
+key        F
+rhythm     4 : 4
+tempo      110
+
+#hyperlink  https://vimeo.com/156804547
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     R/8 d-/8 f/8 g/8 | a a/8 g/8 a. a/8 | a g/8 f/8 g f/8 - e/8 | f d- R/8 d-/8 f/8 g/8
+
+unison     a a/8 g/8 a/8 a a/8 | a g/8 - f/8 g/8 f/8 e/8 f/8 | d-/2 R d-/8 e/8
+
+unison     f/8 g/8 a/8 b/8 a g | a a R/8 a/8 g/8 b/8 | a R/8 a/8 a/8 a/8 g/8 b/8
+
+unison     a a/2 a | a f d- g | f e/8 - d-/8 e c- | d-/1
+
+key        D
+
+unison     d-/2 d-/8 d-/8 f/8 g/8 | a/8 g/8 a g b | a/2 a a | b a/8 g/8 a f | g f e/2
+
+unison     d- f/8 e/8 d- f/8 g/8 | a a/8 a/8 g b | a/2 a b | a f g f | e/1
+
+unison     d/8 c/8 b/8 a/8 b b | a d- e f | g/8 a/8 g/2 g/8 g/8
+
+unison     a d-/8 e/8 f/2 | b a/8 g/8 f e/8 f/8 | g/8 f/8 d- e a | a/2
+
+verse      Ex - cept the Lord build the house, they la - bor in vain that build it:
+
+verse      Ex - cept the Lord keep the ci - ty, the watch - man wak - eth but in vain.
+
+verse      It is vain for you to rise up ear - ly, to sit up late,
+
+verse      to eat the bread of sor - rows: for so he giv - eth his be - lov - ed sleep.
+
+verse      Lo, chil - dren are an her - i - tage of the Lord: and the fruit of the womb is his re - ward.
+
+verse      As ar - rows are in the hand of a might - y man; so are chil - dren of the youth.
+
+verse      Hap - py is the man that hath his qui - ver full of them:
+
+verse      They shall not be a - shamed, but they shall speak with the en - e - mies in the gate.

@@ -1,0 +1,111 @@
+title      Now with Joyful Exultation
+author     The Psalter, 1912; alt.DIETRICH
+composer   Julius Dietrich, 1894
+key        Bb
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/176%20Now%20with%20Joyful%20Exultation%20-%20Psalm%2095%20DIETRICH.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f bb bb
+alto       d d d d
+tenor      bb bb bb bb
+bass       bb+ bb+/8 a+/8 g g
+
+# measure 2
+soprano    c bb/8 c/8 d bb
+alto       f f f d
+tenor      a g/8 a/8 bb f
+bass       f f bb bb
+
+# measure 3
+soprano    f f eb d-
+alto       c bb bb bb
+tenor      f d- g g
+bass       a bb eb en
+
+# measure 4
+soprano    c- d-/8 eb/8 d-/2
+alto       bb a bb/2
+tenor      f f f/2
+bass       f f- bb/2
+
+# measure 5
+soprano    f f bb bb
+alto       d d d d
+tenor      bb bb bb bb
+bass       bb+ bb+/8 a+/8 g g
+
+# measure 6
+soprano    c bb/8 c/8 d bb
+alto       f f f d
+tenor      a g/8 a/8 bb f
+bass       f f bb bb
+
+# measure 7
+soprano    a c bb a
+alto       f f f f
+tenor      c a d c
+bass       c c c c
+
+# measure 8
+soprano    g g/8 a/8 f/2
+alto       f en f/2
+tenor      bb bb a/2
+bass       c c f/2
+
+# measure 9
+soprano    f f g g
+alto       d d eb eb
+tenor      bb bb bb bb
+bass       bb+ bb eb eb
+
+# measure 10
+soprano    a a bb bb
+alto       g f# g g
+tenor      d d d d
+bass       d d g g
+
+# measure 11
+soprano    c d eb+ d
+alto       g g g g
+tenor      c bn c b
+bass       eb d c d
+
+# measure 12
+soprano    c c/8 bb/8 a/2
+alto       g g f/2
+tenor      c c c/2
+bass       eb en f/2
+
+# measure 13
+soprano    f f bb bb
+alto       d d d d
+tenor      bb bb bb bb
+bass       bb+ bb+/8 a+/8 g g/8 f/8
+
+# measure 14
+soprano    c bb/8 c/8 d d
+alto       g g g f#
+tenor      g g a a
+bass       eb eb d d
+
+# measure 15
+soprano    eb+ c d/8 c/8 bb
+alto       g a+ f g
+tenor      c c bb d
+bass       c f/8 eb/8 d g/8 f/8
+
+# measure 16
+soprano    c a bb/2
+alto       g f/8 eb/8 d/2
+tenor      c f f/2
+bass       eb f bb/2
+
+
+

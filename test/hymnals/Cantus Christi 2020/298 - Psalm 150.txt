@@ -1,0 +1,41 @@
+title      Psalm 150
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2013
+key        G
+rhythm     0 : 4
+tempo      120
+
+#hyperlink  https://vimeo.com/71944683
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     e/8 - d-/8 - e/8 - f/8 - g f e/2. | e c/8 c/8 c/8 d c/8 b b R | a/8 a/8 a/8 a/8 a/8 - g/8 f/8 g/8 f/8 e R
+
+unison     e c/8 c/8 c/8 d c/8 b/2 R | a/8 a/8 a/8 a/8 a/8 a/8 a/8 a/8 g/8 f/8 g/8 - f/8 e/2.
+
+unison     e/8 - d-/8 - e/8 - f/8 g a/8 g/8 f/8 e/8 d-/8 e e R | g c/8 - b/8 - a/8 b/8 - a/8 g/8 a - f e - d- e/1
+
+unison     e/8 - d-/8 - e/8 - f/8 g a/8 g/8 f/8 e/8 d-/8 e/2 R | g c/8 - b/8 - a/8 b/8 - a/8 g/8 a f e d- e/1
+
+unison     e/8 - d-/8 - e/8 - f/8 g a/8 - g/8 f/8 - e/8 - d-/8 e e R | g c/8 - b/8 - a/8 b/8 - a/8 g/8 a f e - d- e/2.
+
+unison     e c/8 c/8 c/8 d c/8 b/2 R | a/8 g/8 f/8 g f e/1 | e/8 - d-/8 - e/8 - f/8 - g f e/2.
+
+verse      Praise the Lord!  Praise God in His sanc - tu - ar - y; Praise Him in His might - y firmament!
+
+verse      Praise Him for His might - y acts; Praise Him ac - cord - ing to His ex - cel - lent great - ness!
+
+verse      Praise Him with the sound of the trum - pet; Praise Him with the lute and harp!
+
+verse      Praise Him with the tim - brel and dance; Praise Him with stringed in - stru - ments and flutes!
+
+verse      Praise Him with loud cym - bals; Praise Him with clash - ing cym - bals!
+
+verse      Let ev - 'ry - thing that has breath praise the Lord.  Praise the Lord!

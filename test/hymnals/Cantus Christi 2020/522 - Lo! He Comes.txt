@@ -1,0 +1,171 @@
+title      Lo! He Comes
+author     Charles Wesley, 1758HELMSLEY
+composer   attr. Martin Madan, 1763; harm. Ralph Vaughan Williams, 1906
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/522%20Lo!%20He%20Comes.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 b d
+alto       d/2 d/2
+tenor      b/2 b a
+bass       g/2 g f#
+
+# measure 2
+soprano    g f# e d-
+alto       b d c d
+tenor      g b g/8 a/8 b
+bass       e b c g-
+
+# measure 3
+soprano    e. f#/8 g f#/8 e/8
+alto       c. d/8 e d/8 c/8
+tenor      g/2. g
+bass       c/2. c
+
+# measure 4
+soprano    d-. c-/8 b-/2
+alto       a/2 g-/2
+tenor      f#/2 g/2
+bass       d/2 g-/2
+
+# measure 5
+soprano    d-/2. d-
+alto       a/2. d
+tenor      f# g f#/2
+bass       d e d c
+
+# measure 6
+soprano    g/2 a/2
+alto       d/2 e f#
+tenor      g/2 c/2
+bass       b/2 a/2
+
+# measure 7
+soprano    b d c b
+alto       g b+ a+ g
+tenor      b/2 e+/2
+bass       g-/2 c/2
+
+# measure 8
+soprano    b/2 a/2
+alto       g/2 f#/2
+tenor      d/1
+bass       d/1
+
+# measure 9
+soprano    g/2 b d
+alto       d/2 d/2
+tenor      b/2 b a
+bass       g/2 g f#
+
+# measure 10
+soprano    g f# e d-
+alto       b d c d
+tenor      g b g/8 a/8 b
+bass       e b c g-
+
+# measure 11
+soprano    e. f#/8 g f#/8 e/8
+alto       c. d/8 e d/8 c/8
+tenor      g/2. g
+bass       c/2. c
+
+# measure 12
+soprano    d-. c-/8 b-/2
+alto       a/2 g-/2
+tenor      f#/2 g/2
+bass       d/2 g-/2
+
+# measure 13
+soprano    d-/2. d-
+alto       a/2. d
+tenor      f# g f#/2
+bass       d e d c
+
+# measure 14
+soprano    g/2 a/2
+alto       d/2 e f#
+tenor      g/2 c/2
+bass       b/2 a/2
+
+# measure 15
+soprano    b d c b
+alto       g b+ a+ g
+tenor      b/2 e+/2
+bass       g-/2 c/2
+
+# measure 16
+soprano    b/2 a/2
+alto       g/2 f#/2
+tenor      d/1
+bass       d/1
+
+# measure 17
+soprano    a. b/8 a b
+alto       f#. g/8 f# g
+tenor      d/2. d
+bass       d/2. b
+
+# measure 18
+soprano    c/2 b/2
+alto       e f# g/2
+tenor      c/2 d/2
+bass       a/2 g-/2
+
+# measure 19
+soprano    g. a/8 g c
+alto       d/2 e e
+tenor      b. a/8 b c
+bass       g. f#/8 e a
+
+# measure 20
+soprano    b a g/2
+alto       g f# e/2
+tenor      d. c/8 b/2
+bass       b/8 c/8 d e/2
+
+# measure 21
+soprano    b. c/8 b d
+alto       e/2. d
+tenor      g. a/8 g g
+bass       e/2. b
+
+# measure 22
+soprano    c b a/2
+alto       f# g g f#
+tenor      a b/8 c/8 d/2
+bass       a g- d/2
+
+# measure 23
+soprano    g/2. a/8 b/8
+alto       d/2 d/2
+tenor      d/2 c b
+bass       b+/2 a+ g
+
+# measure 24
+soprano    d-/2 c/2
+alto       d/2 g/2
+tenor      a/2 g a
+bass       f#/2 e/2
+
+# measure 25
+soprano    b/2 a/2
+alto       g/2 f#/2
+tenor      b c d c
+bass       d/2 d/2
+
+# measure 26
+soprano    g/1
+alto       g/1
+tenor      b/1
+bass       g-/1
+
+
+

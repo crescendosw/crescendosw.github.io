@@ -1,0 +1,117 @@
+title      There Is a Fountain
+author     Anonymous
+composer   Anonymous
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/489%20There%20Is%20a%20Fountain.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-/8 e/8
+alto       c
+tenor      e/8 g/8
+bass       c
+
+# measure 2
+soprano    g. a/8 g c
+alto       e. f/8 e g
+tenor      c. c/8 c g
+bass       c. c/8 c e
+
+# measure 3
+soprano    c. a/8 g c-/8 e/8
+alto       f. f/8 e c
+tenor      a. c/8 c e/8 g/8
+bass       f. f/8 c c
+
+# measure 4
+soprano    g. g/8 a/8 g/8 e/8 c-/8
+alto       e. e/8 f/8 e/8 c
+tenor      c. c/8 c g
+bass       c. c/8 c c/8 e/8
+
+# measure 5
+soprano    d-/2. c-/8 e/8
+alto       b/2. c
+tenor      g/2. e/8 g/8
+bass       g/2. c
+
+# measure 6
+soprano    g. a/8 g c
+alto       e. f/8 e g
+tenor      c. c/8 c g
+bass       c. c/8 c e
+
+# measure 7
+soprano    c. a/8 g c/8 d/8
+alto       f. f/8 e e/8 f/8
+tenor      a. c/8 c c
+bass       f. f/8 c c
+
+# measure 8
+soprano    e+. c/8 d e+
+alto       g. e/8 f g
+tenor      c. c/8 b g
+bass       c. c/8 g g
+
+# measure 9
+soprano    c/2. c/8 d/8
+alto       e/2. e/8 f/8
+tenor      g/2. c
+bass       c/2. c+
+
+# measure 10
+soprano    e+. c/8 d e+
+alto       g. e/8 f g
+tenor      c. c/8 b c
+bass       c+. c+/8 g c
+
+# measure 11
+soprano    c. a/8 c a
+alto       a+. f/8 a+ f
+tenor      c/2. c
+bass       f/2. f
+
+# measure 12
+soprano    g. g/8 a/8 g/8 e/8 c-/8
+alto       e. e/8 f/8 e/8 c
+tenor      c. c/8 c g
+bass       c. c/8 c c/8 e/8
+
+# measure 13
+soprano    d-/2. c-/8 e/8
+alto       b/2. c
+tenor      g/2. e/8 g/8
+bass       g/2. c
+
+# measure 14
+soprano    g. a/8 g c
+alto       e. f/8 e g
+tenor      c. c/8 c g
+bass       c. c/8 c e
+
+# measure 15
+soprano    c. a/8 g c/8 d/8
+alto       f. f/8 e e/8 f/8
+tenor      a. c/8 c c
+bass       f. f/8 c c
+
+# measure 16
+soprano    e+. c/8 d e+
+alto       g. e/8 f g
+tenor      c. c/8 b g
+bass       c. c/8 g g
+
+# measure 17
+soprano    c/2.
+alto       e/2.
+tenor      g/2.
+bass       c/2.
+
+
+

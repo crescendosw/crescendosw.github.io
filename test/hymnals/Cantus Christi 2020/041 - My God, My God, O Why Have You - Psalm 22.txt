@@ -1,0 +1,116 @@
+title      My God, My God, O Why Have You
+author     The Book of Psalms for Singing, 1973 (c)KINGSFOLD
+composer   English traditional melody; harm. Ralph Vaughan Williams, 1906
+key        G
+tempo      100
+rhythm     4 : 4
+verse_count 7
+copyright  Text: Crown & Covenant Publications, 1973. Used by permission. Music: Oxford University Press. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/41%20My%20God,%20My%20God,%20O%20Why%20-%20Psalm%2022a%20KINGSFOLD.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/8 f#/8
+alto       e
+tenor      b/8 a/8
+bass       e
+
+# measure 2
+soprano    e e e d-
+alto       b b c a
+tenor      g g g f#
+bass       e e/8 d/8 c c
+
+# measure 3
+soprano    g g a g/8 a/8
+alto       d b d d/8 f#/8
+tenor      g g f# g/8 c/8
+bass       b e d b/8 a/8
+
+# measure 4
+soprano    b b a/8 g/8 e
+alto       g g e c
+tenor      b d c g
+bass       g- g- a c
+
+# measure 5
+soprano    d-/2. g/8 f#/8
+alto       a/2. d
+tenor      g/2 f# g
+bass       d/2. b
+
+# measure 6
+soprano    e e e d-
+alto       d c c/8 b/8 a
+tenor      g g g f#
+bass       c c/8 b/8 a d
+
+# measure 7
+soprano    g g a g/8 a/8
+alto       d c# d d/8 cn/8
+tenor      g g f# g/8 f#/8
+bass       b e d/8 c/8 b/8 a/8
+
+# measure 8
+soprano    b b a/8 g/8 e
+alto       b d c c
+tenor      g g e e/8 f#/8
+bass       g- b c a
+
+# measure 9
+soprano    e/2. b/8 c/8
+alto       b/2. e
+tenor      g/2. g
+bass       e/2. e
+
+# measure 10
+soprano    d b b/8 a/8 g
+alto       f# f# g/8 d/8 d
+tenor      b d d/8 c/8 b
+bass       b b+ e/8 f#/8 g
+
+# measure 11
+soprano    a a b/2
+alto       e d d/2
+tenor      a/8 g/8 f# g/2
+bass       c d g-/2
+
+# measure 12
+soprano    b b/8 a/8 g e
+alto       g g/8 f#/8 d c/8 b/8
+tenor      d d/8 c/8 b g
+bass       g- g-/8 a/8 b c
+
+# measure 13
+soprano    d-/2. g/8 f#/8
+alto       a/2. d
+tenor      g/2 f# g
+bass       d/2. b
+
+# measure 14
+soprano    e e e/8 d-/8 e/8 f#/8
+alto       d d c c
+tenor      g g a c
+bass       c c/8 b/8 a a+
+
+# measure 15
+soprano    g g a g/8 a/8
+alto       d d/8 c#/8 d d/8 cn/8
+tenor      b/8 a/8 g f# g/8 f#/8
+bass       g/8 f#/8 e d b/8 a/8
+
+# measure 16
+soprano    b b a/8 g/8 e
+alto       b d e c
+tenor      g f# e e/8 f#/8
+bass       g- b c a
+
+# measure 17
+soprano    e/2.
+alto       b/2.
+tenor      g/2.
+bass       e/2.
+

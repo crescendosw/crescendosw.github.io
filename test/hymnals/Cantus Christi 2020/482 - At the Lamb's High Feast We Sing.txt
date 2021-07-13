@@ -1,0 +1,111 @@
+title      At the Lamb's High Feast We Sing
+author     Latin hymn, 1600's; tr. Robert Campbell, 1849SALZBURG (Hintze)
+composer   Jakob Hintze, 1678; harm. Johann Sebastian Bach (1685-1750)
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/482%20At%20the%20Lamb's%20High%20Feast.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a d a b
+alto       d d d d
+tenor      f# f#/8 g/8 a g/8 f#/8
+bass       d b f#- g-
+
+# measure 2
+soprano    a. g/8 f#/2
+alto       d c# d/2
+tenor      e/8 d-/8 e d-/2
+bass       a a d-/2
+
+# measure 3
+soprano    a a g f#
+alto       d d/8 c#/8 b/8 c#/8 d
+tenor      f# f# g a
+bass       d d e f#
+
+# measure 4
+soprano    e. d-/8 d-/2
+alto       d c# d/2
+tenor      b a/8. g/16 f#/2
+bass       g/8 e/8 a+/8 a/8 d/2
+
+# measure 5
+soprano    a d a b
+alto       d d d d
+tenor      f# f#/8 g/8 a g/8 f#/8
+bass       d b f#- g-
+
+# measure 6
+soprano    a. g/8 f#/2
+alto       d c# d/2
+tenor      e/8 d-/8 e d-/2
+bass       a a d-/2
+
+# measure 7
+soprano    a a g f#
+alto       d d/8 c#/8 b/8 c#/8 d
+tenor      f# f# g a
+bass       d d e f#
+
+# measure 8
+soprano    e. d-/8 d-/2
+alto       d c# d/2
+tenor      b a/8. g/16 f#/2
+bass       g/8 e/8 a+/8 a/8 d/2
+
+# measure 9
+soprano    e e f#/8 g#/8 a
+alto       c# c# d c#
+tenor      a a a a
+bass       a a d f#/8 e/8
+
+# measure 10
+soprano    a. g#/8 a/2
+alto       f# e/8 d/8 c#/2
+tenor      b b a/2
+bass       d e a/2
+
+# measure 11
+soprano    b. c#/8 d d
+alto       e/8 f#/8 g f# f#
+tenor      g. a/8 b b
+bass       e e b/8 c#/8 d/8 e/8
+
+# measure 12
+soprano    c#. c#/8 b/2
+alto       f#. e/8 d/2
+tenor      b a# b/2
+bass       f# f# b/2
+
+# measure 13
+soprano    f# f# b a
+alto       d d d c#
+tenor      a a g/8 f#/8 e
+bass       d d g- a
+
+# measure 14
+soprano    a g# a/2
+alto       d d c#/2
+tenor      d-/8 f#/8 e/8 d-/8 e/2
+bass       b b a/2
+
+# measure 15
+soprano    b a g f#
+alto       d d/8 c#/8 b/8 c#/8 d
+tenor      g f# g a
+bass       g- d e f#
+
+# measure 16
+soprano    e. d-/8 d-/2
+alto       d c# d/2
+tenor      b a/8. g/16 f#/2
+bass       g/8 e/8 a+/8 a/8 d/2
+
+
+

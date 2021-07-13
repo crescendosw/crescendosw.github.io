@@ -1,0 +1,58 @@
+title      Come, Bless the LORD, His People
+author     Donald P. Owens II, 2011 (c) DER HERREN LOBT [BECKER 134]
+composer   Heinrich Schütz, 1661
+key        Bb
+tempo      105
+rhythm     0 : 4
+verse_count 1
+copyright  Text: Donald P. Owens II, 2011. All Rights Reserved. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/270%20Come,%20Bless%20the%20LORD%20-%20Psalm%20134%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c- f f g g a/2 f
+alto       a d d d en f/2 c
+tenor      f a bb bb c c/2 a
+bass       f d bb g- c f-/2 f-
+
+# measure 2
+soprano    c d c bb a g/2.
+alto       f f f f f en/2.
+tenor      a bb c d c c/2.
+bass       f bb a bb f c/2.
+
+# measure 3
+soprano    c- f f g g a/2 f
+alto       a d d d en f/2 c
+tenor      f a bb bb c c/2 a
+bass       f d bb g- c f-/2 f-
+
+# measure 4
+soprano    c d c bb a g/2.
+alto       f f f f f en/2.
+tenor      a bb c d c c/2.
+bass       f bb a bb f c/2.
+
+# measure 5
+soprano    g a bb c d bb/2 a
+alto       en f f f f/2 en f
+tenor      c c d c bb bb/2 c
+bass       c f bb+ a+ bb+ g/2 f
+
+# measure 6
+soprano    a bb c d eb+ c/2 bb
+alto       f d f f g f/2 d
+tenor      d bb a bb bb a/2 bb
+bass       d g f bb+ eb f/2 bb
+
+# measure 7
+soprano    f f/2 g/2 a bb g/2 f/2.
+alto       d d/2 en/2 f/2. en f/2.
+tenor      bb a/2 c/2 c d c/2 a/2.
+bass       bb d/2 c/2 f bb c/2 f/2.
+
+
+

@@ -1,0 +1,87 @@
+title      Lord, in This Thy Mercy's Day
+author     Isaac Williams (1802-1865)HEILIGER GEIST (Crüger)
+composer   Johann Crüger (1598-1662)
+key        G
+tempo      135
+rhythm     3 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/367%20Lord,%20in%20This%20Thy%20Mercy's%20Day.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e/2 g
+alto       b/2 e
+tenor      g/2 b
+bass       e/2 e
+
+# measure 2
+soprano    f#/2 g#
+alto       f#/2 e
+tenor      b/2 b
+bass       d#/2 dn
+
+# measure 3
+soprano    a/2 g
+alto       e/2 e
+tenor      a/2 c
+bass       c/2 a
+
+# measure 4
+soprano    f#/2.
+alto       e/2 d#
+tenor      f#/2.
+bass       b/2.
+
+# measure 5
+soprano    g/2 a
+alto       e/2 e
+tenor      e b a
+bass       e/2 f#
+
+# measure 6
+soprano    b/2 c
+alto       e d g
+tenor      g b e+
+bass       g/2 a
+
+# measure 7
+soprano    b/2 a
+alto       g/2 f#
+tenor      d/2 d
+bass       b. c/8 d
+
+# measure 8
+soprano    g/2.
+alto       g/2.
+tenor      b/2.
+bass       g/2.
+
+# measure 9
+soprano    b/2 g
+alto       f#/2 e
+tenor      b/2 b
+bass       d#/2 e
+
+# measure 10
+soprano    f#/2 e
+alto       c/2 a
+tenor      a/2 e
+bass       a. b/8 c
+
+# measure 11
+soprano    e/2 d#-
+alto       b/2 b
+tenor      f#. g/8 a
+bass       b/2 b
+
+# measure 12
+soprano    e/2.
+alto       b/2.
+tenor      g/2.
+bass       e/2.
+
+
+

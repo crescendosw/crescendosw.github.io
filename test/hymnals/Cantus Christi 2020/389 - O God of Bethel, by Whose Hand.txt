@@ -1,0 +1,105 @@
+title      O God of Bethel, by Whose Hand
+author     attr. Philip Doddridge, 1737; alt. John Logan, 1781; from Genesis 28:20-22SALZBURG (Haydn)
+composer   Johann Michael Haydn (1737-1806)
+key        Eb
+tempo      101
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/389%20O%20God%20of%20Bethel,%20by%20Whose%20Hand.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb
+alto       bb
+tenor      g
+bass       eb
+
+# measure 2
+soprano    g/2 bb
+alto       eb/2 eb
+tenor      bb/2 bb
+bass       eb/2 g
+
+# measure 3
+soprano    bb ab g
+alto       f/2 eb
+tenor      bb/2 bb
+bass       d/2 eb
+
+# measure 4
+soprano    g/2 f
+alto       eb/2 d
+tenor      bb/2 ab
+bass       bb/2 bn
+
+# measure 5
+soprano    eb/2 eb
+alto       eb/2 c
+tenor      g/2 ab
+bass       c/2 ab+
+
+# measure 6
+soprano    eb d- eb
+alto       bb/2 bb
+tenor      bb ab g
+bass       g f eb
+
+# measure 7
+soprano    bb ab g
+alto       bb f eb
+tenor      f bb bb
+bass       d/2 eb
+
+# measure 8
+soprano    g f eb
+alto       eb d bb
+tenor      bb/2 g
+bass       bb/2 eb/8 db/8
+
+# measure 9
+soprano    eb/2 c
+alto       eb/2 eb
+tenor      ab/2 ab
+bass       c/2 ab
+
+# measure 10
+soprano    bb g eb
+alto       eb/2 bb
+tenor      g bb g
+bass       eb/2 eb/8 db/8
+
+# measure 11
+soprano    eb/2 c
+alto       eb/2 eb
+tenor      ab/2 ab
+bass       c/2 ab
+
+# measure 12
+soprano    bb/2 eb+
+alto       eb/2 eb
+tenor      g/2 bb
+bass       eb/2 g-
+
+# measure 13
+soprano    eb+ c ab
+alto       eb/2 eb
+tenor      c ab c
+bass       ab/2 ab
+
+# measure 14
+soprano    g ab f
+alto       eb d d
+tenor      bb f ab
+bass       bb/2 bb
+
+# measure 15
+soprano    eb/2
+alto       eb/2
+tenor      g/2
+bass       eb/2
+
+
+

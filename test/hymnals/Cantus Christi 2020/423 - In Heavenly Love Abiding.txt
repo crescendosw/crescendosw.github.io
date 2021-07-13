@@ -1,0 +1,117 @@
+title      In Heavenly Love Abiding
+author     Anna Laetitia Waring, 1850NYLAND
+composer   Finnish folk melody; harm. David Evans, 1927
+key        E
+tempo      100
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/423%20In%20Heavenly%20Love%20Abiding.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b
+alto       e
+tenor      g#
+bass       e
+
+# measure 2
+soprano    g# f# e f#/8 e/8
+alto       e d#/8 c#/8 b c#
+tenor      b a g# g#
+bass       e f# g# c#
+
+# measure 3
+soprano    c#-/2 b- b
+alto       c#/2 b d#
+tenor      a g# f# a
+bass       f# e d# f#
+
+# measure 4
+soprano    b c# b a
+alto       e e e f#
+tenor      g# a b c#
+bass       e a+ g# f#
+
+# measure 5
+soprano    g#/2. b
+alto       e/2. f#
+tenor      c#/2. b
+bass       c#/2. d#
+
+# measure 6
+soprano    g# f# e f#/8 e/8
+alto       e d# e c#
+tenor      b b b g#
+bass       e b+/8 a+/8 g# c#
+
+# measure 7
+soprano    c#-/2 b- b-
+alto       c#/2 b b
+tenor      a g# f# g#
+bass       f# e d# g#-
+
+# measure 8
+soprano    e f#/8 g#/8 a/8 g#/8 f#
+alto       c# e e. d#/8
+tenor      g# c#/8 b/8 a b
+bass       c#/8 b/8 a/8 g#-/8 f#- b
+
+# measure 9
+soprano    e/2. b
+alto       e/2. e
+tenor      g#/2. g#
+bass       e/2. e
+
+# measure 10
+soprano    e+ d# c# b
+alto       e f# e/8 f#/8 g#
+tenor      b a/8 b/8 c#/8 d#/8 e+/8 d#/8
+bass       g# f#/8 g#/8 a+ e
+
+# measure 11
+soprano    b a# b b
+alto       f#/2 f# b
+tenor      c#/2 d# e+/8 d#/8
+bass       f#/2 b g#
+
+# measure 12
+soprano    c# b a g#
+alto       e/8 f#/8 g# c#/8 d#/8 e
+tenor      c#/8 d#/8 e+ a b
+bass       a+ g# f# e
+
+# measure 13
+soprano    f#/2. b
+alto       e/2 d# f#
+tenor      b/2. f#
+bass       b/2. d#
+
+# measure 14
+soprano    g# f# e f#/8 e/8
+alto       e d#/8 c#/8 b c#
+tenor      b a g# g#
+bass       e f# g# c#
+
+# measure 15
+soprano    c#-/2 b- b
+alto       c#/2 b d#
+tenor      a g# f# a
+bass       f# e d# b
+
+# measure 16
+soprano    e f#/8 g#/8 a/8 g#/8 f#
+alto       e e e. d#/8
+tenor      g# c#/8 b/8 a b
+bass       c#/8 b/8 a/8 g#-/8 f#- b
+
+# measure 17
+soprano    e/2.
+alto       e/2.
+tenor      g#/2.
+bass       e/2.
+
+
+

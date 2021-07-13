@@ -1,0 +1,118 @@
+title      Beside the Streams of Babylon 
+author     Valerie Anne Bost, 2019 (c) HICKORY ROAD
+composer   David Koyzis, 1986 (c)
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 4
+copyright  Music: David Koyzis, 1986. Used by permission. Text: Valerie Anne Bost, 2019. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/274%20Beside%20the%20Streams%20of%20Babylon%20-%20Psalm%20137%20HICKORY%20ROAD.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      d-
+bass       d
+
+# measure 2
+soprano    a a/8 g/8 f a
+alto       d d d d
+tenor      a b c a
+bass       d g a+ f
+
+# measure 3
+soprano    g/8 f/8 e d- d-/8 e/8
+alto       d c a d
+tenor      b c d a
+bass       g a+ d d
+
+# measure 4
+soprano    f a g f/8 g/8
+alto       d d d d
+tenor      a a b g
+bass       d f g b
+
+# measure 5
+soprano    a/2. d-
+alto       c d e d
+tenor      e f g d-
+bass       a/2. d
+
+# measure 6
+soprano    a a/8 g/8 f a
+alto       d d d d
+tenor      f g a a
+bass       d e f d
+
+# measure 7
+soprano    g/8 f/8 e d- d-/8 e/8
+alto       d c c bb
+tenor      b a f g
+bass       g- a bb bb
+
+# measure 8
+soprano    f g e c-
+alto       a d c c
+tenor      a bb g a/8 g/8
+bass       d bb c a
+
+# measure 9
+soprano    d-/2. a/8 b/8
+alto       a/2. d
+tenor      f g f a
+bass       d e d f
+
+# measure 10
+soprano    c d b c
+alto       e f d e
+tenor      a a g g
+bass       a+ f g e
+
+# measure 11
+soprano    a d- d- a/8 b/8
+alto       c a a f
+tenor      a g f a
+bass       f e d d
+
+# measure 12
+soprano    c d/8 c/8 b/8 a/8 g
+alto       e f g e
+tenor      a a g b
+bass       a d e g
+
+# measure 13
+soprano    a/2. a/8 b/8
+alto       e/2. e
+tenor      c d e+ c
+bass       a+ b+ c+ a+
+
+# measure 14
+soprano    c b/8 a/8 g f/8 g/8
+alto       f d c c
+tenor      a b c a/8 g/8
+bass       f g e d/8 e/8
+
+# measure 15
+soprano    a f d- d-/8 e/8
+alto       c c c bb
+tenor      a a f g
+bass       f a bb g-
+
+# measure 16
+soprano    f g e c-
+alto       d d g- a/8 g-/8
+tenor      a bb/8 a/8 e e
+bass       d bb c a
+
+# measure 17
+soprano    d-/2.
+alto       a/2.
+tenor      f g f
+bass       d e d
+
+
+

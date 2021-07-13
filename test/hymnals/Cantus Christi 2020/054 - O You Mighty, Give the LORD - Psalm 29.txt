@@ -1,0 +1,64 @@
+title      O You Mighty, Give the LORD
+author     Walter van der Kamp, 1967 (c)VOUS TOUS PRINCES [GENEVAN 29]
+composer   Genevan Psalter, 1551; harm. Claude Goudimel, 1564
+key        D
+tempo      165
+rhythm     0 : 4
+verse_count 3
+copyright  Text: Standing Committee for the Publication of the Book of Praise, 1984. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/54%20O%20You%20Mighty%20-%20Psalm%2029%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2 b/2 a b c#/2 d/2 a/1
+alto       f#/2 g/2 f# g a+/2 a+/2 f#/1
+tenor      d/2 d/2 d d e+/2 f#+/2 d/1
+bass       d/2 g-/2 d b a/2 d/2 d/1
+
+# measure 2
+soprano    d/2 c#/2 b d c# b a/1
+alto       a+/2 a+/2 g# a+ a+ g# a+/1
+tenor      f#+/2 e+/2 e+ f#+ e+ e+ c#/1
+bass       d/2 a/2 e d e e a/1
+
+# measure 3
+soprano    a/2 f# b/2 a g f# e/1
+alto       f#/2 d g/2 f# e a a/1
+tenor      d/2 a b/2 d b d c#/1
+bass       d/2 d g-/2 d e d a/1
+
+# measure 4
+soprano    f#/2 g a/2 g f# e d-/1
+alto       d/2 b d/2 d d c# d/1
+tenor      a/2 g f#/2 b a a a/1
+bass       d/2 e d/2 g- a a d/1
+
+# measure 5
+soprano    d-/2 a/2 a f# g a b/2 a/1
+alto       a/2 f#/2 e a e c# e/2 e/1
+tenor      f#/2 d/2 c# d b a/2 g# a/1
+bass       d/2 d/2 a d e f# e/2 a/1
+
+# measure 6
+soprano    d-/2 a/2 a f# g a b/2 a/1
+alto       a/2 f#/2 e a e c# e/2 e/1
+tenor      f#/2 d/2 c# d b a/2 g# a/1
+bass       d/2 d/2 a d e f# e/2 a/1
+
+# measure 7
+soprano    a/2 b/2 d c# b a g/2 f#/1
+alto       a+/2 g#/2 a+ a+ gn f# e/2 d#/1
+tenor      e+/2 e+/2 f#+ e+ d d b/2 b/1
+bass       a/2 e/2 d a b d e/2 b/1
+
+# measure 8
+soprano    dn-/2 f# a/2 e g f# e/2 d-/1
+alto       b/2 d e/2 c# d d/2 c# d/1
+tenor      f#/2 b cn/2 a b a a/2 a/1
+bass       b/2 b a/2 a g- d a/2 d/1
+
+
+

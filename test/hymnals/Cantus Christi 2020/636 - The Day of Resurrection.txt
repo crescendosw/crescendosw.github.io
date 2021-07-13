@@ -1,0 +1,117 @@
+title      The Day of Resurrection
+author     John of Damascus, 700's; tr. John Mason Neale (1818-1866)LANCASHIRE
+composer   Henry Smart, 1836
+key        D
+tempo      130
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/636%20The%20Day%20of%20Resurrection.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       d
+tenor      f#
+bass       d
+
+# measure 2
+soprano    a f# g b
+alto       d d d d
+tenor      f# a b g
+bass       d d d d
+
+# measure 3
+soprano    a/2 f# d
+alto       d/2 d f#
+tenor      f#/2 a a
+bass       d/2 d cn
+
+# measure 4
+soprano    d g a b
+alto       g d d d
+tenor      g d c# b
+bass       b b a g-
+
+# measure 5
+soprano    e/2. a
+alto       c#/2. c#
+tenor      a/2. g
+bass       a/2. a
+
+# measure 6
+soprano    a f# g b
+alto       d d d d
+tenor      f# cn b g
+bass       d d d d
+
+# measure 7
+soprano    a/2 f# f#
+alto       d/2 d d
+tenor      f#/2 a a
+bass       d/2 d d
+
+# measure 8
+soprano    e c# b g#
+alto       c# e d d
+tenor      a a g# b
+bass       e e e e
+
+# measure 9
+soprano    a/2. a
+alto       c#/2. c#
+tenor      a/2. g
+bass       a/2. a
+
+# measure 10
+soprano    a f# d- d
+alto       d d a f#
+tenor      f# cn cn cn
+bass       d a+ f# d
+
+# measure 11
+soprano    d. b/8 g b
+alto       g/2 d d#
+tenor      b. d/8 b a
+bass       g-/2 g f#
+
+# measure 12
+soprano    b g# e e+
+alto       e e b g#
+tenor      g# d d d
+bass       e b+ g# e
+
+# measure 13
+soprano    e+/2 c# a
+alto       a+/2. e
+tenor      c#/2 e+ c#
+bass       a/2 a+ g
+
+# measure 14
+soprano    d d d d
+alto       a d e f#
+tenor      d a b cn
+bass       f# f# g a+
+
+# measure 15
+soprano    d/2 c# b
+alto       g/2 d d
+tenor      d/2 d g
+bass       b+/2 g g-
+
+# measure 16
+soprano    a f# e c#-
+alto       d d a a
+tenor      f# a g e
+bass       a a a a
+
+# measure 17
+soprano    d-/2.
+alto       a/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

@@ -1,0 +1,93 @@
+title      Psalm 148
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2016
+key        Bb
+rhythm     4 : 4
+tempo      150
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2017/08/PS148.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     g/8 - f/8 - e/8 - d-/8 - c-/8 - d-/8 e/8 - f/8 | g/1
+
+unison     g d- g/8 - b/8 a/8 g/8 | a f/2. | g d- g/8 - b/8 a/8 - g/8 | a/1
+
+unison     g d- g/8 - b/8 a/8 - g/8 | a f/2. | g f g/8 - a/8 b/8 - c/8 | d/1
+
+unison     g d- g/8 b/8 a/8 - g/8 | a - g - f/2 | g d- g/8 b/8 a/8 g/8 | a/1
+
+unison     g d-/8 f/8 g/8 b/8 a/8 - g/8 | a f/2 g/8 a/8 | g g/8 b/8 a/8 - g/8 f# | g/2. g/8 g/8
+
+unison     c. b/8 a/8 - b/8 c/8 d/8 | b f d- f | e/8 d-/8 e/8 f/8 g g | f# f#/2 f#
+
+unison     g/8 - f/8 e/8 f/8 g b | a/2. a | b/8 - a/8 - g/8 - a/8 b g | a d-/2 d-
+
+unison     e/8 - d-/8 c-/8 d-/8 e f | g/8 - f/8 e/8 - f/8 g b | a/1 = | a/1
+
+unison     g d- g/8 - b/8 a/8 g/8 | a f g a | g f/8 e/8 d- c- | d-/1
+
+unison     g d- g a/8 b/8 | a - f g a | g f g/8 a/8 b/8 - c/8 | d/1
+
+unison     g d- g/8 - a/8 b | a - g - f/2 | g d- g/8 a/8 b | a f/2.
+
+unison     g d- g/8 - a/8 - b | a f g a | g f g/8 - b/8 a/8 - g/8 | a/1
+
+unison     g d-/8 f/8 g/8 - b/8 a/8 g/8 | a f/2. | g/8 d-/8 g/8 a/8 b/8 a/8 g/8 b/8 | a/2. a
+
+unison     g d- g/8 - a/8 - b | a - g f/2 | g g/8 b/8 a/8 - g/8 - f# | g/2. g/8 g/8
+
+unison     c. b/8 a/8 - b/8 c/8 d/8 | b/2. g/8 g/8 | c. b/8 a/8 - b/8 c/8 d/8 | b g/2 g
+
+unison     c. b/8 a/8 - b/8 c/8 - d/8 | b f d- f | e/8 - d-/8 - e/8 - f/8 - g/2 | f#/2. f#
+
+unison     g/8 - f/8 e/8 f/8 g - b | a/2. a | b/8 - a/8 - g/8 - a/8 b g | a d-/2 d-
+
+unison     e/8 d-/8 c-/8 d-/8 e f/8 f/8 | g/8 - f/8 e/8 f/8 g b | a/1 = | a/2. a
+
+unison     b - a g - f | g b a/2 | g/8 - f/8 - e/8 - d-/8 - c-/8 - d-/8 e/8 - f/8 | g/1
+
+verse      Praise the Lord!
+
+verse      Praise the Lord from the heav - ens; Praise Him in the heights!
+
+verse      Praise Him, all His an - gels; Praise Him, all His hosts!
+
+verse      Praise Him, sun and moon; Praise Him, all you stars of light!
+
+verse      Praise Him, you heav - ens of heav - ens, And you wa - ters a - bove the heav - ens!
+
+verse      Let them praise the name of the Lord, For He com - mand - ed and they were cre - a - ted.
+
+verse      He al - so es - tab - lished them for - ev - er and ev - er;
+
+verse      He made a de - cree which shall not pass a - way.
+
+verse      Praise the Lord from the earth, You great sea crea - tures and all the depths;
+
+verse      Fire and hail, snow and clouds; Storm - y wind, ful - fill - ing His word;
+
+verse      Moun - tains and all hills; Fruit - ful trees and all ce - dars;
+
+verse      Beasts and all cat - tle; Creep - ing things and fly - ing fowl;
+
+verse      Kings of the earth and all peo - ples; Prin - ces and all judg - es of the earth;
+
+verse      Both young men and maid - ens; Old men and chil - dren.
+
+verse      Let them praise the name of the Lord, For His name a - lone is ex - alt - ed;
+
+verse      His glo - ry is a - bove the earth and heav - - - en.
+
+verse      And He has ex - alt - ed the horn of His peo - ple,
+
+verse      The praise of all His saints-- Of the chil - dren of Is - ra - el,
+
+verse      A peo - ple near to Him.  Praise the Lord!

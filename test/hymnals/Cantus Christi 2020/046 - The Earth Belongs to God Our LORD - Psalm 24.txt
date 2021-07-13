@@ -1,0 +1,46 @@
+title      The Earth Belongs to God Our LORD
+author     Douglas Wilson, 2001 (c) DIE ERD UND WAS SICH [BECKER 24]
+composer   Heinrich Schütz, 1628
+key        Eb
+tempo      165
+rhythm     0 : 4
+verse_count 5
+copyright  Text: Douglas Wilson, 2001. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/46%20The%20Earth%20Belongs%20to%20God%20-%20Psalm%2024%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb/2 g/2 bb c/2 bb ab g f/2
+alto       bb/2 eb/2 eb eb/2 eb c eb d/2
+tenor      g/2 c/2 bb ab/2 g f bb bb/2
+bass       eb/2 c/2 g- ab/2 eb f eb bb/2
+
+# measure 2
+soprano    bb-/2 f/2 g bb/2 g f eb d-/2
+alto       d/2 d/2 eb f/2 eb d c bn/2
+tenor      f/2 bb/2 g f/2 g bb g g/2
+bass       bb/2 bb/2 eb d/2 eb bb c g-/2
+
+# measure 3
+soprano    bb-/2 c-/2 d- eb/2 d- c- c- bb-/2
+alto       g-/2 g-/2 bb c/2 bb bb an bb/2
+tenor      d-/2 eb/2 f ab/2 f f f f/2
+bass       g-/2 c/2 bb ab/2 bb f- f- bb/2
+
+# measure 4
+soprano    bb/2 c/2 ab db/2 eb+ bb/2 ab/2
+alto       bb/2 eb/2 f f/2 eb eb/2 eb/2
+tenor      g/2 g/2 f f/2 ab g/2 ab/2
+bass       eb/2 c/2 db bb/2 c eb/2 ab/2
+
+# measure 5
+soprano    c/2 ab/2 f bb/2 c f/2 g/1
+alto       eb/2 f/2 d d/2 c d/2 eb/1
+tenor      ab/2 c/2 bb/2 g eb bb/2 bb/1
+bass       ab/2 f-/2 bb g-/2 ab bb/2 eb-/1
+
+
+

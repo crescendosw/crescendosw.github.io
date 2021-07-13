@@ -1,0 +1,49 @@
+title      Ye Choirs of New Jerusalem
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/536%20Ye%20Choirs%20of%20New%20Jerusalem.pdf
+composer   Jeremiah Ingalls, 1800; coda, Mark Reagan
+author     Fulbert of Chartres, c. 1000; tr. Robert  Campbel, 1805
+copyright  Mark Reagan, 2008
+
+key        Ab
+rhythm     4 : 4
+tempo      180
+
+status     header  tune  double  checked  partial lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    a/2 a f  | e  e f a | b/2. b/8 g/8 | a  a  b       c       | b/2. R
+alto       e/2 c d  | e  e d e | e/2. e       | e  e  e/8 d/8 c/8 d/8 | e/2. R
+tenor      a/2 e d- | c- e a c | b/2. b       | c  c  b       a       | b/2. R
+bass       a/2 a b  | c  c d a | e/2. e       | a+ a+ g       a+      | e/2. e
+
+soprano    R/1      | R/1      | R/2.   c
+alto       R/1      | R/2.   e | a+ e e a+
+tenor      R/2.   a | d  b b b | c  a a a
+bass       a+ f f f | b+ e e e | a  a c c
+
+soprano    d b b           b           | c a a e
+alto       f e e/8 - f/8 - e/8 - d/8 - | e/2.  e
+tenor      b g e           f/8   g/8   | a/2.  b
+bass       b/2 e/2                     | a/2.  g
+
+soprano    c. - b/8    a e+      | d/2 b/2 | c/1
+alto       e/2.          a+      | f/2 e/2 | e/1
+tenor      e+. - d/8 - c c/8 b/8 | a/2 g/2 | a/1
+bass       a+/2.         c       | d/2 e/2 | a+/1
+
+#soprano    c b | a/2 - g/2    | a/1
+#alto       e e | f/2 - e/2    | e/1
+#tenor      a a | d. - c/8 b/2 | c/1
+#bass       c c | d/2 - e/2    | a/1
+
+#first stanza
+verse       Ye    choirs of    new    Je - ru  -  sa - lem,   Your sweet - est notes  em  -  ploy,
+verse       How   Ju  -  dah's Li  -  on   burst  His  chains And  crushed the ser -  pent's head;
+verse       From  hell's de -  vour - ing  jaws   the  prey   A -  lone    our Lead - er     bore;
+verse       Tri - um  -  phant in     His  glo -  ry   now    His  scep -  tre rul -  eth    all,
+verse       While joy -  ful   thus   His  praise we   sing,  His  mer  -  cy  we     im  -  plore,
+verse       All   glo -  ry    to     the  Fa  -  ther be,    All  glo  -  ry  to     the    Son,

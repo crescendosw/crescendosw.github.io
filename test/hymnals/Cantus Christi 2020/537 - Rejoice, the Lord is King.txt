@@ -1,0 +1,105 @@
+title      Rejoice, the Lord is King
+author     Charles Wesley, 1746; alt.DARWALL'S 148TH
+composer   John Darwall, 1770
+key        C
+tempo      145
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/537%20Rejoice,%20the%20Lord%20Is%20King.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       c
+tenor      e
+bass       c
+
+# measure 2
+soprano    e c- g e
+alto       c c d e
+tenor      g e g g
+bass       c c b c
+
+# measure 3
+soprano    c/2. b
+alto       e/2. e
+tenor      a/2. b
+bass       a+/2. g
+
+# measure 4
+soprano    a g f e
+alto       f c b c
+tenor      c g g g
+bass       f e d c
+
+# measure 5
+soprano    d-/2. d-
+alto       b/2. b
+tenor      g/2. g
+bass       g-/2. g-
+
+# measure 6
+soprano    e c- a g
+alto       c c e d
+tenor      g g c b
+bass       c e a b/8 c/8
+
+# measure 7
+soprano    f# d- d c
+alto       d d d e
+tenor      a f# g g
+bass       d d/8 c/8 b c
+
+# measure 8
+soprano    b/2 a/2
+alto       d/2 d/2
+tenor      g/2 f# c
+bass       d/2 d/2
+
+# measure 9
+soprano    g/2. g
+alto       d/2. e
+tenor      b/2. c
+bass       g-/2. c
+
+# measure 10
+soprano    a/2 b/2
+alto       f/2 f/2
+tenor      c/2 d/2
+bass       f e d/2
+
+# measure 11
+soprano    c/2. c-
+alto       e/2. c
+tenor      c/2. g
+bass       a+/2. e
+
+# measure 12
+soprano    d- e f g
+alto       b c c c
+tenor      g g f e
+bass       d c a c
+
+# measure 13
+soprano    a b c d
+alto       c f e d
+tenor      f f g a
+bass       f d e f
+
+# measure 14
+soprano    c/2 b/2
+alto       e/2 d f
+tenor      g/2 g/2
+bass       g/2 g-/2
+
+# measure 15
+soprano    c/2.
+alto       e/2.
+tenor      g/2.
+bass       c/2.
+
+
+

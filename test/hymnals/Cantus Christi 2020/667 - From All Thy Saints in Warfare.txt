@@ -1,0 +1,117 @@
+title      From All Thy Saints in Warfare
+author     Horatio Nelson, 1864KING'S LYNN
+composer   English traditional melody; arr. Ralph Vaughan Williams, 1906
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/667%20From%20All%20Thy%20Saints%20in%20Warfare.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    a
+
+# measure 2
+unison    g a d- e
+
+# measure 3
+unison    f g c bb/8 a/8
+
+# measure 4
+unison    g. f/8 d- c-
+
+# measure 5
+unison    d-/2. d-/8 e/8
+
+# measure 6
+unison    f g a c/8 a/8
+
+# measure 7
+unison    d/2 d c
+
+# measure 8
+unison    a c a g
+
+# measure 9
+unison    a/2. d-/8 e/8
+
+# measure 10
+unison    f g a c/8 a/8
+
+# measure 11
+unison    d/2 c a
+
+# measure 12
+unison    c c a g
+
+# measure 13
+unison    a/2. a
+
+# measure 14
+unison    g a d- e
+
+# measure 15
+unison    f g c bb/8 a/8
+
+# measure 16
+unison    g. f/8 d- c-
+
+# measure 17
+unison    d-/2.
+
+# measure 18
+unison    a
+
+# measure 19
+unison    g a d- e
+
+# measure 20
+unison    f g c bb/8 a/8
+
+# measure 21
+unison    g. f/8 d- c-
+
+# measure 22
+unison    d-/2. d-/8 e/8
+
+# measure 23
+unison    f g a c/8 a/8
+
+# measure 24
+unison    d/2 d c
+
+# measure 25
+unison    a c a g
+
+# measure 26
+unison    a/2. d-/8 e/8
+
+# measure 27
+unison    f g a c/8 a/8
+
+# measure 28
+unison    d/2 c a
+
+# measure 29
+unison    c c a g
+
+# measure 30
+unison    a/2. a
+
+# measure 31
+unison    g a d- e
+
+# measure 32
+unison    f g c bb/8 a/8
+
+# measure 33
+unison    g. f/8 d- c-
+
+# measure 34
+unison    d-/2.
+
+
+

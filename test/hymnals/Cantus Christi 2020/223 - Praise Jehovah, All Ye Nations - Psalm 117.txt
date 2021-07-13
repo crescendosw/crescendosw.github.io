@@ -1,0 +1,111 @@
+title      Praise Jehovah, All Ye Nations
+author     The Psalter, 1912IN BABILONE
+composer   Netherlands traditional melody; arr. Julius Röntgen, 1906
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/223%20Praise%20Jehovah,%20All%20Ye%20Nations%20-%20Psalm%20117%20IN%20BABILONE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g f#/8 e/8 d- g
+alto       d c b b
+tenor      b a/8 f#/8 g g
+bass       g- a b e
+
+# measure 2
+soprano    a g/8 a/8 b g
+alto       e e/8 f#/8 g d
+tenor      g d d g
+bass       c d g- b
+
+# measure 3
+soprano    c b/8 a/8 b a/8 g/8
+alto       e d d d
+tenor      g f# g g
+bass       a d g- b
+
+# measure 4
+soprano    f#/8 g/8 a/8 f#/8 g/2
+alto       d d d/2
+tenor      a/8 b/8 c/8 a/8 b/2
+bass       d d g/2
+
+# measure 5
+soprano    g f#/8 e/8 d- g
+alto       d c b b
+tenor      b a/8 f#/8 g g
+bass       g- a b e
+
+# measure 6
+soprano    a g/8 a/8 b g
+alto       e e/8 f#/8 g d
+tenor      g d d g
+bass       c d g- b
+
+# measure 7
+soprano    c b/8 a/8 b a/8 g/8
+alto       e d d d
+tenor      g f# g g
+bass       a d g- b
+
+# measure 8
+soprano    f#/8 g/8 a/8 f#/8 g/2
+alto       d e/8 d/8 d/2
+tenor      a/8 b/8 c/8 a/8 b/2
+bass       d c/8 d/8 g/2
+
+# measure 9
+soprano    g a/8 b/8 c b
+alto       b fn e f
+tenor      g fn g d
+bass       e d c d
+
+# measure 10
+soprano    a g# a a
+alto       e e e e
+tenor      c b c c
+bass       e e a a
+
+# measure 11
+soprano    a b/8 c/8 d g
+alto       f# d d e
+tenor      d f# g b
+bass       d c b e
+
+# measure 12
+soprano    a g/8 f#/8 e d-
+alto       d d c# d
+tenor      a b g f#
+bass       f#- g- a d
+
+# measure 13
+soprano    g f#/8 e/8 d- g
+alto       d c b b
+tenor      b a/8 f#/8 g g
+bass       g- a b e
+
+# measure 14
+soprano    a g/8 a/8 b g
+alto       e e/8 f#/8 g d
+tenor      g d d g
+bass       c d g- b
+
+# measure 15
+soprano    c b/8 a/8 b a/8 g/8
+alto       e d d e
+tenor      g f# g b
+bass       a d b e
+
+# measure 16
+soprano    f#/8 g/8 a/8 f#/8 g/2
+alto       c/8 d/8 e/8 d/8 d/2
+tenor      c/8 b/8 a/8 c/8 b/2
+bass       a/8 b/8 c/8 d/8 g-/2
+
+
+

@@ -1,0 +1,69 @@
+title      How Sweet the Name of Jesus Sounds
+author     John Newton, 1779; alt.ST. PETER
+composer   Alexander Robert Reinagle, 1836
+key        Eb
+tempo      100
+rhythm     4 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/428%20How%20Sweet%20the%20Name%20of%20Jesus%20Sounds.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb
+alto       eb
+tenor      g
+bass       eb
+
+# measure 2
+soprano    eb+ d c bb
+alto       g g eb eb
+tenor      bb bb ab bb
+bass       eb g ab+ g
+
+# measure 3
+soprano    bb ab g g
+alto       f d eb eb
+tenor      bb bb bb bb
+bass       d bb eb eb
+
+# measure 4
+soprano    f eb ab g
+alto       c bb d eb
+tenor      ab bb bb bb
+bass       ab+ g f eb
+
+# measure 5
+soprano    f/2. g
+alto       d/2. eb
+tenor      bb/2. bb
+bass       bb/2. eb/8 db/8
+
+# measure 6
+soprano    ab g c bb
+alto       eb eb/8 db/8 c/8 dn/8 eb
+tenor      ab bb eb/8 f/8 g
+bass       c bb ab g-
+
+# measure 7
+soprano    bb ab g eb
+alto       eb d eb c
+tenor      c bb eb g
+bass       f- bb c c
+
+# measure 8
+soprano    g f eb d-
+alto       eb c bb bb
+tenor      bb ab g f
+bass       g- ab bb bb
+
+# measure 9
+soprano    eb/2.
+alto       bb/2.
+tenor      g/2.
+bass       eb/2.
+
+
+

@@ -1,0 +1,111 @@
+title      Captain of Israel's Host
+author     Charles Wesley (1707-1788)FOLKINGHAM
+composer   Supplement to the New Version, 1708
+key        Eb
+tempo      125
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/526%20Captain%20of%20Israel's%20Host.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2
+alto       c/2
+tenor      eb/2
+bass       c/2
+
+# measure 2
+soprano    c- d- eb c-
+alto       g- g- c c
+tenor      eb g g eb
+bass       c bn c c
+
+# measure 3
+soprano    c ab g/2
+alto       c. d/8 eb/2
+tenor      eb f g/2
+bass       ab f- c/2
+
+# measure 4
+soprano    eb/2 ab g
+alto       bb/2 f eb
+tenor      g/2 bb bb
+bass       eb/2 d eb
+
+# measure 5
+soprano    f eb f d-
+alto       d c d bn
+tenor      g g ab g
+bass       bn c f g
+
+# measure 6
+soprano    c-/2 g/2
+alto       c/2 eb/2
+tenor      eb/2 c/2
+bass       c/2 c/2
+
+# measure 7
+soprano    bb an d g
+alto       f an+ g eb
+tenor      bb eb+ d c/8 bb/8
+bass       d c bb c
+
+# measure 8
+soprano    g f# g/2
+alto       d d d/2
+tenor      an a bb/2
+bass       d d g/2
+
+# measure 9
+soprano    bb/2 f g
+alto       eb/2 eb eb
+tenor      bb/2 c bb
+bass       g/2 ab+ g
+
+# measure 10
+soprano    ab g f f
+alto       eb/8 d/8 eb eb d
+tenor      ab bb bb. ab/8
+bass       f eb bb bb
+
+# measure 11
+soprano    eb/2 f/2
+alto       eb/2 d/2
+tenor      g/2 bb/2
+bass       eb/2 bb/2
+
+# measure 12
+soprano    g eb bb bb
+alto       eb bb f g/8 f/8
+tenor      bb g f bb
+bass       eb eb d eb/8 d/8
+
+# measure 13
+soprano    bb an bb/2
+alto       eb f f/2
+tenor      eb+ c d/2
+bass       c f bb/2
+
+# measure 14
+soprano    g/2 c d
+alto       eb/2 eb f
+tenor      bb/2 ab ab
+bass       eb/2 ab+ f
+
+# measure 15
+soprano    bn c c b
+alto       d eb d d
+tenor      g g g g
+bass       g c g g-
+
+# measure 16
+soprano    c/2
+alto       en/2
+tenor      g/2
+bass       c/2
+
+
+

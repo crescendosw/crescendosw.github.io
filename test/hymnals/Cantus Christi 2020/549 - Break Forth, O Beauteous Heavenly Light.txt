@@ -1,0 +1,117 @@
+title      Break Forth, O Beauteous Heavenly Light
+author     Johann Rist, 1641; tr. Arthur Tozer Russell, 1851ERMUNTRE DICH  
+composer   Johann Schop, 1641; harm. Johann Sebastian Bach, 1734
+key        F
+tempo      78
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/549%20Break%20Forth,%20O%20Beauteous%20Heavenly%20Light.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       c
+tenor      a
+bass       f/8 e/8
+
+# measure 2
+soprano    f g a/8 bn/8 c
+alto       d e c/8 d/8 e
+tenor      a/8 bb c/8 a/8 g/8 g
+bass       d c f e/8 f/8
+
+# measure 3
+soprano    c bn c a
+alto       d/8 e/8 f e e
+tenor      g g g a/8 g/8
+bass       g g- c c#
+
+# measure 4
+soprano    bb a g a
+alto       d c/8 d/8 e f
+tenor      f/8 g/8 a/8 bb/8 c c
+bass       d/8 e/8 f/8 bb/8 bb+/8 a+/8 g/8 f/8
+
+# measure 5
+soprano    g/2 f f
+alto       f e c c
+tenor      c. bb/8 a a
+bass       c+ c f f/8 e/8
+
+# measure 6
+soprano    f g a/8 bn/8 c
+alto       d e c/8 d/8 e
+tenor      a/8 bb c/8 a/8 g/8 g
+bass       d c f e/8 f/8
+
+# measure 7
+soprano    c bn c a
+alto       d/8 e/8 f e e
+tenor      g g g a/8 g/8
+bass       g g- c c#
+
+# measure 8
+soprano    bb a g a
+alto       d c/8 d/8 e f
+tenor      f/8 g/8 a/8 bb/8 c c
+bass       d/8 e/8 f/8 bb/8 bb+/8 a+/8 g/8 f/8
+
+# measure 9
+soprano    g/2 f g
+alto       f e c e/8 f/8
+tenor      c. bb/8 a c/8 d/8
+bass       c+ c f c
+
+# measure 10
+soprano    g a bb bb
+alto       g. f#/8 g/8 f#/8 g
+tenor      e+/8 d/8 c d e+
+bass       c+/8 bb+/8 a+ g c#
+
+# measure 11
+soprano    a/8 g/8 a g a
+alto       g f# d d/8 c#/8
+tenor      a d/8 c/8 bb f/8 g/8
+bass       d d g- d/8 e/8
+
+# measure 12
+soprano    a a bb/8 c/8 d
+alto       d d d/8 e/8 f/8 e/8
+tenor      a/8 bb/8 c/8 d/8 bb bn
+bass       f f# g g#
+
+# measure 13
+soprano    d c# d e+
+alto       e/8 f/8 g f g
+tenor      a a a c
+bass       a+ a d c+/8 bb+/8
+
+# measure 14
+soprano    f+ a bb a
+alto       f/8 g/8 a+. g f/8
+tenor      c f+ f/8 g/8 a
+bass       a+/8 g/8 f/8 e/8 d/8 e/8 f/8 d/8
+
+# measure 15
+soprano    g/2 g c
+alto       f/2 e f/8 e/8
+tenor      d/8 c/8 d/8 bn/8 c c
+bass       bn/8 a/8 b/8 g-/8 c a
+
+# measure 16
+soprano    d c bb a/8 bb/8
+alto       d e f/8 g/8 c
+tenor      c/8 bb/8 bb/8 a/8 a/8 g/8 f
+bass       bb c d/8 e/8 f
+
+# measure 17
+soprano    g/2 f
+alto       d c c
+tenor      f/8 e/16 d-/16 e a
+bass       bb c f-
+
+
+

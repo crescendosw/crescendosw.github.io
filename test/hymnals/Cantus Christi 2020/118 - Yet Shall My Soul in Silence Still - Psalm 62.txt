@@ -1,0 +1,207 @@
+title      Yet Shall My Soul in Silence Still
+author     Mary Sidney Herbert (1556-1621); alt.FOURTH MODE MELODY
+composer   Thomas Tallis, 1567
+key        Eb
+tempo      118
+rhythm     0 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/118%20Yet%20Shall%20My%20Soul%20-%20Psalm%2062%20FOURTH%20MODE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb eb f
+alto       c c c
+tenor      g g ab
+bass       c c f
+
+# measure 2
+soprano    g/2 bb
+alto       eb/2 eb
+tenor      bb/2 bb
+bass       eb. f/8 g
+
+# measure 3
+soprano    ab/2 ab
+alto       eb/2 eb
+tenor      c/2 c
+bass       ab+/2 ab+
+
+# measure 4
+soprano    g/2 eb
+alto       eb/2 bb
+tenor      bb/2 g
+bass       eb/2 eb
+
+# measure 5
+soprano    ab ab
+alto       eb eb
+tenor      c c
+bass       ab c
+
+# measure 6
+soprano    g ab
+alto       eb eb
+tenor      bb c
+bass       eb c
+
+# measure 7
+soprano    f f
+alto       c c
+tenor      ab ab
+bass       f f
+
+# measure 8
+soprano    en/2.
+alto       c/2.
+tenor      g/2.
+bass       c/2.
+
+# measure 9
+soprano    eb eb f
+alto       c c c
+tenor      g g ab
+bass       c c f
+
+# measure 10
+soprano    g/2 bb
+alto       eb/2 eb
+tenor      bb/2 bb
+bass       eb. f/8 g
+
+# measure 11
+soprano    ab/2 ab
+alto       eb/2 eb
+tenor      c/2 c
+bass       ab+/2 ab+
+
+# measure 12
+soprano    g/2 eb
+alto       eb/2 bb
+tenor      bb/2 g
+bass       eb/2 eb
+
+# measure 13
+soprano    ab ab
+alto       eb eb
+tenor      c c
+bass       ab c
+
+# measure 14
+soprano    g ab
+alto       eb eb
+tenor      bb c
+bass       eb c
+
+# measure 15
+soprano    f f
+alto       c c
+tenor      ab ab
+bass       f f
+
+# measure 16
+soprano    en/2.
+alto       c/2.
+tenor      g/2.
+bass       c/2.
+
+# measure 17
+soprano    eb eb g
+alto       c bb eb
+tenor      g g g
+bass       c eb eb
+
+# measure 18
+soprano    bb/2 bb
+alto       eb/2 bb
+tenor      g/2 f
+bass       eb/2 d
+
+# measure 19
+soprano    c. d/8 eb+/8 c/8
+alto       eb/2 eb
+tenor      eb/2 eb
+bass       c/2 c
+
+# measure 20
+soprano    d/2.
+alto       f/2.
+tenor      bb/2.
+bass       bb/2.
+
+# measure 21
+soprano    d d d
+alto       f f f
+tenor      bb bb bb
+bass       bb bb bb
+
+# measure 22
+soprano    d/2 c
+alto       f. g/8 ab+/8 f/8
+tenor      bb/2 c
+bass       bb+/2 ab+
+
+# measure 23
+soprano    c bn/2
+alto       g/2 g
+tenor      d/2 d
+bass       g/2 g
+
+# measure 24
+soprano    c/2.
+alto       g/2.
+tenor      c/2.
+bass       c/2.
+
+# measure 25
+soprano    g g g
+alto       eb eb eb
+tenor      c c c
+bass       c c c
+
+# measure 26
+soprano    ab/2 f
+alto       ab. bb/8 c/8 d/8
+tenor      c/2 ab
+bass       f/2 f
+
+# measure 27
+soprano    g. ab/8 bb
+alto       eb/2 f
+tenor      bb/2 db
+bass       eb/2 bb
+
+# measure 28
+soprano    ab/2.
+alto       f/2.
+tenor      c/2.
+bass       f/2.
+
+# measure 29
+soprano    ab ab ab
+alto       f f eb
+tenor      c c c
+bass       f f ab+
+
+# measure 30
+soprano    g/2.
+alto       eb/2.
+tenor      bb/2.
+bass       eb/2.
+
+# measure 31
+soprano    ab f f
+alto       eb c c
+tenor      c ab ab
+bass       c f f
+
+# measure 32
+soprano    en/2.
+alto       c/2.
+tenor      g/2.
+bass       c/2.
+
+
+

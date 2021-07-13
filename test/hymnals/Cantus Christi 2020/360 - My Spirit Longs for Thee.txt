@@ -1,0 +1,123 @@
+title      My Spirit Longs for Thee
+author     John Byrom (1691-1763)LISBON
+composer   Anonymous
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 8
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/360%20My%20Spirit%20Longs%20for%20Thee.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       b
+tenor      g
+bass       g-
+
+# measure 2
+soprano    e d- g a
+alto       c b b d
+tenor      g g g g/8 f#/8
+bass       c d e d
+
+# measure 3
+soprano    b/2. b
+alto       d/2. d
+tenor      g/2. g
+bass       g-/2. g-
+
+# measure 4
+soprano    a g c b
+alto       e d d d
+tenor      e g f# g
+bass       c b a g-
+
+# measure 5
+soprano    a/2. b
+alto       d/2. d
+tenor      f#/2. g
+bass       d/2. g
+
+# measure 6
+soprano    a g f# e
+alto       d d d c#
+tenor      a b a a/8 g/8
+bass       f# g a+ a
+
+# measure 7
+soprano    d-/2. d
+alto       d/2. d
+tenor      f#/2. g
+bass       d/2. b
+
+# measure 8
+soprano    c b a a
+alto       d d d d/8 c/8
+tenor      f# g g f#
+bass       a g- d d
+
+# measure 9
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+# measure 10
+soprano    g
+alto       d
+tenor      b
+bass       g/8. f/16
+
+# measure 11
+soprano    g. f/8 e c
+alto       e. b/8 c c
+tenor      c. f/8 g f#
+bass       e. d/8 c/8 b/8 a
+
+# measure 12
+soprano    d-/2. e
+alto       c/2 b c
+tenor      g/2. g
+bass       g-/2. c
+
+# measure 13
+soprano    f g a a
+alto       c c c c
+tenor      f e f f#
+bass       a c f d
+
+# measure 14
+soprano    g/2. g
+alto       c/2 b d
+tenor      g/2. b
+bass       g-/2. g/8. f/16
+
+# measure 15
+soprano    g. f/8 e c
+alto       e. b/8 c c
+tenor      c. f/8 g f#
+bass       e. d/8 c/8 b/8 a
+
+# measure 16
+soprano    c/2 b c/8 b/8
+alto       d/2. c
+tenor      g/2. g
+bass       g-/2. e
+
+# measure 17
+soprano    a f e d-
+alto       c d c b
+tenor      f a g g/8 f/8
+bass       f d g g-
+
+# measure 18
+soprano    c-/2.
+alto       g-/2.
+tenor      f/2 e
+bass       c/2.
+
+
+

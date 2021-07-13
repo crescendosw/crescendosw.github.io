@@ -1,0 +1,115 @@
+title      Through Every Age, Eternal God
+author     Isaac Watts, 1719AMANDA
+composer   Justin Morgan, 1790
+key        Ab
+tempo      150
+rhythm     0 : 4
+verse_count 8
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/165%20Through%20Every%20Age%20-%20Psalm%2090%20AMANDA.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2
+alto       c/2
+tenor      f/2
+bass       f/2
+
+# measure 2
+soprano    ab/1 g/2
+alto       c/1 eb/2
+tenor      c/1 bb/2
+bass       f/1 en/2
+
+# measure 3
+soprano    c/1 c/2
+alto       c/2 f/2 eb c
+tenor      ab. bb/8 c/2 ab/6 g/6 f/6
+bass       f/1 f-/2
+
+# measure 4
+soprano    ab. bb/8 c/2 bb g
+alto       ab. bb/8 c/2 c/2
+tenor      eb. f/8 c-/2 eb/2
+bass       ab/1 c/2
+
+# measure 5
+soprano    f/1
+alto       c/1
+tenor      f/1
+bass       f-/1
+
+# measure 6
+soprano    ab/2 ab ab
+alto       f/2 f f
+tenor      c/2 c c
+bass       f/2 f f
+
+# measure 7
+soprano    bb/2 c ab
+alto       eb. f/8 eb eb
+tenor      eb+. f+/8 eb+ c
+bass       eb. db/8 c eb
+
+# measure 8
+soprano    f/2 f/2
+alto       f/2 f/2
+tenor      ab/2 bb/2
+bass       f/2 eb db
+
+# measure 9
+soprano    g/1
+alto       eb/1
+tenor      c/1
+bass       c/1
+
+# measure 10
+soprano    c/2 ab/8 g/8 f
+alto       eb/2 f f
+tenor      eb/2 f ab
+bass       c/2 bb ab
+
+# measure 11
+soprano    c-/2 eb/2
+alto       eb/2 c/2
+tenor      g/2 f eb
+bass       eb/2 f c
+
+# measure 12
+soprano    bb. c/8 bb/8 g/8 eb
+alto       f/2. eb/8 db/8
+tenor      f. ab/8 bb/8 g/8 eb
+bass       bb/2. bb
+
+# measure 13
+soprano    g/1
+alto       c/1
+tenor      c-/1
+bass       c/1
+
+# measure 14
+soprano    g/2 f ab
+alto       c/2 c f
+tenor      eb/2 ab f
+bass       c/2 ab ab/8 bb/8
+
+# measure 15
+soprano    g. f/8 eb f
+alto       f eb c ab
+tenor      c/8. db/16 c/8 bb/8 c bb/8 ab/8
+bass       c. db/8 eb f
+
+# measure 16
+soprano    c/8. db/16 c/8 bb/8 ab g
+alto       c/2. c
+tenor      g/2. eb
+bass       c/2. c
+
+# measure 17
+soprano    f/1
+alto       c/1
+tenor      f/1
+bass       f-/1
+

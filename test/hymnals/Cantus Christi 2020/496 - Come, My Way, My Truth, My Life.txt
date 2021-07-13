@@ -1,0 +1,75 @@
+title      Come, My Way, My Truth, My Life
+author     George Herbert, 1633THE CALL
+composer   Ralph Vaughan Williams, 1911; arr.
+key        Ab
+tempo      101
+rhythm     6 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/496%20Come,%20My%20Way,%20My%20Truth,%20My%20Life.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb/2 g
+alto       eb/2 g
+tenor      eb/2 g
+bass       eb/2 g
+
+# measure 2
+soprano    bb/2 bb c bb ab
+alto       db/2 db eb/2 eb
+tenor      f/2 f ab/2 ab
+bass       bb/2 bb ab/2 ab
+
+# measure 3
+soprano    bb/2. eb/2 g
+alto       eb/2 db eb/2 g
+tenor      f/2. eb/2 g
+bass       bb/2. eb/2 g
+
+# measure 4
+soprano    bb/2 bb c bb ab
+alto       db/2 db eb/2 eb
+tenor      f/2 f ab/2 ab
+bass       bb/2 bb ab/2 ab
+
+# measure 5
+soprano    bb/2. db/2 db
+alto       eb/2 db gb/2 f
+tenor      f/2. bb/2 bb
+bass       bb/2. gb-/2 gb-
+
+# measure 6
+soprano    c/2 c bb/2 ab
+alto       f/2 eb eb db c
+tenor      c/2 c f/2 f
+bass       ab/2 ab bb/2 f
+
+# measure 7
+soprano    bb/2. ab/2 ab
+alto       eb/2. f/2 f
+tenor      g/2. db/2 c
+bass       eb/2. db/2 db
+
+# measure 8
+soprano    g/2 g f g ab
+alto       eb/2 eb c/2. =
+tenor      bb/2 bb ab/2. =
+bass       eb/2 eb f/2. =
+
+# measure 9
+soprano    g f eb f/2 f
+alto       c/2. db/2 c
+tenor      ab/2. bb/2 bb
+bass       f/2. bb/2 bb
+
+# measure 10
+soprano    eb/1.
+alto       bb/1.
+tenor      ab/2. g/2.
+bass       eb/1.
+
+
+

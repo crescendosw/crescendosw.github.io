@@ -1,0 +1,105 @@
+title      Whate'er My God Ordains Is Right
+author     Samuel Rodigast, 1675; tr. Catherine Winkworth, 1863WAS GOTT TUT
+composer   attr. Severus Gastorius, c. 1675; harm. Johann Sebastian Bach, 1724
+key        F
+tempo      110
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/393%20Whate'er%20My%20God%20Ordains%20Is%20Right.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       a
+tenor      f
+bass       f-
+
+# measure 2
+soprano    f g a bb
+alto       c c c f
+tenor      a g f f/8 g/8
+bass       f e f d
+
+# measure 3
+soprano    c. bb/8 a d
+alto       f e c bb/8 a/8
+tenor      a g f f
+bass       a c f- bb
+
+# measure 4
+soprano    c bb a bb
+alto       g- d c d
+tenor      e f/8 g/8 a/8 e/8 f
+bass       c d/8 e/8 f bb
+
+# measure 5
+soprano    g/2 f(1) c-
+alto       c/2 c(1) a
+tenor      f e a(1) f
+bass       c/2 f-(1) f-
+
+# measure 6
+soprano    f g a bb
+alto       c c c f
+tenor      a g f f/8 g/8
+bass       f e f d
+
+# measure 7
+soprano    c. bb/8 a d
+alto       f e c bb/8 a/8
+tenor      a g f f
+bass       a c f- bb
+
+# measure 8
+soprano    c bb a bb
+alto       g- d c d
+tenor      e f/8 g/8 a/8 e/8 f
+bass       c d/8 e/8 f bb
+
+# measure 9
+soprano    g/2 f(1) c
+alto       c/2 c(1) f
+tenor      f e a(1) a
+bass       c/2 f-(1) f
+
+# measure 10
+soprano    d d g g
+alto       f g/8 f/8 e e
+tenor      bb/8 a/8 g c c
+bass       bb bn c bb
+
+# measure 11
+soprano    c c f a
+alto       f. eb/8 d c
+tenor      c/8 bb/8 a/8 c/8 bb a/8 f/8
+bass       a a bb f-
+
+# measure 12
+soprano    g f e f
+alto       bn a g- a
+tenor      d- c- c-/8 e/8 d-/8 c-/8
+bass       g- a/8 bn/8 c f-
+
+# measure 13
+soprano    d- d- c-(1) c
+alto       g- g- g-(1) f-
+tenor      c- bn- e(1) c-
+bass       g- g- c(1) a
+
+# measure 14
+soprano    bb a g a
+alto       f-/8 g-/8 a/8 bb/8 c c
+tenor      d- c-/8 d-/8 e f
+bass       d/8 e/8 f c/8 bb/8 a/8 f-/8
+
+# measure 15
+soprano    g g f(1)
+alto       c c c(1)
+tenor      f e a(1)
+bass       c c f-(1)
+
+
+

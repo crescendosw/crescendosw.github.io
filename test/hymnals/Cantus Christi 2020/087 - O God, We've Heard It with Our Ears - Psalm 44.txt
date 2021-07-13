@@ -1,0 +1,63 @@
+title      O God, We've Heard It with Our Ears
+author     Scottish Psalter, 1650; alt.OLD 44th
+composer   Anglo-Genevan Psalter, 1556; alt. Thomas Ravenscroft, 1621
+key        G
+tempo      100
+rhythm     0 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/87%20O%20God,%20We've%20Heard%20It%20-%20Psalm%2044a%20OLD%2044TH.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 e d- d- e f# g e/2
+alto       b/2 c a b a a g- b/2
+tenor      g/2 g f# g e d- d- g/2
+bass       g-/2 c d b c d b e/2
+
+# measure 2
+soprano    g/2 g g g f# g/2
+alto       b/2 c d e d d/2
+tenor      d/2 c b a a g/2
+bass       g-/2 a b c d g-/2
+
+# measure 3
+soprano    d-/2 e d- d- e f# g e/2
+alto       b/2 c a b a a g- c/2
+tenor      g/2 g f# g e d- d- g/2
+bass       g-/2 c d b c d b c/2
+
+# measure 4
+soprano    g/2 g g g f# g/2
+alto       d/2 e e d d b/2
+tenor      b/2 c b a a g/2
+bass       g-/2 c c d d g-/2
+
+# measure 5
+soprano    g/2 b a g c b a g/2
+alto       b/2 d d e. f#/8 g f# e/2
+tenor      g/2 g a b c d c b/2
+bass       g-/2 g f# e a b c/8 d/8 e/2
+
+# measure 6
+soprano    e f# g a b b a/2
+alto       c/2 b e d b c#/2
+tenor      a/2 g e f# g a/2
+bass       a/2 e c d e a/2
+
+# measure 7
+soprano    e/2 b a a g e g f#/2 =
+alto       c/2 d c a d c d d/2
+tenor      g/2 d- e f# g a b a/2
+bass       c/2 b c d b a g- d/2
+
+# measure 8
+soprano    f# e a g g f# g/2
+alto       b/2 d d c a b/2
+tenor      g/2 f# g a a g/2
+bass       e/2 d b c d g-/2
+
+
+

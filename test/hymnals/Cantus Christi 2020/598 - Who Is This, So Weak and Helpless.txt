@@ -1,0 +1,111 @@
+title      Who Is This, So Weak and Helpless
+author     William Walsham How (1823-1897)EIFIONYDD
+composer   John Ambrose Lloyd (1815-1874)
+key        Bb
+tempo      70
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/598%20Who%20Is%20This,%20So%20Weak%20and%20Helpless.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g/8 a/8 bb a/8 g/8
+alto       d d d eb
+tenor      bb bb/8 c/8 d c/8 bb/8
+bass       g g g c
+
+# measure 2
+soprano    f# g a d-
+alto       d d/8 c#/8 d a
+tenor      a g f# f#
+bass       d eb d d/8 c/8
+
+# measure 3
+soprano    g f#/8 g/8 a g/8 a/8
+alto       d d eb d/8 eb/8
+tenor      g a/8 bb/8 a d-/8 g/8
+bass       bb a/8 g-/8 c bb/8 c/8
+
+# measure 4
+soprano    bb a g/2
+alto       d. c/8 bb/2
+tenor      g f# g/2
+bass       d d g-/2
+
+# measure 5
+soprano    g g/8 a/8 bb a/8 g/8
+alto       bb bb/8 c/8 d eb
+tenor      g g g/8 d/8 c/8 bb/8
+bass       g- g- g c
+
+# measure 6
+soprano    f# g a d-
+alto       d d/8 c#/8 d a
+tenor      a g f# f#
+bass       d eb d d/8 c/8
+
+# measure 7
+soprano    g f#/8 g/8 a g/8 a/8
+alto       bb/8 d/8 c/8 bb/8 c/8 eb/8 d/8 c/8
+tenor      g a/8 bb/8 a d-/8 eb/8
+bass       bb a/8 g-/8 c bb/8 c/8
+
+# measure 8
+soprano    bb a g/2
+alto       bb/8 d c/8 bb/2
+tenor      d-/8 g f#/8 g/2
+bass       d d g-/2
+
+# measure 9
+soprano    bb bb/8 c/8 d bb
+alto       d d d d
+tenor      g bb a g
+bass       g g f# g
+
+# measure 10
+soprano    a bb c a
+alto       d d eb d/8 c/8
+tenor      f# g g f#
+bass       d g- c d
+
+# measure 11
+soprano    g g/8 a/8 bb d
+alto       bb/8 c/8 d d d
+tenor      g/8 a/8 bb/8 c/8 d g
+bass       g- g- g bb
+
+# measure 12
+soprano    c bb a/2
+alto       eb d d/2
+tenor      g g f#/2
+bass       c g- d/2
+
+# measure 13
+soprano    d d/8 c/8 bb a
+alto       d d d f#
+tenor      g f# g a
+bass       bb d g d/8 c/8
+
+# measure 14
+soprano    g f#/8 g/8 a d-
+alto       g/8 d/8 d f# d
+tenor      bb/8 d/8 c/8 bb/8 a f#
+bass       bb a/8 g-/8 d d/8 c/8
+
+# measure 15
+soprano    g f#/8 g/8 a g/8 a/8
+alto       d c/8 d/8 eb d/8 eb/8
+tenor      g a/8 bb/8 a d-/8 g/8
+bass       bb a/8 g-/8 c bb/8 c/8
+
+# measure 16
+soprano    bb a g/2
+alto       d. c/8 bb/2
+tenor      g f# g/2
+bass       d d g-/2
+
+
+

@@ -1,0 +1,117 @@
+title      Declare Me Innocent, O LORD
+author     Sing Psalms, 2003 (c) BOVINA
+composer   Laura A. Tate, 1912
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/50%20Declare%20Me%20Innocent%20-%20Psalm%2026%20BOVINA.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      f#
+bass       d
+
+# measure 2
+soprano    d- f#/8 e/8 d- e
+alto       d c# d c#
+tenor      f# a/8 g/8 f# a
+bass       d a d a
+
+# measure 3
+soprano    f# a/8 g/8 f# a
+alto       d c# d f#
+tenor      a a a d
+bass       d a d d
+
+# measure 4
+soprano    d. b/8 a f#
+alto       f#. g/8 f# d
+tenor      a. d/8 d a
+bass       d. d/8 d d
+
+# measure 5
+soprano    e/2. c#-
+alto       c#/2. a
+tenor      a/2. a
+bass       a/2. a
+
+# measure 6
+soprano    d- f#/8 e/8 d- e
+alto       d c# d c#
+tenor      f# a/8 g/8 f# a
+bass       d a d a
+
+# measure 7
+soprano    f# a/8 g/8 f# a
+alto       d c# d f#
+tenor      a a a d
+bass       d a d d
+
+# measure 8
+soprano    b. d/8 d c#
+alto       g. g/8 f# e
+tenor      d. b/8 a a
+bass       g. g/8 a+ a+
+
+# measure 9
+soprano    d/2. d/8 c#/8
+alto       f#/2. f#
+tenor      a/2. d
+bass       d/2. d
+
+# measure 10
+soprano    b d a g/8 f#/8
+alto       g g f# e/8 d/8
+tenor      d d d a
+bass       g b+ d+ d
+
+# measure 11
+soprano    e a f# a
+alto       c# e d f#
+tenor      a a a d
+bass       a c# d d
+
+# measure 12
+soprano    b. b/8 a g#
+alto       f#. f#/8 e d
+tenor      d. d/8 c# b
+bass       d. d/8 e e
+
+# measure 13
+soprano    a/2. b/8 c#/8
+alto       c#/2. g
+tenor      a/2. a
+bass       a/2. a
+
+# measure 14
+soprano    d c#/8 b/8 a a
+alto       f#/8 b+/8 a+/8 g/8 f# f#
+tenor      a d d d
+bass       d d d d
+
+# measure 15
+soprano    b a/8 g/8 f# a
+alto       g d d f#
+tenor      d c#/8 b/8 a d
+bass       d d d d
+
+# measure 16
+soprano    b. d/8 d c#
+alto       g. g/8 f# e
+tenor      d. b/8 a a
+bass       g. g/8 a+ a+
+
+# measure 17
+soprano    d/2.
+alto       f#/2.
+tenor      a/2.
+bass       d/2.
+
+
+

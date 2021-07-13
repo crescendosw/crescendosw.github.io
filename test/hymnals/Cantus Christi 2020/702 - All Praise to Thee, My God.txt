@@ -1,0 +1,69 @@
+title      All Praise to Thee, My God
+author     Thomas Ken, 1709EIGHTH MODE MELODY  
+composer   Thomas Tallis, 1567
+key        G
+tempo      100
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/702%20All%20Praise%20to%20Thee,%20My%20God.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g f#
+alto       d d d
+tenor      b a a
+bass       g d d
+
+# measure 2
+soprano    g g a a
+alto       b d c a
+tenor      g g g f#
+bass       g- b a a
+
+# measure 3
+soprano    b g c c
+alto       d d fn. e/8
+tenor      g g a a
+bass       g- g fn f
+
+# measure 4
+soprano    b b a a
+alto       d d c a
+tenor      b g c c
+bass       g g g f#
+
+# measure 5
+soprano    g d c a
+alto       d g e fn
+tenor      b b a a
+bass       g g a+ fn
+
+# measure 6
+soprano    b b a a
+alto       d g e f#
+tenor      g d c a
+bass       g g- c d
+
+# measure 7
+soprano    g d- e f#
+alto       g g e d
+tenor      b b a a
+bass       g- g- c d
+
+# measure 8
+soprano    g b a a
+alto       b. d/8 c a
+tenor      g d- e f#
+bass       e g- c d
+
+# measure 9
+soprano    g
+alto       b
+tenor      g
+bass       g-
+
+
+

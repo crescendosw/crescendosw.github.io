@@ -1,0 +1,59 @@
+title      Psalm 130
+hymnal     Cantus Christi 2020
+author     King James Version; alt.
+
+composer   David R. Erb, 2013
+key        G
+rhythm     0 : 4
+tempo      170
+
+#hyperlink  https://vimeo.com/156804552
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     b/2 e b c b/8 a/8 g a | b/2 a/8 - b/8 - c b/2 R b | d/2 c/2 b/1.
+
+unison     b b | b/2 a g a g f a | g/2 f e d- - e f - a | g/2 - f/2 - e/2 - d-/2 | e/1.
+
+unison     R b | b/2 e b c - b/8 - a/8 - g a | b/2 a/8 - b/8 - c b/2 R b | d/2 c c b/2
+
+unison     R b | b/2 a g a - g f a | g/2 - f - e d- - e f - a | g/2 - f/2 e/2 - d-/2 | e/2.
+
+unison     R b | b/2 e b c - b/8 - a/8 - g a | b/2 - a/8 - b/8 - c  b b b b | d/2 c c b/2
+
+unison     R b | b/2 - a - g a - g f a | g/2 f e d- - e f - a | g/2 f f e/2 - d-/2 | e/2
+
+unison     e/2 e f g a | g/2 f f e/2 - d-/2
+
+key        A
+
+unison     e/1. e/2 | f. e/8 f/2 a/2 g f | g/1 R e f g | a/2 f a g/2 - e/2 | f/1.
+
+unison     f g | a/2 b c d c b - a | g/2 - e/2 - d-/2 - f/2 | e/1.
+
+unison     R b | b/2 e b c - b/8 - a/8 g a | b/2 a/8 - b/8 - c b/2 b b | d/1 c/1 | b/1
+
+verse      Out of the depths I have cried to You, O Lord; Lord, hear my voice!
+
+verse      Let Your ears be at - ten - tive To the voice of my sup - pli - ca - tions.
+
+verse      If You, Lord, should mark in - iq - ui - ties, O Lord, who could stand?
+
+verse      But there is for - give - ness with You, That You may be feared.
+
+verse      I wait for the Lord, my soul waits, And in His word I do hope.
+
+verse      My soul waits for the Lord More than those who watch for the morn - ing--
+
+verse      Yes, more than those who watch for the morn - ing.
+
+verse      O Is - ra - el, hope in the Lord; For with the Lord there is mer - cy,
+
+verse      And with Him is a - bun - dant re - demp - tion.
+
+verse      And He shall re - deem Is - ra - el From all his in - iq - ui - ties.

@@ -1,0 +1,111 @@
+title      Shepherds Came, Their Praises Bringing
+author     German, 1400s; tr. George B. Caird, 1951QUEM PASTORES
+composer   German melody, c. 1500s; harm. Ralph Vaughan Williams, 1906
+key        F
+tempo      120
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/604%20Shepherds%20Came,%20Their%20Praises%20Bringing.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 a
+alto       f/2 f
+tenor      a/2 c
+bass       f/2 f
+
+# measure 2
+soprano    c/2 a
+alto       g/2 f
+tenor      c/2 c
+bass       e/2 f
+
+# measure 3
+soprano    bb c d
+alto       f/2 f
+tenor      bb/2 bb
+bass       d/2 bb
+
+# measure 4
+soprano    c/2 g
+alto       f/2 e
+tenor      g a bb
+bass       c/2 c
+
+# measure 5
+soprano    a bb c
+alto       f/2 f
+tenor      c/2 a
+bass       f/2 a+
+
+# measure 6
+soprano    bb a g
+alto       f/2 e
+tenor      bb/2 bb
+bass       g/2 c
+
+# measure 7
+soprano    f/2 d-
+alto       d/2 bn
+tenor      a/2 g
+bass       d/2 g
+
+# measure 8
+soprano    e/2 c-
+alto       c/2 c
+tenor      g/2 e
+bass       c/2 c
+
+# measure 9
+soprano    a/2 bb
+alto       c/2 f
+tenor      f/2 f
+bass       f/2 d
+
+# measure 10
+soprano    c/2 d
+alto       f/2 f
+tenor      f/2 bb
+bass       a/2 bb
+
+# measure 11
+soprano    c/2 g
+alto       f/2 e
+tenor      g a bb
+bass       c/2 c
+
+# measure 12
+soprano    a/2 f
+alto       e/2 d
+tenor      a/2 a
+bass       c#/2 d
+
+# measure 13
+soprano    bb/2 bb
+alto       d/2 g
+tenor      bb/2 d
+bass       g-/2 g-
+
+# measure 14
+soprano    a g f
+alto       e/2 d
+tenor      c/2 a
+bass       a/2 d
+
+# measure 15
+soprano    f d- e
+alto       d/2 c
+tenor      bb/2 g
+bass       g-/2 c
+
+# measure 16
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f/2.
+
+
+

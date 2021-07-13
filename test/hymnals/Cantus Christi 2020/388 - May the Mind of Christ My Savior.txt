@@ -1,0 +1,63 @@
+title      May the Mind of Christ My Savior
+author     Kate B. Wilkinson, 1925ST. LEONARD'S
+composer   A. Cyril Barham-Gould, 1925
+key        Eb
+tempo      100
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/388%20May%20the%20Mind%20of%20Christ%20My%20Savior.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g bb ab g
+alto       eb eb eb/8 d/8 eb
+tenor      bb bb bb bb
+bass       eb g f eb
+
+# measure 2
+soprano    f eb eb d-
+alto       c c bb bb
+tenor      ab ab f f
+bass       ab f- bb bb
+
+# measure 3
+soprano    eb eb f g
+alto       bb bb bb bb
+tenor      g g f eb
+bass       eb eb d eb
+
+# measure 4
+soprano    g an bb/2
+alto       eb eb d/2
+tenor      g f f/2
+bass       c f- bb/2
+
+# measure 5
+soprano    eb+ bb c bb
+alto       eb eb eb eb
+tenor      bb bb ab bb
+bass       g- g ab+ g
+
+# measure 6
+soprano    ab g f eb
+alto       eb/8 d/8 eb c c
+tenor      bb bb ab ab
+bass       f eb ab f-
+
+# measure 7
+soprano    eb/8 f/8 g f/8 c-/8 d-
+alto       bb eb c bb
+tenor      g bb ab ab
+bass       bb g- ab bb
+
+# measure 8
+soprano    eb/1
+alto       bb/1
+tenor      ab/2 g/2
+bass       eb/1
+
+
+

@@ -1,0 +1,60 @@
+title      He Which Soweth Sparingly
+hymnal     Cantus Christi
+author     2 Corinthians 9:6,7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/713%20He%20Which%20Soweth%20Sparingly.pdf
+
+composer   M. Reagan, 2008
+key        Bb
+rhythm     4 : 4
+tempo      105
+copyright  music: Mark Reagan, 2008. Used by permission.
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    R/1     | g g g g | b a b g
+alto       d d d d | e d e c | d/2 g c
+tenor      R/1     | g g g c | b c d g
+bass       d d d d | c b c e | g/2 g e
+
+soprano    d. - c/8 b g   | f e d-/2 | R/1
+alto       f   e    d/2 = | d/1      | R/1
+tenor      b - a    f b   | a g a d- | g a b a/8 g/8
+bass       b   c    d/2 = | d/1      | R/2.  g-
+
+soprano    R/1                 | R/2.        f       | b       c       d   c/8 b/8
+alto       R/2.        b       | e f       g f/8 e/8 | d       e/8 e/8 f   g
+tenor      f g/8 g/8 a b       | c/2       g a       | b/8 c/8 b/8 a/8 b - g
+bass       d e f       e/8 d/8 | c d/8 d/8 e d/8 c/8 | b/2.                e/8 d/8
+
+soprano    a b/8 b/8 c       d       | d - e+/8 - d/8   c   b       | a/8 b/8 a/8 g/8 f e
+alto       e/2       e       d       | g/8 a+/8 g/8 f/8 e - d       | d - c           a c
+tenor      g. - f/8  g/8 f/8 g/8 a/8 | b/2              R/2         | f/2             f g
+bass       c d/8 d/8 e/8 d/8 e/8 f/8 | g/2              c   c/8 c/8 | d/1 =
+
+soprano    d-/2. a/8 a/8 | a.  a/8  a/8  c/8 b/8 a/8 | a/8 g/8  a/2   g/8 f/8
+alto       d/2.  d/8 d/8 | d.  c/8  c/8  f/8 g/8 f/8 | f/8 en/8 f/2   d/8 d/8
+tenor      a/2.  f/8 f/8 | en. en/8 en/8 f/8 g/8 a/8 | a/8 d/8  d - c b/8 c/8
+bass       d/2.  d/8 d/8 | a.  a/8  a/8  a/8 b/8 c/8 | d/8 d/8  d/2   e/8 d/8
+
+soprano    g/2 g       g/8 a/8 | b/2.      b         | b/8 a/8 g. a/8  f/8 en/8
+alto       e/2 e       e/8 e/8 | f - e - d f         | g/8 d/8 d. d/8  d/8 d/8
+tenor      g/2 g/8 a/8 b/8 c/8 | d - c - b d         | d/8 c/8 b. b/8  g/8 a/8
+bass       c/2 c       c/8 c/8 | b/2.      b+/8 a+/8 | g/8 g/8 g. g-/8 b/8 c/8
+
+soprano    f/8 en/8 f g. b/8 | c. b/8 a f | g/2. - f    | g/2.  R
+alto       d/8 d/8  d d. g/8 | g. g/8 c d | e/2 - f/2   | d/2.  R
+tenor      a/8 g/8  a b. b/8 | b. c/8 c c | c - b - c/2 | bn/2. R
+bass       d/8 d/8  d g  f   | e. e/8 f d | c/2 - a/2   | g-/2. R
+
+verse      He which sow - eth spar - ing - ly shall reap also spar - ing - ly;
+
+verse      and he which sow - eth boun - ti - ful - ly shall reap al - so boun - ti - ful - ly.
+
+verse      Ev - ery man ac - cord - ing as he pur - pos - eth in his heart, so let him give;
+
+verse      not grudg - ing - ly, or of ne - cess - ity: for God loves a cheer - ful giv - er.

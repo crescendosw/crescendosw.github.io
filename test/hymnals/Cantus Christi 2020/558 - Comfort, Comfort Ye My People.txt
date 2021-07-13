@@ -1,0 +1,63 @@
+title      Comfort, Comfort Ye My People
+author     Johannes Olearius, 1671; tr. Catherine Winkworth, 1863; alt.AINSI QU'ON OIT LE CERF [GENEVAN 42]
+composer   Genevan Psalter, 1551; harm. Johann Crüger, 1658
+key        F
+tempo      150
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/558%20Comfort,%20Comfort%20Ye%20My%20People.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 g a/2 g f e d-/2 c-/1
+alto       c/2 e f/2 e d c bb/2 a/1
+tenor      a/2 c c/2 c a a f/2 f/1
+bass       f/2 c f/2 c d a bb/2 f-/1
+
+# measure 2
+soprano    f/2 g a/2 bb a/2 g/2 f/1
+alto       d/2 e f/2 f f/2 e/2 f/1
+tenor      a/2 c c/2 d c/2 c/2 a/1
+bass       d/2 c f/2 bb c/2 c/2 f-/1
+
+# measure 3
+soprano    f/2 g a/2 g f e d-/2 c-/1
+alto       c/2 e f/2 e d c bb/2 a/1
+tenor      a/2 c c/2 c a a f/2 f/1
+bass       f/2 c f/2 c d a bb/2 f-/1
+
+# measure 4
+soprano    f/2 g a/2 bb a/2 g/2 f/1
+alto       d/2 e f/2 f f/2 e/2 f/1
+tenor      a/2 c c/2 d c/2 c/2 a/1
+bass       d/2 c f/2 bb c/2 c/2 f-/1
+
+# measure 5
+soprano    a/2 a c/2 bb a g a/1
+alto       f/2 f e/2 d d d c#/1
+tenor      c/2 f g/2 g f# g e/1
+bass       f/2 d c/2 g- d bb a/1
+
+# measure 6
+soprano    c/2 c d/2 c bb a g/1
+alto       f/2 f f/2 f f f e/1
+tenor      a/2 a bb/2 c d c c/1
+bass       f/2 f bb/2 a bb f- c/1
+
+# measure 7
+soprano    a/2 c bb/2 a f g a/2 f/1
+alto       f/2 e g/2 f d e f/2 d/1
+tenor      c/2 c d/2 d a c c/2 bb/1
+bass       f/2 c g/2 d d c f/2 bb/1
+
+# measure 8
+soprano    a/2 a bb/2 a g f/2 e f/1
+alto       f/2 f d/2 c c a c/2 c/1
+tenor      c/2 c f/2 f e f g/2 f/1
+bass       f-/2 f- bb/2 f- c d c/2 f-/1
+
+
+

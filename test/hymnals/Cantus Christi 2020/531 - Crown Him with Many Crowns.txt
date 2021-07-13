@@ -1,0 +1,111 @@
+title      Crown Him with Many Crowns
+author     Matthew Bridges, 1851; st. 2, Godfrey Thring, 1874DIADEMATA
+composer   George J. Elvey, 1868
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/531%20Crown%20Him%20with%20Many%20Crowns.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- d-/8 d-/8 f# f#
+alto       a a/8 a/8 d d
+tenor      f# f#/8 f#/8 f# f#
+bass       d d/8 d/8 b b
+
+# measure 2
+soprano    b/2. b
+alto       d/2. d
+tenor      g/2. g
+bass       g-/2. g
+
+# measure 3
+soprano    a d- g f#
+alto       d d c# d
+tenor      a b g a
+bass       f# g e d
+
+# measure 4
+soprano    e/2. e
+alto       c#/2. c#
+tenor      a/2. a
+bass       a/2. a
+
+# measure 5
+soprano    f# a b a
+alto       d e d d
+tenor      a a f# f#
+bass       d c# b d
+
+# measure 6
+soprano    g# f#/8 e/8 a d
+alto       b b e d
+tenor      g# g# a g#
+bass       e d c# b
+
+# measure 7
+soprano    c# d b b
+alto       e f# b e
+tenor      a a a g#
+bass       a d e e
+
+# measure 8
+soprano    a/2. a
+alto       c#/2. c#
+tenor      a/2. a
+bass       a+/2. g
+
+# measure 9
+soprano    a f# e d-
+alto       d d c# d
+tenor      a a g a
+bass       f# d e f#
+
+# measure 10
+soprano    b/2. b
+alto       d/2. d#
+tenor      b/2. a
+bass       g/2. f#
+
+# measure 11
+soprano    b g# f# e
+alto       e e d d
+tenor      g# b a b
+bass       e e f# g#
+
+# measure 12
+soprano    c#/2. c#
+alto       c#/2. e
+tenor      a/2. a
+bass       a+/2. g
+
+# measure 13
+soprano    d. c#/8 b a
+alto       d d d d
+tenor      a a g a
+bass       f# f# g f#
+
+# measure 14
+soprano    g e f# a
+alto       d c# d d
+tenor      b a a a
+bass       e a+ d f#-
+
+# measure 15
+soprano    g f# e e
+alto       d d d c#
+tenor      b a a. g/8
+bass       g- d a a
+
+# measure 16
+soprano    d-/1
+alto       d/1
+tenor      f#/1
+bass       d/1
+
+
+

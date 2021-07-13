@@ -1,0 +1,188 @@
+title      O All the Earth, in Joyful Shouts
+author     The Book of Psalms for Worship, 2009 (c)ST. MATTHEW
+composer   William Croft, 1708
+key        Bb
+tempo      130
+rhythm     3 : 4
+verse_count 7
+copyright  Text: Crown & Covenant Publications, 2009. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/125%20O%20All%20the%20Earth%20-%20Psalm%2066%20ST.%20MATTHEW.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       c
+tenor      f
+bass       a
+
+# measure 2
+soprano    d-/2 f
+alto       d/2 d
+tenor      bb/2 a
+bass       bb/2 d
+
+# measure 3
+soprano    bb/2 d
+alto       d/2 f
+tenor      bb/2 bb
+bass       g/2 d
+
+# measure 4
+soprano    c bb a
+alto       eb d c
+tenor      g f f
+bass       eb f f-
+
+# measure 5
+soprano    bb/2 d
+alto       d/2 f
+tenor      f/2 bb
+bass       bb/2 bb
+
+# measure 6
+soprano    c/2 f
+alto       f/2 f
+tenor      c/2 a
+bass       a/2 d
+
+# measure 7
+soprano    g f en
+alto       d c c
+tenor      bb a g
+bass       bb c c
+
+# measure 8
+soprano    f/2 c
+alto       c/2 f
+tenor      a/2 a
+bass       f/2 f
+
+# measure 9
+soprano    a/2 f
+alto       f/2 f
+tenor      c/2 c
+bass       f/2 eb
+
+# measure 10
+soprano    bb/2 d
+alto       f/2 f
+tenor      bb/2 bb
+bass       d/2 bb
+
+# measure 11
+soprano    d c bb
+alto       g/2 d/8 eb/8
+tenor      bb c g
+bass       eb/2 g
+
+# measure 12
+soprano    bb a f
+alto       f/2 c
+tenor      c/2 a
+bass       f/2 eb
+
+# measure 13
+soprano    bb/2 d
+alto       f/2 f
+tenor      bb/2 bb
+bass       d/2 bb
+
+# measure 14
+soprano    c bb a
+alto       eb d c
+tenor      g f f
+bass       eb f f
+
+# measure 15
+soprano    bb/2 d-
+alto       d/2 c
+tenor      f/2 f#
+bass       bb/2 a
+
+# measure 16
+soprano    d-/2 g
+alto       bb/2 d
+tenor      g/2 g
+bass       g-/2 bb
+
+# measure 17
+soprano    g f# g
+alto       d/2 bb
+tenor      bb a g
+bass       d/2 eb
+
+# measure 18
+soprano    a g f#
+alto       eb d d
+tenor      c bb a
+bass       c d d
+
+# measure 19
+soprano    g/2 a
+alto       d/2 f#
+tenor      bb/2 d
+bass       g/2 d
+
+# measure 20
+soprano    bb/2 a/8 g/8
+alto       g/2 d
+tenor      d c# d/8 bb/8
+bass       g en f/8 g/8
+
+# measure 21
+soprano    f/2 en
+alto       d/2 c#
+tenor      a/2 g
+bass       a+/2 a
+
+# measure 22
+soprano    d-/2 f
+alto       d/2 eb
+tenor      f/2 a
+bass       d/2 c
+
+# measure 23
+soprano    f/2 bb
+alto       d eb f
+tenor      bb/2 bb
+bass       bb c d
+
+# measure 24
+soprano    g/2 g
+alto       eb/2 f
+tenor      bb/2 bn
+bass       eb/2 d
+
+# measure 25
+soprano    c/2 bb
+alto       en f g
+tenor      c/2 c
+bass       c d en
+
+# measure 26
+soprano    bb a f
+alto       f/2 f
+tenor      c/2 a
+bass       f/2 eb
+
+# measure 27
+soprano    bb/2 d
+alto       f eb d
+tenor      bb/2 f+
+bass       d c bb
+
+# measure 28
+soprano    c bb a
+alto       g f f
+tenor      eb+ d c
+bass       eb f f-
+
+# measure 29
+soprano    bb/2
+alto       f/2
+tenor      d/2
+bass       bb/2
+

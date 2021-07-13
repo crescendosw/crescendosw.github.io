@@ -1,0 +1,51 @@
+title      Love of the Father
+author     Anon., 1100s; tr. Robert Bridges, 1899SONG 22
+composer   Orlando Gibbons, 1623; harm. Mary Monica Bridges, 1899
+key        F
+tempo      125
+rhythm     0 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/312%20Love%20of%20the%20Father.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c/2 c a d/2 c/2
+alto       f/2 g f f/2 f/2
+tenor      a/2 c c bb/2 a/2
+bass       f/2 e f bb/2 f/2
+
+# measure 2
+soprano    R c/2 bb a c g/2
+alto       R f/2 d/8 e/8 f f e/2
+tenor      R a/2 bb c a c/2
+bass       R f-/2 g- a f- c/2
+
+# measure 3
+soprano    R g a f bb/2 g c/2 f a g f/2
+alto       R e f d g/2 e/2 f/8 e/8 d c c a/2
+tenor      R c c bb d/2 c g a/8 g/8 f f e f/2
+bass       R c f- bb/2 g- c/2 a bb c c f-/2
+
+# measure 4
+soprano    R a bb c d d
+alto       R f f eb d/8 eb/8 f
+tenor      R c bb a bb d
+bass       R f d c bb bb
+
+# measure 5
+soprano    g c c bn c/2
+alto       g f eb d c/2
+tenor      c/8 bb/8 a g g g/2
+bass       eb f g g c/2
+
+# measure 6
+soprano    R e f g a. bb/8 c d g g f/2
+alto       R c c d/8 bb/8 a/8 bb/8 c f f f e f/2
+tenor      R g a bb c/8 bb/8 a/8 g/8 f bb/8 a/8 g c a/2
+bass       R c a g- f-. g-/8 a bb c c f-/2
+
+
+

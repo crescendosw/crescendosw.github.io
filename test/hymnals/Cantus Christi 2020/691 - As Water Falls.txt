@@ -1,0 +1,40 @@
+title      As Water Falls
+author     Douglas Wilson, 2012
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/691%20As%20Water%20Falls.pdf
+
+composer   David R. Erb, 2012
+key        Eb
+rhythm     4 : 4
+tempo      110
+
+copyright  text: Douglas Wilson, copyright 2012.  Used by permission.  music: David R. Erb, copyright 2012.  Used by permission.
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+soprano    g | g g         e         e | d-        d-         c- c- | c- c- c- f  | d-/2.     d- | e/2                 e/8 - f/8 - g
+alto       g | e e         e/8 - d/8 c | c         bn         c  g- | a  c  c  c  | c bn an   bn | c/2                 b/2
+tenor      g | c b/8 - a/8 g. a/8      | g/8 - f/8 e/8 - d-/8 c- c- | f  g  a  f  | g/2.      f  | e         a         g           e
+bass       g | c c         b         a | g-        g-         c  c  | f- c  f  a+ | g/2  g-/2    | a/8 - b/8 c/8 - d/8 e           e
+
+soprano    a         c         g c- | c- a g  g  | a a  g g  | f/2 e/2 | d-/2 d-/2 | c-/2.
+alto       c         f         e e  | e/2  e/2   | f f  e e  | c/2 c/2 | c/2  b/2  | c/2.
+tenor      f/8 - g/8 a/8 - b/8 c g  | a  c c  c  | c/2.   c  | a/2 a/2 | f/2  f/2  | g/2.
+bass       f         f         c b  | a  a g- g- | f-/2 g-/2 | a/2 a/2 | b/2  b/2  | c/2.
+
+verse      The Spir - it   falls  as   wa - ter   falls Up - on     a    hum -  bled  head.    The wa -  ter
+verse      In  Je  -  sus  we     have come to    life, The  old    man  cru -  ci -  fied,    God puts  a -
+verse      The Fa  -  ther calls  the  na - tions home; He   sent   His  prea - chers out      To  sum - mon
+verse      But wa  -  ter  by     it - self is    dead, As   we     were with - out   Christ.  So  those who
+verse      The Spir - it   wash - es   sin  a  -  way,  The  Spir - it   gives  us    faith.   We  come  in -
+
+verse      seals, the    gos - pel    calls;  In      Christ  we  all   are dead,   In      Christ  we  all   are dead.
+verse      way    all    en -  vious  strife, All     loft -  y,  car - nal pride,  All     loft -  y,  car - nal pride.
+verse      those  who    loved to     roam    Through twist - ed  sins  and doubts, Through twist - ed  sins  and doubts.
+verse      come   with - out   the    Head    Will    pay     an  aw -  ful price,  Will    pay     an  aw -  ful price.
+verse      to     the    Fa -  ther's day,    The     first   day and   the eighth, The     first   day and   the eighth.

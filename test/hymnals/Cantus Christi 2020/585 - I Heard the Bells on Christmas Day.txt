@@ -1,0 +1,69 @@
+title      I Heard the Bells on Christmas Day
+author     Henry Wadsworth Longfellow, 1864WALTHAM
+composer   J. Baptiste Calkin, 1872
+key        Eb
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/585%20I%20Heard%20the%20Bells%20WALTHAM.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb
+alto       eb
+tenor      g
+bass       eb
+
+# measure 2
+soprano    g. f#/8 g g
+alto       eb. eb/8 eb db
+tenor      bb. bb/8 bb bb
+bass       eb bb eb en
+
+# measure 3
+soprano    ab. g/8 ab an
+alto       d. d/8 d eb
+tenor      bb. bb/8 bb bb
+bass       f bb f f#
+
+# measure 4
+soprano    bb eb+ d c
+alto       eb g g eb
+tenor      bb bb bb eb+
+bass       g bb eb g
+
+# measure 5
+soprano    c. bb/8 bb bb
+alto       f. f/8 f eb
+tenor      d. d/8 d eb+
+bass       ab+. ab+/8 ab+ g
+
+# measure 6
+soprano    bb. ab/8 g ab
+alto       eb. eb/8 eb bb
+tenor      c. c/8 bb eb
+bass       ab+. ab+/8 eb eb
+
+# measure 7
+soprano    g. f/8 eb f
+alto       bn. bn/8 c eb
+tenor      g. g/8 g ab
+bass       d. d/8 c c
+
+# measure 8
+soprano    g ab bb c
+alto       eb eb eb eb
+tenor      bb c bb f
+bass       bb ab g- ab
+
+# measure 9
+soprano    d-. f/8 eb
+alto       d. d/8 eb
+tenor      f. ab/8 g
+bass       bb. bb/8 eb
+
+
+

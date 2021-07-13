@@ -1,0 +1,75 @@
+title      Teach Me the Measure of My Days
+author     Isaac Watts (1674-1748)SUFFIELD
+composer   Southern Harmony, 1854
+key        F
+tempo      100
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/78%20Teach%20Me%20the%20Measure%20-%20Psalm%2039%20SUFFIELD.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2
+alto       d/2
+tenor      a/2
+bass       d/2
+
+# measure 2
+soprano    f e f a
+alto       f e d d
+tenor      d- g f d-
+bass       d c d d
+
+# measure 3
+soprano    f/8 e/8 d-/8 c#-/8 d-/2
+alto       c c# d/2
+tenor      a a a/2
+bass       a a d/2
+
+# measure 4
+soprano    f/2 a g
+alto       d/2 d e
+tenor      a/2 d- e
+bass       d/2 f e
+
+# measure 5
+soprano    f g/8 f/8 e/2
+alto       f e/8 d/8 e/2
+tenor      f g a/2
+bass       d e a/2
+
+# measure 6
+soprano    a/2 f/8 e/8 d-/8 c#-/8
+alto       c/2 d/8 e/8 d/8 c#/8
+tenor      c/2 c/8 bb/8 a/8 g/8
+bass       f/2 a+/8 g/8 f/8 e/8
+
+# measure 7
+soprano    d- a d/8 c/8 d/8 e+/8
+alto       d d d/8 e/8 f/8 e/8
+tenor      f f f+/8 e+/8 d/8 c/8
+bass       d d a a
+
+# measure 8
+soprano    a/2 a/2
+alto       d/2 d/2
+tenor      d/2 d/2
+bass       d/2 d/2
+
+# measure 9
+soprano    bb a/8 g/8 f e/8 d-/8
+alto       f f/8 e/8 d c#
+tenor      f+/8 e+/8 d/8 c/8 a a
+bass       d/8 e/8 f/8 g/8 a+ a
+
+# measure 10
+soprano    d-/2
+alto       d/2
+tenor      a/2
+bass       d/2
+
+
+

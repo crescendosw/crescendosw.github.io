@@ -1,0 +1,54 @@
+title      The King of Love My Shepherd Is
+hymnal     Cantus Christi
+author     Henry W. Baker, 1868
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/44%20The%20King%20of%20Love%20-%20Psalm%2023%20ST.%20COLUMBA.pdf
+
+tune       ST. COLUMBIA
+metre      8 7. 8 7
+composer   Old Irish hymn melody
+key        Eb
+rhythm     6 : 4
+tempo      180
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    e f | g/1     a/2 | b/1 a b | g/1     f/2 | e/1 e f
+alto       b/2 | e/1     e/2 | d/1 e f | f/2 e/2 d/2 | c/1 c d
+tenor      g a | b/1     a/2 | f/1 e b | b/1     b/2 | g/1 a/2
+bass       e/2 | e/2 d/2 c/2 | b/1 c d | e/1     b/2 | c/1 a/2
+
+soprano    g/1     a/2 | b/1  a/6 b/6 c/6 | b/1.    | b/1 b/2 | e+/1    c/2 | b/1      a/2
+alto       e/1     e/2 | e/1  c/2         | e/1 f/2 | g/1 d/2 | e/1     e/2 | e/1      f/2
+tenor      b/1     c/2 | b/1  e/2         | g/1 a/2 | b/1 b a | g/1     a/2 | b/1      c/2
+bass       e/2 d/2 c/2 | g-/1 a/2         | e/1.    | e/1 b/2 | c/2 b/2 a/2 | a/2 g-/2 f-/2
+
+soprano    g/1     f/2 | e/1 g/2 | b/1      a/2 | g/1 f/2 | e/1.    | e/1
+alto       f/2 e/2 d/2 | e/1 e/2 | e/1      e/2 | e/1 d/2 | e/1 c/2 | b/1
+tenor      b/1     a/2 | g/1 g/2 | e+/2 d/2 c/2 | b/1 b a | g/1 a/2 | g/1
+bass       g-/2. a b/2 | c/1 c/2 | g-/1     a/2 | b/1 b/2 | e/1.    | e/1
+
+verse      The   King      of      love   my   Shep - herd is,      Whose
+verse      Where streams   of      liv -  ing  wa  -  ter  flow,    My
+verse      Per - verse     and     fool - ish, oft    I    strayed, But
+verse      In    death's   dark    vale   I    fear   no   ill,     With
+verse      Thou  spread'st a       ta  -  ble  in     my   sight;   Thy
+verse      And   so        through all    the  length of   days,    Thy
+
+verse      good - ness  fail - eth  nev -  er.  I    noth - ing   lack    if
+verse      ran -  somed soul   He   lead - eth; And  where  the   ver  -  dant
+verse      yet    in    love   He   sought me;  And  on     His   shoul - der
+verse      Thee,  dear  Lord,  be - side   me;  Thy  rod    and   staff   my
+verse      unc -  tion  grace  be - stow - eth; And  oh,    what  trans - port
+verse      good - ness  fail - eth  nev -  er;  Good Shep - herd, may     I
+
+verse      I      am    His,   and    He    is   mine   for - ev   -  er.
+verse      pas -  tures grow,  With   food  ce - les -  tial  feed -  eth.
+verse      gent - ly    laid,  And    home, re - joic - ing,  brought me.
+verse      com -  fort  still, Thy    cross be - fore   to    guide   me.
+verse      of     de -  light  From   Thy   pure chal - ice   flow -  eth!
+verse      sing   Thy   praise With - in    Thy  house  for - ev   -  er.

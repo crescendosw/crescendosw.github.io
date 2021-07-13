@@ -1,0 +1,117 @@
+title      Ten Thousand Times Ten Thousand
+author     Henry Alford, 1867ALFORD
+composer   John Bacchus Dykes, 1875
+key        G
+tempo      100
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/467%20Ten%20Thousand%20Times%20Ten%20Thousand.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b
+alto       d
+tenor      g
+bass       g-
+
+# measure 2
+soprano    c. c/8 g a
+alto       c. c/8 c c
+tenor      e. e/8 e eb
+bass       g-. g-/8 g- g-
+
+# measure 3
+soprano    b g/2 b
+alto       b d/2 g
+tenor      d- b/2 g
+bass       g- g/2 e
+
+# measure 4
+soprano    d b g a
+alto       g g e f#
+tenor      b d b c
+bass       d d e d
+
+# measure 5
+soprano    g/2. b
+alto       g/2. d
+tenor      b/2. b
+bass       g/2. g
+
+# measure 6
+soprano    a. a/8 d a
+alto       e. c#/8 d d
+tenor      c#. a/8 a a
+bass       g. g/8 f# f#
+
+# measure 7
+soprano    c# b a g
+alto       e d f# e
+tenor      a# b c b
+bass       g g d# e
+
+# measure 8
+soprano    f#. d-/8 g c#-
+alto       d. a/8 c# a
+tenor      a. f#/8 e g
+bass       a. a/8 a a
+
+# measure 9
+soprano    d-/2. d-
+alto       a/2. d
+tenor      f#/2. d-
+bass       d/2. d
+
+# measure 10
+soprano    a. a/8 g a
+alto       c. c/8 b e
+tenor      f#. f#/8 g e/8 f#/8
+bass       d. d/8 e c
+
+# measure 11
+soprano    b b/2 b
+alto       e d#/2 dn
+tenor      g f#/2 g#
+bass       b b/2 e
+
+# measure 12
+soprano    c a b a/8 g/8
+alto       c c b c#
+tenor      a f# g g
+bass       a d g- e
+
+# measure 13
+soprano    a/2. d-
+alto       c#/2 d d
+tenor      g e f# d-
+bass       a/2 d d
+
+# measure 14
+soprano    e d- g g
+alto       e d g b
+tenor      e d- g g
+bass       e d g e/8 d/8
+
+# measure 15
+soprano    a. b/8 c a
+alto       e. d/8 c e
+tenor      e. g#/8 a e
+bass       c. b/8 a c
+
+# measure 16
+soprano    g. d-/8 b a
+alto       d. d/8 g f#
+tenor      b. c/8 d c
+bass       d. d/8 d d
+
+# measure 17
+soprano    g/2.
+alto       g/2.
+tenor      b/2.
+bass       g-/2.
+
+
+

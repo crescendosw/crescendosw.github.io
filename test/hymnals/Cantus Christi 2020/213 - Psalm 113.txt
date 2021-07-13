@@ -1,0 +1,60 @@
+title      Psalm 113
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2016
+key        Ab
+rhythm     0 : 4
+tempo      140
+
+#hyperlink  https://www.youtube.com/watch?v=FxcxeAKAVBc
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     f - g/8 - a/8 - g/8 - f/8 e f/1
+
+unison     e b b a/8 - b/8 | d/8 - c/8 b/8 - a/8 b/2 | e b b/8 - a/8 b/8 c/8 | b/1
+
+unison     e b b a/8 - b/8 | d/8 - c/8 b/8 a/8 b b | c a a b/8 c/8 | b/8 - g/8 f/8 - e/8 f/2. f/8 f/8
+
+unison     e/8 f/8 g/8 a/8 b a/8 b/8 | a g f g | a - f g a | b/8 - g/8 f/8 - e/8 f/2. f
+
+unison     f d-/8 - e/8 f/8 g/8 a/8 f/8 | g c-/2 g | a f/8 g/8 a b | g g/2.
+
+unison     a g f/8 - g/8 a/8 - b/8 | g e f g | a/8 - g/8 - f/8 - g/8 - a b | c/2. c-
+
+unison     d-/8 - c-/8 b- c- - f | g/8 - f/8 e f f f/8 - g/8 a/8 b/8 | c a f g/8 - a/8 | g - e f - g | f/2. f
+
+unison     f d-/8 e/8 f/8 g/8 a/8 f/8 | g/2 R/8 g/8 a/8 b/8 | a f/8 g/8 a f | g c-/2 c-
+
+unison     a g f/8 - g/8 a/8 b/8 | g - e f f/8 g/8 | a/8 - g/8 f/8 - g/8 a b | c c/2 c
+
+unison     d c/8 - b/8 c a | g/8 f/8 e f f/8 f/8 f/8 - g/8 a/8 - b/8 | c - a f g/8 - a/8 | g - e - f - g | f/1
+
+unison     f - g/8 - a/8 - g/8 - f/8 - e f/1
+
+verse      Praise the Lord!  Praise, O ser - vants of the Lord, Praise the name of the Lord!
+
+verse      Bles - sed be the name of the Lord From this time forth and for - ev - er - more!
+
+verse      From the ris - ing of the sun to its go - ing down The Lord's name is to be praised.
+
+verse      The Lord is high a - bove all na - tions, His glo - ry a - bove the heav - ens.
+
+verse      Who is like the Lord our God, Who dwells on high,
+
+verse      Who humbles Him - self to be - hold The things that are in the heav'ns and in the earth?
+
+verse      He rais - es the poor out of the dust, And lifts the need - y out of the ash heap,
+
+verse      That He may seat him with prin - ces-- With the prin - ces of His peo - ple.
+
+verse      He grants the bar - ren wo - man a home, Like a joy - ful moth - er of chil - dren.
+
+verse      Praise the Lord!

@@ -1,0 +1,207 @@
+title      Jesu, Joy of Man's Desiring
+author     Martin Janus, 1661; tr. attr. Robert Bridges, c. 1906WERDE MUNTER
+composer   Johann Schop, 1642; harm. Johann Sebastian Bach, c. 1727
+key        F
+tempo      100
+rhythm     3 : 4
+verse_count 2
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/319%20Jesu,%20Joy%20of%20Man's%20Desiring.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2 bb
+alto       f/2 f
+tenor      c/2 d
+bass       f e d
+
+# measure 2
+soprano    c/2 c
+alto       g f e
+tenor      g/2 a
+bass       e d c
+
+# measure 3
+soprano    bb/2 a
+alto       f c/2
+tenor      a g f
+bass       d e f
+
+# measure 4
+soprano    g g R
+alto       c e R
+tenor      e c R
+bass       c c R
+
+# measure 5
+soprano    a/2 bb
+alto       f/2 f
+tenor      c/2 d
+bass       f e d
+
+# measure 6
+soprano    c/2 a
+alto       f c d
+tenor      c a a
+bass       a+ a d
+
+# measure 7
+soprano    g/8 a/16 bb/16 a g
+alto       d e/8 d/8 e
+tenor      bb/8 g/8 c/8 a/8 bb
+bass       bb c c
+
+# measure 8
+soprano    f/2 R
+alto       c/2 R
+tenor      a/2 R
+bass       f-/2 R
+
+# measure 9
+soprano    a/2 bb
+alto       f/2 f
+tenor      c/2 d
+bass       f e d
+
+# measure 10
+soprano    c/2 c
+alto       g f e
+tenor      g/2 a
+bass       e d c
+
+# measure 11
+soprano    bb/2 a
+alto       f c/2
+tenor      a g f
+bass       d e f
+
+# measure 12
+soprano    g g R
+alto       c e R
+tenor      e c R
+bass       c c R
+
+# measure 13
+soprano    a/2 bb
+alto       f/2 f
+tenor      c/2 d
+bass       f e d
+
+# measure 14
+soprano    c/2 a
+alto       f c d
+tenor      c a a
+bass       a+ a d
+
+# measure 15
+soprano    g/8 a/16 bb/16 a g
+alto       d e/8 d/8 e
+tenor      bb/8 g/8 c/8 a/8 bb
+bass       bb c c
+
+# measure 16
+soprano    f/2 R
+alto       c/2 R
+tenor      a/2 R
+bass       f-/2 R
+
+# measure 17
+soprano    g/2 a
+alto       e/2 f#
+tenor      c/2 c
+bass       c bb a
+
+# measure 18
+soprano    bb/2 bb
+alto       g/2 g
+tenor      d/2 eb+
+bass       g- g/8 f/8 eb/8 d/8
+
+# measure 19
+soprano    a. bb/16 c/16 a
+alto       g/2 f#
+tenor      eb+ c d
+bass       c a d
+
+# measure 20
+soprano    g g R
+alto       g g R
+tenor      bb bb R
+bass       g- g- R
+
+# measure 21
+soprano    bb/2 c
+alto       g/2 f
+tenor      d/2 c
+bass       g/2 a+
+
+# measure 22
+soprano    d/2 d
+alto       f bb+ f
+tenor      bb/2 bb
+bass       bb+ g d
+
+# measure 23
+soprano    c. d/16 eb+/16 c
+alto       eb g f
+tenor      g/2 a
+bass       eb c f
+
+# measure 24
+soprano    bb bb R
+alto       f f R
+tenor      d d R
+bass       bb bb R
+
+# measure 25
+soprano    a/2 bb
+alto       f/2 f
+tenor      c/2 d
+bass       f/2 d
+
+# measure 26
+soprano    c/2 c
+alto       f/2 f
+tenor      c a a
+bass       a+ d d
+
+# measure 27
+soprano    bb a/2
+alto       f/8 e/8 f/2
+tenor      bb c d
+bass       g- a bb
+
+# measure 28
+soprano    g/2 R
+alto       e/2 R
+tenor      g/2 R
+bass       c/2 R
+
+# measure 29
+soprano    a/2 bb
+alto       f/2 f
+tenor      c/2 d
+bass       f e d
+
+# measure 30
+soprano    c/2 a
+alto       f c d
+tenor      c a a
+bass       a+ a d
+
+# measure 31
+soprano    g/8 a/16 bb/16 a g/8 f/8
+alto       d e/8 d/8 e
+tenor      bb/8 g/8 c/8 a/8 bb
+bass       bb c/2
+
+# measure 32
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f-/2.
+
+
+

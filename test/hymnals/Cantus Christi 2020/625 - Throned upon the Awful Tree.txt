@@ -1,0 +1,87 @@
+title      Throned upon the Awful Tree
+author     Anonymous
+composer   Anonymous
+key        Bb
+tempo      95
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/625%20Throned%20upon%20the%20Awful%20Tree.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- g g/8 f#/8 en/8 d-/8
+alto       d g g/8 f#/8 en/8 d/8
+tenor      d- g g/8 f#/8 en/8 d-/8
+bass       d g g/8 f#/8 en/8 d/8
+
+# measure 2
+soprano    g a bb/2
+alto       d d d/2
+tenor      g f# g/2
+bass       bb d g/2
+
+# measure 3
+soprano    c bb a g
+alto       d d d bb
+tenor      a g f# g
+bass       f# g d eb
+
+# measure 4
+soprano    bb/8 a/8 g/8 f#/8 g/2
+alto       eb d bb/2
+tenor      g/8 a/8 bb/8 a/8 g/2
+bass       c d g-/2
+
+# measure 5
+soprano    d d/8 c/8 bb d
+alto       d d g g
+tenor      bb a d bb
+bass       g f# g bb+
+
+# measure 6
+soprano    c bb a/2
+alto       g/8 f#/8 g f#/2
+tenor      c d d/2
+bass       a+ g d/2
+
+# measure 7
+soprano    d d/8 c/8 bb d
+alto       g g/8 f#/8 g g
+tenor      d bb/8 c/8 d bb
+bass       bb+ bb+/8 a+/8 g f
+
+# measure 8
+soprano    c bb bb a(1)
+alto       g eb d/2(1)
+tenor      g g g f#(1)
+bass       eb c d/2(1)
+
+# measure 9
+soprano    d- g g/8 f#/8 en/8 d-/8
+alto       a d c a
+tenor      f# g d- en/8 f#/8
+bass       c bb a c
+
+# measure 10
+soprano    g a bb/2
+alto       d d d/2
+tenor      g f# g/2
+bass       bb d g/2
+
+# measure 11
+soprano    c bb a g
+alto       d d d bb
+tenor      a g f# g
+bass       f# g d eb
+
+# measure 12
+soprano    bb/8 a/8 g/8 f#/8 g/2
+alto       eb d d/2
+tenor      g/8 a/8 bb/8 c/8 bb/2
+bass       c d g-/2
+
+
+

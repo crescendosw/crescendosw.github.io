@@ -1,0 +1,153 @@
+title      Trust and Obey
+author     John H. Sammis (1846-1919)TRUST AND OBEY
+composer   Daniel B. Towner (1850-1919)
+key        F
+tempo      101
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/395%20Trust%20and%20Obey.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/8 g/8
+alto       c/8 c/8
+tenor      a/8 bb/8
+bass       f/8 f/8
+
+# measure 2
+soprano    a a g
+alto       f f e
+tenor      c c bb
+bass       f f c
+
+# measure 3
+soprano    f/2 f/8 a/8
+alto       f/2 f/8 f/8
+tenor      a/2 a/8 c/8
+bass       f/2 f/8 f/8
+
+# measure 4
+soprano    c c bb
+alto       e e e
+tenor      c g c
+bass       c c c
+
+# measure 5
+soprano    a/2 a/8 a/8
+alto       f/2 f/8 f/8
+tenor      c/2 c/8 c/8
+bass       f/2 f/8 f/8
+
+# measure 6
+soprano    bb d bb
+alto       f f f
+tenor      d bb d
+bass       bb bb bb
+
+# measure 7
+soprano    a c a
+alto       f f f
+tenor      c a c
+bass       f f f
+
+# measure 8
+soprano    g/2 f/8 g/8
+alto       e/2 c/8 c/8
+tenor      c/2 a/8 bb/8
+bass       c/2 f/8 f/8
+
+# measure 9
+soprano    a a g
+alto       f f e
+tenor      c c bb
+bass       f f c
+
+# measure 10
+soprano    f/2 f/8 a/8
+alto       f/2 f/8 f/8
+tenor      a/2 a/8 c/8
+bass       f/2 f/8 f/8
+
+# measure 11
+soprano    c c bb
+alto       e e e
+tenor      c g c
+bass       c c c
+
+# measure 12
+soprano    a/2 a/8 a/8
+alto       f/2 f/8 f/8
+tenor      c/2 c/8 c/8
+bass       f/2 f/8 f/8
+
+# measure 13
+soprano    bb d bb
+alto       f f f
+tenor      d bb d
+bass       bb bb bb
+
+# measure 14
+soprano    a f g
+alto       f c c
+tenor      c a bb
+bass       c c c
+
+# measure 15
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f/2.
+
+# measure 16
+soprano    c g c
+alto       e e e
+tenor      g c c
+bass       c c c
+
+# measure 17
+soprano    a/2 a/8 a/8
+alto       f/2 f/8 f/8
+tenor      c/2 c/8 c/8
+bass       f/2 f/8 eb/8
+
+# measure 18
+soprano    d a c
+alto       f# f# f#
+tenor      a d d
+bass       d d d
+
+# measure 19
+soprano    bb/2 bb/8 bb/8
+alto       g/2 g/8 g/8
+tenor      d/2 c/8 c/8
+bass       g/2 e/8 d/8
+
+# measure 20
+soprano    bb a g
+alto       g f e
+tenor      c c c
+bass       c c c
+
+# measure 21
+soprano    a c f/8 g/8
+alto       f f f/8 f/8
+tenor      c a c/8 d/8
+bass       f f a/8 bb/8
+
+# measure 22
+soprano    a f g
+alto       f c c
+tenor      c a bb
+bass       c c c
+
+# measure 23
+soprano    f/2
+alto       c/2
+tenor      a/2
+bass       f/2
+
+
+

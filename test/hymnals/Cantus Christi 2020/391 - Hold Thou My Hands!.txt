@@ -1,0 +1,69 @@
+title      Hold Thou My Hands!
+author     William Canton (1845-1926)MISERERE MEI
+composer   Seven Sobs of a Sorrowful Soul, 1585
+key        Bb
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/391%20Hold%20Thou%20My%20Hands!.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb/2 a g
+alto       g/2 eb eb
+tenor      d/2 c bb
+bass       g-/2 c c
+
+# measure 2
+soprano    f#. g/8 a c
+alto       d. d/8 eb g
+tenor      a. g/8 g g
+bass       d. bb/8 c eb
+
+# measure 3
+soprano    bn g a a
+alto       g d eb d/8 c/8
+tenor      d g g f#
+bass       d bn c d
+
+# measure 4
+soprano    g/1
+alto       bn/1
+tenor      g/1
+bass       g-/1
+
+# measure 5
+soprano    g/2 f g
+alto       bb/2 d d/8 en/8
+tenor      g/2 a bb
+bass       g/2 d g
+
+# measure 6
+soprano    a a d c/8 bb/8
+alto       f f bb+ a+/8 g/8
+tenor      c c f+ eb+
+bass       f f bb c
+
+# measure 7
+soprano    a/2 g/2
+alto       f#/2 g/2
+tenor      a/2 d/2
+bass       d/2 bb/2
+
+# measure 8
+soprano    c/2 a/2
+alto       g/2 f#/2
+tenor      eb+/2 d c
+bass       c/2 d/2
+
+# measure 9
+soprano    g/1
+alto       g/1
+tenor      bb/1
+bass       g-/1
+
+
+

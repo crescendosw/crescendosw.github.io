@@ -1,0 +1,106 @@
+title      Once I Said, "I Must Keep Quiet"
+author     Calvin Seerveld, 1983 (c)TYDDYN LLWYN
+composer   Evan Morgan (Llew Madog) (1846-1920)
+key        G
+tempo      85
+rhythm     4 : 4
+verse_count 5
+copyright  Text: Calvin Seerveld, 1983. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/79%20Once%20I%20Said,%20I%20Must%20-%20Psalm%2039%20TYDDYN%20LLWYN.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e g/8 a/8
+alto       b e/8 f#/8
+tenor      g b/8 d/8
+bass       e e/8 d/8
+
+# measure 2
+soprano    b b a b/8 a/8
+alto       g d f# g/8 f#/8
+tenor      d b d d/8 c/8
+bass       g g d g-/8 a/8
+
+# measure 3
+soprano    g f# g f#
+alto       e d# b d#
+tenor      b b g a
+bass       b b e f#
+
+# measure 4
+soprano    e f#/8 g/8 a g
+alto       e d#/8 e/8 f# e
+tenor      b b c b
+bass       g f#/8 e/8 d# e
+
+# measure 5
+soprano    f#/2 e g/8 a/8
+alto       d#/2 e e/8 d#/8
+tenor      b/2 g b/8 a/8
+bass       b/2 e e/8 f#/8
+
+# measure 6
+soprano    b b a b/8 a/8
+alto       e d f# g/8 f#/8
+tenor      g b d d/8 c/8
+bass       g g d g-/8 a/8
+
+# measure 7
+soprano    g f# g a
+alto       e d# e e
+tenor      b b b e
+bass       b b e c
+
+# measure 8
+soprano    b b/8 a/8 g f#
+alto       d# e e d#
+tenor      f# b/8 c/8 b a
+bass       b g-/8 a/8 b b
+
+# measure 9
+soprano    e/2 g g/8 a/8
+alto       e/2 e e
+tenor      g/2 b e+
+bass       e/2 e c
+
+# measure 10
+soprano    b b b e+
+alto       f# f# e g
+tenor      d# d# b b
+bass       b b g g/8 a+/8
+
+# measure 11
+soprano    d# b b b/8 c/8
+alto       f# f# g g
+tenor      b d# e+ dn
+bass       b+ b+ e g/8 a+/8
+
+# measure 12
+soprano    d b a/8 b/8 c
+alto       g g f#/8 g/8 a+
+tenor      d d d d
+bass       b+ g d d
+
+# measure 13
+soprano    b/2 b b
+alto       g/2 e f#
+tenor      d/2 b d#
+bass       g/2 g f#
+
+# measure 14
+soprano    b/8. c/16 b/8 a/8 g f#
+alto       g/8. a+/16 g/8 e/8 e d#
+tenor      e+/8. d#/16 e+/8 c/8 b a
+bass       e/8. f#/16 g/8 a+/8 b+ b
+
+# measure 15
+soprano    e/2
+alto       e/2
+tenor      g/2
+bass       e/2
+
+
+

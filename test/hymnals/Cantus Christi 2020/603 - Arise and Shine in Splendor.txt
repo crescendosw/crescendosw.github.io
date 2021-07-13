@@ -1,0 +1,93 @@
+title      Arise and Shine in Splendor
+author     Martin Opitz, 1628; tr. Gerhard Geischen, 1937O WELT, ICH MUSS DICH
+composer   German melody, c. 1400s; harm. Johann Sebastian Bach, 1729
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/603%20Arise%20and%20Shine%20in%20Splendor.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       f
+tenor      c
+bass       f
+
+# measure 2
+soprano    f g a/8 bb/8 c
+alto       d e f/8 g/8 a+
+tenor      bb bb c/8 bb/8 a/8 g/8
+bass       bb+ a+/8 g/8 f. eb/8
+
+# measure 3
+soprano    bb/2 a a/8 bb/8
+alto       a+ g/8 f/8 e d
+tenor      f g a f
+bass       d e/8 dn/8 c# d
+
+# measure 4
+soprano    c c g a/8 g/8
+alto       c f e e
+tenor      f c c c#
+bass       a/8 g-/8 a/8 bb/8 c/8 bb/8 a
+
+# measure 5
+soprano    f/2 e c-
+alto       e/8 d/8 c/8 bn/8 c g-
+tenor      a g g e
+bass       d g- c bb
+
+# measure 6
+soprano    f g a/8 bb/16 c/16 bb/8 a/8
+alto       c d/8 e/8 f/8 g/16 a+/16 g/8 f/8
+tenor      f bb c d
+bass       a g- f- bb
+
+# measure 7
+soprano    g/2. a
+alto       e/2. e
+tenor      g/2. e
+bass       c/2. c#
+
+# measure 8
+soprano    f g a/8 bb/8 c
+alto       d. c/8 c d
+tenor      a g f/8 g/8 a
+bass       d e f f#
+
+# measure 9
+soprano    bb/2 a a/8 bb/8
+alto       d c# d d
+tenor      g e f# fn
+bass       g/2 d d
+
+# measure 10
+soprano    c c g a
+alto       c f/8 e/8 d c/8 bn/16 a/16
+tenor      f f f e
+bass       a/8 g-/8 a bn c
+
+# measure 11
+soprano    f/2 e c-
+alto       d/2 c g-
+tenor      a g g e
+bass       c bn c bb
+
+# measure 12
+soprano    f g a/8 bb/8 c/8 bb/8
+alto       c d/8 e/8 f f
+tenor      f bb c. d/8
+bass       a g- f-/8 g-/8 a/8 bb/8
+
+# measure 13
+soprano    a g f
+alto       f e c
+tenor      c bb a
+bass       c c f-
+
+
+

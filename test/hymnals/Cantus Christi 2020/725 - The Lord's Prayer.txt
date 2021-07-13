@@ -1,0 +1,51 @@
+title      The Lord's Prayer
+hymnal     Cantus Christi
+author     Matthew 6:9-13
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/725%20The%20Lord's%20Prayer%20-%20ancient.pdf
+
+tune       Traditional, very ancient
+key        F
+rhythm     0 : 4
+tempo      85
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    R/2(1.5)             | g/8 b/8 a/8 g f a/8 g/8 f/8 f/8 g/8 a/8 g/8 a/8 g(0.5) | a/8 b/8 a/8 g f
+alto       R/2(1.5)             | e/8 d = d/2 c. d c/8 = c = c(0.5)                      | c/8 d/8 c/8 = c a
+tenor      f/8 g/8 a/8 a/8(1.5) | c/8 b = b a f. = f. = f e(0.5)                         | f/8 = f     e f
+bass       R/2(1.5)             | c/8 g-/8 a/8 b d f-/8 g-/8 a/8 b a/8 c = c(0.5)        | f/8 b/8 f/8 c d
+
+soprano    g/8 a/8 g/8 g f g/8 a/8 g/8 g/8 f/8 f/8 g/8 a/8 g/8 a/8 g(0.5) | f/8 g/8 a/8 b/8 a/8 g/8 a/8 g f
+alto       c/8 = c d/2 d/8 e d = d f/8 = f e(0.5)                         | d. = d/2 eb c
+tenor      e/8 f/8 g/8 a/2 b/8 c a b c/8 = c/2(0.5)                       | a/8 g/8 f/8 g/8 a/8 b = b a
+bass       e/8 f/8 e/8 d/2 b/8 a/8 c/8 d b a/8 c/2(0.5)                   | d. g/2 eb f
+
+soprano    g/8 a/8 b/8 a/8 g/8 g/8 f/8 f g/8 g/8 f/8 g/8 a/8 g/8 a/8 g/8 f/8 g g
+alto       eb d. = d/2 d/8 c d/8 = d e f/8 = f e
+tenor      c b. = b a b/8 a g/8 f/8 d/8 c a/8 c/2
+bass       c g- b/8 d/2 g-/8 a b/8 d/8 b/8 c d/8 c/2
+
+soprano    d-/8 f/8 g/8 a/8 g/8 f/8 g/8 g/8 f/8 f f/8 f/8 g/8 g/8 g/8 a/8 g/8 f/8 f(0.5) | d-/8 f/8
+alto       d. e d = d/2 d = d. f/8 d c(0.5)                                              | b/8 c/8
+tenor      f/8 a/8 b/8 c a b a a b. c/8 b a(0.5)                                         | f/8 = f/8
+bass       d. c d g- d d b. a/8 b f-(0.5)                                                | b/8 a/8
+
+soprano    g/8 g/8 a/8 g f/8 f/8 g/8 g/8 a/8 g/8 f/8 f f/8 g/8 g/8 a/8 g/8 f/8 f(1) | f/8(1) f(1) g(1)
+alto       d e. d = d. eb c c/8 eb. d c(1)                                          | d/8(1) c(1) d(1)
+tenor      b c. a b. = b a a/8 c. b a(1)                                             | b/8(1) c(1) b(1)
+bass       g- c. d b. eb- f- f/8 c a/8 b f-(1)                                      | b/8(1) a(1) g-(1)
+
+verse      Our Fa - ther, Who art in heav - en, Hal - low - ed be Thy Name.  Thy king - dom come.
+
+verse      Thy will be done, on earth as it is in heav - en.  Give us this day our dai - ly bread.
+
+verse      And for - give us our tres - pass - es, as we for - give those who tres - pass a - gainst us.
+
+verse      And lead us not in - to temp - ta - tion, But de - liv - er us from e - vil.  For Thine
+
+verse      is the king - dom, and the pow'r and the glo - ry, for - ev - er and ev - er.  A - men

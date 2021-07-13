@@ -1,0 +1,63 @@
+title      Is There Ambition in My Heart?
+author     Isaac Watts (1674-1748)LLYSFAEN
+composer   Estelle Roberts Schubert
+key        E
+tempo      105
+rhythm     6 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/259%20Is%20There%20Ambition%20in%20My%20Heart%20-%20Psalm%20131%20LLYSFAEN.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g# g# g# a/2 a
+alto       e e e e/2 e
+tenor      b b b a/2 a
+bass       e e dn c#/2 c#
+
+# measure 2
+soprano    b/2 b e/2 e
+alto       d#/2 d# c#/2 c#
+tenor      f#/2 a g#/2 g#
+bass       b/2 b c#/2 c#
+
+# measure 3
+soprano    f#/2 f# f# g# a
+alto       c#/2 c# d# e f#
+tenor      f#/2 a b/2 b
+bass       a/2 f#- b/2 b
+
+# measure 4
+soprano    g#/2. = g#/2 g#
+alto       e/2. = e/2 e
+tenor      b/2. = b/2 b
+bass       e/2. = e/2 e
+
+# measure 5
+soprano    c#/2 c# b/2 e
+alto       e/2 f# d#/2 e
+tenor      a/2 d# b/2 c#
+bass       a+/2 a+ g#/2 g#
+
+# measure 6
+soprano    a/2 a g#/2 g#
+alto       e/2 d# e/2 e
+tenor      c#/2 b b/2 b
+bass       f#/2 f# e/2 e
+
+# measure 7
+soprano    f# g# a f#/2 f#
+alto       c#/2 c# e/2 d#
+tenor      a g# f# f#. g#/8 a
+bass       a/2 a b/2 b
+
+# measure 8
+soprano    e
+alto       e
+tenor      g#
+bass       e
+
+
+

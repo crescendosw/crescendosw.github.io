@@ -1,0 +1,105 @@
+title      Blessed Jesus, at Thy Word
+author     st. 1-3, Tobias Clausnitzer, 1663; tr. Catherine Winkworth, 1858; st. 4, Anon., 1707LIEBSTER JESU
+composer   Johann R. Ahle, 1664
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/374%20Blessed%20Jesus,%20at%20Thy%20Word.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b g a d
+alto       d d d d
+tenor      g g f# a
+bass       g- b d f#
+
+# measure 2
+soprano    b g a/2
+alto       d e f#/2
+tenor      g b d/2
+bass       g e d/2
+
+# measure 3
+soprano    g g g g
+alto       d d e d
+tenor      b g c g
+bass       g- b c b
+
+# measure 4
+soprano    a b a/2
+alto       f# g g f#
+tenor      c d d/2
+bass       a g- d/2
+
+# measure 5
+soprano    g/1
+alto       d/1
+tenor      b/1
+bass       g-/1
+
+# measure 6
+soprano    b g a d
+alto       d d d d
+tenor      g g f# a
+bass       g- b d f#
+
+# measure 7
+soprano    b g a/2
+alto       d e f#/2
+tenor      g b d/2
+bass       g e d/2
+
+# measure 8
+soprano    g g g g
+alto       d d e d
+tenor      b g c g
+bass       g- b c b
+
+# measure 9
+soprano    a b a/2
+alto       f# g g f#
+tenor      c d d/2
+bass       a g- d/2
+
+# measure 10
+soprano    g/1
+alto       d/1
+tenor      b/1
+bass       g-/1
+
+# measure 11
+soprano    d- d- e f#
+alto       d d c# d
+tenor      b a g a
+bass       g f# e d
+
+# measure 12
+soprano    g a f# d-
+alto       d e d d
+tenor      b a a f#
+bass       b c# d d
+
+# measure 13
+soprano    g g a b
+alto       d e f# g
+tenor      g b d d
+bass       b e d g
+
+# measure 14
+soprano    c b a/2
+alto       g g g f#
+tenor      e+ d d/2
+bass       c g- d/2
+
+# measure 15
+soprano    g/1
+alto       d/1
+tenor      b/1
+bass       g-/1
+
+
+

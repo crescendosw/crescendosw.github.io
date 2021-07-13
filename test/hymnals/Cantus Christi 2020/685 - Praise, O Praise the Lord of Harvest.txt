@@ -1,0 +1,63 @@
+title      Praise, O Praise the Lord of Harvest
+author     James Hamilton (1819-1896)WHITSTABLE
+composer   Charles J. Vincent (1852-1934)
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/685%20Praise,%20O%20Praise%20the%20Lord%20of%20Harvest.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g d- b g
+alto       g d b+ g
+tenor      g d- b g
+bass       g d b+ g
+
+# measure 2
+soprano    d. c/8 b g
+alto       a+ f# g d
+tenor      d d d b
+bass       f# d g g-
+
+# measure 3
+soprano    c b a e
+alto       c d e e
+tenor      a g# a a
+bass       a b c c#
+
+# measure 4
+soprano    f#/1
+alto       d/1
+tenor      a/1
+bass       d/1
+
+# measure 5
+soprano    b. f#/8 a g
+alto       f#. f#/8 f# e
+tenor      b. b/8 b b
+bass       d#. d#/8 e e
+
+# measure 6
+soprano    d. a/8 c b
+alto       a+. a+/8 a+ g
+tenor      a. d/8 d d
+bass       f#. f#/8 g g
+
+# measure 7
+soprano    a/2 b/2
+alto       g/2 f#/2
+tenor      e+/2 d c
+bass       c/2 d/2
+
+# measure 8
+soprano    g/1
+alto       g/1
+tenor      b/1
+bass       g-/1
+
+
+

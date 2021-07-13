@@ -1,0 +1,38 @@
+title      Jesus Christ, Our Blessed Savior
+author     Jan Hus (c. 1369-1415); tr. unknown; alt.JESUS CHRISTUS UNSER HEILAND
+composer   plainchant, 1400's; harm. Joachim Decker, 1604
+key        F
+tempo      125
+rhythm     0 : 4
+verse_count 8
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/494%20Jesus%20Christ,%20Our%20Blessed%20Savior.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 a/2 a g a d- f f f/2 e/2 d-/2
+alto       a/2 c. d/8 e/2 c d c c c d/2 c# d/2
+tenor      f/2 a. bn/8 c b a f a a a/1 f#/2
+bass       d/2 a/2 a e a bb f- f- f-. g-/8 a/2 d/2
+
+# measure 2
+soprano    f f f d- f/2 g/2 a. g/8 f e d-/1
+alto       d d d d d a c/2 c/2 d c# d/1
+tenor      a a a bb a/8 g/8 f f e f. g/8 a/2 f#/1
+bass       d d d g- d/2 c/2 f. e/8 d a d/1
+
+# measure 3
+soprano    f f f d- f/2 g/2 a. g/8 f/2
+alto       d d d a d c bb/2 a. bb/8 c/2
+tenor      a a bb f d-/8 e/8 f f e f. g/8 a/2
+bass       d d/8 c/8 bb/8 c/8 d/8 c/8 bb a g-/2 f-/1
+
+# measure 4
+soprano    c d c a f/2 g/2 a. g/8 f e d-/1
+alto       f f e f d c d c c/2 = c/8 d c#/8 d/1
+tenor      a bb g f f/2 d- e f. g/8 a a f#/1
+bass       f bb c f- bb a bb c f-/2. a d/1
+
+

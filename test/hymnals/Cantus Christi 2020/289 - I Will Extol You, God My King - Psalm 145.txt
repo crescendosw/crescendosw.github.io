@@ -1,0 +1,117 @@
+title      I Will Extol You, God My King
+author     The Psalter, 1912
+composer   Anonymous
+key        C
+tempo      50
+rhythm     3 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/289%20I%20Will%20Extol%20You,%20God%20-%20Psalm%20145%20JERUSALEM%20(Parry).pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-/8 e/8 g/8
+alto       c/8 c/8 d/8
+tenor      c/8 c/8 d/8
+bass       c/8 c+/8 b+/8
+
+# measure 2
+soprano    a. c/8 a/8 g/16 f/16
+alto       e f/8 a+/8 f/8 f/8
+tenor      c. c/8 c/8 c/8
+bass       a+/8 g/8 f/8 f/8 f/8 a/8
+
+# measure 3
+soprano    g/2 a/8 g/16 f/16
+alto       e/2 f/8 c/16 c/16
+tenor      c/2 c/8 a/16 a/16
+bass       c/2 f/8 f/16 f/16
+
+# measure 4
+soprano    g/8 e/8 d- c-
+alto       c/8 c/8 a a
+tenor      c/8 g/8 a e
+bass       e/8 c/8 a. g-/8
+
+# measure 5
+soprano    a-. c-/8 e/8 g/8
+alto       a. c/8 c/8 e/8
+tenor      f. a/8 g/8 c/8
+bass       f- f e/8 c/8
+
+# measure 6
+soprano    a. c/8 b/8 a/16 g/16
+alto       e. a+/8 g/8 d/8
+tenor      c. a/8 b/8 b/8
+bass       a a+ e/8 e/8
+
+# measure 7
+soprano    a. a/8 b/8 e/8
+alto       e d e/8 e/8
+tenor      c. c/8 b/8 b/8
+bass       a+ f# g/8 g/8
+
+# measure 8
+soprano    g/8 f#/8 e d-
+alto       c/8 c/8 b a
+tenor      a/8 a/8 g f#
+bass       a+/8 a/8 b/8 c/8 d
+
+# measure 9
+soprano    g. d-/8 d-/8 e/8
+alto       e/8 d/8 c/8 d/8 d/8 c#/8
+tenor      c/8 b/8 a/8 b/8 a/8 a/8
+bass       g-. g/8 f/8 e/8
+
+# measure 10
+soprano    f. a/8 g/8. d-/16
+alto       d. c/8 d/8. d/16
+tenor      a. a/8 bb/8 bb/8
+bass       d d g-/8 g-/8
+
+# measure 11
+soprano    f. d-/8 f/8 g/8
+alto       d. d/8 d/8 d/8
+tenor      a. f/8 a/8 bb/8
+bass       d. d/8 d/8 d/8
+
+# measure 12
+soprano    a. c/8 bb/8. g/16
+alto       f. g/8 f/8. c/16
+tenor      c. c/8 d/8 e+/8
+bass       c f/8 e/8 d/8 c/8
+
+# measure 13
+soprano    a. f/8 a/8 c/8
+alto       f. f/8 f/8 g/8
+tenor      c. a/8 c/8 c/8
+bass       f. f/8 f/8 e/8
+
+# measure 14
+soprano    d. c/8 b/8. a/16
+alto       f g d/8. d/16
+tenor      a d b/8 b/8
+bass       d b+/8 a+/8 g/8 f/8
+
+# measure 15
+soprano    g. g/8 c/8 a/8
+alto       g/8 f/8 e/8 d/8 e/8 c/8
+tenor      c. g/8 a/8 c/8
+bass       e/8 d/8 c/8 b/8 a/8 f/8
+
+# measure 16
+soprano    g/8 a/8 e d-
+alto       c/8 c/8 c b
+tenor      g/8 c/8 a g
+bass       e/8 e/8 f g
+
+# measure 17
+soprano    c-.
+alto       c.
+tenor      e.
+bass       c.
+
+
+

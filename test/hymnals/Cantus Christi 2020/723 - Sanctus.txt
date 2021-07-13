@@ -1,0 +1,57 @@
+title      Sanctus
+author     Traditional
+composer   Thomas Tallis, The Dorian Service, c. 1550
+key        D
+tempo      100
+rhythm     0 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/723%20Sanctus%20-%20Tallis.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e/2 e g f# f# f# b b a# b/2
+alto       b/2 b e d# dn d f# f# f# f#/2
+tenor      e/2 g e b b a d c# c# b/2
+bass       e/2 e e b b d b f# f# b/2
+
+# measure 2
+soprano    R b/2 b b/2 b c#. b/8 a/2 g# a/2
+alto       R g/2 g g/2 g e. f#/8 e e/2 e/2
+tenor      R d/2 d d/2 d c#. d/8 c# b/2 a/2
+bass       R g/2 g- g-/2 g a+. d/8 a+ e/2 a/2
+
+# measure 3
+soprano    R f#. f#/8 f# f# g. f#/8 e/2 d#- e/1
+alto       R d. d/8 d d b. c#/8 b b/2 b/1
+tenor      R a. a/8 a a g. a/8 g f#/2 e/1
+bass       R d. d/8 d d e. a/8 e b/2 e/1
+
+# measure 4
+soprano    g. f#/8 e. d#-/8 e/1
+alto       b/1 b/1
+tenor      e f# g f# e/1
+bass       e d# e b e/1
+
+# measure 5
+soprano    e/2. e f# g a. a/8 g/8 g/8 f#/8 f#/8 f# e/8 e/8 d#-/2
+alto       b/2. b d e/2 d# e/8 e/8 dn/8 d/8 d b/8 b/8 b/2
+tenor      g/2. g a b/2 a b/8 b/8 b/8 b/8 a g/8 g/8 f#/2
+bass       e/2. g f# e f#. f#/8 e/8 e/8 b/8 b/8 d e/8 e/8 b/2
+
+# measure 6
+soprano    R b b. b/8 b c# d/2 c# b a/2 g f# f# e d#-
+alto       R e e. e/8 e e g f#. e. f# d e c# d b/2
+tenor      R g g. g/8 g a b/2 g g a/2 b a a/8 b/8 g f#
+bass       R e e e e c# b/2 e g f#/2 e f# d e b
+
+# measure 7
+soprano    f# f#/8 e/8 e/2 d#- e/2 e/2
+alto       dn c# c# b b b/2 b/2
+tenor      d- a. g/8 f# f# e/2 e/2
+bass       b c# a b b e/2 e/2
+
+
+

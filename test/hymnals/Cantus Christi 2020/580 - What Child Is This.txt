@@ -1,0 +1,117 @@
+title      What Child Is This
+author     English carol, before 1642; adapted William Chatterton Dix, c. 1865GREENSLEEVES
+composer   English traditional melody, c. 1500s
+key        G
+tempo      75
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/580%20What%20Child%20Is%20This.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e/8
+alto       b/8
+tenor      g/8
+bass       e/8
+
+# measure 2
+soprano    g a/8 b/8. c/16 b/8
+alto       e d/8 d g/8
+tenor      b a/8 g b/8
+bass       e f#/8 g g/8
+
+# measure 3
+soprano    a f#/8 d-/8. e/16 f#/8
+alto       f# d/8 d c/8
+tenor      d a/8 f# a/8
+bass       d d/8 d d#/8
+
+# measure 4
+soprano    g e/8 e/8. d#-/16 e/8
+alto       b b/8 a e/8
+tenor      g g/8 e e/8
+bass       e e/8 c c/8
+
+# measure 5
+soprano    f# d#-/8 b- e/8
+alto       d# b/8 b b/8
+tenor      b. b g/8
+bass       b. b e/8
+
+# measure 6
+soprano    g a/8 b/8. c/16 b/8
+alto       e d/8 d g/8
+tenor      b a/8 g b/8
+bass       e f#/8 g g/8
+
+# measure 7
+soprano    a f#/8 d-/8. e/16 f#/8
+alto       f# d/8 d c/8
+tenor      d a/8 f# a/8
+bass       d d/8 d d#/8
+
+# measure 8
+soprano    g/8. f#/16 e/8 d#-/8. c#-/16 d#-/8
+alto       b c/8 b b/8
+tenor      g a/8 f# f#/8
+bass       e a/8 b b/8
+
+# measure 9
+soprano    e. e.
+alto       b. b.
+tenor      a. g.
+bass       e. e.
+
+# measure 10
+soprano    d. d/8. c#/16 b/8
+alto       f#. b+/8. a+/16 g/8
+tenor      b. d d/8
+bass       b+. g g/8
+
+# measure 11
+soprano    a f#/8 d-/8. e/16 f#/8
+alto       f# d/8 d c/8
+tenor      d a/8 f# a/8
+bass       d d/8 d d#/8
+
+# measure 12
+soprano    g e/8 e/8. d#-/16 e/8
+alto       b b/8 a a/8
+tenor      g g/8 a e/8
+bass       e e/8 c c/8
+
+# measure 13
+soprano    f# d#-/8 b-.
+alto       d# b/8 b.
+tenor      b f#/8 b.
+bass       b b/8 b.
+
+# measure 14
+soprano    d. d/8. c#/16 b/8
+alto       f#. b+/8. a+/16 g/8
+tenor      b. d d/8
+bass       b+. g g/8
+
+# measure 15
+soprano    a f#/8 d-/8. e/16 f#/8
+alto       f# d/8 d c/8
+tenor      d a/8 f# a/8
+bass       d d/8 d d#/8
+
+# measure 16
+soprano    g/8. f#/16 e/8 d#-/8. c#-/16 d#-/8
+alto       b c/8 b b/8
+tenor      g a/8 f# f#/8
+bass       e a/8 b b/8
+
+# measure 17
+soprano    e. e
+alto       b. b
+tenor      a. g
+bass       e. e
+
+
+

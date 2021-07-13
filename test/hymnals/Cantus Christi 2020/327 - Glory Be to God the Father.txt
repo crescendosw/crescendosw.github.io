@@ -1,0 +1,94 @@
+title      All Glory Be to God on High 
+author     Horatius Bonar, 1868
+composer   Anonymous
+key        Eb
+tempo      90
+rhythm     3 : 4
+verse_count 4
+copyright  Music: Gregory D. Wilbur, 2011. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/327%20Glory%20Be%20to%20God%20the%20Father.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/8 f/16 eb/16
+alto       eb/8 bb/8
+tenor      bb/8 f/8
+bass       eb/8 eb/8
+
+# measure 2
+soprano    eb. eb/8 g/8 bb/8
+alto       bb. bb/8 eb/8 eb/8
+tenor      g. g/8 g/8 g/8
+bass       eb. eb/8 c/8 c/8
+
+# measure 3
+soprano    c bb g/8 f/16 eb/16
+alto       eb eb eb/8 d/8
+tenor      ab bb c/8 bb/8
+bass       ab g- ab/8 bb/8
+
+# measure 4
+soprano    eb. eb/8 f/8 g/8
+alto       c. c/8 d/8 eb/8
+tenor      g. g/8 g/8 g/8
+bass       c. c/8 bb/8 bb/8
+
+# measure 5
+soprano    c-/2 g/8 f/16 eb/16
+alto       ab/2 eb/8 d/8
+tenor      eb/2 c/8 bb/16 ab/16
+bass       ab/2 ab/8 bb/8
+
+# measure 6
+soprano    eb. eb/8 g/8 bb/8
+alto       bb. bb/8 eb/8 eb/8
+tenor      g. g/8 g/8 g/8
+bass       eb. d/8 c/8 bb/8
+
+# measure 7
+soprano    c bb eb+/8 d/8
+alto       eb/8 f/8 eb g/8 g/8
+tenor      ab bb c/8 eb+/8
+bass       ab g- c/8 bb/8
+
+# measure 8
+soprano    c. bb/8 g/8 bb/8
+alto       ab+. eb/8 eb/8 eb/8
+tenor      eb+. bb/8 bb/8 g/8
+bass       ab. ab/8 g-/8 g-/8
+
+# measure 9
+soprano    bb/2 eb+/8 d/8
+alto       eb d g/8 g/8
+tenor      f/2 c/8 eb+/8
+bass       bb/2 c/8 bb/8
+
+# measure 10
+soprano    c bb g/8 bb/8
+alto       ab+ eb eb/8 bb/8
+tenor      eb+ bb bb/8 g/8
+bass       ab g- eb/8 eb/8
+
+# measure 11
+soprano    f eb eb/8 f/8
+alto       bb c c/8 c/8
+tenor      bb g ab/8 ab/8
+bass       d c ab/8 ab/8
+
+# measure 12
+soprano    g/8 bb/8 f f
+alto       eb/8 eb/8 f d
+tenor      bb/8 g/8 c bb
+bass       g-/8 g-/8 ab bb
+
+# measure 13
+soprano    eb/2
+alto       eb/2
+tenor      g/2
+bass       eb/2
+
+
+

@@ -1,0 +1,165 @@
+title      Let All the Earth Their Voices Raise
+author     Isaac Watts (1674-1748)ACH HERR
+composer   Michael Praetorius (1571-1621)
+key        G
+tempo      150
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/177%20Let%20All%20the%20Earth%20Their%20Voices%20-%20Psalm%2096%20ACH%20HERR.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b
+alto       g
+tenor      d
+bass       g
+
+# measure 2
+soprano    a/2 b
+alto       f#/2 g
+tenor      d/2 d
+bass       d+/2 b+
+
+# measure 3
+soprano    c/2 d
+alto       a+/2 a+
+tenor      e+/2 d
+bass       a+. g/8 f#
+
+# measure 4
+soprano    b/2 a
+alto       g. e/8 f#
+tenor      d/2 c
+bass       g/2 d
+
+# measure 5
+soprano    g/2 b
+alto       g/2 f#
+tenor      b/2 d
+bass       e/2 b
+
+# measure 6
+soprano    a/2 b
+alto       e/2 f#
+tenor      c/2 b
+bass       c/2 d
+
+# measure 7
+soprano    c/2 d
+alto       g/2 a+
+tenor      g/2 d
+bass       e/2 f#
+
+# measure 8
+soprano    b/2 a
+alto       g. f#/8 e
+tenor      d/2 c
+bass       g/2 a+
+
+# measure 9
+soprano    g/2 g
+alto       d/2 d
+tenor      d/2 b
+bass       b+/2 g
+
+# measure 10
+soprano    e. f#/8 g
+alto       e/2 d
+tenor      c/2 d
+bass       c+/2 b+
+
+# measure 11
+soprano    a g f#
+alto       e/2 d
+tenor      c/2 a
+bass       a+/2 d
+
+# measure 12
+soprano    e d- e
+alto       b/2 c
+tenor      g/2 g
+bass       e/2 c
+
+# measure 13
+soprano    d-/2 a
+alto       a/2 f#
+tenor      f#/2 d
+bass       d/2 d
+
+# measure 14
+soprano    a/2 a
+alto       e/2 e
+tenor      c/2 c
+bass       a+/2 g
+
+# measure 15
+soprano    a. b/8 c
+alto       d/2 g
+tenor      a/2 g
+bass       f#/2 e
+
+# measure 16
+soprano    d. c/8 b
+alto       a+/2 g
+tenor      d/2 d
+bass       f#/2 g
+
+# measure 17
+soprano    a/2 a
+alto       f#/2 d
+tenor      d/2 d
+bass       d/2 f#
+
+# measure 18
+soprano    a/2 a
+alto       e/2 e
+tenor      c/2 c
+bass       a+/2 g
+
+# measure 19
+soprano    a. b/8 c
+alto       a+/2 g
+tenor      c/2 c
+bass       fn/2 e
+
+# measure 20
+soprano    d. c/8 b
+alto       a+/2 g
+tenor      a/2 d
+bass       fn/2 g
+
+# measure 21
+soprano    a/2 g
+alto       e/2 d
+tenor      c/2 d
+bass       a+/2 b+
+
+# measure 22
+soprano    g. a/8 b
+alto       g/2 g
+tenor      e+/2 d
+bass       c+/2 b+
+
+# measure 23
+soprano    c b a
+alto       e/2 f#
+tenor      c/2 d
+bass       a+/2 d
+
+# measure 24
+soprano    g/2 g
+alto       e/2 e
+tenor      b/2 c
+bass       e. d/8 c
+
+# measure 25
+soprano    g/2
+alto       d/2
+tenor      b/2
+bass       g/2
+
+
+

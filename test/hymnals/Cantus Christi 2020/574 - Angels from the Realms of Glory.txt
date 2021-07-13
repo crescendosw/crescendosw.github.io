@@ -1,0 +1,87 @@
+title      Angels from the Realms of Glory 
+author     James Montgomery, 1816REGENT SQUARE
+composer   Henry Smart, 1867 
+key        Bb
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/574%20Angels%20from%20the%20Realms%20of%20Glory.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f d- bb f
+alto       d bb f d
+tenor      bb f f bb
+bass       bb bb d bb
+
+# measure 2
+soprano    d. c/8 bb f
+alto       f. f/8 f f
+tenor      bb. a/8 bb bb
+bass       f. eb/8 d d
+
+# measure 3
+soprano    g g f bb
+alto       bb bb bb bb
+tenor      g bb f g
+bass       eb eb d g-
+
+# measure 4
+soprano    f eb d-/2
+alto       c a bb/2
+tenor      f f f/2
+bass       a f- bb/2
+
+# measure 5
+soprano    f d- bb f
+alto       d bb f f/8 eb/8
+tenor      bb bb f f
+bass       bb+ f d d/8 c/8
+
+# measure 6
+soprano    d. c/8 bb a
+alto       d. eb/8 d d
+tenor      bb. a/8 g f#
+bass       bb. c/8 d d
+
+# measure 7
+soprano    bb a g a/8 bb/8
+alto       d d d d
+tenor      g f# d c/8 bb/8
+bass       g d bb g-
+
+# measure 8
+soprano    a g f/2
+alto       f en f/2
+tenor      c bb a/2
+bass       c c f-/2
+
+# measure 9
+soprano    c. c/8 a f
+alto       f. f/8 f f
+tenor      a. a/8 c a
+bass       f. f/8 f f
+
+# measure 10
+soprano    d. c/8 bb g
+alto       d. d/8 eb eb
+tenor      bb. ab/8 g bb
+bass       bb. bb/8 eb eb
+
+# measure 11
+soprano    eb+ d c bb
+alto       g f eb d/8 eb/8
+tenor      c f g/8 a/8 bb
+bass       c d eb/8 f/8 g
+
+# measure 12
+soprano    bb a bb/2
+alto       f. eb/8 d/2
+tenor      c c bb/2
+bass       f f- bb/2
+
+
+

@@ -1,0 +1,69 @@
+title      Give Me the Wings of Faith to Rise
+author     Isaac Watts (1674-1748)SONG 67
+composer   Prys' Welsh Psalter, 1621
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/673%20Give%20Me%20the%20Wings%20of%20Faith.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2
+alto       d/2
+tenor      f#/2
+bass       d/2
+
+# measure 2
+soprano    a f# g a
+alto       e d d f#
+tenor      a a d c#
+bass       c# d b a
+
+# measure 3
+soprano    b b a a
+alto       f# e f# d
+tenor      b c# d f#
+bass       g- g- d d
+
+# measure 4
+soprano    d b c# c#
+alto       d f# f#. e/8
+tenor      f# b b a#
+bass       b d f# f#
+
+# measure 5
+soprano    b/2. d
+alto       d/2. d/8 e/8
+tenor      b/2. f#/8 g/8
+bass       b/2. b
+
+# measure 6
+soprano    c# b a a
+alto       f# g f# d
+tenor      a b/8 c#/8 d f#
+bass       a g- d f#
+
+# measure 7
+soprano    g f# e a
+alto       b/8 c#/8 d c# c#
+tenor      g a a a
+bass       e d a a/8 b/8
+
+# measure 8
+soprano    a d- f# e
+alto       e d d c#
+tenor      a/8 g/8 f# a. g/8
+bass       c# d a a
+
+# measure 9
+soprano    d-/2
+alto       d/2
+tenor      f#/2
+bass       d/2
+
+
+

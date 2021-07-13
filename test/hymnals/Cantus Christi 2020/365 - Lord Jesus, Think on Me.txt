@@ -1,0 +1,70 @@
+title      Lord Jesus, Think on Me
+author     Anonymous
+composer   Anonymous
+key        F
+tempo      80
+rhythm     4 : 4
+verse_count 6
+copyright  Music: Gregory D. Wilbur, 1998. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/365%20Lord%20Jesus,%20Think%20on%20Me.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/8 e/8
+alto       d
+tenor      f/8 g/8
+bass       d
+
+# measure 2
+soprano    f f e/8 d-/8 c-/8 e/8
+alto       d a c c
+tenor      a a g/8 f/8 e
+bass       d d c c
+
+# measure 3
+soprano    d-/2. d-/8 e/8
+alto       c/2 bb bb/8 c/8
+tenor      f/2. f/8 e/8
+bass       bb/2. bb
+
+# measure 4
+soprano    f e/8 f/8 g f/8 g/8
+alto       d c/8 d/8 e d/8 e/8
+tenor      d- a g c
+bass       d d c c
+
+# measure 5
+soprano    a/2. a
+alto       f/2. f
+tenor      c/2. c/8 a/8
+bass       f/2. f
+
+# measure 6
+soprano    c c bb bb
+alto       f e d c
+tenor      g g f g
+bass       c c d e
+
+# measure 7
+soprano    a/8 g/8 f e a
+alto       f/8 e/8 d c c/8 e/8
+tenor      c a g a/8 g/8
+bass       f f- c c
+
+# measure 8
+soprano    g f e/8 d-/8 c-/8 e/8
+alto       d d c c
+tenor      bb bb/8 a/8 g a
+bass       g- g- a a
+
+# measure 9
+soprano    d-/2.
+alto       a/2.
+tenor      f/2.
+bass       d/2.
+
+
+

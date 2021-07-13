@@ -1,0 +1,105 @@
+title      On Christmas Night
+author     Luke Wadding (1628-1694)SUSSEX CAROL
+composer   Anonymous English; arr. Ralph Vaughan Williams, 1912
+key        G
+tempo      101
+rhythm     0 : 8
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/594%20On%20Christmas%20Night.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d/8
+alto       g/8
+tenor      b/8
+bass       g/8
+
+# measure 2
+soprano    d b/8 c d/8
+alto       g g/8 e f#/8
+tenor      b d/8 c a/8
+bass       g b+/8 a+ d/8
+
+# measure 3
+soprano    b/8 a/8 g/8 a f#/8
+alto       g/8 d/8 d/8 f# d/8
+tenor      b/8 c/8 d/8 d d/8
+bass       g-/8 a/8 b/8 d c+/8
+
+# measure 4
+soprano    g g/8 a/8 b/8 c/8
+alto       d d/8 e/8 g/8 g/8
+tenor      d/8 c/8 b/8 c/8 d/8 e+/8
+bass       b+/8 a+/8 g/8 c/8 b/8 a/8
+
+# measure 5
+soprano    b a/8 g d/8
+alto       g f#/8 d g/8
+tenor      d c/8 b b/8
+bass       b/8 c/8 d/8 g g/8
+
+# measure 6
+soprano    d b/8 c d/8
+alto       g g/8 e f#/8
+tenor      b d/8 c a/8
+bass       g b+/8 a+ d/8
+
+# measure 7
+soprano    b/8 a/8 g/8 a f#/8
+alto       g/8 d/8 d/8 f# d/8
+tenor      b/8 c/8 d/8 d d/8
+bass       g-/8 a/8 b/8 d c+/8
+
+# measure 8
+soprano    g g/8 a/8 b/8 c/8
+alto       d d/8 e/8 g/8 g/8
+tenor      d/8 c/8 b/8 c/8 d/8 e+/8
+bass       b+/8 a+/8 g/8 c/8 b/8 a/8
+
+# measure 9
+soprano    b a/8 g.
+alto       g f#/8 d.
+tenor      d c/8 b.
+bass       b/8 c/8 d/8 g.
+
+# measure 10
+soprano    a. a g/8
+alto       f#. e d/8
+tenor      d. c d/8
+bass       d. a+ b+/8
+
+# measure 11
+soprano    a/8 b/8 c/8 d/8 c/8 b/8
+alto       d/8 g/8 g/8 f#/8 e/8 d/8
+tenor      d c/8 a/8 g/16 a/16 b/8
+bass       f#/8 g/8 e/8 d/8 e/16 f#/16 g/8
+
+# measure 12
+soprano    a/2.
+alto       f#/2.
+tenor      d/2.
+bass       d. c.
+
+# measure 13
+soprano    d. e+. d.
+alto       g. g. g/8 f#/8 d/8
+tenor      d. c. b/8 a/8 g/8
+bass       b. c. g/8 d/8 b/8
+
+# measure 14
+soprano    c b/8 a/8 g/8 a/8
+alto       e/8 f#/8 g/8 e c/8
+tenor      g g/8 g g/8
+bass       e d/8 c e/8
+
+# measure 15
+soprano    g. = g
+alto       d. = d
+tenor      b. = b
+bass       g. = g
+
+
+

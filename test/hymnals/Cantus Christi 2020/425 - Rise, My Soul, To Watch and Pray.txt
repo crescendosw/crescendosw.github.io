@@ -1,0 +1,99 @@
+title      Rise, My Soul, to Watch and Pray
+author     Johann B. Freystein, 1697; tr. Catherine Winkworth, 1863; alt.STRAF MICH NICHT
+composer   Hundert Geistliche Arien, Dresden, 1694
+key        Eb
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/425%20Rise,%20My%20Soul,%20to%20Watch%20and%20Pray.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g bb bb
+alto       eb eb d d
+tenor      bb c f g
+bass       eb c bb g-
+
+# measure 2
+soprano    eb f g/2
+alto       c d eb/2
+tenor      g bb bb/2
+bass       c bb eb/2
+
+# measure 3
+soprano    c d eb+ g
+alto       eb f g eb
+tenor      ab ab bb c
+bass       ab+ f eb c
+
+# measure 4
+soprano    f/2 eb/2
+alto       eb d eb/2
+tenor      c bb g/2
+bass       ab bb eb/2
+
+# measure 5
+soprano    g g bb bb
+alto       eb eb d d
+tenor      bb c f g
+bass       eb c bb g-
+
+# measure 6
+soprano    eb f g/2
+alto       c d eb/2
+tenor      g bb bb/2
+bass       c bb eb/2
+
+# measure 7
+soprano    c d eb+ g
+alto       eb f g eb
+tenor      ab ab bb c
+bass       ab+ f eb c
+
+# measure 8
+soprano    f/2 eb/2
+alto       eb d eb/2
+tenor      c bb g/2
+bass       ab bb eb/2
+
+# measure 9
+soprano    bb f g/2
+alto       bb d eb/2
+tenor      f bb bb/2
+bass       d bb eb/2
+
+# measure 10
+soprano    c g an/2
+alto       c en f/2
+tenor      g c c/2
+bass       en c f/2
+
+# measure 11
+soprano    bb an bb d
+alto       f eb f f
+tenor      d c bb bb
+bass       bb c d bb
+
+# measure 12
+soprano    c/2 bb/2
+alto       f/2 d/2
+tenor      bb an bb/2
+bass       f/2 bb/2
+
+# measure 13
+soprano    c d eb+ g
+alto       f f g eb
+tenor      ab ab bb c
+bass       f f eb c
+
+# measure 14
+soprano    f/2 eb/2
+alto       eb d eb/2
+tenor      c bb g/2
+bass       ab bb eb/2
+
+
+
