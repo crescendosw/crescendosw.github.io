@@ -1,0 +1,165 @@
+title      Oh, Come before the LORD, Our King
+author     The Psalter, 1912LIBERTY
+composer   The American Vocalist, 1849
+key        G
+tempo      155
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/175%20Oh,%20Come%20before%20the%20LORD%20-%20Psalm%2095%20LIBERTY.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2
+alto       b/2
+tenor      d/2
+bass       d/2
+
+# measure 2
+soprano    g. a/8 g b
+alto       b. d/8 g g
+tenor      d/2. d
+bass       g-/2. g-
+
+# measure 3
+soprano    d/2. g
+alto       g/2. g
+tenor      b/2. d
+bass       g/2. b
+
+# measure 4
+soprano    a/2 a b/8 c/8
+alto       f#. g/8 a+ d
+tenor      c. b/8 a f#
+bass       c/2 d/2
+
+# measure 5
+soprano    b/1
+alto       d/1
+tenor      g/1
+bass       g-/1
+
+# measure 6
+soprano    b. a/8 g b
+alto       d/2 d d
+tenor      d. c/8 b d
+bass       g/2 g g
+
+# measure 7
+soprano    d/2. g
+alto       d/2. d
+tenor      a/2. b
+bass       f#/2. g
+
+# measure 8
+soprano    f#/2 e/2
+alto       d/2 c#/2
+tenor      a/2 a/2
+bass       a+/2 a/2
+
+# measure 9
+soprano    d-/1
+alto       d/1
+tenor      a/1
+bass       d/1
+
+# measure 10
+soprano    d-/2 g d-
+alto       b/2 b b
+tenor      g/2 g g
+bass       g-/2 g- g-
+
+# measure 11
+soprano    e/2. b
+alto       c/2. e
+tenor      g/2. g
+bass       c/2. b
+
+# measure 12
+soprano    c b a g
+alto       a+ g f# e
+tenor      e+ d c b
+bass       a b c c
+
+# measure 13
+soprano    f#/2. d-
+alto       d/2. d
+tenor      a/2. f#
+bass       d/2. d
+
+# measure 14
+soprano    d/2 c/2
+alto       d/2 e/2
+tenor      g/2 a/2
+bass       d/2 e/2
+
+# measure 15
+soprano    b/8 a/8 b/8 c/8 d b/8 a/8
+alto       g/2. g
+tenor      b d/2 d/8 c/8
+bass       g/2. g
+
+# measure 16
+soprano    g/2 a/2
+alto       g/2 f#/2
+tenor      b/2 d/2
+bass       e/2 d/2
+
+# measure 17
+soprano    g/2. g
+alto       g/2. d
+tenor      b/2. b
+bass       g-/2. g
+
+# measure 18
+soprano    b/2 a b
+alto       d/2 d/2
+tenor      d/2 c b
+bass       g/2 f# g
+
+# measure 19
+soprano    c/2. b
+alto       d/2. g
+tenor      a/2. g
+bass       a+/2. g
+
+# measure 20
+soprano    c b a g
+alto       a+ g f# e
+tenor      f# g a b
+bass       a+ g f# e
+
+# measure 21
+soprano    d-/2. b/8 c/8
+alto       d/2. g
+tenor      a/2. g/8 a/8
+bass       d. e/8 d/8 c/8 b/8 a/8
+
+# measure 22
+soprano    d/2 c/2
+alto       g/2 f#/2
+tenor      b/2 a/2
+bass       g-/2 d/2
+
+# measure 23
+soprano    b/8 a/8 b/8 c/8 d b/8 a/8
+alto       g/2. g
+tenor      g d/2 d/8 c/8
+bass       g/2. g
+
+# measure 24
+soprano    g/2 a/2
+alto       e/2 d/2
+tenor      b/2 d/2
+bass       e/2 d/2
+
+# measure 25
+soprano    g/2
+alto       d/2
+tenor      b/2
+bass       g-/2
+
+
+

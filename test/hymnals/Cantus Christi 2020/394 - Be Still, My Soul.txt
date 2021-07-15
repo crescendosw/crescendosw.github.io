@@ -1,0 +1,165 @@
+title      Be Still, My Soul
+author     Katharina von Schlegel (1697-1797?); tr. Jane L. Borthwick (1813-1897)FINLANDIA
+composer   Jean Sibelius (1865-1957)
+key        F
+tempo      115
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/394%20Be%20Still,%20My%20Soul.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a g a
+alto       f e f
+tenor      c c c
+bass       f bb+ a+
+
+# measure 2
+soprano    bb/2. a
+alto       e/2. f
+tenor      c/2. c
+bass       g/2. f
+
+# measure 3
+soprano    g a f. g/8
+alto       e e d. e/8
+tenor      bb a a. bb/8
+bass       c c# d. cn/8
+
+# measure 4
+soprano    g a/2. =
+alto       e f/2. =
+tenor      c/1 =
+bass       c f/2. =
+
+# measure 5
+soprano    a a g a
+alto       f f e f
+tenor      c c c c
+bass       f c+ bb+ a+
+
+# measure 6
+soprano    bb/2. a
+alto       e/2. f
+tenor      c/2. c
+bass       g/2. f
+
+# measure 7
+soprano    g a f. g/8
+alto       g f d. e/8
+tenor      c c bb. bb/8
+bass       e f bb+. g/8
+
+# measure 8
+soprano    a/1 =
+alto       f/1 =
+tenor      c/1 =
+bass       f/1 =
+
+# measure 9
+soprano    a c c c
+alto       f f f f
+tenor      c a a a
+bass       f f f e
+
+# measure 10
+soprano    d/2. a
+alto       f/2. f
+tenor      a/2. d
+bass       d/2. d
+
+# measure 11
+soprano    a c c. g/8
+alto       f f f. e/8
+tenor      d c c. c/8
+bass       d a a. c/8
+
+# measure 12
+soprano    g bb/2. =
+alto       e g/2. =
+tenor      c d/2. =
+bass       c g-/2. =
+
+# measure 13
+soprano    bb bb a g
+alto       g g f# g
+tenor      d d c d
+bass       g- g- a bb
+
+# measure 14
+soprano    a/2. f
+alto       f/2. f
+tenor      c/2. c
+bass       c/2. a+
+
+# measure 15
+soprano    f g g. a/8
+alto       f f e. e/8
+tenor      d d d. c#/8
+bass       bb+ bb+ bb+. a+/8
+
+# measure 16
+soprano    a/1 =
+alto       e/1 =
+tenor      c#/1 =
+bass       a+/1 =
+
+# measure 17
+soprano    a c c c
+alto       e a+ f f
+tenor      c# cn a a
+bass       a+ f f e
+
+# measure 18
+soprano    d/2. a
+alto       f/2. f
+tenor      a/2. d
+bass       d/2. d
+
+# measure 19
+soprano    a c c. g/8
+alto       f f f. e/8
+tenor      d c c. c/8
+bass       d a+ a+. c+/8
+
+# measure 20
+soprano    g bb/2. =
+alto       e g/2. =
+tenor      c d/2. =
+bass       c+ g/2. =
+
+# measure 21
+soprano    bb bb a g
+alto       g g f# g
+tenor      d d c d
+bass       g g- a bb
+
+# measure 22
+soprano    a/2. f
+alto       f/2. f
+tenor      c/2. a
+bass       c/2. d
+
+# measure 23
+soprano    f g g. f/8
+alto       f d e. f/8
+tenor      c bb bb. a/8
+bass       a bb c. f/8
+
+# measure 24
+soprano    f/1 =
+alto       f/1 =
+tenor      a/1 =
+bass       f/1 =
+
+# measure 25
+soprano    f
+alto       f
+tenor      a
+bass       f
+
+
+

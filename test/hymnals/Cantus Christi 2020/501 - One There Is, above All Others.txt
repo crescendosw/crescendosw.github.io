@@ -1,0 +1,159 @@
+title      One There Is, above All Others
+author     John Newton, 1779; alt.GODESBURG
+composer   Heinrich Albert, 1643; alt.
+key        G
+tempo      100
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/501%20One%20There%20Is,%20above%20All%20Others.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 a
+alto       d/2 d
+tenor      b/2 a
+bass       g/2 f#
+
+# measure 2
+soprano    b d c
+alto       d/2 e
+tenor      g/2 g
+bass       g b c
+
+# measure 3
+soprano    b g f#
+alto       d b d
+tenor      g/2 g
+bass       g-/2 b
+
+# measure 4
+soprano    e/2 d-
+alto       c/2 b
+tenor      g/2 g
+bass       c/2 g-
+
+# measure 5
+soprano    e/2 f#
+alto       c/2 c
+tenor      g/2 a
+bass       c/2 a
+
+# measure 6
+soprano    g/2 a
+alto       d/2 e
+tenor      g/2 g
+bass       b/2 c
+
+# measure 7
+soprano    b a/2
+alto       d/2 c
+tenor      g/2 f#
+bass       d/2 d
+
+# measure 8
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+# measure 9
+soprano    g/2 a
+alto       d/2 d
+tenor      g/2 f#
+bass       b/2 d
+
+# measure 10
+soprano    b d c
+alto       d/2 e
+tenor      g/2 g
+bass       g b c
+
+# measure 11
+soprano    b g f#
+alto       d b d
+tenor      g/2 g
+bass       g-/2 b
+
+# measure 12
+soprano    e/2 d-
+alto       c/2 b
+tenor      g/2 g
+bass       c/2 g-
+
+# measure 13
+soprano    e/2 f#
+alto       c/2 c
+tenor      g/2 a
+bass       c/2 a
+
+# measure 14
+soprano    g/2 a
+alto       d/2 e
+tenor      g/2 g
+bass       b/2 c
+
+# measure 15
+soprano    b a/2
+alto       d/2 c
+tenor      g/2 f#
+bass       d/2 d
+
+# measure 16
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+# measure 17
+soprano    b/2 f#
+alto       b/2 b
+tenor      g/2 a
+bass       e/2 d#
+
+# measure 18
+soprano    g b a
+alto       b c# d
+tenor      g/2 a
+bass       e/2 f#
+
+# measure 19
+soprano    g f# e
+alto       e d c#
+tenor      b a a
+bass       g a+ a
+
+# measure 20
+soprano    f#/2.
+alto       d/2.
+tenor      a/2.
+bass       d/2.
+
+# measure 21
+soprano    g/2 a
+alto       b/2 d
+tenor      g/2 f#
+bass       e/2 d
+
+# measure 22
+soprano    b c b
+alto       d e d
+tenor      g/2 d
+bass       g/2 g
+
+# measure 23
+soprano    a g a
+alto       e d c
+tenor      c b f#
+bass       c d d
+
+# measure 24
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+
+

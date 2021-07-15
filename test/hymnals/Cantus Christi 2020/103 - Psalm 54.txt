@@ -1,0 +1,54 @@
+title      Psalm 54
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2015
+key        C
+rhythm     0 : 4
+tempo      120
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2017/07/Erb-Psalm-54.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     d-/8 - a/8 d-/8 c-/8 d- c-/8 e/8 | d-/2. d- | e/8 d-/8 e/8 f/8 g f/8 - g/8 | a/1
+
+unison     d-/8 - a/8 d-/8 c-/8 d- c-/8 e/8 | d-/2. d- | e/8 - d-/8 e/8 f/8 g f/8 e/8 | d-/2. a-
+
+unison     c-/8 - d-/8 d-/8 c-/8 d-/8 c-/8 d-/8 e/8 | f d-/2 d-/8 d-/8 | g/8 f/8 e/8 f/8 g/8 a/8 g/8 - f/8 | e/2. e/8 e/8
+
+unison     f d- c- d- | a-/2 - c-/2 | d-/2. a
+
+unison     d a c/8 - b/8 a/8 - g/8 | a a/2 a | d a/8 g/8 a/8 - g/8 a/8 b/8 c b | a/2. a-
+
+unison     c-/8 - d-/8 d-/8 - c-/8 d-/8 c-/8 d-/8 e/8 f/8 - e/8 f/8 g/8 | a e/2. | f d- c- - d- | a-/2 c-/2 | d-/2. a/8 a/8
+
+unison     d a c/8 b/8 a/8 g/8 | a/2. a/8 a/8 | d a/8 - g/8 a/8 g/8 a/8 b/8 c b | a/2. a-
+
+unison     c-/8 - d-/8 d-/8 c-/8 d-/8 c-/8 d-/8 - e/8 f/8 e/8 f/8 - g/8 | a e/2 e/8 e/8
+
+unison     f/8 - e/8 f/8 - g/8 a/8 - g/8 f/8 e/8 | f d- c- d- | a-/2 c-/2 | d-/1
+
+verse      Save me, O God, by Your name, And vin - dic - ate me by Your strength.
+
+verse      Hear my prayer, O God; Give ear to the words of my mouth.
+
+verse      For stran - gers have ris - en up a - gainst me, And op - pres - sors have sought af - ter my life;
+
+verse      They have not set God be - fore them.
+
+verse      Be - hold, God is my help - er; The Lord is with those who up - hold my life.
+
+verse      He will re - pay my en - e - mies for their e - vil.  Cut them off in Your truth.
+
+verse      I will free - ly sac - ri - fice to You; I will praise Your name, O Lord, for it is good.
+
+verse      For He has de - liv - ered me out of all trou - ble;
+
+verse      And my eye has seen its de - sire up - on my en - e - mies.

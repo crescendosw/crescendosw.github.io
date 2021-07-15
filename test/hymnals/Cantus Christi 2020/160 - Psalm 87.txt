@@ -1,0 +1,65 @@
+title      Psalm 87
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   Modest Mussorgsky, 1874
+arranger   David R. Erb, 2014
+key        Eb
+rhythm     4 : 4
+tempo      180
+
+#hyperlink  https://www.youtube.com/watch?v=UOwvpP6_kU0
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     e/1 | f/1 | g/2 e g | f/2 b-/2 | g - b f - e | d-/2 b-/2 | R/1 | R/1
+
+unison     e/1 | f/2 e f | g/2 e - g | f/2 b-/2 | e+ e+ d b | c/2 a c
+
+unison     b/2 - a - g | f/1 | R/1 | e+ e+ d c | b/2 a g | f/2 f/2 | b/2 g f | e/1
+
+unison     R/1 | R/1 | R/1 | R/1 | R/1 | R/1 | R/1
+
+key        Cb
+
+unison     R e e e | e/6 e/6 e/6 e/6 e/6 e/6 | f f g g | a/2 a/2 | g/2 g/2
+
+unison     a/2 an/2 | c/2 c/2 | an an c c | d/2 d/2 | dn/2 d/2 | c c c/2 | d/2 - c/2 | an/2 a/2
+
+unison     g/1 - | f/1 | e/1 | e e e/6 e/6 e/6 | e e e/2 | e/2 e e | f/2 g g
+
+unison     a/2 a/2 | g/1 | a a an/2 | c c c/6 c/6 c/6 | an/2 c/2 | d/2 d/2 | dn/2 d d
+
+unison     c/2 c c | d d c c | an/2 a/2 | g/2 g g | f/1 | e/1 | R/1
+
+key        Eb
+
+unison     e/2 e/2 | f/6 f/6 f/6 e/6 e/6 f/6 | g/2 e - g | f/2 b-/2
+
+unison     a/2 a/2 | b/2 g f | e/1
+
+verse      His foun - da - tion is in the ho - ly moun - tains.
+
+verse      The Lord loves the gates of Zi - on More than all the dwell - ings of
+
+verse      Ja - cob. Glo - rious things are spo - ken of you, O ci - ty of God!
+
+verse      I will make men - tion of Ra - hab and Bab - y - lon to those who know Me;
+
+verse      Be - hold, O Phil - is - tia and Tyre, with E - thi - o - pi - a: This one was
+
+verse      born there.  And of Zi - on it will be said, This one and that one were
+
+verse      born in her; And the Most High Him - self shall es - tab - lish her.  The Lord will re -
+
+verse      cord, When He reg - is - ters the peo - ples: This one was born there.
+
+verse      Both the sing - ers and the play - ers on in - stru - ments say,
+
+verse      All my springs are in you.

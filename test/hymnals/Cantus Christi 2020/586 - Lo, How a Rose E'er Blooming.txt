@@ -1,0 +1,105 @@
+title      Lo, How a Rose E'er Blooming 
+author     German, c. 1400s; st. 1-2, tr. Theodore Baker, 1894;
+composer   German melody, c. 1400s; arr. Michael Praetorius, Musae Sionae, 1609
+key        F
+tempo      101
+rhythm     0 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/586%20Lo,%20How%20a%20Rose%20E'er%20Blooming.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c/2
+alto       a+/2
+tenor      c/2
+bass       f/2
+
+# measure 2
+soprano    c c d c
+alto       a+ f f f
+tenor      c a bb a
+bass       f f bb+ f
+
+# measure 3
+soprano    c/2 a/2 bb/2
+alto       e/2 d/2 d/2
+tenor      g/2 f/2 f/2
+bass       c/2 d/2 bb/2
+
+# measure 4
+soprano    a g/2 f/2 e
+alto       c/2 d. a/8 c/2
+tenor      a c bb a/2 g
+bass       f e d/2 c/2
+
+# measure 5
+soprano    f/2 c/2
+alto       c/2 a+/2
+tenor      a/2 c/2
+bass       f/2 f/2
+
+# measure 6
+soprano    c c d c
+alto       a+ f f f
+tenor      c a bb a
+bass       f f bb+ f
+
+# measure 7
+soprano    c/2 a/2 bb/2
+alto       e/2 d/2 d/2
+tenor      g/2 f/2 f/2
+bass       c/2 d/2 bb/2
+
+# measure 8
+soprano    a g/2 f/2 e
+alto       c/2 d. a/8 c/2
+tenor      a c bb a/2 g
+bass       f e d/2 c/2
+
+# measure 9
+soprano    f/2 R a
+alto       c/2 R f
+tenor      a/2 R c
+bass       f/2 R f
+
+# measure 10
+soprano    g e f d-
+alto       d c c bn
+tenor      bb a a g
+bass       g a+ f g
+
+# measure 11
+soprano    c-/2. c
+alto       c/8 d/8 e/2 e
+tenor      g/2. g
+bass       c/2. c
+
+# measure 12
+soprano    c c d c
+alto       g f f f
+tenor      g a bb a
+bass       e f bb f
+
+# measure 13
+soprano    c/2 a/2 bb/2
+alto       e/2 d/2 d/2
+tenor      g/2 f#/2 g/2
+bass       c/2 d/2 g-/2
+
+# measure 14
+soprano    a g/2 f/2 e
+alto       f d e f g c
+tenor      c bb a/2 g/2
+bass       a bb c/2 c/2
+
+# measure 15
+soprano    f/1
+alto       c/1
+tenor      a/1
+bass       f/1
+
+
+

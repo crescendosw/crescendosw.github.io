@@ -1,0 +1,105 @@
+title      Behold! The Mountain of the Lord
+author     Michael Bruce (1746-1767); adapt. John Logan, 1781GLASGOW
+composer   Moore's Psalm-Singer's Pocket Companion, 1756
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/538%20Behold!%20The%20Mountain%20of%20the%20LORD.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       b
+tenor      g
+bass       g-
+
+# measure 2
+soprano    g/2 a
+alto       d/2 f#
+tenor      d/2 d
+bass       b/2 d
+
+# measure 3
+soprano    b/8. a/16 g b
+alto       g/8. f#/16 g g
+tenor      d/8. c/16 b d
+bass       g/8. a+/16 b+ g
+
+# measure 4
+soprano    d/8. e+/16 d c
+alto       g/2 f#
+tenor      b/8. c/16 b a
+bass       d/2 d
+
+# measure 5
+soprano    b/2 b
+alto       g/2 g
+tenor      g/2 d
+bass       g-/2 g
+
+# measure 6
+soprano    a/2 c
+alto       e/2 a+
+tenor      c/2 e+
+bass       c/2 a
+
+# measure 7
+soprano    b/8. a/16 g f#
+alto       g/8. e/16 d d
+tenor      d/8. c/16 b a
+bass       b/8. c/16 d d
+
+# measure 8
+soprano    g/2 d
+alto       d/2 g
+tenor      b/2 b
+bass       g-/2 g
+
+# measure 9
+soprano    d/2 b
+alto       a+ g g
+tenor      d/8. c/16 b d
+bass       f# g fn
+
+# measure 10
+soprano    c/2 e+
+alto       g/8. fn/16 e g
+tenor      c/2 g
+bass       e/8. d/16 c c
+
+# measure 11
+soprano    d c b
+alto       d/8. e/16 f# g
+tenor      g a b/8 c#/8
+bass       b a g-
+
+# measure 12
+soprano    a/2 d
+alto       f#/2 f#
+tenor      d/2 d/8 c/8
+bass       d/2 d
+
+# measure 13
+soprano    g a b
+alto       g d g
+tenor      b d d
+bass       e f# g
+
+# measure 14
+soprano    c b a
+alto       g/2 f#
+tenor      e+ d d/8 c/8
+bass       c d d
+
+# measure 15
+soprano    g/2
+alto       g/2
+tenor      b/2
+bass       g-/2
+
+
+

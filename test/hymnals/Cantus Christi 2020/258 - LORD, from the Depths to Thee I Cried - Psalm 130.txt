@@ -1,0 +1,105 @@
+title      LORD, from the Depths to Thee I Cried
+author     Scottish Psalter, 1650MARTYRDOM  
+composer   attr. Hugh Wilson, c. 1825
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/258%20LORD,%20from%20the%20Depths%20to%20Thee%20-%20Psalm%20130%20MARTYRDOM.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       b
+tenor      g
+bass       g-
+
+# measure 2
+soprano    g/2 e
+alto       b/2 c
+tenor      g d- e/8 f#/8
+bass       g-/2 c
+
+# measure 3
+soprano    d-/2 g/8 a/8
+alto       d/2 b/8 c/8
+tenor      g/2 g
+bass       b/2 e
+
+# measure 4
+soprano    b/2 a
+alto       d/2 d/8 c/8
+tenor      g e f#
+bass       d/2 d
+
+# measure 5
+soprano    g/2 b
+alto       b/2 d
+tenor      g/2 g
+bass       g-/2 g-
+
+# measure 6
+soprano    d/2 b
+alto       d/2 d
+tenor      f#/2 f#
+bass       b/2 d
+
+# measure 7
+soprano    g/2 b
+alto       b. c/8 d
+tenor      g/2 g
+bass       e/2 b
+
+# measure 8
+soprano    a/2 d
+alto       d/2 d
+tenor      f#/2 a
+bass       d/2 f#
+
+# measure 9
+soprano    b/2 a
+alto       d/2 f#
+tenor      g/2 c
+bass       g/2 d
+
+# measure 10
+soprano    g/2 b
+alto       g/2 fn
+tenor      b/2 g
+bass       e/2 d
+
+# measure 11
+soprano    c/2 b
+alto       e f# g
+tenor      g a b/8 c/8
+bass       c/2 g-
+
+# measure 12
+soprano    a/2 b
+alto       f#/2 d
+tenor      d/2 g
+bass       d/2 g
+
+# measure 13
+soprano    d- e g/8 a/8
+alto       d c b/8 c/8
+tenor      g/2 g
+bass       b c e
+
+# measure 14
+soprano    b/2 a
+alto       d/2 c
+tenor      g e f#
+bass       d/2 d
+
+# measure 15
+soprano    g/2
+alto       b/2
+tenor      g/2
+bass       g-/2
+
+
+

@@ -1,0 +1,50 @@
+title      O Israel's Shepherd, Hear Our Pleading
+author     William W. J. VanOene & William Helder, 1972 (c)O PASTEUR D'ISRAEL, ESCOUTE [GENEVAN 80]
+composer   Genevan Psalter, 1562; harm. Claude Goudimel, 1564
+key        C
+tempo      165
+rhythm     0 : 4
+verse_count 8
+copyright  Text: Standing Committee for the Publication of the Book of Praise, 1984. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/149%20O%20Israel's%20Shepherd%20-%20Psalm%2080%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 d- c- d- f g f e/2 d-/1
+alto       a/2 bb a a d e d/2 c# d/1
+tenor      f/2 g e f# a c a a/2 a/1
+bass       d/2 g- a d d c d a/2 d/1
+
+# measure 2
+soprano    a/2 g e g f d- f e/2 d-/1
+alto       e/2 e c d d a d/2 c# d/1
+tenor      c/2 c g bb a f a a/2 a/1
+bass       a/2 c c g- d d d a/2 d/1
+
+# measure 3
+soprano    a/2 c d a/2 fn/2 g g a/1
+alto       d/2 e f d/2 d/2 e e f/1
+tenor      f/2 a a f#/2 a/2 c b d/1
+bass       d/2 a d d/2 d/2 c e d/1
+
+# measure 4
+soprano    a/2 c d a/2 f/2 g g a/1
+alto       f#/2 a+ a+ fn/2 d/2 e e f/1
+tenor      d/2 e+ f+ d/2 a/2 c b d/1
+bass       d/2 a d d/2 d/2 c e d/1
+
+# measure 5
+soprano    a/2 c b a g/2 fn/2 e f/1
+alto       f#/2 g g e e a/2 c/2 c/1
+tenor      d/2 e+ d c c f/2 g/2 a/1
+bass       d/2 c g- a c d/2 c/2 f-/1
+
+# measure 6
+soprano    bb/2 g/2 a/2 f d- g/2 e/2 d-/1
+alto       g/2 e/2 e/2 d a e d/2 c# d/1
+tenor      d/2 c/2 c/2 a f bb/2 a/2 a/1
+bass       g-/2 c/2 a/2 d d g-/2 a/2 d/1
+

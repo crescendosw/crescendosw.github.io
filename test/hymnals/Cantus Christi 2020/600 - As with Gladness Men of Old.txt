@@ -1,0 +1,87 @@
+title      As with Gladness Men of Old
+author     William Chatterton Dix, 1860DIX
+composer   Conrad Kocher, 1838; arr. William H. Monk, 1861
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/600%20As%20with%20Gladness%20Men%20of%20Old.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g f#/8 g/8 a g
+alto       d d d d
+tenor      b c/8 b/8 a b
+bass       g a+/8 g/8 f# g
+
+# measure 2
+soprano    c c b/2
+alto       e d d/2
+tenor      g a g/2
+bass       e f# g/2
+
+# measure 3
+soprano    e f# g e
+alto       c d d c
+tenor      g a g g
+bass       c c b c
+
+# measure 4
+soprano    d- d- d-/2
+alto       b a b/2
+tenor      g f# g/2
+bass       d d g-/2
+
+# measure 5
+soprano    g f#/8 g/8 a g
+alto       d d d d
+tenor      b c/8 b/8 a b
+bass       g a+/8 g/8 f# g
+
+# measure 6
+soprano    c c b/2
+alto       e d d/2
+tenor      g a g/2
+bass       e f# g/2
+
+# measure 7
+soprano    e f# g e
+alto       c d d c
+tenor      g a g g
+bass       c c b c
+
+# measure 8
+soprano    d- d- d-/2
+alto       b a b/2
+tenor      g f# g/2
+bass       d d g-/2
+
+# measure 9
+soprano    b a g b
+alto       d. c/8 b e
+tenor      g f# g g
+bass       g d e e
+
+# measure 10
+soprano    d. c/8 b/2
+alto       d d d/2
+tenor      a f# g/2
+bass       f# d g/2
+
+# measure 11
+soprano    e f# g c
+alto       c d d c
+tenor      g a g g
+bass       c c b e
+
+# measure 12
+soprano    b a g/2
+alto       d. c/8 b/2
+tenor      g f# g/2
+bass       d d g-/2
+
+
+

@@ -1,0 +1,93 @@
+title      Rejoice, Ye Pure in Heart
+author     Edward H. Plumptre (1821-1891)MARION
+composer   Arthur H. Messiter (1834-1916)
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/330%20Rejoice,%20Ye%20Pure%20in%20Heart.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       c
+tenor      a
+bass       f
+
+# measure 2
+soprano    c a/8 g/8 f g
+alto       c e f c
+tenor      g c/8 bb/8 a e
+bass       e c d c
+
+# measure 3
+soprano    a/2. a
+alto       c/2. c#
+tenor      f/2. g
+bass       f/2. e
+
+# measure 4
+soprano    a f/8 g/8 a bn
+alto       d d/8 e/8 f f
+tenor      f a/8 g/8 f g
+bass       d f/8 e/8 d d
+
+# measure 5
+soprano    c/2. c
+alto       e/2. eb
+tenor      g/2. a
+bass       c/2. f
+
+# measure 6
+soprano    d c/8 bb/8 a a
+alto       d d d d
+tenor      bb a/8 g/8 g f#
+bass       bb bb d d
+
+# measure 7
+soprano    a/8 g/8 f#/8 g/8 a d-
+alto       d c# d d
+tenor      g a/8 g/8 f# f#
+bass       e a d c
+
+# measure 8
+soprano    g a bb a
+alto       d d d c
+tenor      g f f f
+bass       bb a g- a/8 bb/8
+
+# measure 9
+soprano    g/2. c
+alto       c/2. c
+tenor      e/2. R
+bass       c/2. R
+
+# measure 10
+soprano    c/2. c
+alto       c/2. c
+tenor      R e/8 f/8 g/2
+bass       R c/8 d/8 e/2
+
+# measure 11
+soprano    c/2. c
+alto       c/2. f
+tenor      R f/8 g/8 a a
+bass       R d/8 e/8 f eb
+
+# measure 12
+soprano    bb a/8 g/8 a g
+alto       f f f e
+tenor      bb c/8 d/8 c bb
+bass       d c/8 bb/8 c c
+
+# measure 13
+soprano    f/2.
+alto       f/2.
+tenor      a/2.
+bass       f-/2.
+
+
+

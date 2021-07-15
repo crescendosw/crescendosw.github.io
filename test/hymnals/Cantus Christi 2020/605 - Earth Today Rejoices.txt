@@ -1,0 +1,159 @@
+title      Earth Today Rejoices
+author     John Mason Neale, 1853JANUARY CAROL
+composer   Piae Cantiones, 1582
+key        G
+tempo      100
+rhythm     0 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/605%20Earth%20Today%20Rejoices.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g a b
+alto       e e e f#
+tenor      b b c b
+bass       e e c d
+
+# measure 2
+soprano    c b/8 a/8 b/2
+alto       g/2 g/2
+tenor      g e+ d/2
+bass       e c g/2
+
+# measure 3
+soprano    g b a g
+alto       d d d d
+tenor      b g f# g
+bass       g g d b
+
+# measure 4
+soprano    f# g e/2 d-/2
+alto       c d c/2 a/2
+tenor      c b g a f#/2
+bass       a b c/2 d/2
+
+# measure 5
+soprano    d/2 b/2
+alto       a+/2 g/2
+tenor      a/2 d/2
+bass       f#/2 g/2
+
+# measure 6
+soprano    d/8 c/8 d b/2
+alto       a+/2. g#
+tenor      a/2 e+/2
+bass       fn/2 e/2
+
+# measure 7
+soprano    c e+ d c
+alto       a+ a+ a+/8 g#/8 a+
+tenor      e+ c d e+
+bass       a+ a b c/8 d/8
+
+# measure 8
+soprano    b/1
+alto       g#/1
+tenor      b/1
+bass       e/1
+
+# measure 9
+soprano    g g a b
+alto       e e e f#
+tenor      b b c b
+bass       e e c d
+
+# measure 10
+soprano    c b/8 a/8 b/2
+alto       g/2 g/2
+tenor      g e+ d/2
+bass       e c g/2
+
+# measure 11
+soprano    g b a g
+alto       d d d d
+tenor      b g f# g
+bass       g g d b
+
+# measure 12
+soprano    f# g e/2 d-/2
+alto       c d c/2 a/2
+tenor      c b g a f#/2
+bass       a b c/2 d/2
+
+# measure 13
+soprano    d/2 b/2
+alto       a+/2 g/2
+tenor      a/2 d/2
+bass       f#/2 g/2
+
+# measure 14
+soprano    d/8 c/8 d b/2
+alto       a+/2. g#
+tenor      a/2 e+/2
+bass       fn/2 e/2
+
+# measure 15
+soprano    c e+ d c
+alto       a+ a+ a+/8 g#/8 a+
+tenor      e+ c d e+
+bass       a+ a b c/8 d/8
+
+# measure 16
+soprano    b/1
+alto       g#/1
+tenor      b/1
+bass       e/1
+
+# measure 17
+soprano    c b a b
+alto       e g fn fn
+tenor      a e+ c d
+bass       a+ e fn d
+
+# measure 18
+soprano    c a g/2
+alto       e f# g/2
+tenor      e+ d b/2
+bass       c d g/2
+
+# measure 19
+soprano    d- f# e f#
+alto       d d e d
+tenor      b d b a
+bass       b+ b+ g f#
+
+# measure 20
+soprano    g e d-/2
+alto       d c# d/2
+tenor      g a f#/2
+bass       e a+ d c
+
+# measure 21
+soprano    d/2 b/2
+alto       b+ a+/2 g#
+tenor      f#+ d e+/2
+bass       b/2 e/2
+
+# measure 22
+soprano    c/8 b/8 c a/2
+alto       a+ g/2 f#
+tenor      e+ c d/2
+bass       a a+ d/2
+
+# measure 23
+soprano    c e+ d c
+alto       g. a+/8 b+ a+/8 g/8
+tenor      c c b e+
+bass       e c g a+
+
+# measure 24
+soprano    b/1
+alto       f#/1
+tenor      e+/2 d#/2
+bass       b+/1
+
+
+

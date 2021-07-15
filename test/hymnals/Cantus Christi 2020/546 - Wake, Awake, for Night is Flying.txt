@@ -1,0 +1,83 @@
+title      Wake, Awake, for Night is Flying
+hymnal     Cantus Christi
+author     Philipp Nicolai, 1599
+translator Catherine Winkworth, 1858
+copyright  setting: Publisher\: Baerenreiter-Verlag.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/546%20Wake,%20Awake,%20for%20Night%20Is%20Flying.pdf
+
+tune       WACHET AUF
+metre      8 9 8. 8 9 8. 6 6 4. 8 8
+composer   Philipp Nicolai, 1599
+key        C
+rhythm     0 : 4
+tempo      175
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    c-/2 e/2 | g/2.  g g g | a - g - a/2           g/2  R g | c g c
+alto       g-/2 c/2 | d/2.  d e e | e - d - e - d/8 - c/8 b/2  R c | e d c
+tenor      e/2  a/2 | b/2.  b b c | c - g/2 - f#          g/2  R e | g b g
+bass       c/2  a/2 | g-/2. g e c | a - b - c - d         g-/2 R c | c g e
+
+soprano    e+ d c      | d/2    g/2 R g | c g a e f d- | c-/1
+alto       g  g g       | g - f# d/2 R e | e e c c a b  | c/1
+tenor      c  d c/8 b/8 | a/2    b/2 R c | c b a g f g  | e/1
+bass       c  b c       | d/2    g/2 R c | a e f c d g- | c/1
+
+soprano    c-/2 e/2 | g/2.  g g g | a - g - a/2           g/2  R g | c g c
+alto       g-/2 c/2 | d/2.  d e e | e - d - e - d/8 - c/8 b/2  R c | e d c
+tenor      e/2  a/2 | b/2.  b b c | c - g/2 - f#          g/2  R e | g b g
+bass       c/2  a/2 | g-/2. g e c | a - b - c - d         g-/2 R c | c g e
+
+soprano    e+ d c      | d/2    g/2 R g | c g a e f d- | c-/1
+alto       g  g g       | g - f# d/2 R e | e e c c a b  | c/1
+tenor      c  d c/8 b/8 | a/2    b/2 R c | c b a g f g  | e/1
+bass       c  b c       | d/2    g/2 R c | a e f c d g- | c/1
+
+soprano    R g | g/2. f e d- | c-/2 R g | g/2.  f e d-
+alto       R d | e/2. d c b  | c/2  R e | d/2.  c c b
+tenor      R g | g/2. a g g  | e/2  R c | b/2.  a g g
+bass       R b | c/2. f g g- | c/2  R c | g-/2. a c g-
+
+soprano    c-/2 d- e | f/2   e/2 g/2 a b | c/2.  c e+ d
+alto       c/2  b  c | c - b c/2 e/2 f f | e/2.  f g  g
+tenor      e/2  g  g | f/2   g/2 c/2 c d | c/2.  a c  b
+bass       c/2  g- c | d/2   c/2 c/2 f d | a+/2. f e  g
+
+soprano    c/2 g/2 | c g a e f  d- | c-/1
+alto       e/2 e/2 | e e c c c  b  | c/1
+tenor      c/2 c/2 | c b a g a  g  | e/1
+bass       c/2 c/2 | a e f c f- g- | c/1
+
+verse      Wake, a - wake, for night   is  fly -  ing,  The watch - men on
+verse      Zi -  on  hears the watch - men sing - ing,  And all     her heart
+verse      Now   let all   the heav'ns a - dore   Thee, And men     and an -
+
+verse      the  heights are  cry   -  ing;  A -  wake,  Je - ru -  sa -  lem,    at  last!
+verse      with joy     is   spring - ing;  She  wakes, she  ris - es    from    her gloom;
+verse      gels sing    be - fore     Thee, With harp   and  cym - bals' clear - est tone;
+
+verse      Mid - night hears the   wel -  come  voic - es    And   at     the thrill -
+verse      For   her   Lord  comes down   all - glor - ious; The   strong in  grace,
+verse      Of    one   pearl each  shin - ing   por -  tal,  Where we     are with
+
+verse      ing cry   re -  joic - es:   Come forth, ye   vir -  gins, night is    past!
+verse      in  truth vic - tor -  ious; Her  Star   is   ris'n, her   Light is    come!
+verse      the choir im -  mor -  tal,  Of   an  -  gels round  Thy   daz - zling throne.
+
+verse      The Bride - groom comes:  a - wake!  Your  lamps with glad - ness
+verse      Ah  come,   Thou  bless - ed  One,   God's own   be - lov -  ed
+verse      No  eye     hath  seen,   nor ear    Hath  yet   at - tained to
+
+verse      take!  Al - le -  lu - ia!   And for   His  mar -  riage feast pre -
+verse      Son.   Al - le -  lu - ia!   We  fol - low  till   the   halls we
+verse      hear   What there is   ours; But we    re - joice, and   sing  to
+
+verse      pare, For   ye   must go  to  meet  Him   there.
+verse      see   Where Thou hast bid us  sup   with  Thee.
+verse      Thee  Our   hymn of   joy e - ter - nal - ly.

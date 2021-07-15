@@ -1,0 +1,117 @@
+title      I Sing with Exultation
+author     Felix Manz, c. 1526; tr. Marion Wenger, 1966NUN WEND IHR HÖREN SAGEN
+composer   Bentzenauer Ton, Nürnberg, 1540
+key        D
+tempo      135
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/313%20I%20Sing%20with%20Exultation.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2
+alto       d/2
+tenor      f#/2
+bass       d/2
+
+# measure 2
+soprano    a a b c#
+alto       e d d e
+tenor      a f# g g
+bass       c# d g e
+
+# measure 3
+soprano    d/2 d/2
+alto       f#/2 d/2
+tenor      a/2 f#/2
+bass       d/2 d/2
+
+# measure 4
+soprano    d/2 a d/2 c#
+alto       d/2 e f#/2 e
+tenor      f#/2 a a/2 a
+bass       b/2 c# d/2 a
+
+# measure 5
+soprano    b/2 a/2 d-/2
+alto       e/2 c#/2 d/2
+tenor      a g# a/2 f#/2
+bass       e/2 a/2 d/2
+
+# measure 6
+soprano    a a b c#
+alto       e d d e
+tenor      a f# g g
+bass       c# d g e
+
+# measure 7
+soprano    d/2 d/2
+alto       f#/2 d/2
+tenor      a/2 f#/2
+bass       d/2 d/2
+
+# measure 8
+soprano    d/2 a d/2 c#
+alto       d/2 e f#/2 e
+tenor      f#/2 a a/2 a
+bass       b/2 c# d/2 a
+
+# measure 9
+soprano    b/2 a/2 d/2
+alto       e/2 c#/2 d/2
+tenor      a g# a/2 a/2
+bass       e/2 a/2 f#-/2
+
+# measure 10
+soprano    d. c#/8 b a
+alto       d. e/8 d e
+tenor      a. a/8 f# a
+bass       f#-. a/8 b c#
+
+# measure 11
+soprano    f#/2 d-/2 R d-
+alto       d/2 d/2  R d
+tenor      a/2 f#/2 R f#
+bass       d/2 d/2 R d
+
+# measure 12
+soprano    a. b/8 c# d
+alto       d. d/8 e f#
+tenor      a. g/8 g a
+bass       f#. g/8 e d
+
+# measure 13
+soprano    b/2 a/2 R d
+alto       e/2 c#/2 R d
+tenor      a g# a/2 R a
+bass       e/2 a/2 R f#-
+
+# measure 14
+soprano    d. c#/8 b a
+alto       d. e/8 d e
+tenor      a. a/8 f# a
+bass       f#-. a/8 b c#
+
+# measure 15
+soprano    f#/2 d-/2
+alto       d/2 d/2
+tenor      a/2 f#/2
+bass       d/2 d/2
+
+# measure 16
+soprano    a/2 b a. f#/8 g
+alto       d/2 d c#. d/8 d
+tenor      a/2 g e. b/8 b
+bass       f#-/2 g- a. b/8 g-
+
+# measure 17
+soprano    e/2 d-/2
+alto       d c# d/2
+tenor      a/2 f#/2
+bass       a/2 d/2
+
+
+

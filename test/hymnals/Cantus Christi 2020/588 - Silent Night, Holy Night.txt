@@ -1,0 +1,87 @@
+title      Silent Night, Holy Night
+author     Joseph Mohr, 1818; tr. John Freeman Young, 1863STILLE NACHT
+composer   Franz Gruber, 1818
+key        Bb
+tempo      101
+rhythm     6 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/588%20Silent%20Night,%20Holy%20Night.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f. g/8 f d-/2.
+alto       d. eb/8 d bb/2.
+tenor      bb/2 bb f/2.
+bass       bb/2 bb bb/2.
+
+# measure 2
+soprano    f. g/8 f d-/2.
+alto       d. eb/8 d bb/2.
+tenor      bb/2 bb f/2.
+bass       bb/2 bb bb/2.
+
+# measure 3
+soprano    c/2 c a/2.
+alto       eb/2 eb eb/2.
+tenor      a/2 a c/2.
+bass       f/2 f f/2.
+
+# measure 4
+soprano    bb/2 bb f/2.
+alto       d/2 d d/2.
+tenor      bb/2 f bb/2.
+bass       bb/2 bb bb/2.
+
+# measure 5
+soprano    g/2 g bb. a/8 g
+alto       eb/2 eb g. f/8 eb
+tenor      bb/2 bb g. a/8 bb
+bass       eb/2 eb eb/2 eb
+
+# measure 6
+soprano    f. g/8 f d-/2.
+alto       d. eb/8 d bb/2.
+tenor      bb. bb/8 bb f/2.
+bass       bb. bb/8 bb bb/2.
+
+# measure 7
+soprano    g/2 g bb. a/8 g
+alto       bb/2 eb g. f/8 eb
+tenor      eb/2 bb g. a/8 bb
+bass       eb/2 eb eb. eb/8 eb
+
+# measure 8
+soprano    f. g/8 f d-/2.
+alto       d. eb/8 d bb/2.
+tenor      bb. bb/8 bb f/2.
+bass       bb. bb/8 bb bb/2.
+
+# measure 9
+soprano    c/2 c eb+. c/8 a
+alto       eb/2 eb c. eb/8 eb
+tenor      a/2 a a. a/8 c
+bass       f/2 f f. f/8 f
+
+# measure 10
+soprano    bb/2. d/2.
+alto       d/2. f/2.
+tenor      bb/1.
+bass       bb/1.
+
+# measure 11
+soprano    bb f d- f. eb/8 c-
+alto       d/2 bb a. a/8 a
+tenor      f/2 f f. f/8 eb
+bass       bb/2 bb f-. f-/8 f-
+
+# measure 12
+soprano    bb-/1.
+alto       bb/1.
+tenor      d-/1.
+bass       bb/1.
+
+
+

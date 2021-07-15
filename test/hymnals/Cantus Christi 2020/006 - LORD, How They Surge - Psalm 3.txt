@@ -1,0 +1,82 @@
+title      LORD, How They Surge
+author     Anonymous
+composer   Anonymous
+key        C
+tempo      135
+rhythm     0 : 4
+verse_count 3
+copyright  Text: Donald P. Owens II, 2012. All Rights Reserved. Used by permission. 7 Text: Christian Leithart, 2015. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/6%20LORD,%20How%20They%20Surge%20-%20Psalm%203%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2 g f e/2 a/2 a g# a/2
+alto       e/2 e d b/2 a/2 f e e/2
+tenor      c/2 c a g/2 c/2 d b a/2
+bass       a/2 c d e/2 f/2 d e a/2
+
+# measure 2
+soprano    c/2 b a g#
+alto       e/2 e e e
+tenor      a/2 b c b
+bass       a+/2 g# a+ e
+
+# measure 3
+soprano    g# a b c c d/2 g/1
+alto       e e e a+ gn f/2 e/1
+tenor      b c b a c/2 b c/1
+bass       e a+ g f e d/2 c/1
+
+# measure 4
+soprano    a/2 g f e/2 a/2 a g# a/2
+alto       e/2 e d b/2 a/2 f e e/2
+tenor      c/2 c a g/2 c/2 d b a/2
+bass       a/2 c d e/2 f/2 d e a/2
+
+# measure 5
+soprano    c/2 b a g#
+alto       e/2 e e e
+tenor      a/2 b c b
+bass       a+/2 g# a+ e
+
+# measure 6
+soprano    g# a b c c d/2 g/1
+alto       e e e a+ gn f/2 e/1
+tenor      b c b a c/2 b c/1
+bass       e a+ g f e d/2 c/1
+
+# measure 7
+soprano    c/2 b a b/2
+alto       e/2 d d d/2
+tenor      g/2 g f# g/2
+bass       c/2 g- d g-/2
+
+# measure 8
+soprano    d/2 c b a/2
+alto       g/2 e e e/2
+tenor      b/2 a g# a/2
+bass       g-/2 a e a/2
+
+# measure 9
+soprano    f/2 a g f
+alto       d/2 c e d
+tenor      a/2 a c a
+bass       d/2 f c d
+
+# measure 10
+soprano    e f g e
+alto       c# d d c#
+tenor      a a bb a
+bass       a d g- a
+
+# measure 11
+soprano    f g a b c b/2 a/1
+alto       d e c e e e/2 e/1
+tenor      a c a g# a/2 g# a/1
+bass       d c f e a e/2 a/1
+
+
+

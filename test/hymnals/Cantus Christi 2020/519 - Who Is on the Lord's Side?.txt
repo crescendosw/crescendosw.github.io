@@ -1,0 +1,159 @@
+title      Who Is on the Lord's Side?
+author     Frances Ridley Havergal, 1877
+composer   German melody, arr. John Goss, 1871
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/519%20Who%20Is%20on%20the%20Lord's%20Side.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g e+ d
+alto       e e g g
+tenor      c c c b
+bass       c c c+ g
+
+# measure 2
+soprano    c/2 g/2
+alto       g/2 e/2
+tenor      c/2 c/2
+bass       e/2 c/2
+
+# measure 3
+soprano    a a c c
+alto       f f f f
+tenor      c c c c
+bass       f f a+ a+
+
+# measure 4
+soprano    g/1
+alto       e/1
+tenor      c/1
+bass       c+/1
+
+# measure 5
+soprano    g# g# a c
+alto       e e e e
+tenor      d d c c
+bass       b+ b+ a+ a+
+
+# measure 6
+soprano    e+/2 d/2
+alto       e/2 g#/2
+tenor      b/2 b/2
+bass       g#/2 e/2
+
+# measure 7
+soprano    c a g f#
+alto       a+ e d d
+tenor      c c b a
+bass       a+ c d d
+
+# measure 8
+soprano    g/1
+alto       d/1
+tenor      b/1
+bass       g-/1
+
+# measure 9
+soprano    g g a e
+alto       e e c# c#
+tenor      g g g g
+bass       g g g g
+
+# measure 10
+soprano    g/2 f/2
+alto       e/2 d/2
+tenor      g a b c
+bass       g/2 g/2
+
+# measure 11
+soprano    b g c e
+alto       f f e c
+tenor      d d c c
+bass       g g g g
+
+# measure 12
+soprano    d-/1
+alto       b/1
+tenor      g/1
+bass       g f e d
+
+# measure 13
+soprano    e c- f d-
+alto       c c b b
+tenor      g g g g
+bass       c e d f
+
+# measure 14
+soprano    g e a f
+alto       c c c c
+tenor      g g a c
+bass       e g f a+
+
+# measure 15
+soprano    e/2 d-/2
+alto       c/2 b/2
+tenor      g/2. f
+bass       g/2 g-/2
+
+# measure 16
+soprano    c-/1
+alto       c/1
+tenor      e/1
+bass       c/1
+
+# measure 17
+soprano    c g e c-
+alto       c g e c
+tenor      c g e c-
+bass       c g e c
+
+# measure 18
+soprano    a/2 g/2
+alto       f/2 e/2
+tenor      c/2 c/2
+bass       f/2 c/2
+
+# measure 19
+soprano    c- d- e f
+alto       c d e f
+tenor      c- d- e f
+bass       c d e f
+
+# measure 20
+soprano    g/1
+alto       g/1
+tenor      g/1
+bass       g/1
+
+# measure 21
+soprano    c. c/8 c c
+alto       e. e/8 a+ a+
+tenor      c. c/8 c c
+bass       a+. a+/8 f f
+
+# measure 22
+soprano    e+/2 c/2
+alto       g/2 g/2
+tenor      c/2 c/2
+bass       c+/2 e f
+
+# measure 23
+soprano    g c d. c/8
+alto       e e f. e/8
+tenor      c c b. c/8
+bass       g g g-. c/8
+
+# measure 24
+soprano    c/1
+alto       e/1
+tenor      c/1
+bass       c/1
+
+
+

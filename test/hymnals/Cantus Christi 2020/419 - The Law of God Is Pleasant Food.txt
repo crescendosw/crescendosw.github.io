@@ -1,0 +1,70 @@
+title      The Law of God Is Pleasant Food
+author     Douglas Wilson, 1991 (c) LAW 2
+composer   Michael E. Owens, 1996
+key        G
+tempo      96
+rhythm     4 : 4
+verse_count 3
+copyright  Text: Douglas Wilson, 1991. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/419%20The%20Law%20of%20God%20Is%20Pleasant%20Food.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       d
+tenor      b
+bass       g-
+
+# measure 2
+soprano    g e a a
+alto       e c c fn
+tenor      c g a c
+bass       c c fn- a
+
+# measure 3
+soprano    g fn/8 g/8 e d-
+alto       e d c d
+tenor      c a/8 b/8 c a
+bass       c d e f#
+
+# measure 4
+soprano    b b c b/8 a/8
+alto       d g g g
+tenor      b e+ e+ e+
+bass       g e c e
+
+# measure 5
+soprano    a c b g
+alto       d f# d e
+tenor      d a b b
+bass       f# d g e
+
+# measure 6
+soprano    e+ e+ d b
+alto       g g g g
+tenor      c c b d
+bass       c/8 d/8 e/8 f#/8 g g
+
+# measure 7
+soprano    a d b/8 a/8 g/8 f#/8
+alto       f# d d b
+tenor      d a f# g
+bass       d f# b e
+
+# measure 8
+soprano    e/2 a/2
+alto       e/2 d/2
+tenor      g/2 f#/2
+bass       c/2 d/2
+
+# measure 9
+soprano    b/2.
+alto       d/2.
+tenor      g/2.
+bass       g-/2.
+
+
+

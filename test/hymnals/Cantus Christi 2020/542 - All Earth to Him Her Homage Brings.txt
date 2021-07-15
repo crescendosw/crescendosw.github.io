@@ -1,0 +1,226 @@
+title      All Earth to Him Her Homage Brings
+author     The Psalter, 1912
+composer   Anonymous
+key        G
+tempo      200
+rhythm     3 : 4
+verse_count 4
+copyright  Music: Gregory D. Wilbur, 2010. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/542%20All%20Earth%20to%20Him%20Her%20Homage%20Rings.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      d
+bass       d
+
+# measure 2
+soprano    g/2.
+alto       e/2.
+tenor      b/2.
+bass       e/2.
+
+# measure 3
+soprano    a/2.
+alto       d/2.
+tenor      d/2.
+bass       f#/2.
+
+# measure 4
+soprano    b/2.
+alto       g/2.
+tenor      d/2.
+bass       g/2.
+
+# measure 5
+soprano    b/2 g
+alto       g/2 g
+tenor      d/2 b
+bass       g/2 g
+
+# measure 6
+soprano    c/2.
+alto       g/2.
+tenor      e+/2.
+bass       c/2.
+
+# measure 7
+soprano    b/2.
+alto       g/2.
+tenor      d/2.
+bass       g/2.
+
+# measure 8
+soprano    a/2.
+alto       g/2.
+tenor      d/2.
+bass       d/2.
+
+# measure 9
+soprano    a/2 e/8 f#/8
+alto       f#/2 e
+tenor      d/2 c
+bass       d/2 d
+
+# measure 10
+soprano    g/2.
+alto       e/2.
+tenor      b/2.
+bass       e/2.
+
+# measure 11
+soprano    a/2.
+alto       d/2.
+tenor      d/2.
+bass       f#/2.
+
+# measure 12
+soprano    b/2 d
+alto       g/2.
+tenor      d/2 b
+bass       g/2.
+
+# measure 13
+soprano    c b a
+alto       g/2 e
+tenor      e+ d c
+bass       c/2 c
+
+# measure 14
+soprano    g/2.
+alto       d/2.
+tenor      a/2.
+bass       d/2.
+
+# measure 15
+soprano    f#/2.
+alto       d/2.
+tenor      a/2.
+bass       d/2.
+
+# measure 16
+soprano    g/2.
+alto       d/2.
+tenor      b/2.
+bass       g/2.
+
+# measure 17
+soprano    g/2
+alto       d/2
+tenor      b/2
+bass       g/2
+
+# measure 18
+soprano    d-
+alto       d
+tenor      d
+bass       d
+
+# measure 19
+soprano    g/2 g
+alto       d/2 d
+tenor      b/2 a
+bass       g/2 d
+
+# measure 20
+soprano    g a b
+alto       d/2 g
+tenor      b/2 d
+bass       g/2 d
+
+# measure 21
+soprano    c b a
+alto       a+ g fn
+tenor      c/2 c
+bass       fn/2 a+
+
+# measure 22
+soprano    b/2 g
+alto       g/2 d
+tenor      d/2 b
+bass       g/2 g
+
+# measure 23
+soprano    fn/2 f
+alto       fn/2 f
+tenor      c/2 c
+bass       a+/2 a+
+
+# measure 24
+soprano    fn g a
+alto       f/2 f
+tenor      a/2 c
+bass       fn/2 f
+
+# measure 25
+soprano    a g f
+alto       fn/2 d
+tenor      d/2 a
+bass       d/2 d
+
+# measure 26
+soprano    g/2 d-
+alto       d/2 d
+tenor      b/2 d
+bass       g/2 d
+
+# measure 27
+soprano    g/2 g
+alto       d/2 d
+tenor      b/2 a
+bass       g/2 d
+
+# measure 28
+soprano    g a b
+alto       d/2 g
+tenor      b/2 d
+bass       g/2 d
+
+# measure 29
+soprano    c b a
+alto       a+ g fn
+tenor      c/2 c
+bass       fn/2 a+
+
+# measure 30
+soprano    b/2 g
+alto       g/2 d
+tenor      d/2 b
+bass       g/2 g
+
+# measure 31
+soprano    fn/2 f
+alto       fn/2 f
+tenor      c/2 c
+bass       a+/2 a+
+
+# measure 32
+soprano    fn g a
+alto       f/2 f
+tenor      a/2 c
+bass       fn/2 f
+
+# measure 33
+soprano    a g f
+alto       fn/2 d
+tenor      d/2 a
+bass       d/2 d
+
+# measure 34
+soprano    g/2.
+alto       d/2.
+tenor      b/2.
+bass       g/2.
+
+# measure 35
+soprano    g/2
+alto       d/2
+tenor      b/2
+bass       g/2
+
+
+

@@ -1,0 +1,39 @@
+title      The Day Is Past and Gone
+hymnal     Cantus Christi
+author     John Leland
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/695%20The%20Day%20Is%20Past%20and%20Gone.pdf
+
+tune       EVENING HYMN
+metre      S.M.
+composer   Elisha West, 1802
+key        C
+rhythm     4 : 4
+tempo      125
+
+status     header  tune  double  checked
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    a/1  | c   c  b a  | g/2. g | e+ d/8 c/8 b b | a/2. R
+alto       e/1  | e   e  g e  | e/2. e | e  f       e e | e/2. R
+tenor      a/1  | e+  e+ d c  | b/2. b | c  b/8 a/8 g g | a/2. R
+bass       a+/1 | a+  a+ g a+ | e/2. e | c  d       e e | a/2. a
+
+soprano    R/1     | R/1                     | R/2.          e
+alto       R/1     | R/2.          a         | e e e/8. f/16 g/16 f/8.
+tenor      R/2.  e | a a a/8. b/16 c/16 a/8. | g e e         e
+bass       e e e c | d d d         d         | e e c         c
+
+soprano    a a a/8. b/16 c/16 a/8. | g e e e | g g c         c
+alto       e e d         a+        | e g g g | g/2.          R
+tenor      a a d         c         | b/2 R b | c c c/8. b/16 e+/16 d/8.
+bass       a/2.          a+        | e e e g | c c c/2
+
+soprano    e+   c/8 a/8 b        b        | a a       g# g# | a/2.
+alto       a+/2         g/8 a+/8 g/8  f/8 | e f       e  e  | e/2.
+tenor      c    a/8 c/8 b        e+/8 d/8 | c a/8 c/8 b  b  | a/2.
+bass       a+/2         e/8 f/8  e/8  d/8 | c d       e  e  | a/2.
+

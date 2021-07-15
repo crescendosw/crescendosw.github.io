@@ -1,0 +1,207 @@
+title      Bless the LORD, O My Soul
+author     Holy Bible, King James Version, 1611; alt.
+composer   Mikhail M. Ippolitov-Ivanov (1859-1935)
+key        E
+tempo      101
+rhythm     4 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/192%20Bless%20the%20LORD,%20O%20My%20Soul%20-%20Psalm%20103%20Ippolitov-Ivanov.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    R/8 g# g#/8 f# e
+alto       R/8 e e/8 d# c#
+tenor      R/8 b b/8 b g#
+bass       R/8 e e/8 b c#
+
+# measure 2
+soprano    f# e/8 f#/8 g#. g#/8
+alto       d# c#/8 d#/8 e. e/8
+tenor      b g#/8 b/8 = b. b/8
+bass       b c#/8 b/8 e. e/8
+
+# measure 3
+soprano    g#/2 = g#/8 g#/8 g#/8 g#/8
+alto       e/2 = e/8 e/8 e/8 e/8
+tenor      b/2 = b/8 b/8 b/8 b/8
+bass       e/2 = e/8 e/8 e/8 e/8
+
+# measure 4
+soprano    b a/8 g#/8 g# f#
+alto       e/2 e d#
+tenor      b c# b/2
+bass       g#- a b/2
+
+# measure 5
+soprano    g#/2 = g#/8 g# g#/8
+alto       e/2 = e/8 e e/8
+tenor      b/2 = b/8 b b/8
+bass       e/2 = e/8 e e/8
+
+# measure 6
+soprano    f# e f# e/8 f#/8
+alto       d# c# d# c#/8 d#/8
+tenor      b g# b g#/8 b/8 =
+bass       b c# b c#/8 b/8
+
+# measure 7
+soprano    g#. g#/8 g#/8 R/8 g#/8 g#/8
+alto       e. e/8 e/8 R/8 e/8 e/8
+tenor      b. b/8 b/8 R/8 b/8 b/8
+bass       e. e/8 e/8 R/8 e/8 e/8
+
+# measure 8
+soprano    g# g#/8 g#/8 g#/8 a/8 b
+alto       e e/8 e/8 e e
+tenor      e+ c#/8 c#/8 e+/8 c#/8 b
+bass       c# c#/8 c#/8 b/8 a/8 g#-
+
+# measure 9
+soprano    b a/8 g#/8 g# f#
+alto       e e e d#
+tenor      b c# b b
+bass       g#- a b b
+
+# measure 10
+soprano    g#/2 = g#/8 g# g#/8
+alto       e/2 = e/8 e e/8
+tenor      b/2 = b/8 b b/8
+bass       e/2 = e/8 e e/8
+
+# measure 11
+soprano    f# e f# e/8 f#/8
+alto       d# c# d# c#/8 d#/8
+tenor      b g# b g#/8 b/8
+bass       b c# b c#/8 b/8
+
+# measure 12
+soprano    g#. g#/8 g#. g#/8
+alto       e. e/8 e. e/8
+tenor      b. b/8 b. b/8
+bass       e. e/8 e. e/8
+
+# measure 13
+soprano    g#/8 g#/8 g#/8 g#/8 c#/8 g#/8 g#/8 a#/8
+alto       e/8 e/8 e/8 e/8 g#/8 g#/8 g#/8 g#/8
+tenor      b/8 b/8 b/8 b/8 e+/8 e+/8 e+/8 e+/8
+bass       e/8 e/8 e/8 e/8 c#/8 c#/8 c#/8 c#/8
+
+# measure 14
+soprano    b a#/8 a#/8 b/2
+alto       g# g/8 g/8 g#/2
+tenor      d# d# d#/2
+bass       d# d# g#/2
+
+# measure 15
+soprano    b b an an/8 an/8
+alto       g# g# d# d#/8 d#/8
+tenor      d# d# b b/8 b/8
+bass       g# g# f# f#/8 f#/8
+
+# measure 16
+soprano    a a/8 a/8 g#. f#/8
+alto       d# d#/8 d#/8 e. d#/8
+tenor      b b/8 b/8 b/2
+bass       f# b/8 b/8 e. b/8
+
+# measure 17
+soprano    g#/8 R/8 g# c#/8 c#/8 c#/8 c#/8
+alto       e/8 R/8 e g#/8 g#/8 g#/8 g#/8
+tenor      b/8 R/8 e+ e+/8 e+/8 e+/8 e+/8
+bass       e/8 R/8 e c#/8 c#/8 c#/8 c#/8
+
+# measure 18
+soprano    c#. b/8 c# a#
+alto       g#. g#/8 g# f#
+tenor      e+. d#/8 e+ c#
+bass       c#. g#-/8 c# f#-
+
+# measure 19
+soprano    b/8 R/8 b/8 b/8 e+/8 e+/8 e+/8 e+/8
+alto       f#/8 R/8 f#/8 f#/8 b+/8 b+/8 b+/8 b+/8
+tenor      d#/8 R/8 d#/8 d#/8 e+/8 e+/8 e+/8 e+/8
+bass       b/8 R/8 a+/8 a+/8 g#/8 g#/8 g#/8 g#/8
+
+# measure 20
+soprano    e+/8 d#/8 e+. e+/8 e+/8 e+/8
+alto       b+ b+. b+/8 b+/8 b+/8
+tenor      e+/8 f#+/8 e+. e+/8 e+/8 e+/8
+bass       g#/8 b+/8 g#. g#/8 g#/8 g#/8
+
+# measure 21
+soprano    c#/2. c#
+alto       a+/2. a+
+tenor      e+/2. e+
+bass       a+/2. a+
+
+# measure 22
+soprano    e+/2 e/8 e/8 e/8 f#/8
+alto       g#/2 b/8 b/8 b/8 d#/8
+tenor      e+/2 g#/8 g#/8 g#/8 b/8
+bass       b+/2 b/8 b/8 b/8 b/8
+
+# measure 23
+soprano    g# g#/8 g#/8 g# f#/8 e/8
+alto       e e/8 e/8 e b/8 b/8
+tenor      b b/8 b/8 b a/8 g#/8
+bass       b b/8 b/8 b b
+
+# measure 24
+soprano    f#/2 e/2
+alto       b/2 b/2
+tenor      a/2 g#/2
+bass       b/2 e-/2
+
+# measure 25
+soprano    R/8 g# g#/8 f# e
+alto       R/8 e e/8 d# c#
+tenor      R/8 b b/8 b g#
+bass       R/8 e e/8 b c#
+
+# measure 26
+soprano    f# e/8 f#/8 g#. g#/8
+alto       d# c#/8 d#/8 e. e/8
+tenor      b g#/8 b/8 b. = b/8
+bass       b c#/8 b/8 e. e/8
+
+# measure 27
+soprano    g#/8 R/8 g# c# g#
+alto       e/8 R/8 e g# e
+tenor      b/8 R/8 b e+ c#
+bass       e/8 R/8 e c# c#
+
+# measure 28
+soprano    g#/8 a/8 b b a/8 g#/8
+alto       e/8 e/8 e e e/8 e/8
+tenor      e+/8 c#/8 b b c#/8 c#/8
+bass       b/8 a/8 g#- g#- a/8 a/8
+
+# measure 29
+soprano    g# f#/8 f#/8 g#/2 =
+alto       e d#/8 d#/8 e/2 =
+tenor      b. b/8 b/2 =
+bass       b. b/8 e/2 =
+
+# measure 30
+soprano    g#/8 g#/8 g#/8 g#/8 f# f#/8 e/8
+alto       e/8 e/8 e/8 e/8 c# c#
+tenor      b/8 c#/8 c#/8 c#/8 c# a/8 g#/8
+bass       e/8 c#/8 c#/8 c#/8 a a/8 c#/8
+
+# measure 31
+soprano    f#/2 g#/2
+alto       c#/2 d#/2
+tenor      a/2 b/2
+bass       f#-/2 b/2
+
+# measure 32
+soprano    e/1
+alto       b/1
+tenor      g#/1
+bass       e-/1
+
+
+

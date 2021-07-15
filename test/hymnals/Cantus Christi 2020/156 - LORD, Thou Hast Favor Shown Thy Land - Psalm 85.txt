@@ -1,0 +1,124 @@
+title      LORD, Thou Hast Favor Shown Thy Land
+author     Scottish Psalter, 1641 & The Psalter, 1871; alt. Arnold J. Robertstad, 2017 (c)ST. BERNARD
+composer   Tochter Sion, Cöln, 1741
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 8
+copyright  Text: Arnold J. Robertstad, 2017. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/156%20LORD,%20Thou%20Hast%20Favor%20-%20Psalm%2085%20ST.%20BERNARD.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       d
+tenor      f#
+bass       d
+
+# measure 2
+soprano    d- e f# e/8 d-/8
+alto       d c# d c#/8 d/8
+tenor      a a a a
+bass       f# e d g/8 f#/8
+
+# measure 3
+soprano    g f# e a
+alto       c# d c# e
+tenor      g a a a
+bass       e d a c#
+
+# measure 4
+soprano    f# b g#. g#/8
+alto       d d d. d/8
+tenor      a b b. b/8
+bass       d b e. e/8
+
+# measure 5
+soprano    a/2. a
+alto       c#/2. c#
+tenor      a/2. a
+bass       a/2. a+
+
+# measure 6
+soprano    d b a b
+alto       d d d b
+tenor      a g f# f#
+bass       f# g d d#
+
+# measure 7
+soprano    g g f# d-
+alto       b e d d
+tenor      g a a f#
+bass       e c# d d
+
+# measure 8
+soprano    g f# e e
+alto       d d d c#
+tenor      g a b a/8 g/8
+bass       b a g- a
+
+# measure 9
+soprano    d-/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+# measure 10
+soprano    a
+alto       d
+tenor      f#
+bass       d
+
+# measure 11
+soprano    d- e f# e/8 d-/8
+alto       d c# d c#/8 d/8
+tenor      a a a a
+bass       f# e d g/8 f#/8
+
+# measure 12
+soprano    g f# e a
+alto       c# d c# e
+tenor      g a a a
+bass       e d a c#
+
+# measure 13
+soprano    f# b g#. g#/8
+alto       d d d. d/8
+tenor      a b b. b/8
+bass       d b e. e/8
+
+# measure 14
+soprano    a/2. a
+alto       c#/2. c#
+tenor      a/2. a
+bass       a/2. a+
+
+# measure 15
+soprano    d b a b
+alto       d d d b
+tenor      a g f# f#
+bass       f# g d d#
+
+# measure 16
+soprano    g g f# d-
+alto       b e d d
+tenor      g a a f#
+bass       e c# d d
+
+# measure 17
+soprano    g f# e e
+alto       d d d c#
+tenor      g a b a/8 g/8
+bass       b a g- a
+
+# measure 18
+soprano    d-/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

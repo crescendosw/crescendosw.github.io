@@ -1,0 +1,63 @@
+title      God Be with You Till We Meet Again
+author     Jeremiah Eames Rankin, 1880RANDOLPH
+composer   Ralph Vaughan Williams, 1906; alt.
+key        D
+tempo      100
+rhythm     8 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/701%20God%20Be%20with%20You%20Till%20We%20Meet%20Again.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f#/2 a/2 b a g f#
+alto       d/2 d/2 d d d d
+tenor      a/2 a/2 b b b b
+bass       d/2 f#/2 g g e e
+
+# measure 2
+soprano    e/2. d- d-/1
+alto       d/2 c#/2 d/1
+tenor      a/2 g/2 f#/1
+bass       a/2 a/2 d/1
+
+# measure 3
+soprano    f#/2 g#/2 a/2. a
+alto       d/2 e/2 e/2 c#/2
+tenor      a/2 b/2 a/2 a/2
+bass       d/2 d/2 c#/2 f#/2
+
+# measure 4
+soprano    b/2 c# d d/2 c#/2
+alto       f#/2 e/2 e/2 e/2
+tenor      a/2 g#/2 a/2 a/2
+bass       d/2 e/2 a+/2 a+ gn
+
+# measure 5
+soprano    d/2. c# b/2 a/2
+alto       d/2. d d/2 d/2
+tenor      a/2. a b/2 b/2
+bass       f#/2. f# g/2 f#/2
+
+# measure 6
+soprano    g/2 a b a/2 g/2
+alto       e/2 e/2 e/2 c#/2
+tenor      b/2 g/2 a/2 a/2
+bass       e/2 d/2 c#/2 a/2
+
+# measure 7
+soprano    f#/2 a/2 b a g f#
+alto       d/2 cn/2 b b b b
+tenor      a/2 a/2 g g g g
+bass       d/2 f#/2 g g e e
+
+# measure 8
+soprano    e/2. d- d-/1
+alto       d/2 c#/2 a/1
+tenor      a/2 g/2 f#/1
+bass       a/2 a/2 d/1
+
+
+

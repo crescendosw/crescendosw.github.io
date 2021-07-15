@@ -1,0 +1,159 @@
+title      Praise, My Soul, the King of Heaven
+author     Henry F. Lyte, 1834LAUDA ANIMA (Andrews)
+composer   Mark Andrews, 1930
+key        D
+tempo      100
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/194%20Praise,%20My%20Soul,%20the%20King%20-%20Psalm%20103%20LAUDA%20ANIMA%20(Andrews).pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a f# e
+alto       d/2 c#
+tenor      f# a g
+bass       d/2 a
+
+# measure 2
+soprano    d-/2 d-
+alto       b/2 c#
+tenor      f#/2 a
+bass       b/2 f#-
+
+# measure 3
+soprano    g b/2
+alto       b. c#/8 d/8 e/8
+tenor      g/2 g
+bass       g-. a/8 b/8 c#/8
+
+# measure 4
+soprano    b a/2
+alto       d/2 c#
+tenor      f#/2 g
+bass       d/2 e
+
+# measure 5
+soprano    a f# a
+alto       d/2 d
+tenor      a/2 f#
+bass       f# d c#
+
+# measure 6
+soprano    d c# b
+alto       d/2 f#
+tenor      f#/2 b
+bass       b c# d
+
+# measure 7
+soprano    a g#/2
+alto       f# d# e#
+tenor      c# b/2
+bass       c# c#/2
+
+# measure 8
+soprano    f#/2.
+alto       f#/2.
+tenor      a/2.
+bass       f#/2 e
+
+# measure 9
+soprano    a f# e
+alto       d/2 c#
+tenor      f# a g
+bass       d/2 a
+
+# measure 10
+soprano    d-/2 d-
+alto       b/2 c#
+tenor      f#/2 a
+bass       b/2 f#-
+
+# measure 11
+soprano    g b/2
+alto       b. c#/8 d/8 e/8
+tenor      g/2 g
+bass       g-. a/8 b/8 c#/8
+
+# measure 12
+soprano    b a/2
+alto       d/2 c#
+tenor      f#/2 g
+bass       d/2 e
+
+# measure 13
+soprano    a f# a
+alto       d/2 e
+tenor      a/2 a
+bass       f# d c#
+
+# measure 14
+soprano    d c# b
+alto       fn/2 fn
+tenor      a/2 a
+bass       b c# d
+
+# measure 15
+soprano    c# b/2
+alto       e d/2
+tenor      a f# g#
+bass       e/2 e
+
+# measure 16
+soprano    a/2.
+alto       c#/2.
+tenor      a/2.
+bass       a/2.
+
+# measure 17
+soprano    b/8 c#/8 d c#/8 b/8
+alto       g/8 a+/8 b+ a+/8 g/8
+tenor      b/8 a/8 g a/8 b/8
+bass       g/8 f#/8 e f#/8 g/8
+
+# measure 18
+soprano    c# a f#
+alto       a+ f# c#
+tenor      a/2 a
+bass       f#/2 d
+
+# measure 19
+soprano    g/8 a/8 b a/8 g/8
+alto       e/8 f#/8 g f#/8 e/8
+tenor      b/8 a/8 g a/8 b/8
+bass       g/8 f#/8 e f#/8 g/8
+
+# measure 20
+soprano    a f# e
+alto       cn/2 cn
+tenor      a/2 a
+bass       f# d f#
+
+# measure 21
+soprano    d- b/2
+alto       b/2 c#
+tenor      g/2 e
+bass       g/2 g-
+
+# measure 22
+soprano    a d/2
+alto       d d/2
+tenor      a/2 f#
+bass       f#-/2 b
+
+# measure 23
+soprano    g f# e
+alto       b c# c#
+tenor      g a g
+bass       e a/2
+
+# measure 24
+soprano    d-/2.
+alto       a/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

@@ -1,0 +1,117 @@
+title      Jehovah Reigns; Let Earth Be Glad
+author     The Psalter, 1912ST. BARTHOLOMEW
+composer   Henry Duncalf, 1762 
+key        Bb
+tempo      130
+rhythm     3 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/180%20Jehovah%20Reigns;%20Let%20Earth%20-%20Psalm%2097%20ST.%20BARTHOLOMEW.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       d
+tenor      bb
+bass       bb
+
+# measure 2
+soprano    bb/2 f
+alto       f/2 d
+tenor      d/2 bb
+bass       bb+/2 bb+
+
+# measure 3
+soprano    c/2 f
+alto       f/2 f
+tenor      c/2 c
+bass       a+/2 a+
+
+# measure 4
+soprano    d c bb
+alto       f/2 en
+tenor      bb c g
+bass       bb+ a+ g
+
+# measure 5
+soprano    c/2 f
+alto       f/2 f
+tenor      a/2 c
+bass       f/2 a+
+
+# measure 6
+soprano    bb/2 a
+alto       f en f
+tenor      d bb c
+bass       g/2 f
+
+# measure 7
+soprano    g/2 f
+alto       d en f
+tenor      bb c c
+bass       bb/2 a
+
+# measure 8
+soprano    g f en
+alto       d c. bb/8
+tenor      bb g/2
+bass       bb c c
+
+# measure 9
+soprano    f/2 a
+alto       a/2 d
+tenor      f/2 f#
+bass       f/2 d
+
+# measure 10
+soprano    bb. a/8 g
+alto       d/2 d
+tenor      g. a/8 bb
+bass       g/2 g
+
+# measure 11
+soprano    d/2 d-
+alto       d/2 d
+tenor      a/2 bn
+bass       f#/2 g
+
+# measure 12
+soprano    eb. d-/8 eb
+alto       c/2 c
+tenor      c g a
+bass       c/2 f
+
+# measure 13
+soprano    d-/2 f
+alto       bb/2 c
+tenor      bb/2 a
+bass       bb/2 f/8 eb/8
+
+# measure 14
+soprano    bb f g
+alto       f/2 bb
+tenor      bb/2 bb
+bass       d/2 eb
+
+# measure 15
+soprano    f eb d-
+alto       bb. c/8 d
+tenor      f g/8 a/8 bb
+bass       d c bb
+
+# measure 16
+soprano    c bb a
+alto       g/8 f/16 eb/16 d f/8 eb/8
+tenor      g f c
+bass       eb f f
+
+# measure 17
+soprano    bb/2
+alto       d/2
+tenor      bb/2
+bass       bb/2
+
+
+

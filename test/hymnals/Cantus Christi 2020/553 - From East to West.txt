@@ -1,0 +1,66 @@
+title      From East to West
+author     Coelius Sedulius, c.450; tr. John Ellerton, 1864ROUEN
+composer   Rouen Antiphoner, 1728; harm. Ralph Vaughan Williams, 1906
+key        Bb
+tempo      100
+rhythm     3 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/553%20From%20East%20to%20West.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    g
+
+# measure 2
+unison    bb/2 a
+
+# measure 3
+unison    g f g
+
+# measure 4
+unison    d-/2 g
+
+# measure 5
+unison    g/2 bb
+
+# measure 6
+unison    c/2 bb
+
+# measure 7
+unison    a g a
+
+# measure 8
+unison    bb a g
+
+# measure 9
+unison    f/2 d-
+
+# measure 10
+unison    f/2 f
+
+# measure 11
+unison    g/2 f
+
+# measure 12
+unison    bb g a
+
+# measure 13
+unison    bb/2 c
+
+# measure 14
+unison    d/2 c
+
+# measure 15
+unison    bb a bb
+
+# measure 16
+unison    c bb a
+
+# measure 17
+unison    g/2
+
+
+

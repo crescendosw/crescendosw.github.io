@@ -1,0 +1,111 @@
+title      Be with Me, Lord
+author     John Cennick (1718-1755) UFFINGHAM
+composer   Jeremiah Clarke (1670-1707)
+key        Ab
+tempo      101
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/381%20Be%20with%20Me,%20Lord.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f/8 eb/8 db-
+alto       c c bb
+tenor      ab f f
+bass       f ab bb
+
+# measure 2
+soprano    c-/2 g
+alto       ab/2 c
+tenor      ab/2 g
+bass       f/2 en
+
+# measure 3
+soprano    ab g f
+alto       c/2 c/8 bb/8
+tenor      f g ab/8 f/8
+bass       f eb db
+
+# measure 4
+soprano    en/2.
+alto       c/2.
+tenor      g/2.
+bass       c/2.
+
+# measure 5
+soprano    c c c
+alto       c eb eb
+tenor      ab ab ab
+bass       ab c ab
+
+# measure 6
+soprano    bb/2 ab
+alto       eb db c
+tenor      g/2 ab
+bass       eb/2 f
+
+# measure 7
+soprano    bb g/2
+alto       db bb/2
+tenor      f eb/2
+bass       db eb/2
+
+# measure 8
+soprano    ab/2.
+alto       c/2.
+tenor      eb/2.
+bass       ab/2.
+
+# measure 9
+soprano    eb+ eb+ db
+alto       ab+ ab+ g
+tenor      c ab bb
+bass       ab c eb
+
+# measure 10
+soprano    c/2 c
+alto       ab+/2 eb
+tenor      c/2 c
+bass       ab+/2 ab+
+
+# measure 11
+soprano    c bb ab
+alto       eb/2 eb/8 dn/8
+tenor      ab bb c/8 ab/8
+bass       ab+ g f
+
+# measure 12
+soprano    g/2 g
+alto       eb/2 en
+tenor      bb/2 c
+bass       eb/2 c
+
+# measure 13
+soprano    ab g f
+alto       f c. bb/8
+tenor      c/2 f
+bass       f eb db
+
+# measure 14
+soprano    en/2 c
+alto       c/2 c
+tenor      g/2 f
+bass       c/2 ab
+
+# measure 15
+soprano    ab/2 g/8 f/8
+alto       c/2 en/8 f/8
+tenor      f/2 g
+bass       c/2 c
+
+# measure 16
+soprano    f/2.
+alto       c/2.
+tenor      ab/2.
+bass       f-/2.
+
+
+

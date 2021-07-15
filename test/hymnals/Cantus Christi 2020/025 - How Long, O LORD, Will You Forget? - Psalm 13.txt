@@ -1,0 +1,46 @@
+title      How Long, O LORD, Will You Forget?
+author     Douglas Wilson, 2000 (c) HOW LONG, O LORD
+composer   Timothy Dusenbury, 1999 (c)
+key        C
+tempo      135
+rhythm     0 : 4
+verse_count 3
+copyright  Music: Timothy Dusenbury, 1999. Used by permission. Text: Douglas Wilson, 2000. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/25%20How%20Long,%20O%20LORD,%20Will%20You%20-%20Psalm%2013%20HOW%20LONG.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 a g f/2 g/2 e c- d-/2
+alto       a/2 c c d/2 d/2 c a a/2
+tenor      f/2 e e a/2 b/2 a e f/2
+bass       d/2 a c d/2 g-/2 a a d/2
+
+# measure 2
+soprano    d-/2 f g a/2 c/2 b g a/2
+alto       d/2 d e c/2 f/2 d d c/2
+tenor      a/2 a c a/2 a/2 g g e/2
+bass       d/2 d c f-/2 f-/2 g- b a/2
+
+# measure 3
+soprano    a/2 c d a g f e d-/2 c-/2
+alto       c/2 e g e e d c bb/2 a/2
+tenor      a/2 a b c c a a f/2 f/2
+bass       a/2 a g- a c d a bb/2 f-/2
+
+# measure 4
+soprano    c-/2 d- c- d- e f f g/2 e/2
+alto       g-/2 bb c bb c c c e/2 c/2
+tenor      e/2 f f g g f a c/2 g/2
+bass       c/2 bb a g- c a f- c/2 c/2
+
+# measure 5
+soprano    a/2 e f g/2 a g f/2 e/2 d-/1
+alto       d/2 c c e/2 e/2 d/2 d c# d/1
+tenor      f/2 g a c/2 c/2 a/2 a/2 a/1
+bass       d/2 c f- c/2 a c d/2 a/2 d/1
+
+
+

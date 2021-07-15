@@ -1,0 +1,70 @@
+title      Not unto Us, LORD, Not to Us
+author     Anonymous
+composer   Anonymous
+key        F
+tempo      110
+rhythm     4 : 4
+verse_count 6
+copyright  Text: Free Church of Scotland, 2003. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/218%20Not%20unto%20Us,%20LORD%20-%20Psalm%20115%20MELROSE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2
+alto       c/2
+tenor      a/2
+bass       f/2
+
+# measure 2
+soprano    c a bb c
+alto       f f g eb
+tenor      a. c/8 eb+ g
+bass       f f eb c
+
+# measure 3
+soprano    bb g a bb
+alto       g g f f
+tenor      g. bb/8 d d
+bass       eb eb d bb
+
+# measure 4
+soprano    a f g a
+alto       f c/8 d/8 e f
+tenor      a a c c
+bass       d/8 e/8 f c f-
+
+# measure 5
+soprano    g/2 c/2
+alto       e/2 e/2
+tenor      c/2 g/2
+bass       c/2 c/2
+
+# measure 6
+soprano    d c a c
+alto       g e f e
+tenor      bb a c c
+bass       g a+ f c
+
+# measure 7
+soprano    bb a g bb
+alto       d/8 g f/8 e g
+tenor      d/8 bb/8 c/8 d/8 e+ d
+bass       g a+/8 bb+/8 c+ g/8 g-/8
+
+# measure 8
+soprano    a f g g
+alto       e d/8 f/8 e/8 d/8 e
+tenor      c a c. bb/8
+bass       a d c c
+
+# measure 9
+soprano    f/2
+alto       c/2
+tenor      a/2
+bass       f-/2
+
+
+

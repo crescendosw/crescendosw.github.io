@@ -1,0 +1,208 @@
+title      Thou, Whose Purpose Is to Kindle
+author     D. Elton Trueblood, 1967 (c)JEFFERSON
+composer   Tennessee Harmony, 1818
+key        Bb
+tempo      120
+rhythm     2 : 4
+verse_count 3
+copyright  Text: Samuel Trueblood, 1967. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/659%20Thou,%20Whose%20Purpose%20Is%20to%20Kindle.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g/8 f/8
+alto       d d/8 c/8
+tenor      g g/8 a/8
+bass       d d/8 f/8
+
+# measure 2
+soprano    d- f/8 g/8
+alto       d c/8 d/8
+tenor      bb g
+bass       g g
+
+# measure 3
+soprano    bb a/8 g/8
+alto       f f/8 d/8
+tenor      d d
+bass       f f/8 eb/8
+
+# measure 4
+soprano    a g
+alto       f d
+tenor      bb/8 c/8 d
+bass       f d
+
+# measure 5
+soprano    g/8 f/8 d-/8 c-/8
+alto       d/8 c/8 d/8 c/8
+tenor      bb a
+bass       bb/8 c/8 d/8 f/8
+
+# measure 6
+soprano    d- f/8 g/8
+alto       d d/8 eb/8
+tenor      g a/8 g/8
+bass       g c
+
+# measure 7
+soprano    bb a
+alto       f f
+tenor      c a
+bass       d d
+
+# measure 8
+soprano    g/2
+alto       g/2
+tenor      g/2
+bass       g-/2
+
+# measure 9
+soprano    g g/8 f/8
+alto       d d/8 c/8
+tenor      g g/8 a/8
+bass       d d/8 f/8
+
+# measure 10
+soprano    d- f/8 g/8
+alto       d c/8 d/8
+tenor      bb g
+bass       g g
+
+# measure 11
+soprano    bb a/8 g/8
+alto       f f/8 d/8
+tenor      d d
+bass       f f/8 eb/8
+
+# measure 12
+soprano    a g
+alto       f d
+tenor      bb/8 c/8 d
+bass       f d
+
+# measure 13
+soprano    g/8 f/8 d-/8 c-/8
+alto       d/8 c/8 d/8 c/8
+tenor      bb a
+bass       bb/8 c/8 d/8 f/8
+
+# measure 14
+soprano    d- f/8 g/8
+alto       d d/8 eb/8
+tenor      g a/8 g/8
+bass       g c
+
+# measure 15
+soprano    bb a
+alto       f f
+tenor      c a
+bass       d d
+
+# measure 16
+soprano    g/2
+alto       g/2
+tenor      g/2
+bass       g-/2
+
+# measure 17
+soprano    bb c
+alto       g a+
+tenor      bb a
+bass       d f
+
+# measure 18
+soprano    d d
+alto       bb+ bb+
+tenor      g g
+bass       g g
+
+# measure 19
+soprano    bb a/8 g/8
+alto       g f/8 eb/8
+tenor      bb/8 c/8 d/8 c/8
+bass       f g
+
+# measure 20
+soprano    a g
+alto       f d
+tenor      d d
+bass       d d
+
+# measure 21
+soprano    bb c
+alto       d f
+tenor      d c
+bass       bb c
+
+# measure 22
+soprano    d d/8 c/8
+alto       bb+ bb+/8 a+/8
+tenor      bb g
+bass       d g
+
+# measure 23
+soprano    bb a/8 g/8
+alto       g f/8 d/8
+tenor      bb c/8 bb/8
+bass       f c
+
+# measure 24
+soprano    a/2
+alto       f/2
+tenor      a/2
+bass       d/2
+
+# measure 25
+soprano    g bb/8 c/8
+alto       d g/8 a+/8
+tenor      d d/8 c/8
+bass       g f/8 g/8
+
+# measure 26
+soprano    d d
+alto       bb+ bb+
+tenor      a bb/8 a/8
+bass       a+ g
+
+# measure 27
+soprano    bb a/8 g/8
+alto       g f/8 eb/8
+tenor      bb a/8 bb/8
+bass       g d
+
+# measure 28
+soprano    a g
+alto       f d
+tenor      c d
+bass       c d
+
+# measure 29
+soprano    g/8 f/8 d-/8 c-/8
+alto       d/8 c/8 d/8 c/8
+tenor      bb a
+bass       g a+
+
+# measure 30
+soprano    d- f/8 g/8
+alto       d f/8 g/8
+tenor      g a/8 g/8
+bass       g c
+
+# measure 31
+soprano    bb a
+alto       g f
+tenor      f a
+bass       d d
+
+# measure 32
+soprano    g/2
+alto       g/2
+tenor      g/2
+bass       g-/2
+
+
+

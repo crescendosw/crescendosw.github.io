@@ -1,0 +1,54 @@
+title      Dear Lord and Father
+author     John Greenleaf Whittier (1807-1892)REPTON
+composer   Charles Hubert Hastings Parry (1848-1918)
+key        Eb
+tempo      85
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/370%20Dear%20Lord%20and%20Father.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    eb
+
+# measure 2
+unison    bb. bb/8 c/8 bb/8 g/8 ab/8
+
+# measure 3
+unison    bb. bb/8 eb eb
+
+# measure 4
+unison    ab g d- eb
+
+# measure 5
+unison    bb-/2. bb-
+
+# measure 6
+unison    c- g f eb
+
+# measure 7
+unison    d- ab g f
+
+# measure 8
+unison    eb. eb/8 c ab
+
+# measure 9
+unison    f g/8 ab/8 bb c/8 d/8
+
+# measure 10
+unison    eb+ bb c/8 bb/8 g/8 ab/8
+
+# measure 11
+unison    bb/2. bb
+
+# measure 12
+unison    ab c- eb. d-/8
+
+# measure 13
+unison    eb/2.
+
+
+

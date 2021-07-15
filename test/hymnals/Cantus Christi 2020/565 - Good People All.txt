@@ -1,0 +1,117 @@
+title      Good People All
+author     Anonymous
+composer   Anonymous
+key        G
+tempo      130
+rhythm     3 : 2
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/565%20Good%20People%20All.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      d-
+bass       d
+
+# measure 2
+soprano    g g/8 f#/8 g/2. a
+alto       g d d. c/8 b d
+tenor      g a b. c/8 d d
+bass       g d b. a/8 g- f#
+
+# measure 3
+soprano    b c d/2. d
+alto       g g f#/2. d
+tenor      b g a/2. b
+bass       e e d/2. b
+
+# measure 4
+soprano    c b g d-/2 e
+alto       e f# e d/2 e
+tenor      a f# b a c b
+bass       c d e f# g/2
+
+# measure 5
+soprano    fn g f/2. d-
+alto       c c d/2. d
+tenor      a g a/2. d-
+bass       fn e d/2. d
+
+# measure 6
+soprano    g g/8 f#/8 g/2. a
+alto       g d d. c/8 b d
+tenor      g a b. c/8 d d
+bass       g d b. a/8 g- f#
+
+# measure 7
+soprano    b c d/2. b
+alto       g g f#/2. e
+tenor      b g a/2. g
+bass       e e d/2. e
+
+# measure 8
+soprano    c d b g/2 a
+alto       e d e fn/2 e
+tenor      g g g g c/2
+bass       c b c d c/2
+
+# measure 9
+soprano    g g g/2. g
+alto       d c d/2. g
+tenor      b c b/2. g
+bass       g e g/2. g
+
+# measure 10
+soprano    g fn+ d c/2 a
+alto       g a+ g e/2 fn
+tenor      g c b a/2 c
+bass       g fn g a+/2 fn
+
+# measure 11
+soprano    bb c bb/2. d/8 c/8
+alto       fn c d/2. d
+tenor      bb a fn/2. bb
+bass       g fn bb/2. g-
+
+# measure 12
+soprano    bb/6 a/6 g/6 g d-/2 e
+alto       d d d/2. c
+tenor      g/6 a/6 bb/6 bb a bb c
+bass       g- g- g fn g a+
+
+# measure 13
+soprano    fn g fn/2. d-
+alto       d e d/2. d
+tenor      a c a/2. d-
+bass       d c d/2. d
+
+# measure 14
+soprano    g g/8 f#/8 g/2. a
+alto       g d b. c/8 d e
+tenor      g a g. a/8 b c
+bass       g d e/2. f#
+
+# measure 15
+soprano    b c d/2. b
+alto       fn e d/2. d
+tenor      d c a/2. g
+bass       g a+ f#/2. g
+
+# measure 16
+soprano    c d b g/2 a
+alto       fn fn d = d/2 d
+tenor      a b g b/2 a
+bass       fn d g = g/2 f#
+
+# measure 17
+soprano    g g g/2.
+alto       g d b/2.
+tenor      b c d/2.
+bass       e a+ g/2.
+
+
+

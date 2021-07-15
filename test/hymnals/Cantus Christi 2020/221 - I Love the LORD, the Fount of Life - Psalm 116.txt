@@ -1,0 +1,64 @@
+title      I Love the LORD, the Fount of Life
+author     William Kuipers, 1931; rev. (c)J'AIME MON DIEU [GENEVAN 116]
+composer   Genevan Psalter, 1562; harm. Mark Reagan, 2020 (c)
+key        Eb
+tempo      150
+rhythm     0 : 4
+verse_count 9
+copyright  Text: Faith Alive Christian Resources, 1976. Used by permission. Arrangement: Mark Reagan, 2020. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/221%20I%20Love%20the%20LORD,%20the%20Fount%20-%20Psalm%20116%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb/2 g ab bb/2 bb/2 g ab f f eb/1
+alto       eb/2 eb d eb/2. d eb eb eb d eb/1
+tenor      g/2 bb bb bb/2 bb ab bb c bb. ab/8 g/1
+bass       eb/2 eb f g/2 ab+ f eb ab bb bb eb/1
+
+# measure 2
+soprano    eb/2 g ab bb/2 ab/2 g f g bb an/2 bb/1
+alto       eb/2 eb eb eb/2 eb f eb bb eb g f. eb/8 d/1
+tenor      g/2 c c bb/2 c bb bb. ab/8 g eb+/8 d/8 c/2 bb/1
+bass       eb/2 c ab g-/2 c d eb d c d/8 eb/8 f/2 bb/1
+
+# measure 3
+soprano    bb/2 ab g f/2 bb/2 ab g ab bb c/2 bb/1
+alto       f/2 f eb dn/2 d/2 c/8 d/8 eb. f/8 g eb/2 d/1
+tenor      db/2 db bb bb/2 f/2 f bb c bb bb an bb/1
+bass       bb/2 db eb bb/2 bb/2 f eb ab+ g f/2 bb/1
+
+# measure 4
+soprano    f/2 g ab bb/2 f/2 g ab f f eb/1
+alto       c. d/8 eb. f/8 d/2 d/2 eb eb eb d eb/1
+tenor      ab/2 g eb f/2 bb/2 bb c c bb/8 ab/8 g/1
+bass       f/2 eb c bb/2 bb/2 eb ab bb bb eb/1
+
+# measure 5
+soprano    bb/2 g ab bb/2 bb/2 g ab f f eb/1
+alto       eb/2 eb d eb/2. d eb eb eb d eb/1
+tenor      g/2 bb bb bb/2 bb ab bb c bb. ab/8 g/1
+bass       eb/2 eb f g/2 ab+ f eb ab bb bb eb/1
+
+# measure 6
+soprano    eb/2 g ab bb/2 ab/2 g f g bb an/2 bb/1
+alto       eb/2 eb eb eb/2 eb f eb bb eb g f. eb/8 d/1
+tenor      g/2 c c bb/2 c bb bb. ab/8 g eb+/8 d/8 c/2 bb/1
+bass       eb/2 c ab g-/2 c d eb d c d/8 eb/8 f/2 bb/1
+
+# measure 7
+soprano    bb/2 ab g f/2 bb/2 ab g ab bb c/2 bb/1
+alto       f/2 f eb dn/2 d/2 c/8 d/8 eb. f/8 g eb/2 d/1
+tenor      db/2 db bb bb/2 f/2 f bb c bb bb an bb/1
+bass       bb/2 db eb bb/2 bb/2 f eb ab+ g f/2 bb/1
+
+# measure 8
+soprano    f/2 g ab bb/2 f/2 g ab f f eb/1
+alto       c. d/8 eb. f/8 d/2 d/2 eb eb eb d eb/1
+tenor      ab/2 g eb f/2 bb/2 bb c c bb/8 ab/8 g/1
+bass       f/2 eb c bb/2 bb/2 eb ab bb bb eb/1
+
+
+

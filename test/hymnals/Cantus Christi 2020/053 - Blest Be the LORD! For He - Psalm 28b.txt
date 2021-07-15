@@ -1,0 +1,70 @@
+title      Blest Be the LORD! For He
+author     Christian Leithart, 2015 (c)
+composer   Anonymous
+key        G
+tempo      85
+rhythm     4 : 4
+verse_count 3
+copyright  Text: Christian Leithart, 2015. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/53%20Blest%20Be%20the%20LORD%20-%20Psalm%2028b%20GWALCHMAI.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b
+alto       d
+tenor      d
+bass       g
+
+# measure 2
+soprano    a b c b/8 a/8
+alto       d d e/8 a+/8 g/8 f#/8
+tenor      d b a/8 e+/8 d
+bass       f# g c d
+
+# measure 3
+soprano    b/2. d
+alto       g/2. g
+tenor      d/2. d
+bass       g/2. b
+
+# measure 4
+soprano    g g/8 a/8 b d/8 c/8
+alto       e e/8 f#/8 g g
+tenor      b e+ d d/8 e+/8
+bass       e c b b/8 c/8
+
+# measure 5
+soprano    b/2 a a
+alto       g/2 f# f#
+tenor      d/2 d a
+bass       d/2 d d/8 c/8
+
+# measure 6
+soprano    d c/8 b/8 c a
+alto       f# e e d
+tenor      a a/8 g#/8 a f#
+bass       b e a d
+
+# measure 7
+soprano    b a/8 g/8 f# b
+alto       d/8 g/8 f#/8 e/8 d# d#
+tenor      g c/8 b/8 b a
+bass       g- a b b
+
+# measure 8
+soprano    e e/8 f#/8 g g/8 a/8
+alto       e e d g
+tenor      g g/8 a/8 b b/8 c/8
+bass       c c b e
+
+# measure 9
+soprano    b a g
+alto       g f# g
+tenor      d. c/8 b
+bass       d/2 g-
+
+
+

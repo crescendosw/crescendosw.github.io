@@ -1,0 +1,124 @@
+title      Be Merciful to Me, O God
+author     Christian Leithart, 2015 (c)CORONA
+composer   Elizabeth Raymond Barker (1829-1916); alt.
+key        C
+tempo      101
+rhythm     4 : 4
+verse_count 9
+copyright  Text: Christian Leithart, 2015. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/98%20Be%20Merciful%20to%20Me%20-%20Psalm%2051%20CORONA.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       e
+tenor      e
+bass       e
+
+# measure 2
+soprano    c a g# b
+alto       e e e e
+tenor      a c b g#
+bass       a a e d
+
+# measure 3
+soprano    a f e e
+alto       e d b b
+tenor      a a a g#
+bass       c d e d
+
+# measure 4
+soprano    e c b e
+alto       c e d b
+tenor      a a b b
+bass       c a g- g#-
+
+# measure 5
+soprano    a/2. a
+alto       c/2. a+
+tenor      e/2. a
+bass       a/2. a+
+
+# measure 6
+soprano    d. c/8 b a
+alto       f. f/8 f f
+tenor      a. e+/8 d c
+bass       d. d/8 d d
+
+# measure 7
+soprano    a g g c
+alto       e e e g
+tenor      b b c e+
+bass       e e c c+
+
+# measure 8
+soprano    c. c/8 e+ d
+alto       a+. a+/8 a+ g
+tenor      e+. c/8 c b
+bass       a+. g/8 f g
+
+# measure 9
+soprano    c/2.
+alto       e/2.
+tenor      g/2.
+bass       c/2.
+
+# measure 10
+soprano    e
+alto       e
+tenor      e
+bass       e
+
+# measure 11
+soprano    c a g# b
+alto       e e e e
+tenor      a c b g#
+bass       a a e d
+
+# measure 12
+soprano    a f e e
+alto       e d b b
+tenor      a a a g#
+bass       c d e d
+
+# measure 13
+soprano    e c b e
+alto       c e d b
+tenor      a a b b
+bass       c a g- g#-
+
+# measure 14
+soprano    a/2. a
+alto       c/2. a+
+tenor      e/2. a
+bass       a/2. a+
+
+# measure 15
+soprano    d. c/8 b a
+alto       f. f/8 f f
+tenor      a. e+/8 d c
+bass       d. d/8 d d
+
+# measure 16
+soprano    a g g c
+alto       e e e g
+tenor      b b c e+
+bass       e e c c+
+
+# measure 17
+soprano    c. c/8 e+ d
+alto       a+. a+/8 a+ g
+tenor      e+. c/8 c b
+bass       a+. g/8 f g
+
+# measure 18
+soprano    c/2.
+alto       e/2.
+tenor      g/2.
+bass       c/2.
+
+
+

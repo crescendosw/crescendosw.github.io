@@ -1,0 +1,116 @@
+title      Oh, Praise the LORD! Oh, Thank the LORD!
+author     The Book of Psalms for Worship, 2009; alt. (c) SONG 3
+composer   Orlando Gibbons, 1623; harm. Mary Monica Bridges, 1899 
+key        F
+tempo      130
+rhythm     4 : 4
+verse_count 9
+copyright  Text: Crown & Covenant Publications, 2009. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/200%20Oh,%20Praise%20the%20LORD!%20O%20Thank%20-%20Psalm%20106%20SONG%203.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2
+alto       f/2
+tenor      d/2
+bass       d/2
+
+# measure 2
+soprano    a g a d-
+alto       e e f d
+tenor      c c c bb
+bass       a c f- g-
+
+# measure 3
+soprano    f e d- a
+alto       d c# d d
+tenor      a a a f
+bass       a a d d
+
+# measure 4
+soprano    bb a g f
+alto       d f e d
+tenor      g c c/8 bb/8 a
+bass       g- f- c d
+
+# measure 5
+soprano    e/2. e
+alto       c#/2. cn
+tenor      a/2. a
+bass       a/2. a+
+
+# measure 6
+soprano    f d- g e
+alto       d bb c. c/8
+tenor      a bb/8 a/8 g/8 f/8 g
+bass       d g/8 f/8 e/8 d/8 c/8 bb/8
+
+# measure 7
+soprano    f g a g
+alto       c d/8 e/8 f e
+tenor      a bb c c
+bass       a g- f- c
+
+# measure 8
+soprano    bb bb a a
+alto       d g g f#
+tenor      bb d d/8 c/8 a
+bass       g- g- d d
+
+# measure 9
+soprano    g/2. a
+alto       g/2. f
+tenor      bn/2. c
+bass       g-/2. f-
+
+# measure 10
+soprano    c c c c
+alto       f c f. f/8
+tenor      a g a/8 bb/8 c
+bass       f e f a+
+
+# measure 11
+soprano    bb c a d
+alto       g e f f
+tenor      d c c d
+bass       g c f bb
+
+# measure 12
+soprano    g c c bn
+alto       e f d d
+tenor      c c g g
+bass       c a g- g-
+
+# measure 13
+soprano    c/2. g
+alto       e/2. e
+tenor      g/2. c
+bass       c/2. c
+
+# measure 14
+soprano    a bb c. d/8
+alto       f. f/8 g f
+tenor      c d c/8 bb/8 a
+bass       f d e f
+
+# measure 15
+soprano    bb a g a
+alto       d/8 e/8 f e e
+tenor      bb c c c
+bass       g f c a
+
+# measure 16
+soprano    f g e e
+alto       a d d c#
+tenor      d/8 c/8 bb a. g/8
+bass       d g- a a
+
+# measure 17
+soprano    d-/2
+alto       d/2
+tenor      f/2
+bass       d/2
+

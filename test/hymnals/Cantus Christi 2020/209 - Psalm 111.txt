@@ -1,0 +1,88 @@
+title      Psalm 111
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2016
+key        Bb
+rhythm     3 : 4
+tempo      120
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2017/10/Psalm_111.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     d-/8 - f/8 - | g. - b/8 - a/8. - f/16 | b/8 - c/8 b(2) d-/8 f/8 | g. - b/8 - a/8. - f/16 | b/8 - c/8 b a | g/8 - a/8 g - f | d- R/8 d-/8 d-/8 f/8
+
+unison     g/8. g/16 g/8 b/8 a/8. f/16 | b/8 c/8 d d | d/8 c/8 b - c | b/2(1.5) b | a. - f/8 d-/8 f/8 | g - d- e | f/2. | f g f | g. a/8 b | a/8. - g/16 f d- | c-/2. = | c-/2 b
+
+unison     a. - g/8 f | g d- e | f/2 g | f f/2 | g. - a/8 b | a/8. g/16 f d- | e - f g | f f/2 = | f/2 d-/8 f/8
+
+unison     g. b/8 a/8. f/16 | b/8 - c/8 b a | g/8 a/8 g - f | d-/2 d-/8 - f/8
+
+unison     g. b/8 a/8. f/16 | b/8 - c/8 d d | d/8 - c/8 b - c | b/2 f/8 d-/8
+
+unison     c-. c-/8 b-/8 d-/8 | c- - f f/8 - d-/8 | c-/2 - d-/8 - f/8 | g/2 g/8 a/8
+
+unison     b a g | f b d- | c-/8 - b-/8 c- d- | f R/8 d-/8 d-/8 f/8
+
+unison     g g/8 b/8 a/8. f/16 | b/8 - c/8 b a | g/8 - a/8 - g f | d-/2 d-/8 - f/8
+
+unison     g. b/8 a/8. f/16 | b/8 c/8 d d | d/8 - c/8 b - c | b/2(1.5) b
+
+unison     a. - f/8 d-/8 f/8 | g - d- e | f/8. e/16 d- e | f f/2
+
+unison     g. - a/8 b | a/8. - g/16 f d- | c-/2. = | c-/2 b | a. - g/8 - f | g - d- e | f/8. - e/16 d- e | f f/2
+
+unison     g. - a/8 b | a/8. - g/16 - f d- | e f g | f f/2 = | f/2 d-/8 f/8
+
+unison     g. b/8 a/8. f/16 | b/8 c/8 b a | g/8 a/8 g f | d-/2 d-/8 - f/8
+
+unison     g/8. g/16 g/8 b/8 a/8 f/8 | b/8 - c/8 d d | d/8 c/8 b c | b/2 f/8 - d-/8
+
+unison     c-. c-/8 b-/8 - d-/8 | c- f f/8 d-/8 | c- c-/8 c-/8 d-/8 - f/8 | g/2 g/8 - a/8
+
+unison     b - a - g | f - b d- | c-/8 - b-/8 - c- - d- | f/2 d-/8 - f/8 | g. - b/8 a/8. - f/16
+
+unison     b/8 - c/8 b a | g/8 - a/8 g - f | d-/2 d-/8 f/8 | g. - b/8 - a/8. - f/16 | b/8 - c/8 d d | d/8 - c/8 - b - c | b/2(2)
+
+verse      Praise the Lord!  I will praise the Lord with my whole heart,
+
+verse      In the as - sem - bly of the up - right and in the con - gre - ga - tion.
+
+verse      The works of the Lord are great, Stud - ied by all who have plea - sure in them.
+
+verse      His work is hon - or - a - ble and glor - ious, And His right - eous - ness en - dures for - ev - er.
+
+verse      He has made His won - der - ful works to be re - mem - bered;
+
+verse      The Lord is gra - cious and full of com - pas - sion.
+
+verse      He has giv - en food to those who fear Him;
+
+verse      He will ev - er be mind - ful of His cov - e - nant.
+
+verse      He has de - clared to His peo - ple the pow - er of His works,
+
+verse      In giv - ing them the her - i - tage of the na - tions.
+
+verse      The works of His hands are ver - i - ty and jus - tice;
+
+verse      All His pre - cepts are sure.  They stand fast for - ev - er and ev - er,
+
+verse      And are done in truth and up - right - ness.
+
+verse      He has sent re - demp - tion to His peo - ple; He has com - mand - ed
+
+verse      His cov - e - nant for - ev - er: Ho - ly and awe - some is His name.
+
+verse      The fear of the Lord is the be - gin - ning of wis - dom;
+
+verse      A good un - der - stand - ing have all those
+
+verse      who do His com - mand - ments.  His praise en - dures for - ev - er.

@@ -1,0 +1,69 @@
+title      Lord, Let Our Evening Prayer Ascend
+author     Ancient Greek hymn; tr. John Brownlie, 1913LAW 1
+composer   Michael E. Owens, 1996; alt.
+key        Eb
+tempo      100
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/698%20Lord,%20Let%20Our%20Evening%20Prayer%20Ascend.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/8 f/8
+alto       d
+tenor      bn
+bass       g-
+
+# measure 2
+soprano    eb eb eb/8 d-/8 eb/8 g/8
+alto       c c c c
+tenor      g g g c
+bass       c c c eb
+
+# measure 3
+soprano    d- d- d- eb/8 g/8
+alto       d d d c
+tenor      bn bn bn c
+bass       g g g eb
+
+# measure 4
+soprano    ab ab ab/8 bb/8 c/8 ab/8
+alto       f f f f
+tenor      c c c/8 bb/8 ab/8 c/8
+bass       f f f f
+
+# measure 5
+soprano    g g g eb/8 g/8
+alto       eb d eb c
+tenor      c bn c g
+bass       eb g c c/8 eb/8
+
+# measure 6
+soprano    ab c g d-/8 eb/8
+alto       c f eb d
+tenor      f ab c bn
+bass       f f g g
+
+# measure 7
+soprano    f g eb c/8 bb/8
+alto       d d c eb
+tenor      bn g g c
+bass       g- bn c c
+
+# measure 8
+soprano    ab/2 g/2
+alto       f/2 d/2
+tenor      c/2 bn/2
+bass       f d g/2
+
+# measure 9
+soprano    g/2.
+alto       en/2.
+tenor      c/2.
+bass       c/2.
+
+
+

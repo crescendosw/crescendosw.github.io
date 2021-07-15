@@ -1,0 +1,52 @@
+title      In God Alone My Soul Finds Rest
+author     Walter van der Kamp, 1967; rev. (c)MON AME EN DIEU [GENEVAN 62]
+composer   Genevan Psalter, 1542; harm. Claude Goudimel, 1564
+key        D
+tempo      130
+rhythm     0 : 4
+verse_count 7
+copyright  Text: Standing Committee for the Publication of the Book of Praise, 1984. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/117%20In%20God%20Alone%20My%20Soul%20-%20Psalm%2062%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e/2 b/2 g/2 a/2 a g f#/2 e/1
+alto       b/2 d/2 b/2 d/2 d e d#/2 e/1
+tenor      g/2 f#/2 e/2 f#/2 f# b b/2 b/1
+bass       e/2 b/2 e/2 d/2 d e b/2 e/1
+
+# measure 2
+soprano    e/2 g a b d c# c# b/1
+alto       b/2 e f# g b+ a+ a+ g#/1
+tenor      g/2 b d d b e+ e+ e+/1
+bass       e/2 e d g g a+ a+ e/1
+
+# measure 3
+soprano    b/2 cn b a g f# e f#/2 e/1
+alto       gn/2 a+ g f# e d# e/2 d# e/1
+tenor      e+/2 e+ d d b b g b/2 b/1
+bass       e/2 a b d e b cn b/2 e/1
+
+# measure 4
+soprano    g/2 g g a/2 g f# e/2 d-/1
+alto       e/2 e e f#/2 d d c#/2 b/1
+tenor      b/2 b b d/2 b a a/2 f#/1
+bass       e/2 e e d/2 g- d a/2 b/1
+
+# measure 5
+soprano    e/2 b b g b a/2 g/2 f#/1
+alto       b/2 e e e f# f#/2 e/2 d#/1
+tenor      g/2 g g b d d/2 b/2 b/1
+bass       e/2 e e e b d/2 e/2 b/1
+
+# measure 6
+soprano    b/2 a g f# e g a f#/2 e/1
+alto       g/2 f# e d b e e/2 d# e/1
+tenor      dn/2 d b b g b cn b/2 b/1
+bass       g-/2 d e b e e a b/2 e/1
+
+
+

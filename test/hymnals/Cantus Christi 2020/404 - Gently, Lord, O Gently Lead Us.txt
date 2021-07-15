@@ -1,0 +1,111 @@
+title      Gently, Lord, O Gently Lead Us
+author     Thomas Hastings, 1831CHARLESTOWN
+composer   United States Sacred Harmony, 1799
+key        Eb
+tempo      100
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/404%20Gently,%20Lord,%20O%20Gently%20Leave%20Us.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 bb
+alto       bb/2 d
+tenor      eb/2 f
+bass       eb/2 bb
+
+# measure 2
+soprano    bb/2 g
+alto       eb/2 eb
+tenor      g/2 eb/8 g/8
+bass       eb/2 eb
+
+# measure 3
+soprano    eb/2 eb
+alto       eb/2 eb
+tenor      bb/2 g
+bass       g/2 eb
+
+# measure 4
+soprano    f g/2
+alto       d eb/2
+tenor      f eb/2
+bass       bb eb/2
+
+# measure 5
+soprano    g/2 ab/8 bb/8
+alto       eb/2 eb/8 f/8
+tenor      bb/2 c/8 d/8
+bass       eb/2 eb
+
+# measure 6
+soprano    bb/2 g
+alto       g/2 eb
+tenor      eb+/2 c
+bass       eb/2 eb
+
+# measure 7
+soprano    f/2 g/8 ab/8
+alto       d/2 eb
+tenor      bb/2 g
+bass       f/2 eb
+
+# measure 8
+soprano    bb/2.
+alto       d/2.
+tenor      f/2.
+bass       bb/2.
+
+# measure 9
+soprano    g/2 ab/8 g/8
+alto       eb/2 eb
+tenor      bb/2 c/8 d/8
+bass       eb/2 eb
+
+# measure 10
+soprano    g/2 ab
+alto       bb/2 c
+tenor      eb+/2 c
+bass       eb/2 f
+
+# measure 11
+soprano    bb/2 bb
+alto       eb/2 eb
+tenor      bb/2 g
+bass       g/2 eb
+
+# measure 12
+soprano    bb bb/2
+alto       f g/2
+tenor      f eb/2
+bass       bb eb/2
+
+# measure 13
+soprano    bb/2 ab
+alto       eb/2 eb
+tenor      g/2 eb/8 g/8
+bass       eb/2 eb
+
+# measure 14
+soprano    g/2 c
+alto       eb/2 eb
+tenor      bb/2 c/8 bb/8
+bass       eb/2 ab
+
+# measure 15
+soprano    bb/2 ab
+alto       eb/2 bb
+tenor      g/2 f
+bass       bb/2 bb
+
+# measure 16
+soprano    g/2.
+alto       bb/2.
+tenor      eb/2.
+bass       eb/2.
+
+
+

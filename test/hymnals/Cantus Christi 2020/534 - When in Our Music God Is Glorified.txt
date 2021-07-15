@@ -1,0 +1,58 @@
+title      When in Our Music God Is Glorified
+author     Fred Pratt Green, 1971 (c)ENGELBERG
+composer   Charles Villiers Stanford (1852-1924)
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 5
+copyright  Text: Hope Publishing Co., 1972. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/534%20When%20in%20Our%20Music%20God%20Is%20Glorified.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    R d- g b
+
+# measure 2
+unison    a. d-/8 e f#
+
+# measure 3
+unison    g e d-/2 =
+
+# measure 4
+unison    d- d- d c
+
+# measure 5
+unison    b. a/8 g b
+
+# measure 6
+unison    a e d-/2 =
+
+# measure 7
+unison    d- a b d
+
+# measure 8
+unison    d. g/8 a c
+
+# measure 9
+unison    b a b/2 =
+
+# measure 10
+unison    b c/8 b/8 c/8 b/8 a
+
+# measure 11
+unison    b c d/2
+
+# measure 12
+unison    b a b/2 =
+
+# measure 13
+unison    b c/8 b/8 c/8 b/8 a
+
+# measure 14
+unison    b c d/2
+
+
+

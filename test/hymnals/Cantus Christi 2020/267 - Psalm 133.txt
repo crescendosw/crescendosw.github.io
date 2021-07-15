@@ -1,0 +1,37 @@
+title      Psalm 133
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2006
+key        F
+rhythm     0 : 4
+tempo      170
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2016/08/Psalm133.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     d- | a/2 g f d- e | f g f e/2 e | d- e f g/2 b | a g f e/8 f/8 e/2 R a e
+
+unison     f g f/8 e/8 d-/2 b | a - g f e f e | d- c- b- a-/2 a
+
+unison     g - f g a a/2 R a g | f g f e f e | e d-/2 R a a
+
+unison     d d c/8 b/8 c c c | b a g a - g f | g a b a a/2 = a R a
+
+unison     a a g/8 b/8 a g f | g g/2 = g/2. | f R e d- c-/2 | d-/2. = d-/2
+
+verse      Be - hold, how good and how pleas - ant it is for breth - ren to dwell to - geth - er in u - ni - ty!
+
+verse      It is like the pre - cious oil up - on the head, Run - ning down on the beard,
+
+verse      The beard of Aa - ron, Run - ning down on the edge of his gar - ments.
+
+verse      It is like the dew of Her - mon, De - scend - ing up - on the moun - tains of Zi - on;
+
+verse      For there the Lord com - mand - ed the bless - ing-- Life for - ev - er - more.

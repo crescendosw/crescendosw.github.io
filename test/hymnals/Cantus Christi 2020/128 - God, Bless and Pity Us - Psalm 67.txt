@@ -1,0 +1,69 @@
+title      God, Bless and Pity Us 
+author     The Psalter, 1912HAMPTON
+composer   Aaron Williams, 1770
+key        D
+tempo      101
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/128%20God,%20Bless%20and%20Pity%20Us%20-%20Psalm%2067%20HAMPTON.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       d
+tenor      f#
+bass       d
+
+# measure 2
+soprano    f#/8 b/8 a c#
+alto       d/8 d/8 d g
+tenor      a/8 g/8 a a
+bass       d/8 g/8 f# e
+
+# measure 3
+soprano    d/2 d
+alto       f#/2 f#
+tenor      a/2 a
+bass       d/2 d
+
+# measure 4
+soprano    c#/8 d/8 c# b
+alto       e/8 f#/8 e e/8 d/8
+tenor      a/8 a/8 a g#
+bass       a+/8 d/8 e e
+
+# measure 5
+soprano    a/2 f#
+alto       c#/2 d
+tenor      a/2 a
+bass       a/2 d
+
+# measure 6
+soprano    g/8 a/8 b a
+alto       d/8 d/8 d c#
+tenor      g/8 f#/8 g e
+bass       b/8 d/8 g- a
+
+# measure 7
+soprano    g/8 f#/8 e a
+alto       d/8 d/8 c# e
+tenor      b/8 a/8 a c#
+bass       b/8 d/8 a a+/8 g/8
+
+# measure 8
+soprano    d/8 g/8 f# e
+alto       a/8 d/8 d c#
+tenor      d/8 b/8 a a/8 g/8
+bass       f#/8 g/8 a+ a
+
+# measure 9
+soprano    d-/2
+alto       d/2
+tenor      f#/2
+bass       d/2
+
+
+

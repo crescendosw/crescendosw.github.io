@@ -1,0 +1,50 @@
+title      Psalm 114
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2015
+key        G
+rhythm     0 : 4
+tempo      120
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2018/02/Psalm114.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     e | g. a/8 b g a/8 - g/8 f/8 - d-/8 | e e R/8 e/8 f/8 g/8 | a/8 f/8 g/8 a/8 b/8 c/8 b/8 a/8 | b b/2.
+
+unison     c b/8 a/8 b g a/8 - g/8 f/8 - d-/8 | e e/2 f | g/8 e/8 f/8 - g/8 a g/8 - f/8 | e/8 - f/8 - g/8 - f/8 - e - d- | e/2. e
+
+unison     e/8 - d-/8 - c-/8 - b-/8 c- b-/8 a-/8 | g#-/1 | a-/8 - b-/8 c-/8 - d-/8 e - fn | e/2. e
+
+unison     e/8. - d-/16 c-/8 - d-/8 e g | d-/2. b- | c-/8 - d-/8 e/8 - d-/8 c- e | d#-/2. d#-
+
+unison     e/8 - d-/8 c-/8 b-/8 c- b-/8 a-/8 | g#-/2. g#- | a-/8 b-/8 c-/8 d-/8 e - fn | e/2. e
+
+unison     e/8. d-/16 c-/8 d-/8 e g | d-/2. b- | c-/8 - d-/8 e/8 - d-/8 c- e | d#-/1
+
+unison     e/8 f/8 g/8 - a/8 b a/8 g/8 a/8 g/8 f/8 d-/8 | e/2. f/8 g/8 | a/8 f/8 g/8 a/8 b/8 - c/8 b/8 - a/8 | b b/2 b
+
+unison     c b/8 - a/8 b/8 g/8 a/8 b/8 a/8 - g/8 f/8 - d-/8 | e e/2 f | g/8 e/8 f/8 g/8 a g/8 f/8 | e/8 - f/8 - g/8 - f/8 - e - d- e/1
+
+verse      When Is - ra - el went out of E - gypt, The house of Ja - cob from a peo - ple of strange language,
+
+verse      Ju - dah be - came His sanc - tu - a - ry, And Is - ra - el His do - min - ion.
+
+verse      The sea saw it and fled; Jor - dan turned back.
+
+verse      The moun - tains skipped like rams, The lit - tle hills like lambs.
+
+verse      What ails you, O sea, that you fled? O Jor - dan, that you turned back?
+
+verse      O moun - tains, that you skipped like rams? O lit - tle hills, like lambs?
+
+verse      Trem - ble, O earth, at the pres - ence of the Lord, At the pres - ence of the God of Ja - cob,
+
+verse      Who turned the rock in - to a pool of wa - ter, The flint in - to a fountain of wa - ters.

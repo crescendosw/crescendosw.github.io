@@ -1,0 +1,90 @@
+title      The Lord at First Did Adam Make
+author     Anonymous
+composer   Anonymous
+key        G
+tempo      128
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/562%20The%20Lord%20at%20First%20Did%20Adam%20Make.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    b/8 c#/8
+
+# measure 2
+unison    d. c#/8 b a/8 g/8
+
+# measure 3
+unison    c. b/8 a g
+
+# measure 4
+unison    f# e b b
+
+# measure 5
+unison    e/2. b/8 c#/8
+
+# measure 6
+unison    d. c#/8 b a/8 g/8
+
+# measure 7
+unison    c. b/8 a g
+
+# measure 8
+unison    f# e b b
+
+# measure 9
+unison    e/2. f#
+
+# measure 10
+unison    g. f#/8 g a/8 b/8
+
+# measure 11
+unison    a g f# d-
+
+# measure 12
+unison    g g d a
+
+# measure 13
+unison    b/2. e+
+
+# measure 14
+unison    d e+ b a/8 g/8
+
+# measure 15
+unison    c. b/8 a g
+
+# measure 16
+unison    f# e b b
+
+# measure 17
+unison    e/2. f#
+
+# measure 18
+unison    g. f#/8 g a/8 b/8
+
+# measure 19
+unison    a g f# d-
+
+# measure 20
+unison    g g d a
+
+# measure 21
+unison    b/2. e+
+
+# measure 22
+unison    d e+ b a/8 g/8
+
+# measure 23
+unison    c. b/8 a g
+
+# measure 24
+unison    f# e b b
+
+# measure 25
+unison    e/2.
+
+
+

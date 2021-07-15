@@ -1,0 +1,87 @@
+title      Christ, Whose Glory Fills the Skies
+author     Charles Wesley (1707-1788)LUX PRIMA (Gounod)
+composer   Charles Gounod (1818-1893)
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/384%20Christ,%20Whose%20Glory%20Fills%20the%20Skies.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f f a/8 g/8
+alto       c c d d
+tenor      a a a c/8 bb/8
+bass       f e d bb
+
+# measure 2
+soprano    f e f c-
+alto       c c c/2
+tenor      a g a/2
+bass       c c f/2
+
+# measure 3
+soprano    a a a c/8 bb/8
+alto       c c# d a+/8 g/8
+tenor      a g f d
+bass       f e d bb
+
+# measure 4
+soprano    a g a/2
+alto       f e f/2
+tenor      c c c/2
+bass       c c f/2
+
+# measure 5
+soprano    c f bb bb
+alto       f f f e
+tenor      c c d c
+bass       a+ a+ g g
+
+# measure 6
+soprano    a/8 g/8 a/8 bb/8 a g
+alto       f/8 e/8 f/8 g/8 f e
+tenor      c c c/2
+bass       f f c/2
+
+# measure 7
+soprano    g a bb a/8 g/8
+alto       e f d e
+tenor      bb a g bb
+bass       c c c c
+
+# measure 8
+soprano    f g a/2
+alto       c e f/2
+tenor      a c c/2
+bass       c c f/2
+
+# measure 9
+soprano    a bb c bb/8 a/8
+alto       f f f f
+tenor      c d eb+ d/8 c/8
+bass       f f f f
+
+# measure 10
+soprano    g a bb/2
+alto       f f f/2
+tenor      bb c bb/2
+bass       f eb d/2
+
+# measure 11
+soprano    d c bb a/8 g/8
+alto       f# f# g fn
+tenor      a a bb c/8 d/8
+bass       d d g- a/8 bb/8
+
+# measure 12
+soprano    a g f/2
+alto       f e f/2
+tenor      c bb a/2
+bass       c c f/2
+
+
+

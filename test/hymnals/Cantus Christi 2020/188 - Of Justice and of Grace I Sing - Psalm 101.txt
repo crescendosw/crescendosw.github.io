@@ -1,0 +1,70 @@
+title      Of Justice and of Grace I Sing
+author     Isaac Watts (1674-1748)A DWELLING FIT
+composer   Kyle M. Schmitz, 2018 (c)
+key        D
+tempo      65
+rhythm     0 : 4
+verse_count 3
+copyright  Music: Kyle M. Schmitz, 2018. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/188%20Of%20Justice%20and%20of%20Grace%20-%20Psalm%20101%20A%20DWELLING%20FIT.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a-/8
+alto       a/8
+tenor      a/8
+bass       a/8
+
+# measure 2
+soprano    d-/8 e/8 f#/8 a/8 f#/8 e/8 d-. a/8
+alto       a/8 a/8 d/8 d/8 c#/8 c#/8 a. d/8
+tenor      f#/8 g/8 a/8 a/8 a/8 a/8 f#. a/8
+bass       d/8 d/8 d/8 f#/8 a+/8 a/8 d. f#/8
+
+# measure 3
+soprano    b/8 d/8 a/8 f#/8 e. a-/8
+alto       d/8 d/8 d/8 d/8 c#. a/8
+tenor      g/8 b/8 d/8 a/8 a. a/8
+bass       g/8 g/8 f#/8 f#/8 a+. a+/8
+
+# measure 4
+soprano    d-/8 e/8 f#/8 a/8 f#/8 e/8 d-. a-/8
+alto       a/8 a/8 d/8 d/8 e/8 e/8 b. a/8
+tenor      a/8 a/8 a/8 f#/8 a/8 a/8 f#. f#/8
+bass       f#/8 f#/8 a+/8 a/8 c#/8 c#/8 b. a/8
+
+# measure 5
+soprano    d-/8 e/8 f#/8 e/8 d-. a/8
+alto       b/8 d/8 c#/8 c#/8 a. d/8
+tenor      g/8 b/8 a/8 a/8 f#. a/8
+bass       g-/8 g-/8 a/8 a/8 d. f#/8
+
+# measure 6
+soprano    b/8 d/8 a/8 f#/8 e/8 d-/8 f#. a/8
+alto       d/8 d/8 d/8 d/8 c#/8 d/8 d. e/8
+tenor      g/8 b/8 d/8 a/8 a/8 c#/8 b. c#/8
+bass       g/8 g/8 f#/8 f#/8 a+/8 a+/8 b+. a+/8
+
+# measure 7
+soprano    b/8 d/8 a/8 f#/8 e. a-/8
+alto       d/8 d/8 d/8 d/8 c#. a/8
+tenor      d/8 b/8 d/8 a/8 a. a/8
+bass       g/8 g/8 f#/8 f#/8 a+. a+/8
+
+# measure 8
+soprano    d-/8 e/8 f#/8 a/8 f#/8 e/8 d-. a-/8
+alto       a/8 a/8 d/8 d/8 e/8 e/8 b. a/8
+tenor      a/8 a/8 a/8 f#/8 a/8 a/8 f#. a/8
+bass       f#/8 f#/8 a+/8 a/8 c#/8 c#/8 b. a/8
+
+# measure 9
+soprano    d-/8 e/8 f#/8 e/8 d-/2
+alto       d/8 d/8 c#/8 c#/8 a/2
+tenor      b/8 b/8 a/8 a/8 f#/2
+bass       g-/8 g-/8 a/8 a/8 d/2
+
+
+

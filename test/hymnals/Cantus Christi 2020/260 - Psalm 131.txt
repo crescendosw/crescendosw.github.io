@@ -1,0 +1,37 @@
+title      Psalm 131
+hymnal     Cantus Christi 2020
+author     King James Version; alt.
+
+composer   David R. Erb, 2006
+key        C
+rhythm     0 : 4
+tempo      120
+
+#hyperlink  https://vimeo.com/156804553
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     d- d- a g/8 a/8 f e/2 | d- a b - g a a/2
+
+unison     d-/8 d-/8 d-/8 d-/8 a/8 a/8 g/8 a/8 b a/8 g/8 a a/2 | d- d- a g/8 - a/8 f e d-/2(2)
+
+unison     d- d- f f/8 f/8 | g g f/8 g/8 f/8 e/8 | d-/2 d- d- | f e/8 f/8 g f/8 g/8 | a a/2
+
+unison     a | a/2 g/2 | g/2 f/2 | g f e/2 | d-/1
+
+unison     d-/2 a a | b a/8 g/8 a a | c a g e | d- d-/2.
+
+verse      Lord, my heart is not haught - y, nor mine eyes loft - y:
+
+verse      Nei - ther do I ex - er - cise my - self in great mat - ters, or in things too high for me.
+
+verse      Sure - ly I have be - haved and qui - et - ed my - self, as a child that is weaned of his moth - er:
+
+verse      my soul is e - ven as a weaned child.
+
+verse      Let Is - rael hope in the Lord from hence - forth and for ev - er.

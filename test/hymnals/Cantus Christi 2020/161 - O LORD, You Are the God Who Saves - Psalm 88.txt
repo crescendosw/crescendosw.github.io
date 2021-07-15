@@ -1,0 +1,68 @@
+title      O LORD, You Are the God Who Saves
+author     Jordan Doolittle, 2016 (c) BRYNTEG
+composer   John Ambrose Lloyd (1815-1874)
+key        F
+tempo      100
+rhythm     4 : 4
+verse_count 9
+copyright  Text: Jordan Doolittle, 2016. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/161%20O%20LORD,%20You%20Are%20the%20God%20-%20Psalm%2088%20BRYNTEG.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      f
+bass       d
+
+# measure 2
+soprano    f g a d-/8 e/8
+alto       d d c# d
+tenor      a g g f/8 g/8
+bass       d bb a bb
+
+# measure 3
+soprano    f e d- f
+alto       d c# d d
+tenor      a g f a
+bass       f- a d d
+
+# measure 4
+soprano    g a bb a
+alto       d d d c#
+tenor      g f g e
+bass       bb d g- a
+
+# measure 5
+soprano    a g a(2) a
+alto       d d c#(2) cn
+tenor      d-/8 f/8 e/8 d-/8 e(2) e/8 a/8
+bass       bb bb a(2) a
+
+# measure 6
+soprano    a bn c a
+alto       e e e e
+tenor      a g# a c
+bass       c e a+ a+
+
+# measure 7
+soprano    d f/8 g/8 a f
+alto       d d c# d
+tenor      a a a a
+bass       f d a d
+
+# measure 8
+soprano    g bb a d-/8 e/8
+alto       d d c# d
+tenor      g g g f/8 g/8
+bass       bb g- a bb
+
+# measure 9
+soprano    f e d-(2)
+alto       d c# d(2)
+tenor      a g f(2)
+bass       a a d(2)
+

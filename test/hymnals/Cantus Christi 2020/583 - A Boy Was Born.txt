@@ -1,0 +1,123 @@
+title      A Boy Was Born
+author     German, 1500s, tr. Neville S. Talbot (1879-1943)
+composer   German, 1570
+key        F
+tempo      135
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/583%20A%20Boy%20Was%20Born.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       d
+tenor      bb
+bass       g
+
+# measure 2
+soprano    g/2 g
+alto       d/2 d
+tenor      bb/2 bb
+bass       g/2 g
+
+# measure 3
+soprano    a/2 a
+alto       f/2 f
+tenor      c/2 c
+bass       f/2 f
+
+# measure 4
+soprano    bb/2 g
+alto       g/2 eb
+tenor      eb+/2 bb
+bass       eb/2 eb
+
+# measure 5
+soprano    f/2 f
+alto       d/2 d
+tenor      bb/2 bb
+bass       bb/2 bb
+
+# measure 6
+soprano    bb/2 c
+alto       f/2.
+tenor      bb/2 a
+bass       d/2 f
+
+# measure 7
+soprano    bb/2 a
+alto       d/2 f
+tenor      bb/2 c
+bass       g/2 f
+
+# measure 8
+soprano    bb/2. =
+alto       f/2. =
+tenor      d/2. =
+bass       bb+/2. =
+
+# measure 9
+soprano    bb/2 bb
+alto       f/2 f
+tenor      d/2 d
+bass       bb+/2 bb+
+
+# measure 10
+soprano    bb/2 bb
+alto       f/2 g
+tenor      d/2 d
+bass       bb+/2 g
+
+# measure 11
+soprano    a/2 a
+alto       e/2 f
+tenor      c/2 c
+bass       a+/2 f
+
+# measure 12
+soprano    g/2 f
+alto       d/2 d
+tenor      bb/2 a
+bass       g/2 d
+
+# measure 13
+soprano    g/2 g
+alto       e/2 e
+tenor      c/2 c
+bass       c/2 c
+
+# measure 14
+soprano    f/2 g
+alto       f/2 e
+tenor      c/2 bb
+bass       a+/2 g
+
+# measure 15
+soprano    a/2 a
+alto       f/2 f
+tenor      c/2 c
+bass       f/2 f
+
+# measure 16
+soprano    bb/2 a
+alto       f/2 e
+tenor      d/2 c
+bass       bb/2. =
+
+# measure 17
+soprano    g/2 f
+alto       d/2 d
+tenor      bb/2 a
+bass       bb/2 d
+
+# measure 18
+soprano    g/2
+alto       bn/2
+tenor      g/2
+bass       g-/2
+
+
+

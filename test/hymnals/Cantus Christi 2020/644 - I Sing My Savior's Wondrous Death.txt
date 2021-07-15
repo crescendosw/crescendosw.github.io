@@ -1,0 +1,69 @@
+title      I Sing My Savior's Wondrous Death
+author     Isaac Watts (1764-1748)EPWORTH
+composer   Charles Wesley, Jr., (1757-1834); arr.
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/644%20I%20Sing%20My%20Savior's%20Wondrous%20Death.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb
+alto       eb
+tenor      g
+bass       eb
+
+# measure 2
+soprano    g bb eb+. g/8
+alto       eb f eb eb
+tenor      bb bb g bb
+bass       eb d c g-
+
+# measure 3
+soprano    f/8 c/8 bb/8 ab/8 g bb
+alto       f d eb f
+tenor      c f g f
+bass       ab bb eb d
+
+# measure 4
+soprano    eb+ d c/8 bb/8 an
+alto       eb f g f
+tenor      an bb eb+/8 d/8 c
+bass       c d eb f
+
+# measure 5
+soprano    bb/2. bb
+alto       f/2. eb
+tenor      d/2. bb
+bass       bb+/2. g
+
+# measure 6
+soprano    ab g c. ab/8
+alto       eb g f eb
+tenor      c d c c
+bass       c+ bb+ ab+ f
+
+# measure 7
+soprano    g f bb bb
+alto       d c/8 d/8 eb d
+tenor      bb c bb ab
+bass       bb+ ab+ g f
+
+# measure 8
+soprano    eb+ eb/8 f/8 g f
+alto       c/8 bb/8 ab bb/8 c/8 d
+tenor      g/8 f/8 eb eb bb/8 ab/8
+bass       eb/8 d/8 c g-/8 ab/8 bb
+
+# measure 9
+soprano    eb/2.
+alto       eb/2.
+tenor      g/2.
+bass       eb/2.
+
+
+

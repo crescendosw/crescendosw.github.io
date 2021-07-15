@@ -1,0 +1,105 @@
+title      Behold the Lamb of God!
+author     Matthew Bridges, 1848 WIGAN
+composer   Samuel Sebastian Wesley, 1872
+key        A
+tempo      100
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/618%20Behold%20the%20Lamb%20of%20God.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f#
+alto       c#
+tenor      a
+bass       f#
+
+# measure 2
+soprano    a g# b a
+alto       c# c# e# f#
+tenor      c# c# c# c#
+bass       f# e# g# f#
+
+# measure 3
+soprano    d/2. c#
+alto       f#/2. f#
+tenor      b/2. c#
+bass       b+/2. a+
+
+# measure 4
+soprano    b a g#/8 f#/8 e#
+alto       g# f# d c#
+tenor      c# c# b/8 a/8 g#
+bass       e# f# b c#
+
+# measure 5
+soprano    f#/2. a
+alto       c#/2. c#
+tenor      a/2. c#
+bass       f#-/2. f#
+
+# measure 6
+soprano    g# f# g# g#
+alto       e d# d# d#
+tenor      c# c# c# b#
+bass       g# a+ g# f#
+
+# measure 7
+soprano    c#/2 c#-/2
+alto       g#-/2 c#/2
+tenor      c#/2 f#/2
+bass       e/2 a/2
+
+# measure 8
+soprano    e/2 d#-/2
+alto       c#/2 b#/2
+tenor      g#/2 g# f#
+bass       g#-/2 g#-/2
+
+# measure 9
+soprano    c#-/2. c#-
+alto       c#/2. c#
+tenor      e#/2. e#
+bass       c#/2. c#/8 b/8
+
+# measure 10
+soprano    f# g# a b
+alto       c# c# c# b
+tenor      f# e# f# f#
+bass       a c# f# d
+
+# measure 11
+soprano    b a# b f#
+alto       c# c# d d
+tenor      f# f# f# b
+bass       f# f# b b+/8 a+/8
+
+# measure 12
+soprano    b c# d c#
+alto       d gn f# f#
+tenor      b a# b c#
+bass       gn e b a#
+
+# measure 13
+soprano    b a g# c#
+alto       f# f# g# f#
+tenor      d d# e#+ c#
+bass       b b# c# a
+
+# measure 14
+soprano    b a g#/2
+alto       e# f#/2 e#
+tenor      c#/2 c# b
+bass       g#- f#- c#/2
+
+# measure 15
+soprano    f#/2.
+alto       f#/2.
+tenor      a/2.
+bass       f#-/2.
+
+
+

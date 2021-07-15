@@ -1,0 +1,81 @@
+title      Psalm 70
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2012
+key        F
+rhythm     4 : 4
+tempo      120
+
+#hyperlink  https://www.youtube.com/watch?v=cj19o5K2BEY
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+soprano    d- | d-/8 - c-/8 d-/8 - e/8 d- c-/8 d-/8 | f/8 e/8 d-/2 d- | a/8 - g/8 f e/8 d-/8 c- | d-/1
+alto       R  | R/1                                 | R/1             | R/1                     | R/1
+tenor      R  | R/1                                 | R/1             | R/1                     | R/1
+bass       R  | R/1                                 | R/1             | R/1                     | R/1
+
+soprano    a/8 g/8 a/8 b/8 a g/8 f/8 | e d-/2 d- | a/2 f/2 | e/1
+alto       R/1                       | R/1       | R/1     | R/1
+tenor      R/1                       | R/1       | R/1     | R/1
+bass       R/1                       | R/1       | R/1     | R/1
+
+soprano    a/8 g/8 a/8 b/8 a g/8 f/8 | e d-/2 d-/8 d-/8 | c-/2 d-/2 | e/1
+alto       R/1                       | R/1              | R/1       | R/1
+tenor      R/1                       | R/1              | R/1       | R/1
+bass       R/1                       | R/1              | R/1       | R/1
+
+soprano    a/8 g/8 a/8 b/8 a g/8 - f/8 | g/8 f/8 e d- d- | a/8 - g/8 f e/8 - d-/8 c- | d-/1
+alto       R/1                         | R/1             | R/1                       | R/1
+tenor      R/1                         | R/1             | R/1                       | R/1
+bass       R/1                         | R/1             | R/1                       | R/1
+
+soprano    d- d- e e | f/8 - e/8 f/8 g/8 a f/8 f/8 | g/2    f/2
+alto       d  d  d d | d         d/8 d/8 f c/8 c/8 | d/2    d/2
+tenor      d  d  c c | b         b/8 b/8 a f/8 f/8 | b/2    b - a
+bass       d  d  d d | d         d/8 d/8 c a/8 a/8 | g- - a b/2
+
+soprano    e/2. e  | f/8 - e/8 f/8 g/8  a         f/8 f/8 | b  a   g f
+alto       c/2 c/2 | c         f/8 f/8  f         c/8 a/8 | b  c   d f
+tenor      g g g/2 | f         c        c         a/8 c/8 | d. c/8 b a
+bass       c/2 b/2 | a         a/8 g-/8 f-/8 g-/8 a/8 a/8 | g- a   b d
+
+soprano    c/2   b/2   | a/2.  a | b/2     c/2   | d/2      d/2 | d/2.(2)  d-
+alto       f - e d - e | c#/2. c | d/2     c/2   |   f - d  e/2 | f#/2.(2) R
+tenor      g/2   g/2   | a a a a | a - g - f - e | - d- - f g/2 | a/2.(2)  R
+bass       c/2   g-/2  | a/2.  a | g-/2    a/2   | b/2      c/2 | d/2.(2)  R
+
+soprano    d-/8 - c-/8 d-/8 - e/8 d- c-/8 - d-/8 | f/8 - e/8 d-/2 d- | f e d-/8 - e/8 f/8 - g/8 | a/2. d-
+alto       R/1                                   | R/1               | R/1                      | R/1
+tenor      R/1                                   | R/1               | R/1                      | R/1
+bass       R/1                                   | R/1               | R/1                      | R/1
+
+soprano    d-/8 - c-/8 d-/8 - e/8 d-/8 d-/8 c-/8 d-/8 | f/8 e/8 d-/2 d- | a/8 - g/8 f e/8 - d-/8 c- | d-/2.
+alto       R/1                                        | R/1             | R/1                       | R/1
+tenor      R/1                                        | R/1             | R/1                       | R/1
+bass       R/1                                        | R/1             | R/1                       | R/1
+
+verse      Make haste, O God, to de - liv - er me!  Make haste to help me, O Lord!
+
+verse      Let them be a - shamed and con - founded who seek my life;
+
+verse      Let them be turned back and con - fus - ed who de - sire my hurt.
+
+verse      Let them be turned back be - cause of their shame, who say, A - ha, a - ha!
+
+verse      Let all those who seek You re - joice and be glad in
+
+verse      You; And let those who love Your sal - va - tion say con -
+
+verse      tin - ual - ly, Let God be mag - ni - fied!
+
+verse      But I am poor and need - y; Make haste to me, O God!
+
+verse      You are my help and my del - iv - er - er; O Lord, do not delay.

@@ -1,0 +1,129 @@
+title      Hark! How the Gospel Trumpet Sounds!
+author     Samuel Medley (1738-1799)GOSPEL TRUMPET
+composer   American folk hymn, arr. E. J. King, 1844
+key        G
+tempo      150
+rhythm     4 : 4
+verse_count 2
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/535%20Hark!%20How%20the%20Gospel%20Trumpet%20Sounds.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/1
+alto       d/1
+tenor      d-/1
+bass       g-/1
+
+# measure 2
+soprano    b. a/8 g b
+alto       d/2. d
+tenor      g. a/8 b g
+bass       g-/2. g-
+
+# measure 3
+soprano    d. e+/8 c c
+alto       d. g/8 a+ a+
+tenor      a. b/8 c c
+bass       d. e/8 f# f#
+
+# measure 4
+soprano    d/2 d/2
+alto       g/2 a+/2
+tenor      b/2 a/2
+bass       g/2 d/2
+
+# measure 5
+soprano    b/1
+alto       d/1
+tenor      g/1
+bass       g-/1
+
+# measure 6
+soprano    b/2 b b
+alto       g/2 g g
+tenor      d/2 d d
+bass       g/2 g g
+
+# measure 7
+soprano    g. b/8 d b
+alto       e/2 d d
+tenor      c. b/8 a g
+bass       c. e/8 d g-
+
+# measure 8
+soprano    a/2 b/2
+alto       f#/2 e/2
+tenor      f#/2 g/2
+bass       d/2 e/2
+
+# measure 9
+soprano    d/2. R
+alto       d/2. R
+tenor      a/2. R
+bass       d/2. d
+
+# measure 10
+soprano    R/1
+alto       R/1
+tenor      R/2. b/8 c/8
+bass       g g g e
+
+# measure 11
+soprano    R/1
+alto       R/1
+tenor      d d d c/8 b/8
+bass       d d d e
+
+# measure 12
+soprano    R/2. b
+alto       R/2. d
+tenor      c c c b/8 a/8
+bass       c c c d
+
+# measure 13
+soprano    e+ e+ d d
+alto       g g g/8 a+/8 b+
+tenor      b b b/8 c/8 d
+bass       e e d/2
+
+# measure 14
+soprano    a a/8 b/8 d/2
+alto       f# f#/8 g/8 f#/2
+tenor      a a/8 b/8 a/2
+bass       d/1
+
+# measure 15
+soprano    d/2 b/2
+alto       f#/2 d/2
+tenor      a/2 g/2
+bass       e/2 d/2
+
+# measure 16
+soprano    d d d b
+alto       g g g g
+tenor      b b b a/8 g/8
+bass       g g g d
+
+# measure 17
+soprano    g g g b/8 c/8
+alto       e e e g/8 a+/8
+tenor      c c c/8 d/8 e+/8 c/8
+bass       c c c e
+
+# measure 18
+soprano    d/2 d/2
+alto       g/2 a+/2
+tenor      b/2 a/2
+bass       g/2 d/2
+
+# measure 19
+soprano    b/1
+alto       b+/1
+tenor      g/1
+bass       g-/1
+
+
+

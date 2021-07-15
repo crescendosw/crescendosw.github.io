@@ -1,0 +1,111 @@
+title      Isaiah, Mighty Seer, in Days of Old
+author     Martin Luther, 1525; tr. compositeJESAIA, DEM PROPHETEN
+composer   Martin Luther, 1525
+key        D
+tempo      120
+rhythm     0 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/724%20Isaiah,%20Mighty%20Seer,%20in%20Days%20of%20Old.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2 a f# d- f# a a b b a/2
+alto       d/2 d c# b a c# d d d d/2
+tenor      f#/2 f# a f# d- e a g g f#/2
+bass       d/2 d a b d a f#- g- b d/2
+
+# measure 2
+soprano    a/2 a g a d- g f# e e d-/2
+alto       f#/2 e e c# b d d d c# d/2
+tenor      a/2 a b a f# b a a e f#/2
+bass       d/2 c# e a b g- d a a d/2
+
+# measure 3
+soprano    a/2 a a d d d a b a f#/2
+alto       d/2 f# e d g f# f# g e d/2
+tenor      f#/2 a c# a b a d d c# a/2
+bass       d/2 d a+ f# g d d g- a d/2
+
+# measure 4
+soprano    f#/2 g a f# g f# d- e e d-/2
+alto       d/2 e e d d c# d d c# d/2
+tenor      b/2 b a a b a f# a a f#/2
+bass       b/2 e c# d g- a b a a d/2
+
+# measure 5
+soprano    d-/2 f# e f# g a a f# g a/2
+alto       b/2 d c# d d e e d d e/2
+tenor      g/2 a a a b c# a a b c#/2
+bass       g-/2 d a d b a c# d b a/2
+
+# measure 6
+soprano    d/2 d c# b a a g a g f#/2
+alto       f#/2 f# f# d d e e e e d#/2
+tenor      a/2 b a g f# a b c# b b/2
+bass       d/2 b f# g d c# e a e b/2
+
+# measure 7
+soprano    e/2 f# g a a b a b c# d/2
+alto       b/2 d d c# d d d d e f#/2
+tenor      g/2 a g e f# g f# f# a a/2
+bass       e/2 d b a d g d b a d/2
+
+# measure 8
+soprano    a/2 a g f# g a d- f# e d-/2
+alto       f#/2 e d d b a b d c# d/2
+tenor      d/2 c# b a g e f# a a f#/2
+bass       d/2 a b d e c# b f#- a d/2
+
+# measure 9
+soprano    f#/2 g a b a a b c# b a/2
+alto       d/2 d d d d e d e e c#/2
+tenor      a/2 b a g f# e f# a g# a/2
+bass       d/2 b f#- g- d c# b a e a/2
+
+# measure 10
+soprano    d/2 c# b e+ d c# a b c# d/2
+alto       d/2 f# d g a+ e f# f# a+ f#/2
+tenor      f#/2 a g b a a d d e+ d/2
+bass       b/2 f# g e f# a+ d b a d/2
+
+# measure 11
+soprano    d/2 c# b a b c# a g a f#/2
+alto       f#/2 e d c# d e f# d e d/2
+tenor      a/2 a f# f# f# a a b a a/2
+bass       d/2 a b f#- b a d b c# d/2
+
+# measure 12
+soprano    d/2 c# b a b c# a g a f#/2
+alto       f#/2 f# d f# f# a+ f# e e d/2
+tenor      a/2 a g a d e+ d b c# a/2
+bass       d/2 f# g d b a d e a d/2
+
+# measure 13
+soprano    d/2 c# b a b c# a g a f#/2
+alto       f#/2 f# d d d e f# d e d#/2
+tenor      b/2 a# b f# g# an a b cn b/2
+bass       b/2 f# g d b a d b a b/2
+
+# measure 14
+soprano    b/2 a g a d- g f# e e d-/2
+alto       dn/2 d e c# d d d d c# d/2
+tenor      g/2 a b a f# b a a e f#/2
+bass       g/2 f# e a b g- d a a d/2
+
+# measure 15
+soprano    d-/2 a a f# g a b b a a/2
+alto       d/2 c# e d d d d d c# d/2
+tenor      f#/2 e a a b a g g e f#/2
+bass       d/2 a c# d b f#- g- g- a d/2
+
+# measure 16
+soprano    a/2 g f# g e f# e d- c#- d-/2
+alto       c#/2 d d b c# d b a a a/2
+tenor      e/2 b a g a a g f# e f#/2
+bass       a/2 b d e a d g- a a d/2
+
+
+

@@ -1,0 +1,111 @@
+title      Come, Come Ye Saints
+author     William Clayton, 1846; alt. Joseph F. Green, 1960ALL IS WELL
+composer   Sacred Harp, 1844; alt.
+key        G
+tempo      100
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/416%20Come,%20Come%20Ye%20Saints.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g/8. a/16 b. g/8
+alto       b d/8. d/16 d. d/8
+tenor      d- g/8. f#/16 g. b/8
+bass       g- b/8. d/16 g. g/8
+
+# measure 2
+soprano    f#/8 g/8 a/8 b/8 c/2
+alto       d/8 d/8 d/8 d/8 e/2
+tenor      a/8 e/8 f#/8 g/8 g/2
+bass       d/8 d/8 d/8 d/8 c/2
+
+# measure 3
+soprano    b/8. g/16 a/2
+alto       d/8. d/16 e/2
+tenor      g/8. b/16 c/2
+bass       g/8. g/16 c/2
+
+# measure 4
+soprano    g/8. f#/16 g/2
+alto       d/8. d/16 d/2
+tenor      b/8. a/16 b/2
+bass       d/8. d/16 g-/2
+
+# measure 5
+soprano    g g/8. a/16 b. g/8
+alto       b d/8. d/16 d. d/8
+tenor      d- g/8. f#/16 g. b/8
+bass       g- b/8. d/16 g. g/8
+
+# measure 6
+soprano    f#/8 g/8 a/8 b/8 c/2
+alto       d/8 d/8 d/8 d/8 e/2
+tenor      a/8 e/8 f#/8 g/8 g/2
+bass       d/8 d/8 d/8 d/8 c/2
+
+# measure 7
+soprano    b/8. g/16 a/2
+alto       d/8. d/16 e/2
+tenor      g/8. b/16 c/2
+bass       g/8. g/16 c/2
+
+# measure 8
+soprano    g/8. f#/16 g/2 b/8 c/8
+alto       d/8. d/16 d/2 d
+tenor      b/8. a/16 b/2 g/8 a/8
+bass       d/8. d/16 g-/2 g
+
+# measure 9
+soprano    d/8 d/8 d c/8 b/8
+alto       d/8 d/8 d. d/8
+tenor      b/8 b/8 b a/8 g/8
+bass       g/8 g/8 g. g/8
+
+# measure 10
+soprano    c/8 c/8 c b/8 a/8
+alto       d/8 d/8 d. d/8
+tenor      a/8 a/8 a g/8 f#/8
+bass       f#/8 f#/8 f# g/8 d/8
+
+# measure 11
+soprano    b/8 b/8 d c/8 b/8
+alto       d/8 d/8 d. d/8
+tenor      g/8 g/8 b a/8 g/8
+bass       g/8 g/8 g. g/8
+
+# measure 12
+soprano    a/8 a/8 a. d-/8
+alto       d/8 d/8 d. d/8
+tenor      f#/8 f#/8 f#. f#/8
+bass       d/8 d/8 d. c/8
+
+# measure 13
+soprano    g/8 f#/8 g. a/8
+alto       d/8 d/8 d. d/8
+tenor      g/8 a/8 b. f#/8
+bass       b/8 a/8 g-. d/8
+
+# measure 14
+soprano    b/8 c/8 d/2
+alto       d/8 d/8 d/2
+tenor      g/8 a/8 b/2
+bass       g/8 g/8 g/2
+
+# measure 15
+soprano    b/8. g/16 a/2
+alto       d/8. d/16 e/2
+tenor      g/8. b/16 c/2
+bass       g/8. g/16 c/2
+
+# measure 16
+soprano    g/8. f#/16 g/2
+alto       d/8. d/16 d/2
+tenor      b/8. a/16 b/2
+bass       d/8. d/16 g-/2
+
+
+

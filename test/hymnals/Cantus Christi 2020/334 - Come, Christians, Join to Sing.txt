@@ -1,0 +1,111 @@
+title      Come, Christians, Join to Sing
+author     Christian H. Bateman, 1843MADRID
+composer   Spanish traditional melody; arr. David Evans, 1927
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/334%20Come,%20Christians,%20Join%20to%20Sing.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 f# g
+alto       d/2 d d
+tenor      b/2 a g
+bass       g-/2 d b
+
+# measure 2
+soprano    e g d-/2
+alto       c c b/2
+tenor      g g g/2
+bass       c e g/2
+
+# measure 3
+soprano    b g c a
+alto       d d e e
+tenor      g b a c
+bass       g g c c
+
+# measure 4
+soprano    g f# g/2
+alto       d c b/2
+tenor      b a g/2
+bass       d/2 g-/2
+
+# measure 5
+soprano    g/2 f# g
+alto       d/2 d d
+tenor      b/2 a g
+bass       g-/2 d b
+
+# measure 6
+soprano    e g d-/2
+alto       c c b/2
+tenor      g g g/2
+bass       c e g/2
+
+# measure 7
+soprano    b g c a
+alto       d d e e
+tenor      g b a c
+bass       g g c c
+
+# measure 8
+soprano    g f# g/2
+alto       d c b/2
+tenor      b a g/2
+bass       d/2 g-/2
+
+# measure 9
+soprano    b/2 a b
+alto       d/2 d d
+tenor      g/2 c b
+bass       g/2 f# g
+
+# measure 10
+soprano    c b a/2
+alto       e d d/2
+tenor      g g f#/2
+bass       e g d/2
+
+# measure 11
+soprano    b/2 a b
+alto       d/2 d d
+tenor      g/2 f# g
+bass       g-/2 d/8 c/8 b
+
+# measure 12
+soprano    c b a/2
+alto       c d d/2
+tenor      e g f#/2
+bass       a b/8 c/8 d/2
+
+# measure 13
+soprano    g/2 f# g
+alto       d g- a d
+tenor      b d c b
+bass       g- b a g-
+
+# measure 14
+soprano    e g d-/2
+alto       e c d/2
+tenor      g g a f#
+bass       c e f# d
+
+# measure 15
+soprano    b g c a
+alto       d e e e
+tenor      g b a c
+bass       g e c c
+
+# measure 16
+soprano    g f# g/2
+alto       d c b/2
+tenor      b a g/2
+bass       d/2 g-/2
+
+
+

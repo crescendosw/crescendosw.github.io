@@ -1,0 +1,63 @@
+title      Savior of the Nations, Come
+author     Ambrose of Milan, 397; German tr. Martin Luther, 1524; tr. William M. Reynolds, 1860; alt.NUN KOMM, DER HEIDEN HEILAND
+composer   Johann Walter's Geisteliches Gesangbüchlein, 1524
+key        Bb
+tempo      101
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/555%20Savior%20of%20the%20Nations,%20Come.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g f bb
+alto       d d d f
+tenor      bb bb a d
+bass       g- g d bb
+
+# measure 2
+soprano    a/8 g/8 a g/2
+alto       eb/8 g/8 f# g/2
+tenor      c/8 bb/8 a bb/2
+bass       c d g-/2
+
+# measure 3
+soprano    g bb c. bb/8
+alto       d d eb. d/8
+tenor      bb bb g. bb/8
+bass       g g c. g/8
+
+# measure 4
+soprano    c d bb/2
+alto       f f f/2
+tenor      a bb d/2
+bass       f bb bb/2
+
+# measure 5
+soprano    bb c d bb
+alto       d f f g
+tenor      f a bb bb
+bass       bb f bb eb
+
+# measure 6
+soprano    c bb/8 a/8 g/2
+alto       g g/8 f#/8 g/2
+tenor      eb+ d bb/2
+bass       c d g-/2
+
+# measure 7
+soprano    g g f bb
+alto       eb eb d f
+tenor      bb c a d
+bass       eb c d bb
+
+# measure 8
+soprano    a/8 g/8 a g/2
+alto       f#/8 g/8 f# g/2
+tenor      d/8 bb/8 a bn/2
+bass       d d g-/2
+
+
+

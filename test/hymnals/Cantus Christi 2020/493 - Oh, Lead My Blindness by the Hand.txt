@@ -1,0 +1,52 @@
+title      Oh, Lead My Blindness by the Hand
+author     st. 1 & 2, William Gladstone, 1836; st. 3, Valerie Anne Bost, 2019 (c)VATER UNSER
+composer   Geistliche Lieder, Leipzig, 1539; attr. Martin Luther (1483-1546)
+key        Eb
+tempo      101
+rhythm     0 : 4
+verse_count 3
+copyright  Text: Valerie Anne Bost, 2019. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/493%20Oh,%20Lead%20My%20Blindness%20by%20the%20Hand.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 g eb f g eb d- c-/2
+alto       eb/2 d c c d c bn c/2
+tenor      c/2 g g c bn g g g/2
+bass       c/2 bn c ab g- c f eb/2
+
+# measure 2
+soprano    g/2 g f bb g eb f g/2
+alto       bb/2 d d eb d c c d/2
+tenor      g/2 bb bb bb bb g c bn/2
+bass       eb/2 bb ab g- bb c ab+ g/2
+
+# measure 3
+soprano    g/2 bb c eb+ d c bn c/2
+alto       eb/2 d g g f eb g g/2
+tenor      bb/2 bb g c ab c d c/2
+bass       g/2 g eb c f ab+ g eb/2
+
+# measure 4
+soprano    c/2 d c bb an g f# g/2
+alto       f/2 f f# g eb d d d/2
+tenor      an/2 bb an bb c bb an bb/2
+bass       eb/2 d d g c d d g/2
+
+# measure 5
+soprano    c/2 bb an bb g g f eb/2
+alto       eb/2 d d d eb eb d eb/2
+tenor      g/2 g an g bb bb ab g/2
+bass       eb/2 g f# g eb bb bb eb/2
+
+# measure 6
+soprano    g/2 ab g eb f eb d- c-/2
+alto       eb/2 eb d c c c bn c/2
+tenor      eb/2 eb g g f g f eb/2
+bass       c/2 c bn c ab g- g- c/2
+
+
+

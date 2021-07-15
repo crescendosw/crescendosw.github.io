@@ -1,0 +1,81 @@
+title      Let All Together Praise Our God
+author     Nikolaus Hermann, 1554; tr. Arthur Tozer Russell, 1851LOBT GOTT, IHR CHRISTEN
+composer   Nikolaus Hermann, 1554; harm. Johann Sebastian Bach, c. 1735
+key        F
+tempo      119
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/559%20Let%20All%20Together%20Praise%20Our%20God.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       c
+tenor      a
+bass       f
+
+# measure 2
+soprano    c c c c
+alto       c/8 d/8 e f f
+tenor      g c/8 bb/8 a/8 bb/8 c
+bass       e c f a
+
+# measure 3
+soprano    d c/8 bb/8 a g
+alto       f e f g
+tenor      bb/8 a/8 g/8 c/8 c c
+bass       bb c f e
+
+# measure 4
+soprano    a/8 bn/8 c d d
+alto       f e d/8 e/8 f
+tenor      f g a bn
+bass       d c f g
+
+# measure 5
+soprano    c/2. c
+alto       e/2. g
+tenor      g/2. c/8 bb/8
+bass       c/2. e
+
+# measure 6
+soprano    c c c a/8 bb/8
+alto       f e f f
+tenor      a bb c d
+bass       f g a+ d
+
+# measure 7
+soprano    c bb/8 a/8 g c
+alto       f g/8 f/8 e e
+tenor      c d g a
+bass       a bb c a
+
+# measure 8
+soprano    bb a g g
+alto       f/8 g/8 g/8 f/8 f/8 d/8 e
+tenor      a/8 g/8 a/8 bb/8 c bb
+bass       d/8 e/8 f c c#
+
+# measure 9
+soprano    f/8 g/8 a/8 bb/8 c c
+alto       f/2 e f
+tenor      a d c a
+bass       d/8 e/8 f/8 g/8 a+ f
+
+# measure 10
+soprano    bb a/8 g/8 a g
+alto       f f f e
+tenor      bb/8 c/8 d c c/8 bb/8
+bass       d c/8 bb/8 c c
+
+# measure 11
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f-/2.
+
+
+

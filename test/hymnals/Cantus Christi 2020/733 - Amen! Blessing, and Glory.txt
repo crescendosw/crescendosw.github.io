@@ -1,0 +1,46 @@
+title      Amen! Blessing and Glory
+author     Revelation 7:12
+
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/733%20Amen!%20Blessing%20and%20Glory.pdf
+composer   Douglas Wilson
+composer   harm., Mark Reagan
+key        Eb
+rhythm     4 : 4
+tempo      110
+verse_count 1
+
+status     header  tune  double  checked  lyrics
+
+copyright  Music: Douglas Wilson & Mark Reagan, 2015. Used by permission. Text: Thomas Nelson, 1982. Used by permission.
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    b b b/8 b a/8 | b  b/2  b  | c/1                    | a/2.  R
+alto       g g g/8 g f/8 | e  e/2  gb | a+/1                   | e/2.  R
+tenor      b b b/8 e f/8 | gb gb/2 b  | a/2 = a/8 gb/8 a/8 b/8 | cb/2. R
+bass       e e e/8 e e/8 | e  e/2  e  | e/1                    | e/2.  R
+
+soprano    R g g/8 g g/8 | g/8 f. R g | f/8 e. = e c- | c-/2. R
+alto       R e e/8 e e/8 | b/8 b. R d | c/8 c. = c c  | c/2.  R
+tenor      R b b/8 b b/8 | b/8 b. R b | a/8 a. = a e  | e/2.  R
+bass       e/2 e/8 e e/8 | d/8 d. R b | c/8 c. = c c  | c/2.  R
+
+soprano    R/2 b/8 b a/8 | b/2.     b  | c/1                    | a/2.  R
+alto       R/2 g/8 g f/8 | e/2 - f  gb | a+/1                   | e/2.  R
+tenor      R/2 e/8 e f/8 | gb/2 - a b  | a/2 = a/8 gb/8 a/8 b/8 | cb/2. R
+bass       R/2 e/8 e e/8 | e/2.     e  | e/1                    | e/2.  R
+
+soprano    R/2. g | g/8 f. = f g - | f/8 - e. = e - c- | e/1
+alto       R/2. e | b/8 b. = b d - | c/1               | b/1
+tenor      R/2. b | b/8 b. = b b - | a/1               | g/1
+bass       R/2. e | d/8 d. = d b - | c/2. - a          | e-/1
+
+verse      A - men: bless - ing, and glo - ry, and wis - dom:
+
+verse      thanks - giv - ing, and hon - our, and pow - er, and might
+
+verse      be to our God for - ev - er,
+
+verse      and ev - er. A - men.

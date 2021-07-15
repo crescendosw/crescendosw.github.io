@@ -1,0 +1,111 @@
+title      Kindle, Savior, in My Heart
+author     John Newton, 1793BITTER AND SWEET
+composer   Michael E. Owens, 2015
+key        D
+tempo      95
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/359%20Kindle,%20Savior,%20in%20My%20Heart.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- f# g. b/8
+alto       d d d. d/8
+tenor      f# a b b
+bass       d d b g-
+
+# measure 2
+soprano    a e f#. d-/8
+alto       e e d. c#/8
+tenor      c# a a. a/8
+bass       a c# d. f#-/8
+
+# measure 3
+soprano    d- f# e c#-
+alto       b d c# a
+tenor      b b a e
+bass       g- g- a a
+
+# measure 4
+soprano    d-/1
+alto       a/1
+tenor      g f#/2.
+bass       d/1
+
+# measure 5
+soprano    d- f# g. b/8
+alto       d d d. g/8
+tenor      f# a b d
+bass       d d b g-
+
+# measure 6
+soprano    a a a. f#/8
+alto       e g f#. d/8
+tenor      c# e+ d a
+bass       a a d d
+
+# measure 7
+soprano    e a b b
+alto       e f# a+ g#
+tenor      a c# e+ e+
+bass       c# f# e e
+
+# measure 8
+soprano    c#/1
+alto       a+/1
+tenor      e+/1
+bass       a+/1
+
+# measure 9
+soprano    d a a. f#/8
+alto       d f# e c#
+tenor      a d a a
+bass       f# d c# a
+
+# measure 10
+soprano    g b a/2
+alto       d d d/2
+tenor      g g f#/2
+bass       b g- d/2
+
+# measure 11
+soprano    b g g. e/8
+alto       d e d e
+tenor      g b b. a/8
+bass       g e e c#
+
+# measure 12
+soprano    f# g e/2
+alto       d d c#/2
+tenor      a b b a/8 g/8
+bass       d d a/2
+
+# measure 13
+soprano    f# d- g b
+alto       d b b d
+tenor      f# f# g g
+bass       b b g- g-
+
+# measure 14
+soprano    a g f#. d-/8
+alto       c#/8 d/8 e d. c#/8
+tenor      e e f#. f#/8
+bass       a a# b. b/8
+
+# measure 15
+soprano    d- f# e c#-
+alto       b d d a
+tenor      g g a e
+bass       e- e- a a
+
+# measure 16
+soprano    d-/1
+alto       a/1
+tenor      g f#/2.
+bass       d/1
+
+
+

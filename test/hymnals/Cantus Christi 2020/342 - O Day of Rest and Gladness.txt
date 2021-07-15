@@ -1,0 +1,117 @@
+title      O Day of Rest and Gladness
+author     Christopher Wordsworth, 1862	HERZLICH TUT MICH
+composer   German melody, adapt. Johann Walter, 1552; alt.
+key        D
+tempo      135
+rhythm     6 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/342%20O%20Day%20of%20Rest%20and%20Gladness.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       a
+tenor      f#
+bass       d
+
+# measure 2
+soprano    d-/2 d- f#/2 d-
+alto       a/2 a d/2 d
+tenor      f#/2 f# f#/2 g
+bass       d/2 d b/2 b
+
+# measure 3
+soprano    a/2. a/2 d
+alto       c#/2. c#/2 d
+tenor      a/2. a/2 a
+bass       a/2. g/2 f#
+
+# measure 4
+soprano    c#/2 a b/2 a
+alto       g/2 a+ g/2 e
+tenor      c#/2 d d/2 c#
+bass       e/2 f# g/2 a+
+
+# measure 5
+soprano    f#/2. = f#/2 d-
+alto       d/2. = d/2 d
+tenor      a/2. = a/2 f#
+bass       d/2. = d/2 d
+
+# measure 6
+soprano    a/2 b c#/2 a
+alto       e/2 d c#/2 c#
+tenor      a/2 g# a/2 gn
+bass       c#/2 b a/2 a
+
+# measure 7
+soprano    d/2. c#/2 b
+alto       d/2. d/2 d
+tenor      f#/2. a/2 g
+bass       b/2. f#-/2 g-
+
+# measure 8
+soprano    a/2 f# g e/2
+alto       c#/2 d d c#/2
+tenor      e/2 d- b a/2
+bass       a/2 b g- a/2
+
+# measure 9
+soprano    d-/2. = d-/2 d-
+alto       d/2. = d/2 d
+tenor      f#/2. = f#/2 f#
+bass       d/2. = d/2 d
+
+# measure 10
+soprano    a/2 a g/2 f#
+alto       e/2 e d e d
+tenor      a/2 c# b/2 a
+bass       c#/2 a b c# d
+
+# measure 11
+soprano    g/2. f#/2 d-
+alto       d/2 c# d/2 b
+tenor      g/2. a/2 g
+bass       e/2. f#/2 g
+
+# measure 12
+soprano    f#/2 b a/2 g
+alto       d/2 d d/2 d
+tenor      a/2 g a/2 b
+bass       d/2 g f#/2 g
+
+# measure 13
+soprano    e/2. b/2.
+alto       c#/2. d/2.
+tenor      a/2. b/2.
+bass       a+/2. g/2.
+
+# measure 14
+soprano    a/2 a g/2 f#
+alto       f#/2 d d e d
+tenor      c#/2 d b/2 a
+bass       f#/2 f# b c# d
+
+# measure 15
+soprano    d-/2. f#/2 b
+alto       d/2. c#/2 b
+tenor      b/2. f#/2 g
+bass       b/2. a/2 g-
+
+# measure 16
+soprano    a/2 f# g e/2
+alto       d/2 d d c#/2
+tenor      a/2 b b a/2
+bass       f#-/2 b g- a/2
+
+# measure 17
+soprano    d-/2. = d-/2
+alto       d/2. = d/2
+tenor      f#/2. = f#/2
+bass       d/2. = d/2
+
+
+

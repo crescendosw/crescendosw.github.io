@@ -1,0 +1,33 @@
+title      Kyrie Eleison
+author     Anonymous
+composer   Thomas Tallis, The Dorian Service, c. 1550
+key        D
+tempo      100
+rhythm     0 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/703%20Kyrie%20Eleison%20-%20Tallis.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b/2. d c# b a g f#
+alto       g/2. f# f# f# f# e d#
+tenor      b/2. b a d d b b
+bass       e/2. b f# b d e b
+
+# measure 2
+soprano    b/2 d c# b a g f#
+alto       g/2 f# f# f# f# e d#
+tenor      b/2 b a d d b b
+bass       e/2 b f# b d e b
+
+# measure 3
+soprano    f#/2 b a. g/8 f# e/2 d#- e/2
+alto       dn/2 b e. d/8 c#/2 b/2 b/2
+tenor      b/2 d c#. b/8 a g f#/2 e/2
+bass       b/2 g- a. a/8 a/2 b/2 e/2
+
+
+

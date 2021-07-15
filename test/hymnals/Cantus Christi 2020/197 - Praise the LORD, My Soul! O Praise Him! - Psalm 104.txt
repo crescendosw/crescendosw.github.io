@@ -1,0 +1,112 @@
+title      Praise the LORD, My Soul! O Praise Him!
+author     Sing Psalms, 2003 (c) SELIG DIE IHR
+composer   Theodor Goldschmidt
+key        F
+tempo      100
+rhythm     4 : 4
+verse_count 4
+copyright  Text: Free Church of Scotland, 2003. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/197%20Praise%20the%20LORD,%20My%20Soul%20-%20Psalm%20104a%20SELIG%20DIE%20IHR.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c a f/8 g/8 a/8 bb/8
+alto       f e f e
+tenor      a c a c/8 bb/8
+bass       f c f a+/8 g/8
+
+# measure 2
+soprano    c a/8 g/8 f f
+alto       f e f/8 e/8 f
+tenor      a c/8 bb/8 a/8 bb/8 a
+bass       f c f f
+
+# measure 3
+soprano    g a/8 f/8 g f/8 a/8
+alto       c a c c
+tenor      g f e f
+bass       e f c/8 bb/8 a
+
+# measure 4
+soprano    bb a g/2
+alto       c c c/2
+tenor      e f e/2
+bass       g- f- c/2
+
+# measure 5
+soprano    c a f/8 g/8 a/8 bb/8
+alto       c e f e
+tenor      a c a c/8 bb/8
+bass       f c f a+/8 g/8
+
+# measure 6
+soprano    c a/8 g/8 f f
+alto       f e f/8 e/8 f
+tenor      a c/8 bb/8 a/8 bb/8 a
+bass       f c f f
+
+# measure 7
+soprano    g a/8 f/8 g f
+alto       c c c d
+tenor      g f/8 a/8 g a
+bass       e f e f
+
+# measure 8
+soprano    e/8 f/8 d- c-/2
+alto       c c/8 bn/8 c/2
+tenor      g g/8 f/8 e/2
+bass       g g- c/2
+
+# measure 9
+soprano    c- d- eb eb
+alto       c d eb c
+tenor      c- d- eb g
+bass       c d eb c
+
+# measure 10
+soprano    eb f g g
+alto       c c d d
+tenor      ab ab c bn
+bass       f d g g
+
+# measure 11
+soprano    g a bb bb
+alto       eb eb d d
+tenor      c an g bb
+bass       c c g- g
+
+# measure 12
+soprano    bb/8 a/8 bb/8 c/8 d/2
+alto       g g f#/2
+tenor      bb g a/2
+bass       eb eb d/2
+
+# measure 13
+soprano    d. c/8 bb a/8 bb/8
+alto       g d d d
+tenor      bb a bb bb
+bass       g f# g fn
+
+# measure 14
+soprano    c c/8 bb/8 a g
+alto       c e f g
+tenor      g g f c
+bass       e c f e
+
+# measure 15
+soprano    bb a/8 g/8 f g
+alto       f f d d
+tenor      bb c/8 bb/8 a g
+bass       d c d bb
+
+# measure 16
+soprano    a/8 bb/8 g f/2
+alto       c c/8 bb/8 a/2
+tenor      f e f/2
+bass       c c f-/2
+
+
+

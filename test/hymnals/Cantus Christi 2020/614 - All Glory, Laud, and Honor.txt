@@ -1,0 +1,117 @@
+title      All Glory, Laud, and Honor
+author     Theodulph of Orleans, c. 820; tr. John Mason Neale, 1854; alt.ST. THEODULPH
+composer   Melchior Teschner, c. 1614; harm. Johann Sebastian Bach (1685-1750)
+key        C
+tempo      101
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/614%20All%20Glory,%20Laud%20and%20Honor.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       g-
+tenor      e
+bass       c
+
+# measure 2
+soprano    g g a b
+alto       c e f e
+tenor      g c c b
+bass       e c f g#-
+
+# measure 3
+soprano    c/2 c e+
+alto       e/2 e a+
+tenor      a/2 a c
+bass       a/2 a a+
+
+# measure 4
+soprano    d c c b
+alto       a+ f e d
+tenor      a a g g
+bass       f d g g-
+
+# measure 5
+soprano    c/2. c-
+alto       e/2. g-
+tenor      g/2. e/8 f/8
+bass       c/2. c/8 d/8
+
+# measure 6
+soprano    g g a b
+alto       c e f e
+tenor      g c c b
+bass       e c f g#-
+
+# measure 7
+soprano    c/2 c e+
+alto       e/2 e a+
+tenor      a/2 a c
+bass       a/2 a a+/8 g/8
+
+# measure 8
+soprano    d c c b
+alto       a+ f e d
+tenor      a a g g
+bass       f/8 e/8 d g g-
+
+# measure 9
+soprano    c/2. c
+alto       e/2. e
+tenor      g/2. g
+bass       c/2. c
+
+# measure 10
+soprano    e+ e+ d c
+alto       g a+ a+ f#
+tenor      c c d d
+bass       c+/8 b+/8 a+/8 g/8 f# d
+
+# measure 11
+soprano    b a g b
+alto       g f# d g
+tenor      d c b d
+bass       g/2 g- f
+
+# measure 12
+soprano    c b a a
+alto       g g g f#
+tenor      c d e+ d/8 c/8
+bass       e d c d
+
+# measure 13
+soprano    g/2. g
+alto       d/2. d
+tenor      b/2. g
+bass       g-/2. b
+
+# measure 14
+soprano    e g a g
+alto       c e f e
+tenor      g c c bb
+bass       c bb a/8 bn/8 c#
+
+# measure 15
+soprano    g f e g
+alto       e d c c
+tenor      a/2 a e
+bass       d/2 a bb
+
+# measure 16
+soprano    f e d- d-
+alto       c c c b
+tenor      f g a g/8 f/8
+bass       a g- f- g-
+
+# measure 17
+soprano    c-/2.
+alto       g-/2.
+tenor      e/2.
+bass       c/2.
+
+
+

@@ -1,0 +1,147 @@
+title      O LORD, Make Haste to Hear My Cry
+author     The Psalter, 1912CALVISIUS
+composer   Sethus Calvisius, 1594; harm. Johann Sebsatian Bach (1685-1750)
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 8
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/282%20O%20LORD,%20Make%20Haste%20to%20Hear%20-%20Psalm%20141%20CALVISIUS.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b
+alto       g
+tenor      d
+bass       g-
+
+# measure 2
+soprano    b/8 c/8 d b g
+alto       g a+ g g
+tenor      d d d d/8 c/8
+bass       g f# g e
+
+# measure 3
+soprano    a b c b
+alto       fn/8 e/8 d e d
+tenor      c g g g
+bass       fn g c g-
+
+# measure 4
+soprano    a g g. a/8
+alto       d/8 c/8 b e/2
+tenor      f# g c/2
+bass       d e/8 d/8 c/8 d/8 e/8 f#/8
+
+# measure 5
+soprano    b b a/8 g/8 a
+alto       d d d. c/8
+tenor      b/8 a/8 g g f#
+bass       g b/8 c/8 d d
+
+# measure 6
+soprano    g/2. b
+alto       b/2. g
+tenor      d-/2. d
+bass       g-/2. g-
+
+# measure 7
+soprano    a b g e
+alto       f# f# e/8 d/8 c#
+tenor      d/8 c/8 b b a
+bass       d d# e a+/8 g/8
+
+# measure 8
+soprano    f# g a b
+alto       d. c#/8 d d#
+tenor      a g f# f#
+bass       f# e d b
+
+# measure 9
+soprano    g g g. a/8
+alto       b e d e/8 f#/8
+tenor      g c b/8 c/8 b/8 a/8
+bass       e/8 d/8 e/8 f#/8 g/8 a+/8 g/8 f#/8
+
+# measure 10
+soprano    b b a/8 g/8 a
+alto       g d d. c/8
+tenor      g g g f#
+bass       e b/8 c/8 d d
+
+# measure 11
+soprano    g/2.
+alto       b/2.
+tenor      d-/2.
+bass       g-/2.
+
+# measure 12
+soprano    b
+alto       g
+tenor      d
+bass       g-
+
+# measure 13
+soprano    b/8 c/8 d b g
+alto       g a+ g g
+tenor      d d d d/8 c/8
+bass       g f# g e
+
+# measure 14
+soprano    a b c b
+alto       fn/8 e/8 d e d
+tenor      c g g g
+bass       fn g c g-
+
+# measure 15
+soprano    a g g. a/8
+alto       d/8 c/8 b e/2
+tenor      f# g c/2
+bass       d e/8 d/8 c/8 d/8 e/8 f#/8
+
+# measure 16
+soprano    b b a/8 g/8 a
+alto       d d d. c/8
+tenor      b/8 a/8 g g f#
+bass       g b/8 c/8 d d
+
+# measure 17
+soprano    g/2. b
+alto       b/2. g
+tenor      d-/2. d
+bass       g-/2. g-
+
+# measure 18
+soprano    a b g e
+alto       f# f# e/8 d/8 c#
+tenor      d/8 c/8 b b a
+bass       d d# e a+/8 g/8
+
+# measure 19
+soprano    f# g a b
+alto       d. c#/8 d d#
+tenor      a g f# f#
+bass       f# e d b
+
+# measure 20
+soprano    g g g. a/8
+alto       b e d e/8 f#/8
+tenor      g c b/8 c/8 b/8 a/8
+bass       e/8 d/8 e/8 f#/8 g/8 a+/8 g/8 f#/8
+
+# measure 21
+soprano    b b a/8 g/8 a
+alto       g d d. c/8
+tenor      g g g f#
+bass       e b/8 c/8 d d
+
+# measure 22
+soprano    g/2.
+alto       b/2.
+tenor      d-/2.
+bass       g-/2.
+
+
+

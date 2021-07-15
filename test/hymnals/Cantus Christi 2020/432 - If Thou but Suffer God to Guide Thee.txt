@@ -1,0 +1,93 @@
+title      If Thou But Suffer God to Guide Thee
+author     Georg Neumark, 1640; tr. Catherine Winkworth, 1855NEUMARK [WER NUR DEN LIEBEN]
+composer   Georg Neumark, 1640
+key        Bb
+tempo      160
+rhythm     6 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/432%20If%20Thou%20But%20Suffer%20God%20to%20Guide%20Thee.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- g a
+alto       bb d d
+tenor      g bb a
+bass       g g f#
+
+# measure 2
+soprano    bb/2 a g/2 a
+alto       d/2 d eb/2 eb
+tenor      g/2 a bb/2 c
+bass       g/2 f eb/2 c
+
+# measure 3
+soprano    f# d- R fn f eb
+alto       d d R d d c
+tenor      a f# R fn bb g
+bass       d d R bb bb c
+
+# measure 4
+soprano    d-/2 g g/2 f#
+alto       a/2 d eb/2 d
+tenor      f#/2 g c/2 a
+bass       d/2 bb c/2 d
+
+# measure 5
+soprano    g/2 R d- g a
+alto       d/2 R bb d d
+tenor      bb/2 R g bb a
+bass       g-/2 R g g f#
+
+# measure 6
+soprano    bb/2 a g/2 a
+alto       d/2 d eb/2 eb
+tenor      g/2 a bb/2 c
+bass       g/2 f eb/2 c
+
+# measure 7
+soprano    f# d- R fn f eb
+alto       d d R d d c
+tenor      a f# R fn bb g
+bass       d d R bb bb c
+
+# measure 8
+soprano    d-/2 g g/2 f#
+alto       a/2 d eb/2 d
+tenor      f#/2 g c/2 a
+bass       d/2 bb c/2 d
+
+# measure 9
+soprano    g/2 R a bb c
+alto       d/2 R d d f
+tenor      bb/2 R a g a
+bass       g-/2 R f# g fn
+
+# measure 10
+soprano    d/2 d c/2 c
+alto       f/2 g g/2 f
+tenor      bb/2 bb bb/2 a
+bass       bb/2 g eb/2 f
+
+# measure 11
+soprano    bb/2. bb a g
+alto       d/2. f f d
+tenor      bb/2. d c bb
+bass       bb/2. bb+ f g
+
+# measure 12
+soprano    f#/2 g g/2 f#
+alto       d/2 bb eb/2 d
+tenor      a/2 g a/2 a
+bass       d/2 eb c/2 d
+
+# measure 13
+soprano    g/2.
+alto       d/2.
+tenor      bn/2.
+bass       g-/2.
+
+
+

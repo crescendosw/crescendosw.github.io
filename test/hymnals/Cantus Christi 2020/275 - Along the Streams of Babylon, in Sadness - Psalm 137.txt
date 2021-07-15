@@ -1,0 +1,51 @@
+title      Along the Streams of Babylon, in Sadness
+author     Walter van der Kamp, 1972 (c) ESTANS ASSIS AUX RIVES [GENEVAN 137]
+composer   Genevan Psalter, 1539; harm. Claude Goudimel, 1564
+key        C
+tempo      165
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/275%20Along%20the%20Streams%20of%20Babylon%20-%20Psalm%20137%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 f g a/2 a/2 a g a b c/2 a/1
+alto       d/2 d e f/2 f/2 f e f# g g/2 f#/1
+tenor      a/2 a c c/2 d/2 d b d d e+/2 d/1
+bass       d/2 d c f/2 d/2 d e d g- c/2 d/1
+
+# measure 2
+soprano    c/2 a g f/2 g/2 g a g f e/2 d-/2.
+alto       g/2 f e d/2 e/2 e f e d/2 c# d/2.
+tenor      e+/2 c c a/2 c/2 c c c a a/2 a/2.
+bass       c/2 f c d/2 c/2 c f- c d a/2 d/2.
+
+# measure 3
+soprano    d- f/2 a/2 g/2 f/2 e d- e e d-/1
+alto       a d/2 e/2 e/2 d/2 c# d d c# d/1
+tenor      a a/2 c/2 c/2 a/2 a f a a a/1
+bass       d d/2 a/2 c/2 d/2 a bb a a d/1
+
+# measure 4
+soprano    a/2 a g f/2 a/2 c c b b a/1
+alto       f/2 f e d/2 f/2 g a+ a+ g# a+/1
+tenor      d/2 c c a/2 d/2 e+ e+ e+ e+ c#/1
+bass       d/2 f c d/2 d/2 c a e e a/1
+
+# measure 5
+soprano    f/2 e d- a/2 c/2 b a g a f/2 e/1
+alto       a/2 c d e/2 a+/2 g f e e d/2 c#/1
+tenor      a/2 a b c/2 e+/2 e+ c c c a/2 a/1
+bass       d/2 c b a/2 a/2 e f c a d/2 a/1
+
+# measure 6
+soprano    d-/2 f g a/2 g/2 g a g f e/2 d-/1
+alto       d/2 d e f/2 e/2 e f e d/2 c# d/1
+tenor      a/2 a c c/2 c/2 c c c a a/2 a/1
+bass       d/2 d c f/2 c/2 c f- c d a/2 d/1
+
+
+

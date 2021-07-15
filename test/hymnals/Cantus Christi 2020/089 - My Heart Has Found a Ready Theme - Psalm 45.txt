@@ -1,0 +1,94 @@
+title      My Heart Has Found a Ready Theme
+author     Douglas Wilson, 2002 (c) MEIN HERZ DICHTET LIED [BECKER 45]
+composer   Heinrich Schütz, 1628
+key        Eb
+tempo      200
+rhythm     0 : 4
+verse_count 6
+copyright  Text: Douglas Wilson, 2002. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/89%20My%20Heart%20Has%20Found%20-%20Psalm%2045%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/1 c-/2 db-/2 c-/2 f/2 en. f/8 g f en/2.
+alto       c/1 ab/2 bb/2 g-/2 f-/2 g-. f-/8 c c c/2.
+tenor      ab/1 f/2 f/2 eb/2 ab/2 c. bb/8 g ab g/2.
+bass       f-/1 f-/2 bb/2 c/2 db/2 c. dn/8 en f c/2.
+
+# measure 2
+soprano    f g/2 bb/2. ab/2 g/2 f/2 en f/1
+alto       c eb/2 f/2 eb/2 eb/2 c/1 c/1
+tenor      ab bb/2 db/2 c/2 bb/2 ab/2 g/2 f/1
+bass       f eb/2 bb/2 c/2 eb/2 ab. bb/8 c/2 f-/1
+
+# measure 3
+soprano    f/1 c-/2 db-/2 c-/2 f/2 en. f/8 g f en/2.
+alto       c/1 ab/2 bb/2 g-/2 f-/2 g-. f-/8 c c c/2.
+tenor      ab/1 f/2 f/2 eb/2 ab/2 c. bb/8 g ab g/2.
+bass       f-/1 f-/2 bb/2 c/2 db/2 c. dn/8 en f c/2.
+
+# measure 4
+soprano    f g/2 bb/2. ab/2 g/2 f/2 en f/1
+alto       c eb/2 f/2 eb/2 eb/2 c/1 c/1
+tenor      ab bb/2 db/2 c/2 bb/2 ab/2 g/2 f/1
+bass       f eb/2 bb/2 c/2 eb/2 ab. bb/8 c/2 f-/1
+
+# measure 5
+soprano    ab/2 ab eb f/2
+alto       c/2 c c d/2
+tenor      f/2 f g bb/2
+bass       f-/2 f- c bb/2
+
+# measure 6
+soprano    bb/2 bb f# g/2
+alto       bb/2 d d d/2
+tenor      d/2 g an bn/2
+bass       g-/2 g- d g-/2
+
+# measure 7
+soprano    bn/2 c bn c/2
+alto       g/2 f g en/2
+tenor      d/2 c d c/2
+bass       g/2 ab+ g c/2
+
+# measure 8
+soprano    an/2 bb an bb/2
+alto       f/2 d f d/2
+tenor      c/2 bb c bb/2
+bass       f/2 g f bb/2
+
+# measure 9
+soprano    c/2 bb ab bb c ab/2 g/2
+alto       eb/2 eb c eb eb c/2 c/2
+tenor      eb/2 g f g g f/2 en/2
+bass       ab/2 eb f eb c f/2 c/2
+
+# measure 10
+soprano    c db/2 c ab/2 bb c/2 ab g/2
+alto       eb f/2 eb c/2 bb eb/2 f bb/2
+tenor      ab f/2 g ab/2 eb+ c/2 d eb+/2
+bass       ab db/2 eb f/2 g ab+/2 f eb/2
+
+# measure 11
+soprano    eb+ bb/2 eb+ db/2 c/2 bb/2 ab/2
+alto       c eb/2 g f/2 eb/2 eb/2 eb/2
+tenor      eb g/2 c ab/2 ab/2 g/2 ab/2
+bass       ab eb/2 c db/2 ab/2 eb/2 ab/2
+
+# measure 12
+soprano    c ab/2 bb g f/2 eb/2
+alto       eb f/2 f eb d/2 eb/2
+tenor      ab c/2 f bb bb/2 bb/2
+bass       ab+ f/2 d eb bb/2 eb/2
+
+# measure 13
+soprano    g bb/2 c ab g/2 f
+alto       eb f/2 g f en/2 f
+tenor      bb f bb g c c/2 c
+bass       eb d/2 en f c/2 f-
+
+
+

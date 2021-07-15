@@ -1,0 +1,70 @@
+title      The LORD Is King! Let Earth Rejoice
+author     Donald P. Owens II, 2011 (c)DER HERR IST KÖNIG [BECKER 97]
+composer   Heinrich Schütz, 1661
+key        Bb
+tempo      135
+rhythm     0 : 4
+verse_count 4
+copyright  Text: Donald P. Owens II, 2011. All Rights Reserved. Used by permission. 181 Text: Crown & Covenant Publications, 1973. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/179%20The%20LORD%20Is%20King!%20-%20Psalm%2097%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c c eb+ d. c/8 bb c a a bb. a/8 g
+alto       eb eb c d eb/8 f/8 g g f# f# g fn/8 eb/8 d
+tenor      g g g bb. c/8 d eb+ d d d. c/8 bb
+bass       c c c g/2. c d d g-/2.
+
+# measure 2
+soprano    f f g eb. d-/8 c- f d-/2 c-/2.
+alto       d d eb c. bb/16 ab/16 g- c bn/2 c/2.
+tenor      bb bb bb ab g/8 f/8 eb ab g/2 g/2.
+bass       bb bb eb ab. bb/8 c f- g-/2 c/2.
+
+# measure 3
+soprano    c c eb+ d. c/8 bb c a a bb. a/8 g
+alto       eb eb c d eb/8 f/8 g g f# f# g fn/8 eb/8 d
+tenor      g g g bb. c/8 d eb+ d d d. c/8 bb
+bass       c c c g/2. c d d g-/2.
+
+# measure 4
+soprano    f f g eb. d-/8 c- f d-/2 c-/2.
+alto       d d eb c. bb/16 ab/16 g- c bn/2 c/2.
+tenor      bb bb bb ab g/8 f/8 eb ab g/2 g/2.
+bass       bb bb eb ab. bb/8 c f- g-/2 c/2.
+
+# measure 5
+soprano    c- g a bb. ab/8 g ab g f eb/2.
+alto       g- c c eb/2. eb eb d eb/2.
+tenor      eb eb f g. ab/8 bb c bb bb bb/2.
+bass       c c f eb/2. ab eb bb eb/2.
+
+# measure 6
+soprano    d- eb f g. a/8 bb c a/2 g/2.
+alto       bn c d eb/2. eb d/2 d/2.
+tenor      g g bb bb. a/8 g g f#/2 g/2.
+bass       g c bb eb/2. c d/2 g-/2.
+
+# measure 7
+soprano    bb g ab f. eb/8 d- g eb f d-/2.
+alto       d c c bb/2. d c c bn/2.
+tenor      g eb f d-. eb/8 f bb ab ab g/2.
+bass       g- c f- bb/2. g- ab f- g-/2.
+
+# measure 8
+soprano    d- d- d- eb. f/8 g g f#/2 g/2
+alto       bn bn c/2 g-/2 d/2 bn/2
+tenor      g g g g. f/8 eb d- c-/2 d-/2
+bass       g- g- g- c/2. bb a/2 g-/2
+
+# measure 9
+soprano    bb g/2 bb a. bb/8 c eb+ d/2 c
+alto       eb eb/2 d f/2 g/2 g/2 en
+tenor      g bb/2 g c. d/8 eb+ c bn/2 c
+bass       eb eb/2 g f eb/8 d/8 c c g/2 c
+
+
+

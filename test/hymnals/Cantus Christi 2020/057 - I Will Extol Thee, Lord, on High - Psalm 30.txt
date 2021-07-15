@@ -1,0 +1,70 @@
+title      I Will Extol Thee, Lord, on High
+author     Isaac Watts (1674-1748)SAXONY
+composer   Gesangbuch, 1568; harm. Samuel Sebastian Wesley (1810-1876)
+key        G
+tempo      89
+rhythm     4 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/57%20I%20Will%20Extol%20Thee%20-%20Psalm%2030%20SAXONY.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       g-
+tenor      e
+bass       e
+
+# measure 2
+soprano    e e g e
+alto       g- c b b
+tenor      e a g b
+bass       c a e g
+
+# measure 3
+soprano    g a b b
+alto       e f#/8 e/8 d# e
+tenor      b e f# g
+bass       e/8 d/8 c b e
+
+# measure 4
+soprano    b b d b
+alto       f# e f# e
+tenor      b g a g
+bass       d# e dn e
+
+# measure 5
+soprano    a a g(1.2) b
+alto       g f# g(1.2) g
+tenor      e+ d/8 c/8 b(1.2) d
+bass       c d g(1.2) g
+
+# measure 6
+soprano    b e g f#
+alto       d e e d
+tenor      d b c# d
+bass       g g- a b
+
+# measure 7
+soprano    e e d- f#
+alto       d c# a d
+tenor      b a f# a
+bass       g- a d d
+
+# measure 8
+soprano    g b a g
+alto       d g f# e
+tenor      d d d/8 c/8 b
+bass       b g- d e
+
+# measure 9
+soprano    f# f# e(1.2)
+alto       e d# b(1.2)
+tenor      c b g(1.2)
+bass       a b e-(1.2)
+
+
+
+

@@ -1,0 +1,189 @@
+title      O Enter, Lord, Thy Temple
+author     Paul Gerhardt, 1653; Catherine Winkworth (1827-1878)AUS MEINES HERZERNS GRUNDE
+composer   Neu Catechismus Gesangbüchlein, Hamburg, 1598
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/647%20O%20Enter,%20Lord,%20Thy%20Temple.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       d
+tenor      b
+bass       g-
+
+# measure 2
+soprano    g/2 d
+alto       d e d
+tenor      b c/8 b/8 a
+bass       g e f#
+
+# measure 3
+soprano    b. a/8 g
+alto       d/2 b
+tenor      g f# g
+bass       g d e
+
+# measure 4
+soprano    g. a/8 b
+alto       e/8 d/8 e/8 f#/8 g
+tenor      c/8 b/8 c d
+bass       c b/8 a/8 g-
+
+# measure 5
+soprano    a/2 b
+alto       f#/2 g
+tenor      d/2 d
+bass       d/2 g-
+
+# measure 6
+soprano    d/2 c
+alto       d e f#
+tenor      a b c
+bass       f#- g- a
+
+# measure 7
+soprano    b a/2
+alto       g/2 f#
+tenor      d e+ d/8 c/8
+bass       b c d
+
+# measure 8
+soprano    g/2 g
+alto       d/2 d
+tenor      b/2 b
+bass       g-/2 g-
+
+# measure 9
+soprano    g/2 d
+alto       d e d
+tenor      b c/8 b/8 a
+bass       g e f#
+
+# measure 10
+soprano    b. a/8 g
+alto       d/2 b
+tenor      g f# g
+bass       g d e
+
+# measure 11
+soprano    g. a/8 b
+alto       e/8 d/8 e/8 f#/8 g
+tenor      c/8 b/8 c d
+bass       c b/8 a/8 g-
+
+# measure 12
+soprano    a/2 b
+alto       f#/2 g
+tenor      d/2 d
+bass       d/2 g-
+
+# measure 13
+soprano    d/2 c
+alto       d e f#
+tenor      a b c
+bass       f#- g- a
+
+# measure 14
+soprano    b a/2
+alto       g/2 f#
+tenor      d e+ d/8 c/8
+bass       b c d
+
+# measure 15
+soprano    g/2 b
+alto       d/2 g
+tenor      b/2 d
+bass       g-/2 g-
+
+# measure 16
+soprano    b c d
+alto       g/8 f#/8 e/8 f#/8 g
+tenor      d c b/8 a/8
+bass       g- a b
+
+# measure 17
+soprano    d. c/8 b
+alto       g/8 a+/8 g/8 f#/8 g
+tenor      b/8 c/8 d d
+bass       b. a/8 g-
+
+# measure 18
+soprano    a/2 g
+alto       f#/2 e
+tenor      d/2 b
+bass       d/2 e
+
+# measure 19
+soprano    b/2 c
+alto       e f#/8 g/8 a+
+tenor      g b e+
+bass       e d c
+
+# measure 20
+soprano    d/2 c
+alto       a+ g. f#/8
+tenor      d/2 d
+bass       b. c/8 d
+
+# measure 21
+soprano    b/2.
+alto       g/2 fn
+tenor      d/2.
+bass       g-/8 a/8 b g-
+
+# measure 22
+soprano    g/2 b
+alto       e/2 g
+tenor      c/2 d
+bass       c/2 g-
+
+# measure 23
+soprano    d/2 c
+alto       a+. g/8 f#
+tenor      d/8 c/8 b c
+bass       f#- g- a
+
+# measure 24
+soprano    b/2 a
+alto       g/2 f#
+tenor      d/2 d/8 c/8
+bass       b g- d
+
+# measure 25
+soprano    g. a/8 b
+alto       e. f#/8 g
+tenor      b c d
+bass       e/8 d/8 c/8 b/8 a/8 g-/8
+
+# measure 26
+soprano    a/2 b
+alto       f#/2 g
+tenor      d/2 d
+bass       d/2 g
+
+# measure 27
+soprano    d/2 c
+alto       a+/2 g/8 f#/8
+tenor      d/2 e+
+bass       g f# e
+
+# measure 28
+soprano    b a/2
+alto       g/2 f#
+tenor      e+/2 d/8 c/8
+bass       e/8 d/8 c d
+
+# measure 29
+soprano    g/2
+alto       d/2
+tenor      b/2
+bass       g-/2
+
+
+

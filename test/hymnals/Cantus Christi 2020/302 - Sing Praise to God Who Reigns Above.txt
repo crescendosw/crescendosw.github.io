@@ -1,0 +1,105 @@
+title      Sing Praise to God Who Reigns Above
+author     Johann J. Schütz, 1675; tr. Francis Elizabeth Cox, 1864MIT FREUDEN ZART
+composer   Bohamian Brethren's Kirchengesänge, 1566
+key        D
+tempo      140
+rhythm     6 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/302%20Sing%20Praise%20to%20God%20Who%20Reigns%20Above.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2
+alto       a/2
+tenor      f#/2
+bass       d/2
+
+# measure 2
+soprano    f# g a/2 d/2
+alto       d c# d/2 d/2
+tenor      a a a/2 a/2
+bass       d e f#/2 f#-/2
+
+# measure 3
+soprano    c# b a/2 b. a/8
+alto       d d d/2 d#/2
+tenor      a g f#/2 f# b
+bass       g- b d cn b/2
+
+# measure 4
+soprano    g f# e/2 f# g
+alto       e d c#/2 d/2
+tenor      b a a/2 a b
+bass       e f#/8 g/8 a+ g f# e
+
+# measure 5
+soprano    e/2 d-/2 d-/2
+alto       d c# d/2 a/2
+tenor      a. g/8 f#/2 f#/2
+bass       a/2 d/2 d/2
+
+# measure 6
+soprano    f# g a/2 d/2
+alto       d c# d/2 d/2
+tenor      a a a/2 a/2
+bass       d e f#/2 f#-/2
+
+# measure 7
+soprano    c# b a/2 b. a/8
+alto       d d d/2 d#/2
+tenor      a g f#/2 f# b
+bass       g- b d cn b/2
+
+# measure 8
+soprano    g f# e/2 f# g
+alto       e d c#/2 d/2
+tenor      b a a/2 a b
+bass       e f#/8 g/8 a+ g f# e
+
+# measure 9
+soprano    e/2 d-/2 d/2
+alto       d c# d/2 f#/2
+tenor      a. g/8 f#/2 b/2
+bass       a/2 d/2 b/2
+
+# measure 10
+soprano    c# b a/2 d/2
+alto       f# e# c#/2 d/2
+tenor      a g# f#/2 f#/2
+bass       c# c# f#/2 b/2
+
+# measure 11
+soprano    c# b a/2 a/2
+alto       e e e/2 c#/2
+tenor      a g# c#/2 a/2
+bass       c# e a/2 a+ gn
+
+# measure 12
+soprano    d- e f#/2 d-/2
+alto       d c# d/2 d/2
+tenor      a g a/2 f#/2
+bass       f# e d/2 d c#
+
+# measure 13
+soprano    f# g# a/2 a/2
+alto       d d c#/2 d/2
+tenor      b b a/2 d. cn/8
+bass       b e a+ g f#/2
+
+# measure 14
+soprano    b g e/2 f# g
+alto       d d c#/2 d/2
+tenor      b b a/2 a b
+bass       g e a+ g f# e
+
+# measure 15
+soprano    e/2 d-/2
+alto       d c# d/2
+tenor      a. g/8 f#/2
+bass       a+ a d/2
+
+
+

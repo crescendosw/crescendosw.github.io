@@ -1,0 +1,51 @@
+title      LORD, Rebuke Me Not in Anger
+author     William Helder, 1980 (c) LAS! EN TA FUREUR [GENEVAN 38]
+composer   Genevan Psalter, 1551; harm. Claude Goudimel, 1564
+key        Ab
+tempo      165
+rhythm     0 : 4
+verse_count 9
+copyright  Text: William Helder, 1980. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/76%20LORD,%20Rebuke%20Me%20Not%20-%20Psalm%2038%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    ab/2 g/2 f g ab bb c/2 bb/2
+alto       f/2 en/2 f eb f g ab+/2 g/2
+tenor      c/2 c/2 ab c c eb+ eb+/2 eb+/2
+bass       f/2 c/2 db c f eb ab+/2 eb/2
+
+# measure 2
+soprano    R c/2 bb ab/2 g/1
+alto       R ab+/2 g f/2 eb/1
+tenor      R eb+/2 eb+ c/2 c/1
+bass       R ab/2 eb f/2 c/1
+
+# measure 3
+soprano    bb bb c/2 ab bb g/2 f/1
+alto       f f ab+/2 f f/2 en f/1
+tenor      db db eb+/2 db db c/2 c/1
+bass       bb bb ab/2 db bb c/2 f-/1
+
+# measure 4
+soprano    c/2 c/2 bb ab f g ab/2 g/2
+alto       ab+/2 ab+/2 g f c g f/2 eb/2
+tenor      f+/2 eb+/2 eb+ c ab c c/2 c/2
+bass       f/2 ab+/2 eb f f en f/2 c/2
+
+# measure 5
+soprano    R ab/2 g f/2 eb/1
+alto       R f/2 eb db/2 c/1
+tenor      R c/2 c ab/2 ab/1
+bass       R f/2 c db/2 ab/1
+
+# measure 6
+soprano    ab/2 c/2 bb ab f/2 g/2 f/1
+alto       eb/2 ab+/2 g eb db f. en/16 dn/16 eb f/1
+tenor      c/2 eb+/2 eb+ c ab/2 c/2 c/1
+bass       ab/2 ab/2 eb ab db/2 c/2 f-/1
+
+

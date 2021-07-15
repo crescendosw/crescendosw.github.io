@@ -1,0 +1,208 @@
+title      Do Not Withhold Your Mercy, LORD
+author     Sing Psalms, 2003 (c) MERTHYR TYDFIL
+composer   Joseph Parry (1841-1903)
+key        C
+tempo      125
+rhythm     3 : 4
+verse_count 3
+copyright  Text: Free Church of Scotland, 2003. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/81%20Do%20Not%20Withhold%20Your%20Mercy%20-%20Psalm%2040b%20MERTHYR%20TYDFIL.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e a g#
+alto       e a+ g#
+tenor      e a g#
+bass       e a+ g#
+
+# measure 2
+soprano    a/2 e
+alto       a+/2 c
+tenor      a/2 a
+bass       a+/2 a
+
+# measure 3
+soprano    g/2 d-
+alto       c/2 b
+tenor      e/2 g
+bass       g-/2 g-
+
+# measure 4
+soprano    e/2.
+alto       c/2.
+tenor      g/2.
+bass       c/2.
+
+# measure 5
+soprano    a b c
+alto       a+ b+ c+
+tenor      a b c
+bass       a+ b+ c+
+
+# measure 6
+soprano    b/2 e
+alto       b+/2 e
+tenor      b/2 e
+bass       b+/2 e
+
+# measure 7
+soprano    g/2 f#
+alto       e/2 d#
+tenor      b/2 a
+bass       b/2 b
+
+# measure 8
+soprano    e/2.
+alto       e/2.
+tenor      g/2.
+bass       e/2.
+
+# measure 9
+soprano    e a g#
+alto       c e e
+tenor      a a d
+bass       a c b
+
+# measure 10
+soprano    a/2 e
+alto       e/2 c
+tenor      c/2 a
+bass       a/2 c
+
+# measure 11
+soprano    g/2 d-
+alto       d/2 d
+tenor      g/2 a
+bass       b/2 f
+
+# measure 12
+soprano    e/2.
+alto       b/2.
+tenor      g#/2.
+bass       e/2.
+
+# measure 13
+soprano    a b c
+alto       e e e
+tenor      a g# a
+bass       c e a+
+
+# measure 14
+soprano    b/2 a
+alto       f/2 e
+tenor      a g# a/8 b/8
+bass       d/2 c/8 d/8
+
+# measure 15
+soprano    a/2 g#
+alto       e/2 d
+tenor      c/2 b
+bass       e/2 e
+
+# measure 16
+soprano    a/2.
+alto       c/2.
+tenor      a/2.
+bass       a/2.
+
+# measure 17
+soprano    a b c
+alto       e e e
+tenor      a g# a/8 c/8
+bass       c e a+
+
+# measure 18
+soprano    d/2 d
+alto       f/2 f
+tenor      b/2 b
+bass       a+/2 g#
+
+# measure 19
+soprano    c/8. b/16 a c
+alto       e/2 f#
+tenor      c/8. d/16 e+ d#
+bass       a+/8. b+/16 c+ a+
+
+# measure 20
+soprano    b/2.
+alto       g#/2.
+tenor      e+/2.
+bass       e/2.
+
+# measure 21
+soprano    e e+ d
+alto       e a+ g#
+tenor      e e+ e+
+bass       e c+ b+
+
+# measure 22
+soprano    c/2 b
+alto       a+/2 g#
+tenor      e+/2 f+
+bass       a+/2 d+
+
+# measure 23
+soprano    a d c
+alto       a+ g# a+
+tenor      e+/2 e+
+bass       c+ b+ a+
+
+# measure 24
+soprano    b/2.
+alto       g#/2.
+tenor      e+/2.
+bass       e/2.
+
+# measure 25
+soprano    e a g#
+alto       e a+ g#
+tenor      e a g#
+bass       e a+ g#
+
+# measure 26
+soprano    a/2 e
+alto       a+/2 c
+tenor      a/2 a
+bass       a+/2 a
+
+# measure 27
+soprano    g/2 d-
+alto       c/2 b
+tenor      e/2 g
+bass       g-/2 g-
+
+# measure 28
+soprano    e/2.
+alto       c/2.
+tenor      g/2.
+bass       c/2.
+
+# measure 29
+soprano    a b c
+alto       e e e
+tenor      c g# a
+bass       a e a+
+
+# measure 30
+soprano    b/2 a
+alto       d/2 c/8 d/8
+tenor      a g# a/8 b/8
+bass       e/2 f
+
+# measure 31
+soprano    a/2 g#
+alto       e/2 d
+tenor      c/2 b
+bass       e/2 e
+
+# measure 32
+soprano    a/2.
+alto       c/2.
+tenor      a/2.
+bass       a/2.
+
+
+

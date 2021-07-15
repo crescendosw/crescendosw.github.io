@@ -1,0 +1,39 @@
+title      Come, Bless the LORD with One Accord
+author     Lambertus J. Lamberts, 1928O SUS, SERVITEURS [GENEVAN 134]
+composer   Genevan Psalter, 1551; harm. Claude Goudimel, 1564
+key        G
+tempo      101
+rhythm     0 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/268%20Come,%20Bless%20the%20LORD%20-%20Psalm%20134%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 g f# e d- g/2 a/2 b/1
+alto       d/2 d d c b b/2 d/2 d/1
+tenor      b/2 b a a f# e g/2 f# g/1
+bass       g-/2 g- d a b e/2 d/2 g-/1
+
+# measure 2
+soprano    b/2 b b a g c/2 b/2 a/1
+alto       g/2 g g f# b e/2 e/2 e/1
+tenor      d/2 e+ d d b/2 a/2 g# a/1
+bass       g/2 e g d e c/2 e/2 a/1
+
+# measure 3
+soprano    g/2 a b a g e/2 f#/2 g/1
+alto       e/2 f# g f# b c#/2 d/2 d/1
+tenor      b/2 d d d b a/2 a/2 b/1
+bass       e/2 d g- d e a/2 d/2 g-/1
+
+# measure 4
+soprano    d/2 b/2 g/2 a c b/2 a/2 g/1
+alto       g/2 g/2 e/2 e a+/2 g/2 f# g/1
+tenor      b/2 d/2 c/2 c e+ d/2 d/2 d/1
+bass       g-/2 g-/2 c/2 a a b/2 d/2 g-/1
+
+
+
