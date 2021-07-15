@@ -1,0 +1,117 @@
+title      To Sing and Play My Heart Is Bent
+author     st. 1, 2, 4, 5, Mary Sidney Herbert (1556-1621); st. 3, Donald P. Owens II, 2018 (c)WER DA WONET
+composer   Vehe's Gesangbüchlein, 1573; adapt. St. Gall Gesangbuch, 1863
+key        D
+tempo      135
+rhythm     6 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/203%20To%20Sing%20and%20Play%20My%20Heart%20-%20Psalm%20108%20WER%20DA%20WONET.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       a
+tenor      f#
+bass       d
+
+# measure 2
+soprano    d-/2 f# a/2 f#
+alto       a/2 d e/2 d
+tenor      f#/2 b a/2 a
+bass       d c# b c#/2 d
+
+# measure 3
+soprano    g a b a/2 d
+alto       d/2 d c#/2 d
+tenor      g f# g e/2 a
+bass       b a g- a/2 f#
+
+# measure 4
+soprano    c#/2 b a f# a
+alto       e/2 d e f# d
+tenor      g a b e a b
+bass       e f# g c# d b
+
+# measure 5
+soprano    g f# g f#/2 d-
+alto       d/2 c# d/2 a
+tenor      b/2 a a/2 f#
+bass       e/2 a d/2 d
+
+# measure 6
+soprano    d-/2 f# a/2 f#
+alto       a/2 d e/2 d
+tenor      f#/2 b a/2 a
+bass       d c# b c#/2 d
+
+# measure 7
+soprano    g a b a/2 d
+alto       d/2 d c#/2 d
+tenor      g f# g e/2 a
+bass       b a g- a/2 f#
+
+# measure 8
+soprano    c#/2 b a f# a
+alto       e/2 d e f# d
+tenor      g a b e a b
+bass       e f# g c# d b
+
+# measure 9
+soprano    g f# g f#/2 d-
+alto       d/2 c# d/2 a
+tenor      b/2 a a/2 a
+bass       e/2 a d/2 f#
+
+# measure 10
+soprano    b/2 c# d/2 a
+alto       d/2 e a+/2 f#
+tenor      g/2 g a/2 d
+bass       g/2 e f#/2 d
+
+# measure 11
+soprano    g f# e d-/2 d-
+alto       e d c# d/2 d
+tenor      b/2 g f#/2 g
+bass       e/2 a b/2 b
+
+# measure 12
+soprano    f#/2 g a/2 b
+alto       d c# d d/2 f#
+tenor      a/2 b a g f#
+bass       a a+ g f# e d
+
+# measure 13
+soprano    g/2 f# e/2 e
+alto       b e d c#/2 c#
+tenor      g. a/8 b c#/2 a
+bass       e. f#/8 g a+/2 a
+
+# measure 14
+soprano    f#/2 g# a/2 b
+alto       d/2 e e/2 f#
+tenor      a/2 b a/2 a
+bass       d/2 d c#/2 d
+
+# measure 15
+soprano    c# d b a/2 d
+alto       e/2 d c#/2 d
+tenor      a/2 g# a/2 a
+bass       e/2 e a/2 f#
+
+# measure 16
+soprano    c#/2 b a/2 g
+alto       e/2 d g f# e
+tenor      g a b e+ d b
+bass       e f# g c# d g-
+
+# measure 17
+soprano    f# g e d-/2
+alto       d/2 c# d/2
+tenor      a/2 g f#/2
+bass       a/2 a d/2
+
+
+

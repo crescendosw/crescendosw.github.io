@@ -1,0 +1,112 @@
+title      Gracious LORD, Remember David
+author     The Psalter, 1912MEAD HOUSE
+composer   Cyril Vincent Taylor, 1951 (c)
+key        A
+tempo      101
+rhythm     4 : 4
+verse_count 5
+copyright  Music: Hope Publishing Co., 1951; ren 1982. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/262%20Gracious%20LORD,%20Remember%20David%20-%20Psalm%20132%20MEAD%20HOUSE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e e a e
+alto       e e a+ e
+tenor      e e a e
+bass       e e a+ e
+
+# measure 2
+soprano    a b c# a
+alto       c# e e f#
+tenor      f# g# a a
+bass       f# e a d
+
+# measure 3
+soprano    d c# b a
+alto       d e f# c#
+tenor      b a f# a
+bass       b c# d f#
+
+# measure 4
+soprano    g# f# e/2
+alto       e d/8 c#/8 b d
+tenor      b a g#/2
+bass       e f# g# e
+
+# measure 5
+soprano    e e a e
+alto       e e c# e
+tenor      c# b a g#
+bass       a+ g# f# e
+
+# measure 6
+soprano    a b c# a
+alto       c# f# e# c#
+tenor      a f# g# f#
+bass       f#/8 e/8 d c# f#
+
+# measure 7
+soprano    b. c#/8 b a
+alto       e d# e f#
+tenor      b a g# c#
+bass       g# f# g# a+
+
+# measure 8
+soprano    g# f# e/2
+alto       e d# b/2
+tenor      b b/8 a/8 g#/2
+bass       b+ b e/2
+
+# measure 9
+soprano    f# f# b f#
+alto       d c# b b
+tenor      b a# f# f#
+bass       b f#/8 e/8 d d
+
+# measure 10
+soprano    e d-/8 c#-/8 b- c#-
+alto       b a# b a#
+tenor      gn f#/8 e/8 d- f#
+bass       c# f#- gn- f#-
+
+# measure 11
+soprano    d- e f# b
+alto       b c# d f#
+tenor      f# a a d
+bass       b a d b
+
+# measure 12
+soprano    a g# f#/2
+alto       f# e# c#/2
+tenor      c# c# a/2
+bass       c# c# f# a+
+
+# measure 13
+soprano    e e a e
+alto       e b e c#
+tenor      b g# a a
+bass       g# e/8 d/8 c# a
+
+# measure 14
+soprano    a b c# g#
+alto       c# g#/8 f#/8 e# c#
+tenor      f# b g# e#
+bass       f# e/8 d/8 c# c#
+
+# measure 15
+soprano    a f# d. b/8
+alto       c# c# d f#
+tenor      f# f# f# b
+bass       f#- a b d
+
+# measure 16
+soprano    a b a/2
+alto       e g# e/2
+tenor      c# d c#/2
+bass       e e a/2
+
+
+

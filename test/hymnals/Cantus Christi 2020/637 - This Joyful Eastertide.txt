@@ -1,0 +1,160 @@
+title      This Joyful Eastertide
+author     George Ratcliffe Woodward, 1902VRUECHTEN
+composer   David's Psalmen, Amsterdam, 1685; harm. Alice Parker, 1966 (c)
+key        F
+tempo      160
+rhythm     4 : 4
+verse_count 3
+copyright  Arrangement: Hope Publishing Co., 1969. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/637%20This%20Joyful%20Eastertide.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       c
+tenor      c-
+bass       c
+
+# measure 2
+soprano    f g a bb
+alto       f e f f
+tenor      f c c c
+bass       f c f g
+
+# measure 3
+soprano    c/2. c
+alto       f/2. f
+tenor      c/2. a
+bass       a+/2. f
+
+# measure 4
+soprano    d. c/8 bb d
+alto       f. f/8 f f
+tenor      bb. c/8 d bb
+bass       bb+. a+/8 g bb+
+
+# measure 5
+soprano    c. bb/8 a g/8 f/8
+alto       f. e/8 f/2 =
+tenor      c/1
+bass       a+. g/8 f c =
+
+# measure 6
+soprano    g/2 f(2) c-
+alto       f e f(2) c
+tenor      bb/2 a(2) c-
+bass       c/2 f(2) c
+
+# measure 7
+soprano    f g a bb
+alto       f e f f
+tenor      f c c c
+bass       f c f g
+
+# measure 8
+soprano    c/2. c
+alto       f/2. f
+tenor      c/2. a
+bass       a+/2. f
+
+# measure 9
+soprano    d. c/8 bb d
+alto       f. f/8 f f
+tenor      bb. c/8 d bb
+bass       bb+. a+/8 g bb+
+
+# measure 10
+soprano    c. bb/8 a g/8 f/8
+alto       f. e/8 f/2 =
+tenor      c/1
+bass       a+. g/8 f c =
+
+# measure 11
+soprano    g/2 f(2) f
+alto       f e f(2) f
+tenor      bb/2 a(2) f
+bass       c/2 f(2) f
+
+# measure 12
+soprano    g a bb a
+alto       e f g f
+tenor      c c c c
+bass       c f e f
+
+# measure 13
+soprano    g. a/8 bb c
+alto       e. f/8 f f
+tenor      c. c/8 d c
+bass       c. c+/8 bb+ a+
+
+# measure 14
+soprano    d c c bn
+alto       f f f/2
+tenor      a a d/2
+bass       f f g/2
+
+# measure 15
+soprano    c/2. c
+alto       e/2. c
+tenor      c/2. c
+bass       c/2. c
+
+# measure 16
+soprano    bb bb a a
+alto       f g f f
+tenor      c c c c
+bass       d e f a+
+
+# measure 17
+soprano    g/2. f
+alto       e/2. f
+tenor      c/2. a
+bass       c+/2. c
+
+# measure 18
+soprano    e f g a
+alto       c c e f
+tenor      g a c c
+bass       c c c c
+
+# measure 19
+soprano    bb/2 g g
+alto       g/2 e e
+tenor      g/2 c c
+bass       c/2 c bb
+
+# measure 20
+soprano    c/2 a a
+alto       f/2 f f
+tenor      c/2 f f
+bass       a/2 d c
+
+# measure 21
+soprano    d/2 c c
+alto       f/2 e g
+tenor      bb/2 g c
+bass       bb/2 c bb
+
+# measure 22
+soprano    f+. e+/8 d c/8 bb/8
+alto       f/1 =
+tenor      c/2 bb/2
+bass       a/2 bb/2
+
+# measure 23
+soprano    a g/8 f/8 g/2
+alto       f/2. e
+tenor      f a c bb
+bass       c/1
+
+# measure 24
+soprano    f/2.
+alto       f/2.
+tenor      a/2.
+bass       f/2.
+
+
+

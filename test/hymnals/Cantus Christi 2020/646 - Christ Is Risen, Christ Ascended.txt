@@ -1,0 +1,112 @@
+title      Christ Is Risen, Christ Ascended
+author     Douglas Wilson, 2015 (c)ODE TO JOY
+composer   Ludwig van Beethoven, 1824; arr. Edward Hodges, 1864
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 3
+copyright  Text: Douglas Wilson, 2015. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/646%20Christ%20Is%20Risen,%20Christ%20Ascended.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b b c d
+alto       d d d d
+tenor      g g a b
+bass       g g g g
+
+# measure 2
+soprano    d c b a
+alto       d d d d
+tenor      b a g f#
+bass       d d d c
+
+# measure 3
+soprano    g g a b
+alto       d d d d
+tenor      g g f# g
+bass       b b a g-
+
+# measure 4
+soprano    b. a/8 a/2
+alto       d. d/8 d/2
+tenor      g. f#/8 f#/2
+bass       d. d/8 d/2
+
+# measure 5
+soprano    b b c d
+alto       d d e fn
+tenor      d d c b
+bass       g g g g
+
+# measure 6
+soprano    d c b a
+alto       fn e d e
+tenor      g a b c
+bass       c c c c
+
+# measure 7
+soprano    g g a b
+alto       d d f# g
+tenor      b b c d
+bass       d d d d
+
+# measure 8
+soprano    a. g/8 g/2
+alto       f#. d/8 d/2
+tenor      c. b/8 b/2
+bass       d. g/8 g/2
+
+# measure 9
+soprano    a a b g
+alto       d d d g
+tenor      f# f# g b
+bass       d d d d
+
+# measure 10
+soprano    a b/8 c/8 b g
+alto       f# d d d
+tenor      d g/8 a/8 g b
+bass       d d d d
+
+# measure 11
+soprano    a b/8 c/8 b a
+alto       f# g/8 f#/8 f# d#
+tenor      d b/8 a/8 b b
+bass       d d d# b
+
+# measure 12
+soprano    g a d-/2
+alto       e c# d/2
+tenor      b a f#/2
+bass       e a d/2
+
+# measure 13
+soprano    b b c d
+alto       d d e fn
+tenor      d d c b
+bass       g g g g
+
+# measure 14
+soprano    d c b a
+alto       fn e d e
+tenor      g a b c
+bass       c c c c
+
+# measure 15
+soprano    g g a b
+alto       d d f# g
+tenor      b b c d
+bass       d d d d
+
+# measure 16
+soprano    a. g/8 g/2
+alto       f#. d/8 d/2
+tenor      c. b/8 b/2
+bass       d. g-/8 g-/2
+
+
+

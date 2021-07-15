@@ -1,0 +1,88 @@
+title      Once in the Blest Baptismal Waters
+author     Aemilie Juliane, Gräfin von Schwarzburg-Rudolstadt (1637-1706)
+composer   Christian Möck (1737-1818)
+key        G
+tempo      101
+rhythm     0 : 4
+verse_count 3
+copyright  Text: Concordia Publishing House, 1941. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/694%20Once%20in%20the%20Blest%20Baptismal%20Waters.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    R g f# g a b
+alto       R d d d d d
+tenor      R b a g f# g
+bass       R g- d b a g-
+
+# measure 2
+soprano    c b a/2 g/2
+alto       e d d/2 b/2
+tenor      g g g f# g/2
+bass       c g- d/2 g-/2
+
+# measure 3
+soprano    R a b a g f#
+alto       R d d d e d
+tenor      R f# g a b a
+bass       R d g- f#- e- f#-
+
+# measure 4
+soprano    e e d-/2
+alto       d c# d/2
+tenor      b a f#/2
+bass       g- a d/2
+
+# measure 5
+soprano    R g f# g a b
+alto       R d d d d d
+tenor      R b a g f# g
+bass       R g- d b a g-
+
+# measure 6
+soprano    c b a/2 g/2
+alto       e d d/2 b/2
+tenor      g g g f# g/2
+bass       c g- d/2 g-/2
+
+# measure 7
+soprano    R a b a g f#
+alto       R d d d e d
+tenor      R f# g a b a
+bass       R d g- f#- e- f#-
+
+# measure 8
+soprano    e e d-/2
+alto       d c# d/2
+tenor      b a f#/2
+bass       g- a d/2
+
+# measure 9
+soprano    R d- a a b g
+alto       R d e f# d e
+tenor      R f# a a g g
+bass       R d c# d g- cn
+
+# measure 10
+soprano    c b a/2
+alto       d d d/2
+tenor      f# g f#/2
+bass       a g- d/2
+
+# measure 11
+soprano    R d c b a g
+alto       R d e d d b
+tenor      R g g g f# g
+bass       R b c g- d e
+
+# measure 12
+soprano    g f# g/2
+alto       e d d/2
+tenor      a a b/2
+bass       c d g-/2
+
+
+

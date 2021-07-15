@@ -1,0 +1,64 @@
+title      Blest Is the Man Whose Trespass Is Forgiven
+author     William Helder, 1980 (c) O BIENHEUREUX CELUI DONT [GENEVAN 32]
+composer   Genevan Psalter, 1539; harm. Claude Goudimel, 1564
+key        D
+tempo      165
+rhythm     0 : 4
+verse_count 5
+copyright  Text: William Helder, 1980. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/60%20Blest%20Is%20the%20Man%20-%20Psalm%2032%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 f#/2 g/2 a/2 a/2 a f# g a b/2 a
+alto       a/2 d/2 e/2 f#/2 e/2 f# d d f# g/2 f#
+tenor      f#/2 b/2 b/2 d/2 c#/2 d a b c# d/2 d
+bass       d/2 b/2 e/2 d/2 a/2 d d b a g-/2 d
+
+# measure 2
+soprano    g f# f# e/2 a/2 b a g f# e/2 d-/1
+alto       e e d# e/2 f#/2 g f# e dn/2 c# d/1
+tenor      b b b b/2 d/2 d cn c a a/2 a/1
+bass       e b b e/2 d/2 g- a cn d a/2 d/1
+
+# measure 3
+soprano    d-/2 f# g a/2 a/2 b a g g f#/1
+alto       a/2 d e e/2 f#/2 g f# e e d#/1
+tenor      f#/2 b b c#/2 d/2 d d b b b/1
+bass       d/2 b e a/2 d/2 g- d e e b/1
+
+# measure 4
+soprano    a/2 g f# e/2 f#/2 g f# d-/2 e/2 d-/1
+alto       dn/2 d d c#/2 d/2 d f#/2 d/2 c# d/1
+tenor      f#/2 b a a/2 a/2 b a f#/2 a/2 a/1
+bass       d/2 g- d a/2 d/2 g- a b/2 a/2 d/1
+
+# measure 5
+soprano    d/2 d d c#/2 a/2 b c# d c# b/2 a/1
+alto       a+/2 a+ a+ a+/2 f#/2 f# a+ a+ a+/2 g# a+/1
+tenor      f#+/2 f#+ f#+ e+/2 d/2 d e+ f#+ e+ e+/2 e+/1
+bass       d/2 d d a+/2 d/2 b a d a e/2 a/1
+
+# measure 6
+soprano    a/2 a a b/2 a/2 g b a g f#/2 e/1
+alto       f#/2 e f# g/2 f#/2 e f# f# e/2 d# e/1
+tenor      d/2 c# d d/2 d/2 b d d b b/2 b/1
+bass       d/2 a d g-/2 d/2 e b d e b/2 e/1
+
+# measure 7
+soprano    a/2 a a b/2 d/2 c# a b b a/1
+alto       f#/2 f# f# g/2 a+/2 a+ f# g g a+/1
+tenor      d/2 c# c# e+/2 f#+/2 f#+ c# e+ e+ c#/1
+bass       d/2 f# f# e/2 d/2 f# f# e e a/1
+
+# measure 8
+soprano    a/2 b b a/2 g/2 f# e d-/2 e/2 d-/1
+alto       f#/2 g g f#/2 d/2 d c# b d/2 c# d/1
+tenor      d/2 d d d/2 b/2 a a f#/2 a/2 a/1
+bass       d/2 g- g- d/2 g-/2 d a b/2 a/2 d/1
+
+
+

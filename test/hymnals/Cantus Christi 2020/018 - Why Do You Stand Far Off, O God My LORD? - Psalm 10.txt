@@ -1,0 +1,56 @@
+title      Why Do You Stand Far Off, O God My LORD?
+author     Douglas Wilson, 2000 (c)D'OÙ VIENT CELA, SEIGNEUR [GENEVAN 10]
+composer   Genevan Psalter, 1542; harm. Claude Goudimel, 1564; alt.
+key        C
+tempo      101
+rhythm     0 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/18%20Why%20Do%20You%20Stand%20Far%20Off%20-%20Psalm%2010%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+see_also   Cantus Christi 2002: 010
+
+# measure 1
+soprano    a/2 bb/2 g/2 f/2 f/2 e d- f/2 g/2 a/1
+alto       f/2 f/2 e/2 d/2 d/2 e a d/2 d/2 c#/1
+tenor      c/2 d/2 c/2 a/2 a/2 c f a/2 d-/2 e/1
+bass       f/2 bb/2 c/2 d/2 d/2 a d d/2 bb/2 a/1
+
+# measure 2
+soprano    a/2 a b c b a g f/2 e/2 d-/1
+alto       e/2 f# g g g fn e/2 d/2 c# d/1
+tenor      c#/2 d d e+ e+ cn c a/2 a/2 a/1
+bass       a+/2 d g c e f c d/2 a/2 d/1
+
+# measure 3
+soprano    a/2 bb/2 g/2 f/2 f/2 e d- f/2 g/2 a/1
+alto       f/2 f/2 e/2 d/2 d/2 e a d/2 d/2 c#/1
+tenor      c/2 d/2 c/2 a/2 a/2 c f a/2 d-/2 e/1
+bass       f/2 bb/2 c/2 d/2 d/2 a d d/2 bb/2 a/1
+
+# measure 4
+soprano    a/2 a b c b a g f/2 e/2 d-/1
+alto       e/2 f# g g g fn e/2 d/2 c# d/1
+tenor      c#/2 d d e+ e+ cn c a/2 a/2 a/1
+bass       a+/2 d g c e f c d/2 a/2 d/1
+
+# measure 5
+soprano    d/2 c b a g a b c/2 b/2 a/1
+alto       a+/2 a+ g f e f g g a+/2 g# a+/1
+tenor      f+/2 f+ d d b d d e+/2 e+/2 e+/1
+bass       d/2 f g d e d g- c/2 e/2 a/1
+
+# measure 6
+soprano    c/2 b a g/2 e/2 f g a g f/2 e/1
+alto       a+/2 g f e/2 c/2 a e f e d/2 c#/1
+tenor      e+/2 e+ c c/2 g/2 f c c c a/2 a/1
+bass       a/2 e f c/2 c/2 d c f c d/2 a/1
+
+# measure 7
+soprano    a/2 c c d/2 d/2 c b a g f/2 e/2 d-/1
+alto       d/2 e e f/2 f/2 e g f e/2 d/2 c# d/1
+tenor      f/2 e e d-/2 a/2 a g c c a/1 a/1
+bass       d/2 a a d/2 d/2 a e f c d/2 a/2 d/1
+

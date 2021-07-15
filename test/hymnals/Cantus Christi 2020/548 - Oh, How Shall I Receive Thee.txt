@@ -1,0 +1,118 @@
+title      Oh, How Shall I Receive Thee
+author     Paul Gerhardt (1607-1676); tr. Arthur Tozer Russell, 1855HERRNHUT
+composer   Johann Crüger (1598-1662)
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 5
+copyright  Music & text: Hope Publishing Co., 1974. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/548%20Oh,%20How%20Shall%20I%20Receive%20Thee.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c
+alto       f
+tenor      a
+bass       f
+
+# measure 2
+soprano    d c bb a
+alto       f f f f
+tenor      bb c d c
+bass       bb a bb f-
+
+# measure 3
+soprano    g/2 a a
+alto       f e f f
+tenor      c/2 c c
+bass       c/2 f f
+
+# measure 4
+soprano    f f g c
+alto       c f f e
+tenor      a a c c
+bass       a+ d c c
+
+# measure 5
+soprano    a/2. c
+alto       f/2. f
+tenor      c/2. a
+bass       f/2. f
+
+# measure 6
+soprano    d c bb a
+alto       f f f f
+tenor      bb c d c
+bass       bb a bb f-
+
+# measure 7
+soprano    g/2 a a
+alto       f e f f
+tenor      c/2 c c
+bass       c/2 f f
+
+# measure 8
+soprano    f f g c
+alto       c f f e
+tenor      a a c c
+bass       a+ d c c
+
+# measure 9
+soprano    a/2. a
+alto       f/2. f
+tenor      c/2. c
+bass       f/2. f
+
+# measure 10
+soprano    bb a g f
+alto       f f e d
+tenor      bb c c a
+bass       d f c d
+
+# measure 11
+soprano    e/2 f a
+alto       d c# d f
+tenor      a/2 a c
+bass       a/2 d f-
+
+# measure 12
+soprano    g g a f
+alto       e d c# d
+tenor      c g e f/8 g/8
+bass       c bb a d
+
+# measure 13
+soprano    e/2. a
+alto       c#/2. cn
+tenor      a/2. a
+bass       a/2. f
+
+# measure 14
+soprano    a g a d
+alto       f e f f
+tenor      c c c bb
+bass       f c f bb
+
+# measure 15
+soprano    c/2 a c
+alto       e/2 f f
+tenor      g c c c
+bass       c/2 f a
+
+# measure 16
+soprano    bb a g g
+alto       f f f e
+tenor      d c c c
+bass       bb f- c c
+
+# measure 17
+soprano    f/2.
+alto       f/2.
+tenor      a/2.
+bass       f/2.
+
+
+

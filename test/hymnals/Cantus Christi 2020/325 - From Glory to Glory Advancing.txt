@@ -1,0 +1,147 @@
+title      From Glory to Glory Advancing
+author     Liturgy of St. James; tr. Charles W. Humphreys (1840-1921)SHEEN
+composer   Gustav Holst (1874-1934)
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 2
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/325%20From%20Glory%20to%20Glory%20Advancing.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       b
+tenor      g
+bass       g-
+
+# measure 2
+soprano    e g a
+alto       c d d
+tenor      g g f#
+bass       c b d
+
+# measure 3
+soprano    b g f#/8 e/8
+alto       d d c
+tenor      g b a/8 f#/8
+bass       g- g- a
+
+# measure 4
+soprano    d- g c
+alto       d e a+
+tenor      g b e+
+bass       b e a
+
+# measure 5
+soprano    b a. g/8
+alto       g g f#/8 g/8
+tenor      d d. b/8
+bass       b d. g/8
+
+# measure 6
+soprano    g/2 g
+alto       g/2 g
+tenor      b/2 b
+bass       g/2 g
+
+# measure 7
+soprano    d a b
+alto       a+ f# g
+tenor      a d d
+bass       f# d g
+
+# measure 8
+soprano    g f# e
+alto       b a e
+tenor      d/8 c#/8 d c#
+bass       e f#/8 g/8 a+
+
+# measure 9
+soprano    f# g a
+alto       d d d
+tenor      a d c#
+bass       d b f#-
+
+# measure 10
+soprano    f# e. d-/8
+alto       d c#. d/8
+tenor      b g. f#/8
+bass       g- a. d/8
+
+# measure 11
+soprano    d-/2 d-/8 = d-/8
+alto       d/2 d/8 = d/8
+tenor      f#/2 g/8 = g/8
+bass       d/2 b/8 = b/8
+
+# measure 12
+soprano    e g a
+alto       c d c
+tenor      g = g f#
+bass       c b d
+
+# measure 13
+soprano    g. g/8 g
+alto       b c d
+tenor      g. g/8 g
+bass       g- a b
+
+# measure 14
+soprano    a b c
+alto       d fn g
+tenor      fn d c
+bass       d d e
+
+# measure 15
+soprano    c. a/8 b
+alto       g. g/8 g
+tenor      d. e+/8 fn+
+bass       g. g/8 g
+
+# measure 16
+soprano    c/2.
+alto       g/2.
+tenor      e+/2.
+bass       c/2.
+
+# measure 17
+soprano    R a a
+alto       R f# f#
+tenor      R d d
+bass       R d c
+
+# measure 18
+soprano    d c b
+alto       g f# g
+tenor      d a b
+bass       b a g-
+
+# measure 19
+soprano    b. a/8 g
+alto       g. f#/8 e
+tenor      c d e+
+bass       a b c/8 d/8
+
+# measure 20
+soprano    g e g
+alto       e b e
+tenor      b g b/8 c/8
+bass       e e e
+
+# measure 21
+soprano    g a. g/8
+alto       g g f#
+tenor      d d c
+bass       b d d
+
+# measure 22
+soprano    g/2
+alto       g/2
+tenor      b/2
+bass       g-/2
+
+
+

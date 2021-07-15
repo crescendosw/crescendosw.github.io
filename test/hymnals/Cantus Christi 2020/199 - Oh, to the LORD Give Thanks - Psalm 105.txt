@@ -1,0 +1,159 @@
+title      Oh, to the LORD Give Thanks
+author     Arnold J. Robertstad, 2017 (c) ZION (Funk)
+composer   Joseph Funk's A Compilation of Genuine Church Music, 1832
+key        A
+tempo      125
+rhythm     4 : 4
+verse_count 9
+copyright  Text: Arnold J. Robertstad, 2017. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/199%20Oh,%20to%20the%20LORD%20Give%20Thanks%20-%20Psalm%20105%20ZION.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2 e/8 c#-/8 a-
+alto       a/2 a a
+tenor      e/2 a a
+bass       a/2 a a
+
+# measure 2
+soprano    e/2 a/2
+alto       c#/2 e/2
+tenor      a/2 e/2
+bass       a/2 a/2
+
+# measure 3
+soprano    b c#/8 b/8 a g#
+alto       e f# e e
+tenor      g# a/8 b/8 c# b
+bass       e f# d e
+
+# measure 4
+soprano    a/1
+alto       e/1
+tenor      c#/1
+bass       a/1
+
+# measure 5
+soprano    a/2 c# c#
+alto       e/2 e e
+tenor      c#/2 a a
+bass       a/2 a+ a+
+
+# measure 6
+soprano    b/2 c#/2
+alto       e/2 e/2
+tenor      g#/2 a/2
+bass       e/2 a/2
+
+# measure 7
+soprano    b c#/8 b/8 a/8 g#/8 f#
+alto       e f# e b
+tenor      b a/8 b/8 c# b
+bass       b f# c# d#
+
+# measure 8
+soprano    e/1
+alto       e/1
+tenor      b/1
+bass       e/1
+
+# measure 9
+soprano    e/2 a a
+alto       e/2 e e
+tenor      c#/2 c# c#
+bass       a/2 a a
+
+# measure 10
+soprano    c#/2 e+/2
+alto       e/2 c#/2
+tenor      a/2 a/2
+bass       a/2 a/2
+
+# measure 11
+soprano    d c# b c#/8 d/8
+alto       d e e e
+tenor      a e+ e+ c#/8 b/8
+bass       d a+ e c#
+
+# measure 12
+soprano    c#/1
+alto       e/1
+tenor      a/1
+bass       a/1
+
+# measure 13
+soprano    c#/2 b/8 a/8 g#/8 f#/8
+alto       a+/2 g#/8 f#/8 e/8 d/8
+tenor      e+/2 e+ e+
+bass       a+/2 e/8 f#/8 g#/8 a+/8
+
+# measure 14
+soprano    e/2 e/2
+alto       e/2 e/2
+tenor      e+/2 b/2
+bass       b+/2 e/2
+
+# measure 15
+soprano    f#/8 g#/8 a a g#
+alto       a a a b
+tenor      c#/8 b/8 c# a b
+bass       c# f# d e
+
+# measure 16
+soprano    a/1
+alto       c#/1
+tenor      c#/1
+bass       a/1
+
+# measure 17
+soprano    a/2 e/8 f#/8 g#/8 e/8
+alto       c#/2 e/8 d/8 c#
+tenor      c#/2 a a
+bass       f#/2 e/8 d/8 c#/8 b/8
+
+# measure 18
+soprano    a/2 c#/2
+alto       e/2 a+/2
+tenor      c#/2 e+/2
+bass       a/2 a+/2
+
+# measure 19
+soprano    b a g#/8 b/8 a/8 g#/8
+alto       g# f# e e
+tenor      e+ c# c#/8 b/8 a/8 b/8
+bass       e f# e/8 d/8 c#/8 b/8
+
+# measure 20
+soprano    f#/2 e/2
+alto       c#/2 e/2
+tenor      c#/2 b/2
+bass       a/2 e/2
+
+# measure 21
+soprano    e+/2 d c#
+alto       e/2 e e
+tenor      a/2 b a
+bass       a+/2 b+ a+
+
+# measure 22
+soprano    b/8 c#/8 d c#/8 b/8 a
+alto       e/8 f#/8 a+ a+/8 g#/8 f#
+tenor      e/8 f#/8 a a/8 b/8 c#
+bass       e/8 c#/8 a a/8 b/8 c#
+
+# measure 23
+soprano    b/8 d/8 c# b/2
+alto       e e e/2
+tenor      b a g#/2
+bass       e a+ e/2
+
+# measure 24
+soprano    a/1
+alto       e/1
+tenor      a/1
+bass       a/1
+
+

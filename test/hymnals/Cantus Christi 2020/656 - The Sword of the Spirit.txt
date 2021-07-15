@@ -1,0 +1,70 @@
+title      The Sword of the Spirit
+author     st. 1 & 2, David R. Erb, 2012 (c); st. 3, Thomas Ken (1637-1711)EIGHTH MODE MELODY
+composer   Thomas Tallis, 1567
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 3
+copyright  Text: David R. Erb, 2012. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/656%20The%20Sword%20of%20the%20Spirit.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       d
+tenor      b
+bass       g
+
+# measure 2
+soprano    g f# g g
+alto       d d b d
+tenor      a a g g
+bass       d d e b
+
+# measure 3
+soprano    a a b g
+alto       e d d g
+tenor      g f# g g
+bass       c d g- b
+
+# measure 4
+soprano    c c b b
+alto       e f# g d
+tenor      a a b g
+bass       a a g- g
+
+# measure 5
+soprano    a a g d
+alto       e d d g
+tenor      c c b b
+bass       g f# g g
+
+# measure 6
+soprano    c a b b
+alto       e d d d
+tenor      a a g d
+bass       a+ f# g g-
+
+# measure 7
+soprano    a a g d-
+alto       e f# g g-
+tenor      c a b b
+bass       c d g- b
+
+# measure 8
+soprano    e f# g b
+alto       e d b d
+tenor      a a g d-
+bass       c d e b
+
+# measure 9
+soprano    a a g
+alto       c a b
+tenor      e f# g
+bass       c d g-
+
+
+

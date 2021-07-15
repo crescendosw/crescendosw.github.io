@@ -1,0 +1,69 @@
+title      Lord Jesus Christ, Be Present Now 
+author     st. 1-3, Pensum sacrum, Altenberg, 1648; st. 4, Cantionale sacrum, Gotha, 1651;
+composer   Cantionale Germanicum, Gochsheim, 1628
+key        F
+tempo      190
+rhythm     6 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/318%20Lord%20Jesus%20Christ,%20Be%20Present%20Now.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2
+alto       c/2
+tenor      a/2
+bass       f/2
+
+# measure 2
+soprano    a/2 c a/2 g
+alto       f/2 g f/2 e
+tenor      c/2 c c/2 c
+bass       f/2 e f/2 c
+
+# measure 3
+soprano    a bn c/2 d/2
+alto       f f e/2 f/2
+tenor      c f g/2 bb/2
+bass       f d c/2 bb/2
+
+# measure 4
+soprano    c/2 a g/2 f
+alto       f/2 f e/2 c
+tenor      a/2 c c/2 f
+bass       f/2 f c/2 a
+
+# measure 5
+soprano    f e f/2 g/2
+alto       d c c/2 e/2
+tenor      bb g a/2 c/2
+bass       bb c f-/2 c/2
+
+# measure 6
+soprano    a/2 a g/2 c
+alto       f/2 f e/2 e
+tenor      c/2 c c/2 g
+bass       f/2 f c/2 c
+
+# measure 7
+soprano    c bn c/2 a/2
+alto       d d e/2 c/2
+tenor      g g g/2 f/2
+bass       g g- c/2 f/2
+
+# measure 8
+soprano    bb/2 a g/2 f
+alto       d/2 f e/2 d
+tenor      f/2 c c/2 a
+bass       bb/2 f- c/2 d
+
+# measure 9
+soprano    f e f/2
+alto       d c c/2
+tenor      bb g a/2
+bass       bb c f-/2
+
+
+

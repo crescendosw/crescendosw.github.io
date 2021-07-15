@@ -1,0 +1,142 @@
+title      Blest the Man That Fears Jehovah
+author     The Book of Psalms for Singing, 1973 (c)ALL THE WAY (Lowry)
+composer   Robert Lowry, 1875
+key        Ab
+tempo      101
+rhythm     3 : 4
+verse_count 2
+copyright  Text: Crown & Covenant Publications, 1973. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/250%20Blest%20the%20Man%20That%20Fears%20-%20Psalm%20128%20ALL%20THE%20WAY.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c/8. c/16
+alto       eb/8. eb/16
+tenor      ab/8. ab/16
+bass       ab/8. ab/16
+
+# measure 2
+soprano    c. c/8 bb/8 ab/8
+alto       eb. eb/8 db/8 c/8
+tenor      ab. ab/8 ab/8 ab/8
+bass       ab. ab/8 ab/8 ab/8
+
+# measure 3
+soprano    eb ab ab/8 c/8
+alto       c c c/8 eb/8
+tenor      ab eb eb/8 ab/8
+bass       ab ab ab/8 ab/8
+
+# measure 4
+soprano    bb. g/8 ab/8 bb/8
+alto       eb. eb/8 eb/8 eb/8
+tenor      g. bb/8 ab/8 g/8
+bass       eb. db/8 c/8 bb/8
+
+# measure 5
+soprano    c/2 c/8. c/16
+alto       eb/2 eb/8. eb/16
+tenor      ab/2 ab/8. ab/16
+bass       ab/2 ab+/8. ab+/16
+
+# measure 6
+soprano    db. c/8 bb/8 ab/8
+alto       f. eb/8 db/8 c/8
+tenor      ab. ab/8 g/8 ab/8
+bass       ab+. ab+/8 eb/8 f/8
+
+# measure 7
+soprano    c bb bb/8 bb/8
+alto       eb eb eb/8 eb/8
+tenor      ab g g/8 g/8
+bass       eb eb eb/8 eb/8
+
+# measure 8
+soprano    bb. f/8 g/8 ab/8
+alto       dn. dn/8 eb/8 f/8
+tenor      f. bb/8 bb/8 bb/8
+bass       bb. bb/8 bb/8 bb/8
+
+# measure 9
+soprano    g/2 f/8 eb/8
+alto       eb/2 db/8 db/8
+tenor      bb/2 bb/8 g/8
+bass       eb/2 eb/8 eb/8
+
+# measure 10
+soprano    ab. bb/8 ab/8 f/8
+alto       c. db/8 c/8 db/8
+tenor      ab. ab/8 ab/8 ab/8
+bass       ab. ab/8 ab/8 ab/8
+
+# measure 11
+soprano    eb ab ab/8 bb/8
+alto       c c eb/8 eb/8
+tenor      ab ab ab/8 g/8
+bass       ab ab c/8 eb/8
+
+# measure 12
+soprano    c. ab/8 db/8 c/8
+alto       eb. c/8 f/8 eb/8
+tenor      ab. ab/8 ab/8 ab/8
+bass       ab+. ab+/8 ab+/8 ab+/8
+
+# measure 13
+soprano    bb/2 c/8 db/8
+alto       eb/2 eb/8 eb/8
+tenor      g/2 ab/8 bb/8
+bass       eb/2 ab+/8 ab+/8
+
+# measure 14
+soprano    eb+. c/8 bb/8 ab/8
+alto       eb. eb/8 eb/8 eb/8
+tenor      c. ab/8 g/8 ab/8
+bass       ab+. ab/8 bb/8 c/8
+
+# measure 15
+soprano    bb ab g/8 f/8
+alto       db f eb/8 db/8
+tenor      f ab ab/8 ab/8
+bass       db db db/8 db/8
+
+# measure 16
+soprano    eb/8 ab/8 c bb
+alto       c/8 c/8 eb eb
+tenor      ab/8 ab/8 ab g
+bass       eb/8 eb/8 eb eb
+
+# measure 17
+soprano    c/2 c/8 db/8
+alto       eb/2 eb/8 eb/8
+tenor      ab/2 ab/8 bb/8
+bass       ab+/2 ab+/8 ab+/8
+
+# measure 18
+soprano    eb+. c/8 bb/8 ab/8
+alto       eb. ab+/8 g/8 f/8
+tenor      c. eb+/8 db/8 c/8
+bass       ab+. ab+/8 eb/8 f/8
+
+# measure 19
+soprano    bb ab g/8 f/8
+alto       f f eb/8 db/8
+tenor      db db ab/8 ab/8
+bass       db db db/8 db/8
+
+# measure 20
+soprano    eb/8 ab/8 c bb
+alto       c/8 eb/8 eb eb
+tenor      ab/8 c/8 eb+ db
+bass       eb/8 eb/8 eb eb
+
+# measure 21
+soprano    ab/2
+alto       eb/2
+tenor      c/2
+bass       ab/2
+
+
+

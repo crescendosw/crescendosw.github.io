@@ -1,0 +1,39 @@
+title      I in the LORD Do Put My Trust
+author     Scottish Psalter, 1650SALISBURY 
+composer   Thomas Ravenscroft, 1621
+key        F
+tempo      140
+rhythm     0 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/21%20I%20In%20the%20LORD%20Do%20Put%20-%20Psalm%2011%20SALISBURY.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 g bb a c c bn c/2
+alto       c/2 d c f e a+ g/8 f/8 e/2
+tenor      a/2 bb g c c d d c/2
+bass       f/2 f e f a+ f g c/2
+
+# measure 2
+soprano    a/2 d c bb bb a/2
+alto       f/2 d/8 e/8 f f e f/2
+tenor      c/2 bb c d bb c/2
+bass       f/2 bb+ a+ g g f/2
+
+# measure 3
+soprano    c/2 a bb g a f g e/2
+alto       c/2 c d c e f d c/2
+tenor      g/2 a f g c a bb g/2
+bass       e/2 f d e c d bb c/2
+
+# measure 4
+soprano    bb/2 a a g g f/2
+alto       d. e/8 f f f e f/2
+tenor      g/2 c a d c/8 bb/8 a/2
+bass       g-/2 a d bb c f-/2
+
+
+

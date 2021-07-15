@@ -1,0 +1,159 @@
+title      O Come, My Soul, Bless Thou the LORD
+author     The Psalter, 1912TIDINGS 
+composer   James Walch, 1876
+key        Bb
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/196%20O%20Come,%20My%20Soul,%20Bless%20Thou%20-%20Psalm%20103%20TIDINGS.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb/2 d- eb
+alto       d/2 bb a
+tenor      f/2 f f
+bass       bb/2 bb c
+
+# measure 2
+soprano    f/2. f
+alto       bb/2. d
+tenor      f/2. bb
+bass       d/2. bb
+
+# measure 3
+soprano    f bb d c
+alto       f d f g
+tenor      bb bb bb g
+bass       d g f eb
+
+# measure 4
+soprano    c/2 bb/2
+alto       f eb d/2
+tenor      a/2 bb/2
+bass       f/2 g/2
+
+# measure 5
+soprano    bb/2 a g
+alto       g/2 f eb
+tenor      bb/2 bb c
+bass       eb/2 g a+
+
+# measure 6
+soprano    f/2. f
+alto       d/2. f
+tenor      d/2. bb
+bass       bb+/2. d
+
+# measure 7
+soprano    a g f eb
+alto       eb. d/8 c c
+tenor      c bb a a
+bass       f f f- f-
+
+# measure 8
+soprano    d-/1
+alto       bb/1
+tenor      f/1
+bass       bb/1
+
+# measure 9
+soprano    d-/2 eb. eb/8
+alto       bb/2 bb a
+tenor      f/2 f f
+bass       bb/2 c c
+
+# measure 10
+soprano    f/2. f
+alto       bb/2. d
+tenor      f/2. bb
+bass       d/2. d
+
+# measure 11
+soprano    f# g bb a
+alto       d d g g
+tenor      a bb d eb+
+bass       d g bb c
+
+# measure 12
+soprano    a/2 g/2
+alto       f#/2 g/2
+tenor      d c bb/2
+bass       d/2 g/2
+
+# measure 13
+soprano    g/2 a bb
+alto       d/2 f en
+tenor      d/2 c bb
+bass       bb+/2 a+ g
+
+# measure 14
+soprano    c/2 f/2
+alto       f/2 f/2
+tenor      a/2 a/2
+bass       a+/2 d/2
+
+# measure 15
+soprano    a g f en
+alto       d d c c
+tenor      c bb a g
+bass       bb bb c c
+
+# measure 16
+soprano    f/1
+alto       c/1
+tenor      a/1
+bass       f-/1
+
+# measure 17
+soprano    a/2 g f
+alto       eb/2 eb eb
+tenor      c/2 bb a
+bass       f/2 f f
+
+# measure 18
+soprano    bb/2 f/2
+alto       d/2 f/2
+tenor      bb/2 bb/2
+bass       bb/2 d/2
+
+# measure 19
+soprano    a/2 g f
+alto       eb/2 eb eb
+tenor      c/2 c c
+bass       f/2 g a+
+
+# measure 20
+soprano    d/1
+alto       d/2 f/2
+tenor      bb/1
+bass       bb+/2 ab+/2
+
+# measure 21
+soprano    d/2 eb+ d
+alto       g/2 f f
+tenor      bn/2 b b
+bass       g/2 g g
+
+# measure 22
+soprano    d c bb g
+alto       eb/2 f eb
+tenor      g a bb bb
+bass       c/2 d eb
+
+# measure 23
+soprano    f bb c. bb/8
+alto       d f eb. d/8
+tenor      bb d a. bb/8
+bass       f f f-. bb/8
+
+# measure 24
+soprano    bb/1
+alto       d/1
+tenor      bb/1
+bass       bb/1
+
+
+

@@ -1,0 +1,39 @@
+title      While Shepherds Watched Their Flocks
+author     Michael Beesley
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/569%20While%20Shepherds%20Watched%20Their%20Flocks.pdf
+
+key        G
+rhythm     0 : 4
+tempo      180
+
+status     header  tune  double  checked
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    b/2 | g/1 g/2  | f/1 f/2 | e/1      f/2 | g/1  f/2 | g. - a/8   b/2 g/2
+alto       d/2 | d/1 c#/2 | d/1 d/2 | e/1      d/2 | d/1  d/2 | d/1            g/2
+tenor      g/2 | b/1 g/2  | a/1 d/2 | c/2. - b a/2 | b/1  a/2 | b. - c/8 - d/2 b/2
+bass       g/2 | g/1 e/2  | d/1 b/2 | c/1      d/2 | g-/1 d/2 | g/1            g - e
+
+soprano    c/1      b/2  | a/2 R/2 | R/1     | R/2.  a | d   d   d  c | b. - c/8 - b. - a/8 -
+alto       e/2. - f g/2  | f/2 R/2 | R/1     | R/1     | R/2.       d | g g        g    f
+tenor      e+/1     d/2  | d/2 R/2 | R/2.  a | b b b a | g - d- - g  a | b g        b    d
+bass       c/1      g-/2 | d/2 R d | g g g f | e b e f | g - a+ - g f | e/2.            b
+
+soprano    g/2  g/2  | f/1 | a/2 b g | g/2 f/2 | g/2  R/2
+alto       e/2. d    | d/1 | d/2 b e | e/2 d/2 | d/2  R/2
+tenor      c/2  b/2  | a/1 | a/2 g b | c/2 a/2 | g/2  R/2
+bass       c/2  g-/2 | d/1 | d/2 g e | c/2 d/2 | g-/2 R d
+
+soprano    R/1     | R/2.  a | d   d   d  c | b. - c/8 - b. - a/8 -
+alto       R/1     | R/1     | R/2.       d | g g        g    f
+tenor      R/2.  a | b b b a | g - d - g  a | b g        b    d
+bass       g g g f | e b e f | g - a+ - g f | e/2.            b
+
+soprano    g/2  g/2  | f/1 | a/2 b g | g/2 f/2 | g/1
+alto       e/2. d    | d/1 | d/2 b e | e/2 d/2 | d/1
+tenor      c/2  b/2  | a/1 | a/2 g b | c/2 a/2 | g/1
+bass       c/2  g-/2 | d/1 | d/2 g e | c/2 d/2 | g-/1

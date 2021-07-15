@@ -1,0 +1,82 @@
+title      Save Me, O LORD, from Evil Men
+author     Sing Psalms, 2003 (c) VENI CREATOR
+composer   attr. Thomas Tallis (c.1505-1585)
+key        Eb
+tempo      101
+rhythm     0 : 4
+verse_count 5
+copyright  Text: Free Church of Scotland, 2003. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/281%20Save%20Me,%20O%20LORD,%20from%20-%20Psalm%20140%20VENI%20CREATOR.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c/2 c. bn/8
+alto       eb/2 c g
+tenor      g/2 g f
+bass       c/2 eb d
+
+# measure 2
+soprano    c/2. g g. f/8
+alto       eb/2. d c. c/8
+tenor      g/2. g c. c/8
+bass       c/2. bb ab. ab/8
+
+# measure 3
+soprano    g/2. g/8 an/8 bb/8 c/8 d
+alto       d/2. eb eb d
+tenor      bn/2. c g/8 an/8 bb
+bass       g-/2. c c bb
+
+# measure 4
+soprano    c/8 bb/8 ab/8 g/8 f. eb/8
+alto       eb/8 f/8 eb eb d
+tenor      ab/8 f/8 bb bb bb
+bass       c/8 d/8 eb bb bb
+
+# measure 5
+soprano    eb/2 eb eb/8 eb/8 f f
+alto       bb/2 c bb/8 bb/8 c d
+tenor      g/2 ab bb/8 bb/8 ab ab
+bass       eb/2 ab+ g/8 g/8 f f
+
+# measure 6
+soprano    g an bb bb c bb
+alto       eb eb d eb eb d
+tenor      bb eb f bb ab f
+bass       eb c bb g- ab bb
+
+# measure 7
+soprano    ab/8 g/8 f/8 eb/8 d-. c-/8
+alto       eb c c bn
+tenor      eb ab d- g
+bass       c f- g- g-
+
+# measure 8
+soprano    c-/2. c- c- d-
+alto       c/2. g- an bn
+tenor      eb/2. eb f f
+bass       c/2. c f d
+
+# measure 9
+soprano    eb f g. an/8 bn. g/8
+alto       c d eb eb g. d/8
+tenor      g bb bb eb+ d. bn/8
+bass       c bb eb c g. g/8
+
+# measure 10
+soprano    an an bn c c bn/8 c/8
+alto       f f f eb d d
+tenor      c c d g g g
+bass       f. eb/8 d c g g-
+
+# measure 11
+soprano    c/2
+alto       eb/2
+tenor      g/2
+bass       c/2
+
+
+

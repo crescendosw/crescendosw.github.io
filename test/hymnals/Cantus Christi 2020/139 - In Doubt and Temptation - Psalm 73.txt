@@ -1,0 +1,117 @@
+title      In Doubt and Temptation
+author     The Psalter, 1912WHAT HEAVENLY MUSIC
+composer   Hymns and Tunes, 1886
+key        G
+tempo      101
+rhythm     3 : 4
+verse_count 2
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/139%20In%20Doubt%20and%20Temptation%20-%20Psalm%2073b%20WHAT%20HEAVENLY.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/8 a/8
+alto       g
+tenor      b/8 c/8
+bass       g
+
+# measure 2
+soprano    b b c/8 b/8
+alto       g g g
+tenor      d d e+/8 d/8
+bass       g g g
+
+# measure 3
+soprano    b/8 a/8 a b/8 a/8
+alto       g/8 f#/8 f# g/8 f#/8
+tenor      d d d/8 c/8
+bass       d d d
+
+# measure 4
+soprano    g a f#
+alto       e e d
+tenor      b c a
+bass       e c d
+
+# measure 5
+soprano    g d- g/8 a/8
+alto       d/2 d
+tenor      b/2 b/8 c/8
+bass       g-/2 g
+
+# measure 6
+soprano    b b c/8 b/8
+alto       g g g
+tenor      d d e+/8 d/8
+bass       g g g
+
+# measure 7
+soprano    b/8 a/8 a b/8 a/8
+alto       g/8 f#/8 f# g/8 f#/8
+tenor      d d d/8 c/8
+bass       d d d
+
+# measure 8
+soprano    g/8 b/8 a/8 c/8 f#/8 a/8
+alto       e e d
+tenor      b/8 g/8 c a/8 c/8
+bass       e c d
+
+# measure 9
+soprano    g/2 f#/8 g/8
+alto       d/2 d
+tenor      b/2 a/8 b/8
+bass       g-/2 d
+
+# measure 10
+soprano    a a g/8 a/8
+alto       f# f# g/8 f#/8
+tenor      d d b/8 d/8
+bass       d d d
+
+# measure 11
+soprano    b b a/8 b/8
+alto       g g a+/8 g#/8
+tenor      d d e+
+bass       g g c+/8 b+/8
+
+# measure 12
+soprano    c c b/8 c/8
+alto       a+ a+ g
+tenor      e+ e+ d
+bass       a+ a+ d
+
+# measure 13
+soprano    d/2 g/8 a/8
+alto       f#/2 d
+tenor      d c b/8 c/8
+bass       d/2 g
+
+# measure 14
+soprano    b b c/8 b/8
+alto       g g g
+tenor      d d e+/8 d/8
+bass       g g g
+
+# measure 15
+soprano    b/8 a/8 a b/8 a/8
+alto       g/8 f#/8 f# g/8 f#/8
+tenor      d d d/8 c/8
+bass       d d d
+
+# measure 16
+soprano    g/8 b/8 a/8 c/8 f#/8 a/8
+alto       e e d
+tenor      b/8 g/8 c a/8 c/8
+bass       e c d
+
+# measure 17
+soprano    g/2
+alto       d/2
+tenor      b/2
+bass       g-/2
+
+
+

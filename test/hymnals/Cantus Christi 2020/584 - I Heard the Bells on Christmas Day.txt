@@ -1,0 +1,69 @@
+title      I Heard the Bells on Christmas Day
+author     Henry Wadsworth Longfellow, 1864CHRISTMAS BELLS
+composer   J. T., 1910
+key        Bb
+tempo      120
+rhythm     6 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/584%20I%20Heard%20the%20Bells%20CHRISTMAS%20BELLS.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       f
+tenor      f
+bass       f
+
+# measure 2
+soprano    d-/2 g f/2 eb
+alto       d/2 g f/2 bb
+tenor      d-/2 g f/2 g
+bass       d/2 g f/2 c
+
+# measure 3
+soprano    d-/2 c- bb-/2 c-
+alto       a/2 a bb/2 a
+tenor      f/2 eb d-/2 f
+bass       f/2 f- g-/2 f-
+
+# measure 4
+soprano    d-/2 f bb a f
+alto       bb/2 c d c a
+tenor      f/2 f d- f f
+bass       bb/2 a g- a d
+
+# measure 5
+soprano    g/2 a f R f
+alto       d/2 bb a R f
+tenor      f/2 en f R a
+bass       bb/2 c f R f
+
+# measure 6
+soprano    a/2 f bb/2 bb
+alto       eb/2 eb d/2 f
+tenor      c/2 a bb/2 bb
+bass       f/2 f bb/2 d
+
+# measure 7
+soprano    c bb c d/2 d
+alto       f/2 f f/2 ab+
+tenor      a g a bb/2 bb
+bass       f/2 f bb/2 bb
+
+# measure 8
+soprano    eb+ g c bb/2 bb
+alto       g eb eb d/2 d
+tenor      bb/2 g f/2 f
+bass       eb/2 eb f/2 f
+
+# measure 9
+soprano    a g a bb/2
+alto       eb/2 eb d/2
+tenor      f/2 f f/2
+bass       f/2 f bb/2
+
+
+

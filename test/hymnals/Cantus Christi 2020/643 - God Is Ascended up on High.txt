@@ -1,0 +1,117 @@
+title      God Is Ascended up on High
+author     Henry More (1614-1687)GOD IS ASCENDED
+composer   German melody, 1500s; arr. Martin Shaw, 1933
+key        A
+tempo      135
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/643%20God%20Is%20Ascended%20up%20on%20High.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f#
+alto       d/8 e/8
+tenor      b/8 c#/8
+bass       b
+
+# measure 2
+soprano    f#/2 b
+alto       f#/2 f#
+tenor      d/2 d
+bass       b+/2 b+
+
+# measure 3
+soprano    a#. b/8 c#
+alto       f#/2 f#
+tenor      c#. b/8 a#
+bass       f#/2 f#
+
+# measure 4
+soprano    b a g#
+alto       f#/2 e
+tenor      b/2 b
+bass       d/2 e
+
+# measure 5
+soprano    f#/2.
+alto       c#/2.
+tenor      a#/2.
+bass       f#/2.
+
+# measure 6
+soprano    b- d- e
+alto       b d e
+tenor      b b b
+bass       b+ a+ g#
+
+# measure 7
+soprano    f#. g#/8 a#
+alto       c#/2 c#
+tenor      a#. g#/8 f#
+bass       f#/2 f#
+
+# measure 8
+soprano    b/2 a#
+alto       e c# f#
+tenor      g# f# c#
+bass       e f# f#
+
+# measure 9
+soprano    b/2.
+alto       d/2.
+tenor      b/2.
+bass       b/2.
+
+# measure 10
+soprano    d c# b
+alto       f# a+ gn
+tenor      b f#+ d
+bass       b+ f# gn
+
+# measure 11
+soprano    a/2 f#
+alto       f#/2 c#
+tenor      d/2 a
+bass       d/2 f#
+
+# measure 12
+soprano    gn/2 e
+alto       e/2 c#
+tenor      b/2 a
+bass       e/2 a
+
+# measure 13
+soprano    d-/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+# measure 14
+soprano    a a b
+alto       a+ a+ g#
+tenor      f#+ e+ d
+bass       d+ c#+ b+
+
+# measure 15
+soprano    c#. b/8 a
+alto       f#. e#/8 f#
+tenor      c#. g#/8 c#
+bass       a+. g#/8 f#
+
+# measure 16
+soprano    g# f# e#
+alto       c#/2 g#-
+tenor      g# c# c#
+bass       e# d# c#
+
+# measure 17
+soprano    f#/2
+alto       c#/2
+tenor      a#/2
+bass       f#-/2
+
+
+

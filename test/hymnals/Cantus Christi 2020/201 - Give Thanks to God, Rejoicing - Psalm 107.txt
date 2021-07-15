@@ -1,0 +1,64 @@
+title      Give Thanks to God, Rejoicing
+author     Walter van der Kamp, 1972 & William Helder, 1980; rev. (c)DONNEZ AU SEIGNEUR GLOIRE [GENEVAN 107]
+composer   Genevan Psalter, 1543; harm. Mark Reagan, 2020 (c)
+key        F
+tempo      165
+rhythm     0 : 4
+verse_count 9
+copyright  Text: Standing Committee for the Publication of the Book of Praise, 1984. Used by permission. Arrange- ment: Mark Reagan, 2020. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/201%20Give%20Thanks%20to%20God%20-%20Psalm%20107%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 d-/2 a/2 d d c/2 a/2
+alto       d/2 d/2 e/2 d f g/2 a+/2
+tenor      f/2 f/2 e f g a a/2 c/2
+bass       d/2 d/2 c/2 bb bb a/2 a+/2
+
+# measure 2
+soprano    a/2 bb a f/2 g/2 f/1
+alto       f/2 d. e/8 f/2 e/2 f/1
+tenor      c/2 g a bb/2 g/2 a/1
+bass       f/2 g f/8 e/8 d/2 c/2 f/1
+
+# measure 3
+soprano    d-/2 d-/2 a/2 d d c/2 a/2
+alto       d/2 d/2 d. e/8 f f g/2 f/2
+tenor      bb/2 bb/2 a/2 a bb c/2 c/2
+bass       bb+ a+ g a+ f e d d e/2 f/2
+
+# measure 4
+soprano    f/2 g a f/2 e/2 d-/1
+alto       f e d d c/2 c. bb/8 a/1
+tenor      c/2 bb bb c/2 a g f/1
+bass       a/2 bb bb a/2 c/2 d/1
+
+# measure 5
+soprano    d/2 a bn c/2 b/2 a/2
+alto       f g a+ a+ g/2 g f e/2
+tenor      a bn c c c/2 d/2 c#/2
+bass       d/2 c d e f g/2 a+/2
+
+# measure 6
+soprano    d/2 e+ d a c bn/2 a/1
+alto       f/2 a+ a+ g/8 f/8 e d e c/1
+tenor      d/2 d d c g g/2 a/1
+bass       d/2 c bn c. d/8 e/2 a/1
+
+# measure 7
+soprano    a/2 c bn a/2 g/2 f/2
+alto       e/2 f f f/2 e/2 c/2
+tenor      c bn a bn c d e+ c/8 b/8 a/2
+bass       a+ g f g a+ bn+ c+ c f e
+
+# measure 8
+soprano    f/2 g a g f e/2 d-/1
+alto       d/2 e e e d d c/8 bb/8 a/1
+tenor      a/2 c c d. c/8 bb g f#/1
+bass       d/2 c c bb bb c/2 d/1
+
+
+

@@ -1,0 +1,213 @@
+title      The Spacious Firmament on High
+author     Joseph Addison, 1712CREATION
+composer   Franz Joseph Haydn, 1798
+key        Ab
+tempo      148
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/345%20The%20Spacious%20Firmament%20on%20High.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb
+alto       eb
+tenor      eb
+bass       eb
+
+# measure 2
+soprano    ab/2. ab
+alto       c/2. eb
+tenor      eb/2. ab
+bass       ab/2. c
+
+# measure 3
+soprano    bb/2. bb
+alto       eb/2. eb
+tenor      g/2. bb
+bass       eb/2. g-
+
+# measure 4
+soprano    c ab f bb
+alto       eb/2 f/2
+tenor      ab/2 ab db
+bass       ab c db bb
+
+# measure 5
+soprano    ab/2 g eb/8 f/8
+alto       eb/2. eb
+tenor      c/2 bb g/8 ab/8
+bass       eb/2. eb
+
+# measure 6
+soprano    g ab bb c
+alto       eb/2 eb/2
+tenor      bb ab g ab
+bass       db c bb ab
+
+# measure 7
+soprano    db/2. c
+alto       eb/2 eb/2
+tenor      bb/2 ab/2
+bass       g-/2 ab/2
+
+# measure 8
+soprano    c bb bb ab
+alto       f/2 f/2
+tenor      f/2 f bb
+bass       db/2 dn/2
+
+# measure 9
+soprano    ab/2 g eb
+alto       eb/2. eb
+tenor      bb/2. eb
+bass       eb/2. eb
+
+# measure 10
+soprano    ab/2. ab
+alto       c/2. eb
+tenor      eb/2. ab
+bass       ab/2. c
+
+# measure 11
+soprano    bb/2. bb
+alto       eb/2. eb
+tenor      g/2. bb
+bass       eb/2. g-
+
+# measure 12
+soprano    c ab f bb
+alto       eb/2 f/2
+tenor      ab/2 ab db
+bass       ab c db bb
+
+# measure 13
+soprano    ab/2 g eb/8 f/8
+alto       eb/2. eb
+tenor      c/2 bb g/8 ab/8
+bass       eb/2. eb
+
+# measure 14
+soprano    g ab bb c
+alto       eb/2 eb/2
+tenor      bb ab g ab
+bass       db c bb ab
+
+# measure 15
+soprano    db/2. c
+alto       eb/2 eb/2
+tenor      bb/2 ab/2
+bass       g-/2 ab/2
+
+# measure 16
+soprano    c bb ab g
+alto       f/2 eb db
+tenor      ab bb c bb
+bass       db/2 eb/2
+
+# measure 17
+soprano    ab/2. eb
+alto       c/2. eb
+tenor      ab/2. eb
+bass       ab/2. eb
+
+# measure 18
+soprano    eb/2. eb
+alto       eb/2. eb
+tenor      eb/2. eb
+bass       eb/2. eb
+
+# measure 19
+soprano    ab/2. ab
+alto       eb/2. eb
+tenor      eb/2. ab
+bass       c/2. c
+
+# measure 20
+soprano    bb/2. bb
+alto       eb/2. eb
+tenor      g/2. g
+bass       eb/2. eb
+
+# measure 21
+soprano    c/2. bb
+alto       eb/2. eb
+tenor      ab/2. g
+bass       ab+/2. eb
+
+# measure 22
+soprano    c db eb+ c
+alto       eb/2. eb
+tenor      ab bb c ab
+bass       eb/2. eb
+
+# measure 23
+soprano    bb c db bb
+alto       eb/2. eb
+tenor      g ab bb g
+bass       eb/2. eb
+
+# measure 24
+soprano    c db eb+ c
+alto       eb/2. eb
+tenor      ab bb c ab
+bass       eb/2. eb
+
+# measure 25
+soprano    bb/2. eb
+alto       eb/2. eb
+tenor      g/2. g
+bass       eb/2. eb
+
+# measure 26
+soprano    eb/2. eb
+alto       eb/2. eb
+tenor      g/2. g
+bass       eb f eb db
+
+# measure 27
+soprano    ab/2. ab
+alto       eb db eb c
+tenor      ab/2. ab
+bass       c bb c ab
+
+# measure 28
+soprano    bb/2. bb
+alto       eb/2. eb
+tenor      g ab bb g
+bass       eb f g eb
+
+# measure 29
+soprano    c/2. bb
+alto       eb/2. eb
+tenor      ab/2. g
+bass       ab+/2. eb
+
+# measure 30
+soprano    c db eb+ c
+alto       eb/2. eb
+tenor      ab/2. ab
+bass       ab bb c ab
+
+# measure 31
+soprano    bb c db bb
+alto       f eb db f
+tenor      f an bb bb
+bass       db c bb db
+
+# measure 32
+soprano    ab/2 g/2
+alto       eb/2 db/2
+tenor      c/2 bb/2
+bass       eb/2 eb/2
+
+# measure 33
+soprano    ab/2.
+alto       c/2.
+tenor      ab/2.
+bass       ab/2.
+
+
+

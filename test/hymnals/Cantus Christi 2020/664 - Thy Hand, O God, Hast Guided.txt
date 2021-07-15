@@ -1,0 +1,73 @@
+title      Thy Hand, O God, Hast Guided
+author     Edward H. Plumptre, 1864; alt.THORNBURY
+composer   Basil Harwood, 1898
+key        D
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/664%20Thy%20Hand,%20O%20God,%20Hast%20Guided.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+type       unison
+
+# measure 1
+unison    a
+
+# measure 2
+unison    f# c#- d- b
+
+# measure 3
+unison    d-/2 c#- e
+
+# measure 4
+unison    a b g/8 f#/8 e
+
+# measure 5
+unison    f#/2. a
+
+# measure 6
+unison    f# c#- d- b
+
+# measure 7
+unison    d-/2 c#- e
+
+# measure 8
+unison    a b g/8 f#/8 e
+
+# measure 9
+unison    d-/2. f#
+
+# measure 10
+unison    f#/8 g#/8 a g# f#
+
+# measure 11
+unison    f# e# f# g#
+
+# measure 12
+unison    a/8 b/8 c# f# e#
+
+# measure 13
+unison    f#/2. a
+
+# measure 14
+unison    a b/8 c#/8 d f#
+
+# measure 15
+unison    g a b a
+
+# measure 16
+unison    d/2. a
+
+# measure 17
+unison    d-/2 b/2
+
+# measure 18
+unison    a/1 =
+
+# measure 19
+unison    a/2.
+
+
+

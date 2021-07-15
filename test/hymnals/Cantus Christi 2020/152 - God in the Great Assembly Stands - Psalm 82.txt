@@ -1,0 +1,69 @@
+title      God in the Great Assembly Stands
+author     John Milton (1608-1674)WESTMINSTER (Turle)
+composer   James Turle (1802-1882)
+key        C
+tempo      94
+rhythm     4 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/152%20God%20in%20the%20Great%20Assembly%20-%20Psalm%2082%20WESTMINSTER.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       c
+tenor      g
+bass       c
+
+# measure 2
+soprano    g g c- c
+alto       e d c e
+tenor      g d- e c
+bass       c b a a+
+
+# measure 3
+soprano    b a g g
+alto       e c/8 d/8 e f
+tenor      e+ a/8 b/8 c b
+bass       g f e d
+
+# measure 4
+soprano    e+ b c d
+alto       e g/8 f/8 e f/8 e/8
+tenor      c e+/8 d/8 c a
+bass       c g a+ f
+
+# measure 5
+soprano    g/2. g
+alto       d/2. d
+tenor      b/2. b
+bass       g/2. g
+
+# measure 6
+soprano    b a g# a
+alto       d d d c
+tenor      g a b a
+bass       g f e f
+
+# measure 7
+soprano    c b a a
+alto       e e/8 d/8 c f
+tenor      a g# a d
+bass       e e a b
+
+# measure 8
+soprano    g c- d- f
+alto       e c c b
+tenor      g g a g
+bass       c e f g
+
+# measure 9
+soprano    e/2.
+alto       c/2.
+tenor      g/2.
+bass       c/2.
+
+
+

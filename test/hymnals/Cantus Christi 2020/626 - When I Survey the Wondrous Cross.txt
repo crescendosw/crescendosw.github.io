@@ -1,0 +1,111 @@
+title      When I Survey the Wondrous Cross
+author     Isaac Watts, 1707HAMBURG
+composer   Lowell Mason, 1824
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/626%20When%20I%20Survey%20the%20Wondrous%20Cross.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 f g
+alto       c/2 c e
+tenor      a/2 a c
+bass       f/2 f c
+
+# measure 2
+soprano    a/2 g a
+alto       f/2 g f#
+tenor      c/2 d/2
+bass       f/2 bb+ a+
+
+# measure 3
+soprano    bb/2 a g
+alto       g/2 f e
+tenor      d/2 c/2
+bass       g/2 c/2
+
+# measure 4
+soprano    a/1
+alto       f/1
+tenor      c/1
+bass       f/1
+
+# measure 5
+soprano    a/2 a a
+alto       f/2 f f
+tenor      c/2 c c
+bass       f/2 f f
+
+# measure 6
+soprano    bb/2 a g
+alto       f/2 f e
+tenor      d/2 c/2
+bass       f/2 f bb+
+
+# measure 7
+soprano    f/2 e f
+alto       f/2 c/2
+tenor      c/2 bb a
+bass       a+/2 g f
+
+# measure 8
+soprano    g/1
+alto       e/1
+tenor      c/1
+bass       c/1
+
+# measure 9
+soprano    f/2 f g
+alto       c/2 c e
+tenor      a/2 a c
+bass       f/2 f c
+
+# measure 10
+soprano    a/2 g a
+alto       f/2 g f#
+tenor      c/2 d/2
+bass       f/2 bb+ a+
+
+# measure 11
+soprano    bb/2 a g
+alto       g/2 f e
+tenor      d/2 c/2
+bass       g/2 c/2
+
+# measure 12
+soprano    a/1
+alto       f/1
+tenor      c/1
+bass       f/1
+
+# measure 13
+soprano    a/2 a a
+alto       f/2 f f
+tenor      c/2 c c
+bass       f/2 f f
+
+# measure 14
+soprano    g/2 f/2
+alto       e/2 f/2
+tenor      c bb a/2
+bass       c/2 d/2
+
+# measure 15
+soprano    g/2 a g
+alto       f/2 e/2
+tenor      d/2 c bb
+bass       bb/2 c/2
+
+# measure 16
+soprano    f/1
+alto       f/1
+tenor      a/1
+bass       f/1
+
+
+

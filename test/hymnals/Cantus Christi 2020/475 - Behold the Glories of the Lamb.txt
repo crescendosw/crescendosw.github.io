@@ -1,0 +1,141 @@
+title      Behold the Glories of the Lamb
+author     Isaac Watts, 1696
+composer   Thomas Jarman (1776-1861)
+key        G
+tempo      185
+rhythm     4 : 4
+verse_count 2
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/475%20Behold%20the%20Glories%20of%20the%20Lamb.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 b. c/8
+alto       d/2 g. g/8
+tenor      b/2 d. c/8
+bass       g/2 g. g/8
+
+# measure 2
+soprano    d/8 e+/8 d/8 c/8 b c
+alto       g/2. g
+tenor      b/2. e+
+bass       g/2. c
+
+# measure 3
+soprano    b g a f#
+alto       g d d/2
+tenor      d b c a
+bass       d/2 d/2
+
+# measure 4
+soprano    g/2. b
+alto       d/2. g
+tenor      b/2. d
+bass       g-/2. g
+
+# measure 5
+soprano    c b a g
+alto       f# g d g
+tenor      d d d c#
+bass       a+ g f# e
+
+# measure 6
+soprano    a/2. a
+alto       f#/2. f#
+tenor      d/2. d
+bass       d/2. d
+
+# measure 7
+soprano    b/8 a/8 b/8 c/8 d e+
+alto       g/2. g
+tenor      d/2 b b
+bass       g/2. e
+
+# measure 8
+soprano    d/2 c#/2
+alto       f#/2 g/2
+tenor      a/2 a/2
+bass       a+/2 a/2
+
+# measure 9
+soprano    d/1
+alto       f#/1
+tenor      a/1
+bass       d/1
+
+# measure 10
+soprano    d/2 d d
+alto       g/2 a+ f#
+tenor      b/2 a d
+bass       g/2 f# d
+
+# measure 11
+soprano    b. a/8 g b
+alto       g/2. g
+tenor      d. c/8 b d
+bass       g/2. g
+
+# measure 12
+soprano    c b a g
+alto       g/2 f# g
+tenor      e+ d c b
+bass       g/2. g
+
+# measure 13
+soprano    a/2. R
+alto       f#/2. R
+tenor      d/2. R
+bass       d/2. d
+
+# measure 14
+soprano    R/2. g
+alto       R/1
+tenor      R/1
+bass       g a+ b+ g
+
+# measure 15
+soprano    c c c c
+alto       R/2. e
+tenor      R/1
+bass       e/2. c
+
+# measure 16
+soprano    b/2. b
+alto       d d d g
+tenor      R/2. d
+bass       g g g g
+
+# measure 17
+soprano    a a a a
+alto       f#/2. f#
+tenor      d d d d
+bass       d/2. d
+
+# measure 18
+soprano    d/2. d
+alto       g f# g/2
+tenor      b c d b
+bass       g a+ b+ g
+
+# measure 19
+soprano    e+ d c b
+alto       g/2 f# g
+tenor      c d/2 d
+bass       c+ b+ a+ g
+
+# measure 20
+soprano    a/2. a
+alto       g/2 f#/2
+tenor      d/2. c
+bass       d/2 d/2
+
+# measure 21
+soprano    g/1
+alto       g/1
+tenor      b/1
+bass       g-/1
+
+
+

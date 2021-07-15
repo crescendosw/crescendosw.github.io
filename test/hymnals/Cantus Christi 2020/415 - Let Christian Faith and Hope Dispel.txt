@@ -1,0 +1,195 @@
+title      Let Christian Faith and Hope Dispel 
+author     Scottish Psalter, 1745ST. ANDREW (Tans'ur)
+composer   William Tans'ur's New Harmony of Zion, 1674
+key        Ab
+tempo      101
+rhythm     3 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/415%20Let%20Christian%20Faith%20and%20Hope%20Dispel.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    ab
+alto       eb
+tenor      c
+bass       ab
+
+# measure 2
+soprano    c/2 c
+alto       eb/2 eb
+tenor      ab/2 ab
+bass       ab+/2 c
+
+# measure 3
+soprano    bb/2 c
+alto       eb/2 eb
+tenor      g/2 g
+bass       eb/2 c
+
+# measure 4
+soprano    ab/2 g
+alto       c f eb
+tenor      ab db bb
+bass       f db eb
+
+# measure 5
+soprano    ab/2 c
+alto       eb/2 ab+
+tenor      c/2 eb+
+bass       ab/2 ab+
+
+# measure 6
+soprano    eb+/2 db
+alto       bb+ g bb+
+tenor      eb+/2 eb+
+bass       g eb g
+
+# measure 7
+soprano    c/8. bb/16 ab c
+alto       ab+ eb ab+
+tenor      eb+/8. db/16 c eb+
+bass       ab+/2 ab
+
+# measure 8
+soprano    bb/2 eb
+alto       g/2 eb
+tenor      eb+/2 g
+bass       eb/2 eb/8 db/8
+
+# measure 9
+soprano    ab/2 bb
+alto       eb/2 eb
+tenor      ab/2 g
+bass       c/2 eb
+
+# measure 10
+soprano    c/2 eb+
+alto       eb/2 eb
+tenor      ab/2 ab
+bass       ab+/2 c
+
+# measure 11
+soprano    db/2 c
+alto       f ab+ eb/8 f/8
+tenor      ab. bb/8 c/8 dn/8
+bass       db f ab+
+
+# measure 12
+soprano    bb/2 bb
+alto       g/2 eb
+tenor      eb+/2 g
+bass       eb/2 eb
+
+# measure 13
+soprano    c/2 ab
+alto       eb/2 c
+tenor      ab/2 ab
+bass       ab c f
+
+# measure 14
+soprano    db c bb
+alto       f eb. db/8
+tenor      ab/2 g
+bass       db eb eb
+
+# measure 15
+soprano    ab/2
+alto       c/2
+tenor      ab/2
+bass       ab/2
+
+# measure 16
+soprano    ab
+alto       eb
+tenor      c
+bass       ab
+
+# measure 17
+soprano    c/2 c
+alto       eb/2 eb
+tenor      ab/2 ab
+bass       ab+/2 c
+
+# measure 18
+soprano    bb/2 c
+alto       eb/2 eb
+tenor      g/2 g
+bass       eb/2 c
+
+# measure 19
+soprano    ab/2 g
+alto       c f eb
+tenor      ab db bb
+bass       f db eb
+
+# measure 20
+soprano    ab/2 c
+alto       eb/2 ab+
+tenor      c/2 eb+
+bass       ab/2 ab+
+
+# measure 21
+soprano    eb+/2 db
+alto       bb+ g bb+
+tenor      eb+/2 eb+
+bass       g eb g
+
+# measure 22
+soprano    c/8. bb/16 ab c
+alto       ab+ eb ab+
+tenor      eb+/8. db/16 c eb+
+bass       ab+/2 ab
+
+# measure 23
+soprano    bb/2 eb
+alto       g/2 eb
+tenor      eb+/2 g
+bass       eb/2 eb/8 db/8
+
+# measure 24
+soprano    ab/2 bb
+alto       eb/2 eb
+tenor      ab/2 g
+bass       c/2 eb
+
+# measure 25
+soprano    c/2 eb+
+alto       eb/2 eb
+tenor      ab/2 ab
+bass       ab+/2 c
+
+# measure 26
+soprano    db/2 c
+alto       f ab+ eb/8 f/8
+tenor      ab. bb/8 c/8 dn/8
+bass       db f ab+
+
+# measure 27
+soprano    bb/2 bb
+alto       g/2 eb
+tenor      eb+/2 g
+bass       eb/2 eb
+
+# measure 28
+soprano    c/2 ab
+alto       eb/2 c
+tenor      ab/2 ab
+bass       ab c f
+
+# measure 29
+soprano    db c bb
+alto       f eb. db/8
+tenor      ab/2 g
+bass       db eb eb
+
+# measure 30
+soprano    ab/2
+alto       c/2
+tenor      ab/2
+bass       ab/2
+
+
+

@@ -1,0 +1,111 @@
+title      He Who Would Valiant Be
+author     John Bunyan, 1678; alt.ST. DUNSTAN'S
+composer   Charles Winfred Douglas, 1917
+key        F
+tempo      100
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/511%20He%20Who%20Would%20Valiant%20Be.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f c-
+alto       c c c
+tenor      a a g
+bass       f f e
+
+# measure 2
+soprano    f. g/8 a
+alto       a. c/8 c
+tenor      f. e/8 f
+bass       d. c/8 f
+
+# measure 3
+soprano    bb a f
+alto       d c a
+tenor      f f f
+bass       bb c d
+
+# measure 4
+soprano    a g/2
+alto       c c/2
+tenor      f e/2
+bass       c c/2
+
+# measure 5
+soprano    f f c-
+alto       c c c
+tenor      a a bb
+bass       f f g
+
+# measure 6
+soprano    f. g/8 a
+alto       c. e/8 f
+tenor      c. c/8 c
+bass       a+. g/8 f
+
+# measure 7
+soprano    bb a f
+alto       f f d
+tenor      d c a
+bass       bb c d
+
+# measure 8
+soprano    g f/2
+alto       e f/2
+tenor      bb a/2
+bass       c f/2
+
+# measure 9
+soprano    g g a
+alto       e d d
+tenor      g g f#
+bass       c bb d
+
+# measure 10
+soprano    bb. a/8 g
+alto       d. d/8 d
+tenor      g. a/8 bb
+bass       g. f#/8 g
+
+# measure 11
+soprano    g a g
+alto       e e e
+tenor      c c c
+bass       bb+ a+ bb+
+
+# measure 12
+soprano    a bb c
+alto       f. g/8 a+
+tenor      c c c
+bass       a+ g f
+
+# measure 13
+soprano    a d. c/8
+alto       f f. f/8
+tenor      c bb. a/8
+bass       f bb. f/8
+
+# measure 14
+soprano    bb a g
+alto       d f c
+tenor      g a c
+bass       g d e
+
+# measure 15
+soprano    f e f
+alto       c c a
+tenor      a g f
+bass       f c d
+
+# measure 16
+soprano    g f/2
+alto       c a/2
+tenor      e f/2
+bass       c f-/2
+
+
+

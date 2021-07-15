@@ -1,0 +1,100 @@
+title      The Apostles Creed
+
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/712%20The%20Apostle's%20Creed.pdf
+key        Eb
+rhythm     0 : 4
+tempo      210
+verse_count 1
+
+status     header  tune  double  checked  lyrics
+
+copyright  Music: Douglas Wilson & Mark Reagan, 2005. Used by permission.
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    R/2 | R/1    R/1     | R/1 | R/2 f f | a/2. a   g/2  a/2
+alto       R/2 | R/1    R/1     | R/1 | R/2 f f | f/2. f   en/2 f/2
+tenor      f f | a/2. a g/2 e/2 | f/1 | R/2 f a | c/2. c   c/2  c - d
+bass       R/2 | R/1    R/1     | R/1 | f/2.  f | f/2  f/2 c/2  f/2
+
+soprano    b/2  c  d  e+ - d c/2  | e+/2. d    c/2  b/2 = | b/2 a/2 g/1 =          | g/2  f f a/2. a
+alto       g/2  a+ a+ g/2    a+/2 | e/2   b+/2 a+/2 g/2   | f/1     f/2 - en - d - | en/2 f f f/2. f
+tenor      e+/2 c  a  b/2    a/2  | b/2.  b    c/2  db/2  | c/1     c/1 =          | c/2  a a c/2. c
+bass       e/2  a+ f  e/2    f/2  | g/2.  g    a+/2 b+/2  | f/1     c/1 =          | c/2  f f f/2  f/2
+
+soprano    g/2  a/2   b/2  c  d  | e+ d c/1       b/2   | c/1  c/2 c c | g/2  a a b - a - g f
+alto       en/2 f/2   g/2  a+ a+ | g  g a+/2. - g f - g | en/1 f/2 f f | en/2 f d eb/2.     f
+tenor      c/2  c - d e+/2 c  a  | b  b a/2 b/1         | g/1  a/2 a a | c/2  c a g - a   b/2
+bass       c/2  f/2   e/2  a+ f  | e  e f/2 db/1        | c/1  f/2 f f | c/2  f f e/2.      d
+
+soprano    e/2 a/2.     g f/2  | g - c c/1            b/2   | c/1        c/2  f/2  | b/1          a/2 g  f
+alto       c/2 e/2  e/2   f/2  | e/2   c/2 - f/2      f/2   | f/2 - en/2 f/2  f/2  | db - e - f/2 f/2 b  b
+tenor      g/2 c/2  c/2   b/2  | b/2   a/1            g - f | g/2 - c/2  an/2 an/2 | b/2 - c/2    f/2 gn gn
+bass       c/2 a/2  b - c db/2 | e/2   f - e - db - c d/2   | c/1        f/2  f/2  | gb/2 - f/2   f/2 e  db
+
+soprano    en f  g/2  g/2.   g | a/2. g   f/1  | e/1 db-/2 c-/2 | db-/1     c-/2 c/2 = | c/2 b/2 a/2  g/2
+alto       c  db db/2 c/2.   e | f/2  c/2 db/1 | c/1 b/2   a/2  | b/1       a/1        | c/2 e/2 e/2  e/2
+tenor      g/2.  f    en/2 g g | f/2. g   a/1  | a/1 f/2   e/2  | f/2 - g/2 e/1        | a/2 b/2 c/2  b/2
+bass       c/2   b/2  c/2  c c | f/2. e   db/1 | a/1 b/2   c/2  | b/1       a/1        | f/2 g/2 a+/2 e/2
+
+soprano    f/2  g/2 f/1       e/1 | a/2. a   g/2   a  b  | a   g f/2.          b  a/2
+alto       db/2 e/2 f/2 - b/2 c/1 | f/2. f   f - e db db | e/2 - db - e - c    b  c/2
+tenor      a/2  g/2 b/2. - f  g/1 | c/2  c/2 c/2   a  db | c - b - a - b - c   e+ c/2
+bass       f/2  e/2 db/1      c/1 | f/2  f/2 c/2   f  g  | a+ - e - f - g - a+ g  f/2
+
+soprano    g/1.       g/2  | a - g - a - b  c - b    c    d  | e+/1         c/1 =
+alto       d/1        en/1 | f/2.        f  a - g    a    b  | c/2   c b    a - g - a - b
+tenor      c/2 - bn/2 c/1  | c/2.        f+ e+ - d - e+ - f+ | c - b c d    e+/2 - f+/2
+bass       g/1        c/1  | f/2     e - db c/2 - c+ - b+    | a+ - g a+ b+ c+ - b+ - c+ - db+
+
+soprano    c/2   e+/2 d/2  c   b   | c/2   c  c | a/2 g - a b/2. - a  | g/2    a/2   a/2 - g/2
+alto       g/2   g/2  g/2  a   b   | a - g f  e | f/2 e/2   e/2 - d/2 | e/2    e/2   e/1
+tenor      en+/2 c/2  d/2  eb+ eb+ | c/2   a  c | c/2 b - a g/2 - a/2 | b/2    c/2   b/1
+bass       c+/2  c+/2 b+/2 a+  g   | f - e db c | f/2 g - f e/2 - f/2 | e - db c - d e/1
+
+soprano    a/1. f/2  | b/2. - a  g/2  a/2   | f/2.  f   e/2 f - g  | a/2   a/2   g - f e - d- | c-/1
+alto       e/1. db/2 | db/2. - f g/2  f - e | db/2. db  e/2 db/2   | c/2   f/2   d/2   c - bn | c/1
+tenor      c/1. a/2  | b/1       db/2 c/2   | a/2   b/2 c/2 b/2    | a - b c/2   bn - an g/2  | g/1
+bass       a/1. db/2 | b/1       b/2  a/2   | db/2. db  c/2 db - e | f/2   e - f g/2     g/2  | c/1
+
+soprano    R/2 f f | a/1 g/2 a - b  | a g  f/1         g/2  | a/2. g   f/2   f/2  | en/1 f/2 a/2
+alto       R/2 f f | f/1 f - e db/2 | c c  db/2 - c/2  en/2 | f/2. e   f/2   b/2  | c/1  c/2 db/2
+tenor      R/2 f a | c/1 c/2 a - g  | a/2. b      c/2  b/2  | c/2. b   a - g f/2  | g/1  a/2 a/2
+bass       f/2.  f | f/1 c/2 f - e  | f/2. g      a+/2 g/2  | f/2  c/2 db/2  db/2 | c/1  f/2 f/2
+
+soprano    b/2  b  a  b/2  f  a | b/2  a g f/2   g/2 | a/2 g/2 f  e d- c-
+alto       db/2 gb f  gb/2 f  e | f/2  f e db/2  e/2 | f/2 e/2 db e db c
+tenor      gb/2 db db db/2 db a | db/2 c c a - b c/2 | c/2 c/2 a  a g  a
+bass       gb/2 db db gb/2 db c | b/2  c c db/2  c/2 | f/2 c/2 db c b  a
+
+soprano    db-/1     c-/1  | c/2.    b a/2 g f | g/2 f/2.  g - en/2 | f/1
+alto       b/1       a/1 = | a/2  a+ g f/2 e d | e/2.   db c/1      | c/1
+tenor      a/2 - g/2 a/1 = | a/1       c/2.  a | g/2 a  b  g g g/2  | an/1
+bass       b/1       a/1 = | a/1       f/2.  f | e/2 db b  c c c/2  | f/1
+
+verse      Christian, what do you be - lieve?  I be - lieve in God the
+
+verse      Fa - ther Al - might - y, Mak - er of heav'n and earth.  And in Je - sus
+
+verse      Christ, His on - ly be - got - ten Son, our Lord.  He was con - ceived by the Ho - ly
+
+verse      Ghost, and born of the vir - gin Mar - y.  He suf - fered un - der
+
+verse      Pon - tius Pi - late; was cru - ci - fied, dead, and bur - ied.  He de - scend - ed
+
+verse      in - to Hades.  On the third day He rose a - gain
+
+verse      from the dead, as - cend - ed in - to Heav -
+
+verse      en, and sits at the right hand of God the Fa - ther Al - might -
+
+verse      y; from thence He shall come to judge the liv - ing and the dead.
+
+verse      I be - lieve in the Ho - ly Ghost, the ho - ly cath - 'lic church, the com -
+
+verse      mu - nion of saints, the for - give - ness of sins, the res - ur - rec - tion of the
+
+verse      bod - y; and the life ev - er - last - ing.  A - men.
+

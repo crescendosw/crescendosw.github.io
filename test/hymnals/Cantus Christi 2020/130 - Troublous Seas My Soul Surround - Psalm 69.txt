@@ -1,0 +1,109 @@
+title      Troublous Seas My Soul Surround
+author     Mary Sidney Herbert (1561-1621)WHITECHAPEL
+composer   George Frederick Root, 1871; alt.
+key        C
+tempo      101
+rhythm     4 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/130%20Troublous%20Seas%20My%20Soul%20-%20Psalm%2069%20WHITECHAPEL.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-. d-/8 e a
+alto       a. b/8 c e
+tenor      a. a/8 a a
+bass       a. a/8 a c
+
+# measure 2
+soprano    g# a b/2
+alto       d c e/2
+tenor      e a g#/2
+bass       b a e/2
+
+# measure 3
+soprano    a. b/8 c b
+alto       c. e/8 e d
+tenor      a. g#/8 a f
+bass       f. e/8 a+ d
+
+# measure 4
+soprano    a g# a/2
+alto       c b c/2
+tenor      e e e/2
+bass       e e a/2
+
+# measure 5
+soprano    c-. d-/8 e a
+alto       a. b/8 c e
+tenor      a. a/8 a a
+bass       a. a/8 a c
+
+# measure 6
+soprano    g# a b/2
+alto       d c e/2
+tenor      e a g#/2
+bass       b a e/2
+
+# measure 7
+soprano    a. b/8 c b
+alto       c. e/8 e d
+tenor      a. g#/8 a f
+bass       f. e/8 a+ d
+
+# measure 8
+soprano    a g# a/2
+alto       c b c/2
+tenor      e e e/2
+bass       e e a/2
+
+# measure 9
+soprano    e+. c/8 e+/8 c/8 b/8 c/8
+alto       c+. a+/8 c+/8 a+/8 g#/8 a+/8
+tenor      a. a/8 a/8 a/8 a/8 a/8
+bass       a+. a+/8 a+/8 a+/8 a+/8 a+/8
+
+# measure 10
+soprano    d/2 b/2
+alto       b+/2 g#/2
+tenor      g#/2 b/2
+bass       e/2 e/2
+
+# measure 11
+soprano    c. a/8 c/8 a/8 g#/8 a/8
+alto       e. c/8 e/8 c/8 b/8 c/8
+tenor      a. a/8 a/8 a/8 a/8 a/8
+bass       a. a/8 a/8 a/8 a/8 a/8
+
+# measure 12
+soprano    b/2 e/2
+alto       e/2 e/2
+tenor      g#/2 g#/2
+bass       e/2 e/2
+
+# measure 13
+soprano    a. a/8 a/8 a/8 a/8 a/8
+alto       c. c/8 c/8 c/8 d/8 e/8
+tenor      a. a/8 a/8 a/8 a/8 a/8
+bass       a. a/8 a/8 a/8 b/8 c/8
+
+# measure 14
+soprano    a/1
+alto       f/1
+tenor      a/1
+bass       d/1
+
+# measure 15
+soprano    d. d/8 c/8 b/8 a/8 g#/8
+alto       f. f/8 e/8 d/8 c/8 b/8
+tenor      b. b/8 e/8 e/8 e/8 e/8
+bass       d. d/8 e/8 e/8 e/8 e/8
+
+# measure 16
+soprano    a/1
+alto       c/1
+tenor      e/1
+bass       a/1
+

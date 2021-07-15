@@ -1,0 +1,69 @@
+title      Once More, My Soul, the Rising Day
+author     Isaac Watts, 1707CONSOLATION [MORNING SONG]
+composer   John Wyeth's Repository of Sacred Music, II, 1813
+key        Ab
+tempo      101
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/390%20Once%20More,%20My%20Soul,%20the%20Rising%20Day.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       c
+tenor      c
+bass       c+
+
+# measure 2
+soprano    f g ab bb/8 ab/8
+alto       c c f f
+tenor      ab c ab db
+bass       f eb db bb
+
+# measure 3
+soprano    g f/8 eb/8 c- c-
+alto       eb c c c
+tenor      c c bb ab
+bass       c eb g f/8 eb/8
+
+# measure 4
+soprano    f g ab bb
+alto       db en f g
+tenor      ab c c eb+
+bass       db c f eb
+
+# measure 5
+soprano    c/2. ab/8 bb/8
+alto       ab+/2. f
+tenor      eb+/2. db
+bass       ab+/2. db
+
+# measure 6
+soprano    c db/8 c/8 bb ab
+alto       eb f g f
+tenor      g bb g c
+bass       c bb eb f
+
+# measure 7
+soprano    g f/8 eb/8 c- c-
+alto       eb c c c
+tenor      bb ab ab g
+bass       g ab+/8 g/8 f eb
+
+# measure 8
+soprano    f g ab/8 f/8 g
+alto       db db c/8 f/8 eb
+tenor      ab bb ab bb
+bass       db bb c eb
+
+# measure 9
+soprano    f/2.
+alto       c/2.
+tenor      ab/2.
+bass       f/2.
+
+
+

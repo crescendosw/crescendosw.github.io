@@ -1,0 +1,51 @@
+title      O Little Flock, Fear Not the Foe
+author     Johann M. Altenburg, 1632; tr. Catherine Winkworth, 1855; alt.KOMMT HER ZU MIR
+composer   Georg Gruenwald (?-1530); alt.
+key        Ab
+tempo      100
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/401%20O%20Little%20Flock,%20Fear%20Not%20the%20Foe.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 f f c/2. bb c ab g/2
+alto       c/2 c db eb/2. eb eb c c/2
+tenor      ab/2 ab bb c/2. g g f en/2
+bass       f/2 f bb ab/2. eb c f c/2
+
+# measure 2
+soprano    R f ab g ab/2. c bb ab g/2
+alto       R c db db eb/2. ab+ g f en/2
+tenor      R ab f bb c/2. eb+ eb+ c c/2
+bass       R f db bb ab/2. ab+ eb f c/2
+
+# measure 3
+soprano    R g bb/2. ab g ab f/2 eb/2
+alto       R eb f/2. eb eb eb eb dn eb/2
+tenor      R c db/2. c bb c bb/2 g/2
+bass       R c bb/2. c eb ab bb/2 eb/2
+
+# measure 4
+soprano    R eb ab g ab/2. c bb ab g/2
+alto       R eb c eb eb/2. eb eb c c/2
+tenor      R g ab bb c/2. ab g f en/2
+bass       R c f eb ab/2. ab+ eb f c/2
+
+# measure 5
+soprano    R f ab g ab/2. c bb ab g/2
+alto       R c db db eb/2. ab+ g f en/2
+tenor      R ab f bb c/2. eb+ eb+ c c/2
+bass       R f db bb ab/2. ab+ eb f c/2
+
+# measure 6
+soprano    R f c/2. bb ab bb g/2 f/2
+alto       R f eb/2. eb c db c/1
+tenor      R ab ab/2. g f f f en an/2
+bass       R db ab/2. eb f bb c/2 f-/2
+
+
+

@@ -1,0 +1,135 @@
+title      Sing to the Lord of Harvest
+author     John Samuel Bewley Monsell, 1866WIE LIEBLICH IST DER MAIEN
+composer   Johann Steuerlein, 1575
+key        A
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/680%20Sing%20to%20the%20Lord%20of%20Harvest.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       e
+tenor      e
+bass       e
+
+# measure 2
+soprano    a. b/8 c#/8 b/8 a/8 g#/8
+alto       a+. e/8 e e
+tenor      a. g#/8 a e
+bass       a+. e/8 a c#
+
+# measure 3
+soprano    f#/2 f# f#
+alto       d/2 d d/8 c#/8
+tenor      f#/2 b a
+bass       d c# b d
+
+# measure 4
+soprano    e a a g#
+alto       b e f# e
+tenor      g# a d b
+bass       e c# b e
+
+# measure 5
+soprano    a/2.
+alto       e d c#
+tenor      c# b a
+bass       a/2.
+
+# measure 6
+soprano    e
+alto       e
+tenor      e
+bass       e
+
+# measure 7
+soprano    a. b/8 c#/8 b/8 a/8 g#/8
+alto       e. e/8 e e
+tenor      a. g#/8 a e
+bass       c#. b/8 a c#
+
+# measure 8
+soprano    f#/2 f# f#
+alto       d/2 d d
+tenor      f# g#/8 a/8 b/8 a/8 g#/8 f#/8
+bass       d c# b b
+
+# measure 9
+soprano    e a a g#
+alto       b e f#/8 e/8 d
+tenor      g# a d/8 c#/8 b
+bass       e/8 d/8 c# b e
+
+# measure 10
+soprano    a/2.
+alto       c# d c#
+tenor      a/8 g#/8 f# e
+bass       a/2.
+
+# measure 11
+soprano    c#
+alto       e
+tenor      a
+bass       a+
+
+# measure 12
+soprano    c#. b/8 c# b/8 a/8
+alto       e. e/8 e e
+tenor      a. g#/8 a e/8 f#/8
+bass       a+. e/8 a+ c#
+
+# measure 13
+soprano    b/2 b b
+alto       e f# g# e
+tenor      g# a b g#
+bass       e/2 e e
+
+# measure 14
+soprano    a c# d/8 c#/8 b/8 a/8
+alto       c# e d e
+tenor      a a f# e
+bass       f# c# b c#
+
+# measure 15
+soprano    b/2.
+alto       f# d e
+tenor      b a g#
+bass       d f# e
+
+# measure 16
+soprano    e
+alto       e
+tenor      g#
+bass       d
+
+# measure 17
+soprano    a. g#/8 a/8 g#/8 f#/8 e/8
+alto       e. e/8 e c#
+tenor      a. b/8 c# a
+bass       c#. b/8 a c#
+
+# measure 18
+soprano    f#/2 f# f#
+alto       a b/8 c#/8 d d
+tenor      f# g#/8 a/8 b/8 a/8 g#/8 f#/8
+bass       d. c#/8 b b
+
+# measure 19
+soprano    e a a g#
+alto       b e f#/8 e/8 d
+tenor      g# a d/8 c#/8 b
+bass       e/8 d/8 c# b e
+
+# measure 20
+soprano    a/2.
+alto       c#/2.
+tenor      a/2.
+bass       a/2.
+
+
+

@@ -1,0 +1,35 @@
+title     O Lord My God, in You I Put My Trust
+hymnal    Cantus Christi 2020
+author    Valerie Anne Bost, 2019
+music     https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/13%20O%20Lord%20My%20God,%20in%20You%20-%20Psalm%207%20SO%20GEIBST%20DU.pdf
+tune      SO GIEBST DU
+meter     10 10. 10 10. 8 4.
+harmony   Johann Sebastian Bach
+key       G
+rhythm    0 : 4
+tempo     100
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g | b.  a/8  g b       | a g g f | g/2. b  | d. c/8 b b/8 a/8
+alto       e | f.  f/8  e e       | e d e d | d/2. d  | d. d/8 d f
+tenor      b | b.  b/8  b g       | a b c c | b/2. g  | a. a/8 g b
+bass       e | d#. d#/8 e e/8 d/8 | c b a a | g-/2. g | f. f/8 g d#
+
+soprano    g/8 f/8 e       f. e/8 | d#-/2. f  | a.  g/8  f g       | g  f e. e/8 | f/2.
+alto       e       e       c. c/8 | b/2.   dn | e.  e/8  d e/8 d/8 | c# d d c#   | d/2.
+tenor      b       e       a. g/8 | f/2.   b  | a.  a/8  a b       | a a  a. a/8 | a/2.
+bass       e/8 d/8 c/8 b/8 a. a/8 | b/2.   b  | c#. c#/8 d g-      | a d  a. a/8 | d/2.
+
+soprano    f | g a  b  b/12 c#/12 d/12 | c#. - b/8 - a# b b.  a#/8  | b/2.
+alto       d | d d  d  g               | g/2    -    f  d c#. c#/8  | d#/2.
+tenor      a | d a  g  b               | e+. - d/8 - c# b c# f      | f/2.
+bass       d | b f- g- g               | e/2    -    f  b f-.  f-/8 | b/2.
+
+soprano    d#- | e f  g e/12 f/12 g/12 | f. e/8 d#- e e. d#-/8 | e/2.
+alto       b   | b b  b b              | c. c/8 b  b b. b/8    | b/2.
+tenor      f   | g f  e g              | a. g/8 f  g f. f/8    | g/2.
+bass       b   | e d# e e              | a. a/8 b  e b. b/8    | e/2.

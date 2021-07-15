@@ -1,0 +1,124 @@
+title      Our Father God, Thy Name We Praise
+author     Leenaerdt Clock, c. 1590; tr. Ernest A. Payne, 1956 & 1962 (c)NUN FREUT EUCH
+composer   J. Klug's Geistliche Lieder, 1535
+key        G
+tempo      100
+rhythm     4 : 4
+verse_count 4
+copyright  Text: Ernest A. Payne, 1956, 1962. Copyright untraceable.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/311%20Our%20Father%20God,%20Thy%20Name%20We%20Praise.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    R g g b
+alto       R d e g
+tenor      R b c d
+bass       R g c g-
+
+# measure 2
+soprano    a g a a
+alto       f# e e f#
+tenor      d b c d
+bass       d e a d
+
+# measure 3
+soprano    b/2 g/2
+alto       g/2 e/2
+tenor      d/2 c/2
+bass       g-/2 c/2
+
+# measure 4
+soprano    b c d b
+alto       g g a+ g =
+tenor      d e+ d d
+bass       g e f# g
+
+# measure 5
+soprano    a/2 g/2
+alto       g f# d/2
+tenor      d/2 b/2
+bass       d/2 g-/2
+
+# measure 6
+soprano    R g g b
+alto       R d e g
+tenor      R b c d
+bass       R g c g-
+
+# measure 7
+soprano    a g a a
+alto       f# e e f#
+tenor      d b c d
+bass       d e a d
+
+# measure 8
+soprano    b/2 g/2
+alto       g/2 e/2
+tenor      d/2 c/2
+bass       g-/2 c/2
+
+# measure 9
+soprano    b c d b
+alto       g g a+ g
+tenor      d e+ d d
+bass       g e f# g
+
+# measure 10
+soprano    a/2 g/2
+alto       g f# d/2
+tenor      d/2 b/2
+bass       d/2 g-/2
+
+# measure 11
+soprano    R b b a
+alto       R d d d
+tenor      R g g f#
+bass       R g- b d
+
+# measure 12
+soprano    g f# g e
+alto       b/8 c#/8 d d c#
+tenor      g a b a
+bass       e d g- a
+
+# measure 13
+soprano    d-/2 R d-
+alto       d/2 R d
+tenor      f#/2 R f#
+bass       d/2 R d
+
+# measure 14
+soprano    g g g f#
+alto       d e d d
+tenor      g c b a
+bass       b c g- d
+
+# measure 15
+soprano    g a b/2
+alto       d f# g/2
+tenor      b c d/2
+bass       b a g-/2
+
+# measure 16
+soprano    g/2 b c
+alto       e/2 g g
+tenor      c/2 d g
+bass       c/2 g e
+
+# measure 17
+soprano    d b a/2
+alto       f# g/2 f#
+tenor      a b/8 c/8 d/2
+bass       d g- d/2
+
+# measure 18
+soprano    g/1
+alto       d/1
+tenor      b/1
+bass       g-/1
+
+
+

@@ -1,0 +1,117 @@
+title      Away in a Manger
+author     st. 1&2, attr. Martin Luther, 1500s; st. 3, John T. MacFarland, 1892MUELLER
+composer   James R. Murray, 1887
+key        F
+tempo      101
+rhythm     3 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/589%20Away%20in%20a%20Manger%20MUELLER.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c
+alto       a+
+tenor      c
+bass       f
+
+# measure 2
+soprano    c. bb/8 a
+alto       a+. g/8 f
+tenor      c. c/8 c
+bass       f. f/8 f
+
+# measure 3
+soprano    a g f
+alto       f c c
+tenor      c bb a
+bass       f f f
+
+# measure 4
+soprano    f e d-
+alto       d c bb
+tenor      bb f f
+bass       bb bb bb
+
+# measure 5
+soprano    c-/2 c-
+alto       a/2 a
+tenor      f/2 f
+bass       f-/2 f
+
+# measure 6
+soprano    c-. d-/8 c-
+alto       bb. bb/8 bb
+tenor      e. e/8 e
+bass       c. c/8 c
+
+# measure 7
+soprano    c- g e
+alto       bb bb bb
+tenor      e e g
+bass       c c c
+
+# measure 8
+soprano    d- c- f
+alto       bb a c
+tenor      f f a
+bass       f f f
+
+# measure 9
+soprano    a/2 c
+alto       f/2 a+
+tenor      c/2 c
+bass       f/2 f
+
+# measure 10
+soprano    c. bb/8 a
+alto       a+. g/8 f
+tenor      c. c/8 c
+bass       f. f/8 f
+
+# measure 11
+soprano    a g f
+alto       f c c
+tenor      c bb a
+bass       f f f
+
+# measure 12
+soprano    f e d-
+alto       d c bb
+tenor      bb f f
+bass       bb bb bb
+
+# measure 13
+soprano    c-/2 c-
+alto       a/2 c
+tenor      f/2 a
+bass       f-/2 f
+
+# measure 14
+soprano    bb. a/8 g
+alto       e. c/8 c
+tenor      g. f/8 e
+bass       c. c/8 c
+
+# measure 15
+soprano    a g f
+alto       c c c
+tenor      f bb a
+bass       f f f
+
+# measure 16
+soprano    g d- e
+alto       d bb bb
+tenor      bb g g
+bass       bb bb c
+
+# measure 17
+soprano    f/2
+alto       a/2
+tenor      f/2
+bass       f-/2
+
+
+

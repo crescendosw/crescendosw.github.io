@@ -1,0 +1,135 @@
+title      God Himself Is with Us
+author     Gerhard Tersteegen, 1729; tr. Frederick W. Foster & John Miller, 1789; alt.WUNDERBARER KÖNIG
+composer   Joachim Neander, 1680; alt.
+key        G
+tempo      100
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/310%20God%20Himself%20Is%20with%20Us.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b b b b
+alto       g g g g
+tenor      d d d d
+bass       g g b+ g
+
+# measure 2
+soprano    a/2 a/2
+alto       g f#/8 e/8 f#/2
+tenor      d/2 d/2
+bass       d/2 d/2
+
+# measure 3
+soprano    g g g g
+alto       e e e e
+tenor      b b b b
+bass       e e g e
+
+# measure 4
+soprano    f#/2 f#/2
+alto       e d#/8 c#/8 d#/2
+tenor      b/2 b/2
+bass       b/2 b/2
+
+# measure 5
+soprano    e e d- g
+alto       e c b e
+tenor      g g g b
+bass       c e g e
+
+# measure 6
+soprano    a b a/2
+alto       f# g g f#
+tenor      d d d/2
+bass       d g d/2
+
+# measure 7
+soprano    g/1
+alto       g/1
+tenor      b/1
+bass       g-/1
+
+# measure 8
+soprano    b b b b
+alto       g g g g
+tenor      d d d d
+bass       g g b+ g
+
+# measure 9
+soprano    a/2 a/2
+alto       g f#/8 e/8 f#/2
+tenor      d/2 d/2
+bass       d/2 d/2
+
+# measure 10
+soprano    g g g g
+alto       e e e e
+tenor      b b b b
+bass       e e g e
+
+# measure 11
+soprano    f#/2 f#/2
+alto       e d#/8 c#/8 d#/2
+tenor      b/2 b/2
+bass       b/2 b/2
+
+# measure 12
+soprano    e e d- g
+alto       e c b e
+tenor      g g g b
+bass       c e g e
+
+# measure 13
+soprano    a b a/2
+alto       f# g g f#
+tenor      d d d/2
+bass       d g d/2
+
+# measure 14
+soprano    g/1
+alto       g/1
+tenor      b/1
+bass       g-/1
+
+# measure 15
+soprano    b b c/2
+alto       d d e/2
+tenor      g g g/2
+bass       g g c/2
+
+# measure 16
+soprano    a a b/2
+alto       f# f# g/2
+tenor      d d d/2
+bass       d d g/2
+
+# measure 17
+soprano    d d c b
+alto       f# g g g
+tenor      d d e+ d
+bass       d b c g
+
+# measure 18
+soprano    a/2 b/2
+alto       g f# g/2
+tenor      d/2 d/2
+bass       d/2 g/2
+
+# measure 19
+soprano    d d c b
+alto       g. f#/8 e g
+tenor      g b c d
+bass       b g- a b
+
+# measure 20
+soprano    a/2 g/2
+alto       g f# g/2
+tenor      e+ d/8 c/8 b/2
+bass       c d g/2
+
+
+

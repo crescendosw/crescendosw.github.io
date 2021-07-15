@@ -1,0 +1,165 @@
+title      The First Noel
+author     English carol, in Davies Gilbert's Some Ancient Christmas Carols, 1823THE FIRST NOEL
+composer   English carol, in William Sandys' Christmas Carols, 1833
+key        D
+tempo      101
+rhythm     3 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/577%20The%20First%20Noel.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f#/8 e/8
+alto       c#
+tenor      a/8 g/8
+bass       a
+
+# measure 2
+soprano    d-. e/8 f#/8 g/8
+alto       d/2 d
+tenor      f#/2 b
+bass       d/2 b
+
+# measure 3
+soprano    a/2 b/8 c#/8
+alto       e/2 g
+tenor      c#/2 d
+bass       a a+ g
+
+# measure 4
+soprano    d c# b
+alto       a+ a+ g/8 f#/8
+tenor      d d d
+bass       f# f# g
+
+# measure 5
+soprano    a/2 b/8 c#/8
+alto       e/2 g/8 g/8
+tenor      c#/2 d/8 d/8
+bass       a+/2 g/8 a+/8
+
+# measure 6
+soprano    d c# b
+alto       f# f# g
+tenor      d d d
+bass       b+ a+ g
+
+# measure 7
+soprano    a b c#
+alto       a+ d g
+tenor      d d e+
+bass       f# g e
+
+# measure 8
+soprano    d a g
+alto       a+ f# e
+tenor      d d a
+bass       f#/8 g/8 a+ a
+
+# measure 9
+soprano    f#/2 f#/8 e/8
+alto       d/2 c#
+tenor      a/2 a/8 g/8
+bass       d/2 a
+
+# measure 10
+soprano    d-. e/8 f#/8 g/8
+alto       d/2 d
+tenor      f#/2 b
+bass       d/2 b
+
+# measure 11
+soprano    a/2 b/8 c#/8
+alto       e/2 g
+tenor      c#/2 d
+bass       a a+ g
+
+# measure 12
+soprano    d c# b
+alto       a+ a+ g/8 f#/8
+tenor      d d d
+bass       f# f# g
+
+# measure 13
+soprano    a/2 b/8 c#/8
+alto       e/2 g/8 g/8
+tenor      c#/2 d/8 d/8
+bass       a+/2 g/8 a+/8
+
+# measure 14
+soprano    d c# b
+alto       f# f# g
+tenor      d d d
+bass       b+ a+ g
+
+# measure 15
+soprano    a b c#
+alto       a+ d g
+tenor      d d e+
+bass       f# g e
+
+# measure 16
+soprano    d a g
+alto       a+ f# e
+tenor      d d a
+bass       f#/8 g/8 a+ a
+
+# measure 17
+soprano    f#/2 f#/8 e/8
+alto       d/2 c#
+tenor      a/2 a/8 g/8
+bass       d/2 a
+
+# measure 18
+soprano    d-. e/8 f#/8 g/8
+alto       d/2 d
+tenor      f#/2 b
+bass       d/2 b
+
+# measure 19
+soprano    a/2 d/8 c#/8
+alto       c# d f#
+tenor      a/2 a
+bass       f#/2 d
+
+# measure 20
+soprano    b/2 b
+alto       g/2 g
+tenor      b. c#/8 d/8 e+/8
+bass       g. a+/8 b+/8 c#+/8
+
+# measure 21
+soprano    a/2.
+alto       f# a+/2
+tenor      f#+/2 e+
+bass       d+/2 c#+
+
+# measure 22
+soprano    d c# b
+alto       f# f# g
+tenor      d d d
+bass       b+ a+ g
+
+# measure 23
+soprano    a b c#
+alto       f#/2 g
+tenor      d f#+ e+
+bass       d+ d e
+
+# measure 24
+soprano    d a g
+alto       a+ d c#
+tenor      d f#+ a
+bass       f#/8 g/8 a+ a
+
+# measure 25
+soprano    f#/2
+alto       d/2
+tenor      a/2
+bass       d/2
+
+
+

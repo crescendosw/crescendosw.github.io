@@ -1,0 +1,81 @@
+title      Now Praise We Christ, the Holy One
+author     Coelius Sedulius, c. 450; German tr. Martin Luther, 1524; tr. Richard Massie, 1854CHRISTUM WIR SOLLEN
+composer   Enchiridion, Erfurt, 1524
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/607%20Now%20Praise%20We%20Christ,%20the%20Holy%20One.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 f g
+alto       a/2 d e
+tenor      f/2 a c
+bass       d/2 d c
+
+# measure 2
+soprano    a d- g f
+alto       f d c d
+tenor      c b g a
+bass       f g e d
+
+# measure 3
+soprano    e/2. g
+alto       b/2. e
+tenor      g#/2. b
+bass       e/2. e
+
+# measure 4
+soprano    a c c b
+alto       f e e g
+tenor      d g a g
+bass       d c a e
+
+# measure 5
+soprano    a b c/2
+alto       f d e/2
+tenor      c g g/2
+bass       f g c/2
+
+# measure 6
+soprano    R g a c
+alto       R e f g
+tenor      R c c c
+bass       R c f e
+
+# measure 7
+soprano    c b a g#
+alto       g g e e
+tenor      d d c b
+bass       g g- a e
+
+# measure 8
+soprano    a/2. d-
+alto       c#/2. d
+tenor      a/2. f
+bass       a/2. d
+
+# measure 9
+soprano    a a c a
+alto       d f g f
+tenor      a d e+ c
+bass       f d c f-
+
+# measure 10
+soprano    g f e/2
+alto       d d c#/2
+tenor      b a a/2
+bass       g- d a/2
+
+# measure 11
+soprano    g f e/2
+alto       d d b/2
+tenor      b a g#/2
+bass       g- d e/2
+
+
+

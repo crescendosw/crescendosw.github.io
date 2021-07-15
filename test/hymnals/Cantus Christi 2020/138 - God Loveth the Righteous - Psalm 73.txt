@@ -1,0 +1,117 @@
+title      God Loveth the Righteous
+author     The Psalter, 1912OSCEOLA
+composer   Thomas Commuck, 1845; harm. Thomas Hastings, 1845
+key        Bb
+tempo      155
+rhythm     4 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/138%20God%20Loveth%20the%20Righteous%20-%20Psalm%2073a%20OSCEOLA.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       d
+tenor      bb
+bass       g-
+
+# measure 2
+soprano    bb/2 d- d-
+alto       d/2 bb bb
+tenor      g/2 g g
+bass       g-/2 g- g-
+
+# measure 3
+soprano    d-/2 bb g
+alto       bb/2 d d
+tenor      g/2 g g
+bass       g-/2 g- bb
+
+# measure 4
+soprano    a/2 f# f#
+alto       d/2 d d
+tenor      f#/2 a a
+bass       d/2 d d
+
+# measure 5
+soprano    f#/2 g a
+alto       d/2 d/2
+tenor      a/2 bb f#
+bass       d/2 d/2
+
+# measure 6
+soprano    bb a bb c
+alto       d/2 d f
+tenor      g a g a
+bass       g f# g fn
+
+# measure 7
+soprano    d/2 bb d
+alto       f/2 d g
+tenor      bb/2 bb bb
+bass       bb+/2 bb+ g
+
+# measure 8
+soprano    eb+/2 c c
+alto       g/2 f f
+tenor      bb/2 a a
+bass       eb/2 f f
+
+# measure 9
+soprano    d/2. d
+alto       f/2. f
+tenor      bb/2. bb
+bass       bb/2. bb
+
+# measure 10
+soprano    c a a c
+alto       f/2 f eb
+tenor      a c c f
+bass       f/2 f f
+
+# measure 11
+soprano    bb/2 bb g
+alto       d/2 d d
+tenor      f/2 g g
+bass       bb/2 g- bb
+
+# measure 12
+soprano    a f# f# g
+alto       d/2 d d
+tenor      f# a a bb
+bass       d/2 d d
+
+# measure 13
+soprano    d-/2. d-
+alto       d/2. d
+tenor      d/2. f#
+bass       d/2. d
+
+# measure 14
+soprano    bb g g bb
+alto       d/2 d d
+tenor      g bb bb g
+bass       g-/2 g- g-
+
+# measure 15
+soprano    a c c a
+alto       d/2 d d
+tenor      f# a a c
+bass       d/2 d d
+
+# measure 16
+soprano    g/2 f# f#
+alto       d/2 d d
+tenor      bb/2 a a
+bass       g/2 d d
+
+# measure 17
+soprano    g/2
+alto       bb/2
+tenor      g/2
+bass       g-/2
+
+
+

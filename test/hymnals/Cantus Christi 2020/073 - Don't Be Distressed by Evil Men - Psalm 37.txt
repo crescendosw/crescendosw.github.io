@@ -1,0 +1,134 @@
+title      Don't Be Distressed by Evil Men
+author     Valerie Anne Bost, 2019 (c)DEYO
+composer   Heidi Ann Gebbia, 2018 (c)
+key        D
+tempo      70
+rhythm     3 : 4
+verse_count 9
+copyright  Music: Heidi Ann Gebbia, 2018. Used by permission. Text: Valerie Anne Bost, 2019. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/73%20Don't%20Be%20Distressed%20-%20Psalm%2037%20DEYO.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/8 d-/8 e/8
+alto       b/8 b/8 a/8
+tenor      f#/8 f#/8 a/8
+bass       b/8 b/8 c#/8
+
+# measure 2
+soprano    f#. f#/8 f#/8 g/8
+alto       d. d/8 d/8 d/8
+tenor      a. a/8 a/8 b/8
+bass       d. d/8 d/8 d/8
+
+# measure 3
+soprano    e. e/8 e/8 f#/8
+alto       c#. c#/8 c#/8 c#/8
+tenor      a. a/8 a/8 a/8
+bass       a. a/8 a/8 a/8
+
+# measure 4
+soprano    g. g/8 a/8 e/8
+alto       d. d/8 e/8 e/8
+tenor      g. g/8 e/8 a/8
+bass       b. b/8 c#/8 c#/8
+
+# measure 5
+soprano    f#. a/8 a/8 d/8
+alto       d. f#/8 f#/8 a+/8
+tenor      a. d/8 d/8 d/8
+bass       d. d/8 d/8 f#/8
+
+# measure 6
+soprano    b. e/8 e/8 a/8
+alto       a+ g/8 e/8 e/8 e/8
+tenor      d. d/8 c#/8 c#/8
+bass       g. a+/8 a+/8 a+/8
+
+# measure 7
+soprano    f#. d-/8 d-/8 g/8
+alto       d. b/8 b/8 d/8
+tenor      b. f#/8 f#/8 g/8
+bass       b+. b/8 b/8 b/8
+
+# measure 8
+soprano    g/8 f#/8 e. d-/8
+alto       d/8 d/8 c#. b/8
+tenor      g/8 a/8 a. g/8
+bass       b/8 d/8 a. d/8
+
+# measure 9
+soprano    d-. a/8 d/8 a/8
+alto       a. d/8 f#/8 a+/8
+tenor      f#. f#/8 a/8 d/8
+bass       d. d/8 d/8 f#/8
+
+# measure 10
+soprano    b. b/8 a/8 e/8
+alto       g. g/8 e/8 c#/8
+tenor      d. d/8 c#/8 a/8
+bass       g. g/8 a+/8 a/8
+
+# measure 11
+soprano    f#. a/8 d/8 a/8
+alto       d. d/8 f#/8 a+/8
+tenor      a. f#/8 a/8 d/8
+bass       d. d/8 d/8 f#/8
+
+# measure 12
+soprano    b. e/8 e/8 a/8
+alto       g. e/8 e/8 e/8
+tenor      d. d/8 c#/8 c#/8
+bass       g. a+/8 a+/8 a+/8
+
+# measure 13
+soprano    f#. a/8 d/8 a/8
+alto       d. d/8 f#/8 a+/8
+tenor      a. f#/8 a/8 d/8
+bass       d. d/8 d/8 f#/8
+
+# measure 14
+soprano    b. b/8 c#/8 c#/8
+alto       a+ g/8 g/8 e/8 a+/8
+tenor      d. d/8 a/8 e+/8
+bass       g. g/8 a+/8 a+/8
+
+# measure 15
+soprano    d. d/8 c#/8 b/8
+alto       f#. a+/8 g/8 g/8
+tenor      d. d/8 d/8 d/8
+bass       b+. f#/8 g/8 g/8
+
+# measure 16
+soprano    a f# e/8 d-/8
+alto       f# d c#/8 b/8
+tenor      d a a/8 a/8
+bass       a+ d a/8 a/8
+
+# measure 17
+soprano    f#. d/8 c#/8 b/8
+alto       d. f#/8 f#/8 d/8
+tenor      f#. b/8 f#/8 g/8
+bass       b. b/8 a/8 g-/8
+
+# measure 18
+soprano    a f# e =
+alto       d d d -
+tenor      a b a =
+bass       f#- g- a =
+
+# measure 19
+soprano    e/2 R/8 d-/8
+alto       c#/2 R/8 b/8
+tenor      a/2 R/8 g/8
+bass       a/2 R/8 d/8
+
+# measure 20
+soprano    d-.
+alto       a.
+tenor      f#.
+bass       d.
+

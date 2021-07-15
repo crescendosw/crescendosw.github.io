@@ -1,0 +1,91 @@
+title      The Man Who Once Has Found Abode
+author     The Psalter, 1912QUI EN LA GUARDE [GENEVAN 91]
+composer   Genevan Psalter, 1543; arr. Mark Reagan, 2015 (c)
+key        C
+tempo      144
+rhythm     4 : 4
+verse_count 6
+copyright  Arrangement: Mark Reagan, 2015. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/166%20The%20Man%20Who%20Once%20Has%20Found%20-%20Psalm%2091%20Genevan.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    d-/2
+
+# measure 2
+unison    a a g e
+
+# measure 3
+unison    f/2 g/2
+
+# measure 4
+unison    a/2 a/2
+
+# measure 5
+unison    c c b g
+
+# measure 6
+unison    a/2 b/2
+
+# measure 7
+unison    a/2 d-/2
+
+# measure 8
+unison    a a g e
+
+# measure 9
+unison    f/2 g/2
+
+# measure 10
+unison    a/2 a/2
+
+# measure 11
+unison    c c b g
+
+# measure 12
+unison    a/2 b/2
+
+# measure 13
+unison    a/2 a/2
+
+# measure 14
+unison    g e f f
+
+# measure 15
+unison    g/2 a/2
+
+# measure 16
+unison    d-/2 d/2
+
+# measure 17
+unison    a c bb a
+
+# measure 18
+unison    g/2. f
+
+# measure 19
+unison    f/2 a/2
+
+# measure 20
+unison    bb a g f
+
+# measure 21
+unison    e/2 d-/2
+
+# measure 22
+unison    e/2 a/2
+
+# measure 23
+unison    g e f g
+
+# measure 24
+unison    e/2. d-
+
+# measure 25
+unison    d-/1
+
+
+

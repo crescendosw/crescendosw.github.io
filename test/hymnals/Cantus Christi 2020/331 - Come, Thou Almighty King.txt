@@ -1,0 +1,111 @@
+title      Come, Thou Almighty King
+author     Whitefield's Collection, 1757ITALIAN HYMN
+composer   Felice de Giardini, 1769
+key        F
+tempo      101
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/331%20Come,%20Thou%20Almighty%20King.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c a f
+alto       f f c
+tenor      a c c
+bass       f f a
+
+# measure 2
+soprano    g f e
+alto       d c c
+tenor      bb a g
+bass       bb c c
+
+# measure 3
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f-/2.
+
+# measure 4
+soprano    f g a
+alto       c c f
+tenor      a c c
+bass       f e f
+
+# measure 5
+soprano    bb/8 c/8 bb a
+alto       e g f
+tenor      c/2 c
+bass       g e f
+
+# measure 6
+soprano    g/2.
+alto       e/2.
+tenor      c/2.
+bass       c/2.
+
+# measure 7
+soprano    c a f
+alto       c+ a+ f
+tenor      c a f
+bass       c+ a+ f
+
+# measure 8
+soprano    c-/2.
+alto       c/2.
+tenor      c-/2.
+bass       c/2.
+
+# measure 9
+soprano    g a bb
+alto       e f g
+tenor      c c c
+bass       c c c
+
+# measure 10
+soprano    a. g/8 f
+alto       f. c/8 c
+tenor      c. bb/8 a
+bass       f. f/8 f
+
+# measure 11
+soprano    g a bb
+alto       e f g
+tenor      c c c
+bass       c c c
+
+# measure 12
+soprano    a. g/8 f
+alto       f. c/8 c
+tenor      c. bb/8 a
+bass       f. f/8 f
+
+# measure 13
+soprano    f a c
+alto       f a+ c+
+tenor      f a c
+bass       f a+ c+
+
+# measure 14
+soprano    c. d/8 c
+alto       f. f/8 f
+tenor      a. bb/8 a
+bass       f. f/8 f
+
+# measure 15
+soprano    bb a g
+alto       g f e
+tenor      d c bb
+bass       bb c c
+
+# measure 16
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f-/2.
+
+
+

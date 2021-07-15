@@ -1,0 +1,99 @@
+title      How Beautiful the Sight
+author     James Montgomery (1771-1854)ST. GODRIC
+composer   John Bacchus Dykes (1823-1876)
+key        Ab
+tempo      101
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/265%20How%20Beautiful%20the%20Sight%20-%20Psalm%20133%20ST.%20GODRIC.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c
+alto       eb
+tenor      ab
+bass       ab+
+
+# measure 2
+soprano    bb ab f g
+alto       eb c f eb/8 db/8
+tenor      g ab db bb
+bass       eb f db eb
+
+# measure 3
+soprano    ab/2. bb
+alto       c/2. eb
+tenor      ab/2. eb+
+bass       f/2. g
+
+# measure 4
+soprano    c eb+ db c
+alto       eb eb f/8 g/8 ab+
+tenor      eb+ c db eb+
+bass       ab+ c+ bb+ ab+
+
+# measure 5
+soprano    bb/2. c
+alto       g/2. eb
+tenor      eb+/2. c
+bass       eb/2. ab+
+
+# measure 6
+soprano    bb eb ab ab
+alto       f eb eb dn
+tenor      dn bb c ab
+bass       ab+ g f f
+
+# measure 7
+soprano    g/2. ab
+alto       eb/2. eb
+tenor      bb/2. ab
+bass       eb/2. c
+
+# measure 8
+soprano    bb c eb dn-
+alto       eb. c/8 bb ab
+tenor      g f g f
+bass       bb ab bb bb
+
+# measure 9
+soprano    eb/2. eb
+alto       g-/2. g-
+tenor      eb/2. eb
+bass       eb/2. db
+
+# measure 10
+soprano    eb eb eb ab
+alto       ab bb c c
+tenor      f g ab ab
+bass       c bb ab gb
+
+# measure 11
+soprano    ab ab ab ab
+alto       db eb f eb
+tenor      bb c db eb
+bass       f eb db c
+
+# measure 12
+soprano    db db c bb
+alto       db eb eb f
+tenor      f g ab db
+bass       bb bb c db
+
+# measure 13
+soprano    ab/2 bb/2
+alto       eb/2 db/2
+tenor      c/2 g/2
+bass       eb/2 eb/2
+
+# measure 14
+soprano    ab/2.
+alto       c/2.
+tenor      ab/2.
+bass       ab/2.
+
+
+

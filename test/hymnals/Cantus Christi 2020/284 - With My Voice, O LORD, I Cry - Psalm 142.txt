@@ -1,0 +1,94 @@
+title      With My Voice, O LORD, I Cry
+author     The Ailbe Psalter, 2006 (c) NICHT SO TRAURIG [PRESSBURG]
+composer   Johann Anastasius Freylinghausen, 1714
+key        Bb
+tempo      85
+rhythm     4 : 4
+verse_count 5
+copyright  Text: The Fellowship of Ailbe, 2006. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/284%20With%20My%20Voice,%20O%20LORD%20-%20Psalm%20142%20NICHT%20SO%20TRAURIG.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb a/8 g/8
+alto       d c
+tenor      g f#
+bass       g- a
+
+# measure 2
+soprano    d c/8 bb/8 a bb/8 c/8
+alto       bb/8 c/8 d eb d/8 c/8
+tenor      g g g f#/8 g/8
+bass       bb g- c d/8 eb/8
+
+# measure 3
+soprano    f#/2 g/8 a/8 bb
+alto       d/2 d d
+tenor      a/2 g g
+bass       d/2 bb/8 a/8 g-
+
+# measure 4
+soprano    eb d- c- f
+alto       c/8 a/8 bb bb a
+tenor      g f f f
+bass       c d/8 eb/8 f f-
+
+# measure 5
+soprano    d-/2 bb a/8 g/8
+alto       bb/2 d c
+tenor      f/2 g f#
+bass       bb/2 g- a
+
+# measure 6
+soprano    d c/8 bb/8 a bb/8 c/8
+alto       bb/8 c/8 d eb d/8 c/8
+tenor      g g g f#/8 g/8
+bass       bb g- c d/8 eb/8
+
+# measure 7
+soprano    f#/2 g/8 a/8 bb
+alto       d/2 d d
+tenor      a/2 g g
+bass       d/2 bb/8 a/8 g-
+
+# measure 8
+soprano    eb d- c- f
+alto       c/8 a/8 bb bb a
+tenor      g f f f
+bass       c d/8 eb/8 f f-
+
+# measure 9
+soprano    d-/2 d f
+alto       bb/2 bb bb
+tenor      f/2 f f
+bass       bb/2 bb d
+
+# measure 10
+soprano    en f bb a/8 g/8
+alto       c c d c
+tenor      g f f en
+bass       c/8 bb/8 a g- c
+
+# measure 11
+soprano    a/2 a bb/8 c/8
+alto       c/2 c c
+tenor      f/2 f g
+bass       f-/2 f eb
+
+# measure 12
+soprano    f# d bb a/8 g/8
+alto       d d d c/8 bb/8
+tenor      a g g f#
+bass       d/8 c/8 bb/8 c/8 d d
+
+# measure 13
+soprano    g/2
+alto       bb/2
+tenor      g/2
+bass       g-/2
+
+
+

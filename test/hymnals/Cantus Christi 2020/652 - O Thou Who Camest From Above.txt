@@ -1,0 +1,117 @@
+title      O Thou Who Camest From Above
+author     Charles Wesley (1707-1788)HEREFORD (Wesley)
+composer   Samuel Sebastian Wesley (1810-1876)
+key        Eb
+tempo      100
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/652%20O%20Thou%20Who%20Camest%20from%20Above.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       eb
+tenor      bb
+bass       eb
+
+# measure 2
+soprano    g f eb
+alto       eb d eb
+tenor      bb ab g
+bass       bb/2 c
+
+# measure 3
+soprano    f ab g
+alto       c d eb
+tenor      c ab bb
+bass       ab f- g-
+
+# measure 4
+soprano    g/8 f/8 eb f
+alto       c bb d
+tenor      bb/8 ab/8 g bb
+bass       ab bb/2
+
+# measure 5
+soprano    f g bb
+alto       d eb f
+tenor      bb/2 bb
+bass       eb/2 d
+
+# measure 6
+soprano    bb ab g
+alto       eb/2 eb
+tenor      eb+/2 bb
+bass       c/2 bb
+
+# measure 7
+soprano    c/2 bb
+alto       eb f g
+tenor      c d eb+
+bass       ab/2 g-
+
+# measure 8
+soprano    ab bb g
+alto       c f eb
+tenor      c bb/2
+bass       f- d eb
+
+# measure 9
+soprano    g f bb
+alto       eb d f
+tenor      bb/2 d
+bass       bb/2 bb+
+
+# measure 10
+soprano    c/2 c
+alto       g f/2
+tenor      eb+ f+ eb+
+bass       bb+ ab+/2
+
+# measure 11
+soprano    bb eb+/8 d/8 c/8 bb/8
+alto       f eb eb
+tenor      d eb+ eb+
+bass       ab+ g c
+
+# measure 12
+soprano    bb ab/8 g/8 ab
+alto       eb/2 d
+tenor      c/2 bb
+bass       f/2 bb
+
+# measure 13
+soprano    ab g bb
+alto       d eb f
+tenor      bb/2 bb
+bass       eb/2 d
+
+# measure 14
+soprano    bb eb ab
+alto       eb/2 eb
+tenor      eb+/2 c
+bass       c/2 f
+
+# measure 15
+soprano    ab g/8 f/8 bb
+alto       d/2 eb
+tenor      bb/2 bb
+bass       bb ab g-
+
+# measure 16
+soprano    eb/8. f/16 g f
+alto       eb/2 d
+tenor      c bb ab
+bass       ab bb/2
+
+# measure 17
+soprano    f eb
+alto       d eb
+tenor      ab g
+bass       eb/2
+
+
+

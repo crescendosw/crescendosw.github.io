@@ -1,0 +1,61 @@
+title      Only-Begotten, Word of God Eternal
+author     Latin hymn, c. 800s; tr. Maxwell J. Blacker, 1884; alt.ISTE CONFESSOR (Rouen)
+composer   Antiphoner, Poitiers, 1746; harm. Healey Willan, 1918 (c)
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 6
+copyright  Arrangement: Used by permission of the Estate of Healey Willan.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/491%20Only-Begotten,%20Word%20of%20God%20Eternal.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    d-/2 a f
+
+# measure 2
+unison    g/2 a/2
+
+# measure 3
+unison    d-. e/8 f g
+
+# measure 4
+unison    f e d-/2
+
+# measure 5
+unison    d-/2 a f
+
+# measure 6
+unison    g/2 a/2
+
+# measure 7
+unison    a. g/8 a bn
+
+# measure 8
+unison    c bn a/2
+
+# measure 9
+unison    d/2 c d
+
+# measure 10
+unison    c bb a/2
+
+# measure 11
+unison    c. bb/8 a bb
+
+# measure 12
+unison    a g f/2
+
+# measure 13
+unison    a/2 d- e
+
+# measure 14
+unison    f/2 e/2
+
+# measure 15
+unison    d-/1
+
+
+

@@ -1,0 +1,117 @@
+title      I Would Not Live Always
+author     William Augustus Muhlenberg, 1824; alt.PRESCOTT
+composer   Sacred Harp, 1835
+key        Eb
+tempo      100
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/469%20I%20Would%20Not%20Live%20Always.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb
+alto       eb
+tenor      g
+bass       eb
+
+# measure 2
+soprano    g g/8 bb/8 ab/8 f/8
+alto       eb eb c
+tenor      bb bb/8 g/8 eb/8 f/8
+bass       eb eb ab
+
+# measure 3
+soprano    d- eb R/8 f/8
+alto       bb bb R/8 d/8
+tenor      f g R/8 bb/8
+bass       bb eb R/8 bb/8
+
+# measure 4
+soprano    g/8 bb/8 eb+/8 bb/8 bb/8 g/8
+alto       eb eb eb
+tenor      bb/8 g/8 g g/8 eb/8
+bass       eb eb eb
+
+# measure 5
+soprano    f/2 g/8 f/8
+alto       d/2 eb/8 d/8
+tenor      bb/2 bb
+bass       bb/2 bb/8 ab/8
+
+# measure 6
+soprano    eb eb/8 f/8 g/8 ab/8
+alto       eb eb/8 d/8 eb/8 f/8
+tenor      bb bb bb
+bass       g- g-/8 bb/8 eb
+
+# measure 7
+soprano    bb/8 c/8 bb ab/8 g/8
+alto       g/8 ab+/8 g f/8 eb/8
+tenor      eb+ eb+/8 bb/8 c/8 bb/8
+bass       eb eb eb
+
+# measure 8
+soprano    f/8 c/8 bb/8 g/8 f
+alto       eb eb d
+tenor      c/8 ab/8 g/8 bb/8 bb
+bass       ab bb bb
+
+# measure 9
+soprano    eb/2 g/8 ab/8
+alto       eb/2 bb
+tenor      bb/2 bb
+bass       eb/2 eb
+
+# measure 10
+soprano    bb bb/8 eb+/8 d/8 c/8
+alto       eb eb eb
+tenor      g g/8 c/8 bb/8 ab/8
+bass       eb eb eb
+
+# measure 11
+soprano    bb g g/8 f/8
+alto       eb eb eb/8 d/8
+tenor      g bb bb/8 ab/8
+bass       eb eb eb
+
+# measure 12
+soprano    eb eb/8 g/8 f/8 eb/8
+alto       eb eb c
+tenor      g g/8 bb/8 an
+bass       c c c
+
+# measure 13
+soprano    f/2 g/8. f/16
+alto       d/2 eb/8. d/16
+tenor      bb/2 bb/8. ab/16
+bass       bb/2 bb+/8. ab+/16
+
+# measure 14
+soprano    eb eb/8 f/8 g/8 ab/8
+alto       eb eb/8 d/8 eb/8 f/8
+tenor      g/8 c/8 bb bb
+bass       g/8 ab+/8 g/8 f/8 eb
+
+# measure 15
+soprano    bb/8 c/8 bb ab/8 g/8
+alto       g/8 ab+/8 g f/8 eb/8
+tenor      eb+ eb+ c/8 bb/8
+bass       eb eb eb
+
+# measure 16
+soprano    f/8 c/8 bb/8 g/8 f
+alto       eb eb d
+tenor      c/8 ab/8 g/8 bb/8 bb
+bass       ab bb bb
+
+# measure 17
+soprano    eb/2
+alto       eb/2
+tenor      bb/2
+bass       eb/2
+
+
+

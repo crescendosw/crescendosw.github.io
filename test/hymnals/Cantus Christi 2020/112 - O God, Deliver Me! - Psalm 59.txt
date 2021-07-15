@@ -1,0 +1,98 @@
+title      O God, Deliver Me!
+author     Douglas Wilson, 2019 (c) HENGOED
+composer   Jacob Gabriel (1879-1950)
+key        Bb
+tempo      100
+rhythm     4 : 4
+verse_count 8
+copyright  Text: Douglas Wilson, 2019. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/112%20O%20God,%20Deliver%20Me%20-%20Psalm%2059%20HENGOED.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb/2 f g
+alto       d/2 f bb
+tenor      f/2 bb bb
+bass       bb/2 d eb
+
+# measure 2
+soprano    f eb d-/2
+alto       bb a bb/2
+tenor      f f f/2
+bass       d c bb/2
+
+# measure 3
+soprano    eb f g c
+alto       bb d eb g
+tenor      bb bb bb eb+
+bass       g f eb c
+
+# measure 4
+soprano    bb/2 a/2
+alto       f/2 f/2
+tenor      d/2 c/2
+bass       f/2 f/2
+
+# measure 5
+soprano    bb/2 a g
+alto       d/2 en en
+tenor      bb d c c
+bass       g/2 c bb
+
+# measure 6
+soprano    c bb a g
+alto       f g f en
+tenor      c d c bb
+bass       a bb c c
+
+# measure 7
+soprano    f/2 f f
+alto       f/2 f f
+tenor      a/2 f f
+bass       f/2 f f
+
+# measure 8
+soprano    d c bb f
+alto       f f/8 eb/8 d f
+tenor      bb a bb bb
+bass       bb+ f g d
+
+# measure 9
+soprano    g/2 a bb
+alto       eb/2 f f
+tenor      bb/2 c bb
+bass       eb/2 eb d
+
+# measure 10
+soprano    eb+ d c bb
+alto       eb f g g
+tenor      c bn c c
+bass       c d eb en
+
+# measure 11
+soprano    bb a bb c
+alto       f/2 d f
+tenor      c/2 bb a
+bass       f/2 g f
+
+# measure 12
+soprano    d/2 bb f
+alto       f/2 f d
+tenor      bb/2 bb bb
+bass       bb+/2 d bb
+
+# measure 13
+soprano    g c bb a
+alto       eb g f eb
+tenor      bb eb+ d c
+bass       eb c f f
+
+# measure 14
+soprano    bb/1
+alto       d/1
+tenor      bb/1
+bass       bb/1
+

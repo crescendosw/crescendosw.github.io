@@ -1,0 +1,58 @@
+title      They Often Hurt Me From My Youth
+author     Donald P. Owens II, 2012 (c) DIE FEIND HABEN MICH [BECKER 129]
+composer   Heinrich Schütz, 1628
+key        F
+tempo      125
+rhythm     0 : 4
+verse_count 2
+copyright  Text: Donald P. Owens II, 2012. All Rights Reserved. Used by permission. 254 Music: David R. Erb, 2014. Used by permission. Text: Thomas Nelson, 1982. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/253%20They%20Often%20Hurt%20Me%20-%20Psalm%20129%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 f bb a g f/8 a/8 g f
+alto       a/2 bb d f e/8 d/8 c/8 f e/8 f
+tenor      f/2 d- g f g a/8 c/8 c c
+bass       d/2 bb g- d e f c f
+
+# measure 2
+soprano    f g g c a bb a g/2
+alto       c e e e f# g f# g/2
+tenor      a c c c d d/2 d/2
+bass       f c c a d g- d g-/2
+
+# measure 3
+soprano    d-/2 f bb a g f/8 a/8 g f
+alto       a/2 bb d f e/8 d/8 c/8 f e/8 f
+tenor      f/2 d- g f g a/8 c/8 c c
+bass       d/2 bb g- d e f c f
+
+# measure 4
+soprano    f g g c a bb a g/2
+alto       c e e e f# g f# g/2
+tenor      a c c c d d/2 d/2
+bass       f c c a d g- d g-/2
+
+# measure 5
+soprano    d/2 c a bb bb c d bb/2
+alto       g/2 e f# g d fn f d/2
+tenor      bb/2 a d d g a bb f/2
+bass       g/2 a+ d g g f bb bb/2
+
+# measure 6
+soprano    d/2 c a c bb a f f/2
+alto       f/2 f f g g f d d/2
+tenor      bb/2 a c eb+ eb+ c bb bb/2
+bass       bb/2 f f c eb f bb bb/2
+
+# measure 7
+soprano    d-/2 g a bb d bb/8 g/8 bb a/1
+alto       a/2 c c bb a d/8 bb/8 d d/1
+tenor      f/2 e c- g d-/2 g f#/1
+bass       d/2 c a g- f#- g-/2 d/1
+
+
+

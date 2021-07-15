@@ -1,0 +1,94 @@
+title      If GOD Does Not Build Up the House
+author     Calvin Seerveld, 1980; alt. (c)CREDO
+composer   John Stainer, 1875
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 2
+copyright  Text: Calvin Seerveld, 1980. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/248%20If%20GOD%20Does%20Not%20Build%20-%20Psalm%20127%20CREDO.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       g
+tenor      g
+bass       g
+
+# measure 2
+soprano    g g g c
+alto       d d g g
+tenor      bn bn c c
+bass       g f eb eb
+
+# measure 3
+soprano    bn c g f
+alto       f eb d bn
+tenor      d g g g
+bass       d c bn g-
+
+# measure 4
+soprano    eb g bb ab
+alto       c eb g f
+tenor      g c c c
+bass       c c ab ab
+
+# measure 5
+soprano    g f eb eb
+alto       eb d bb eb
+tenor      bb ab g g
+bass       bb bb eb eb
+
+# measure 6
+soprano    ab. ab/8 g eb
+alto       eb. eb/8 eb eb
+tenor      ab. ab/8 bb g
+bass       c. c/8 bb bb
+
+# measure 7
+soprano    c c bb eb
+alto       eb eb eb eb
+tenor      ab ab bb bb
+bass       ab ab+ g g
+
+# measure 8
+soprano    f ab ab g
+alto       c f f eb
+tenor      c c bb bb
+bass       ab+ f d eb
+
+# measure 9
+soprano    eb f g/2
+alto       c d d/2
+tenor      c c bn/2
+bass       ab+ ab+ g/2
+
+# measure 10
+soprano    g g/8 g/8 c. c/8
+alto       g g/8 g/8 c+. e/8
+tenor      g g/8 g/8 c. c/8
+bass       g g/8 g/8 c+. a+/8
+
+# measure 11
+soprano    b a g g
+alto       g f e e
+tenor      c a/8 b/8 c c
+bass       e f c c+
+
+# measure 12
+soprano    c. c/8 c d
+alto       g. g/8 f f#
+tenor      e+. e+/8 c c
+bass       bb+. bb+/8 a+ ab+
+
+# measure 13
+soprano    e+ d c
+alto       g g/8 f/8 e
+tenor      c b g
+bass       g g c
+
+
+

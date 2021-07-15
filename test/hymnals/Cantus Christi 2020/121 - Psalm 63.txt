@@ -1,0 +1,66 @@
+title      Psalm 63
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2016
+key        F
+rhythm     3 : 4
+tempo      120
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2019/02/psalm63.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     g/2. | f#/2 f# | g/2 g | a/2. | b/2 b | a/2 a | g/2. | f#/2 f#
+
+unison     g d- g | a/2 a | b g b | c b a | b/8 a/8 c/8 - b/8 a/8 - g/8 | f f/8 g/8 a/8 f/8 | g - f#/2 | g/2.
+
+unison     g a b | a. g/8 f# | g/8 a/8 b g | a/8 - b/8 c a | b/8 - c/8 - d/8 - c/8 b/8 - d/8 | c/8 b/8 a f | g/8 - a/8 - b/8 - a/8 - c/8 - b/8 | a/2 a
+
+unison     b - a g | f#. - g/8 a | b a b | c. b/8 c | d - c b | c. - b/8 a | g/8 - b/8 - a/8 - g/8 f# | g/2.
+
+unison     g g/8 - a/8 b | a/8 - g/8 - f#/8 - e/8 d- | g g/8 - a/8 - b | c/2. | b b/8 - c/8 - d | c/8 - b/8 a/8 - g/8 f | g g/8 - a/8 b/8 - c/8 | d/2 d
+
+unison     d c/8 - b/8 a/8 - g/8 | f#/8 g/8 a f#/8 a/8 | g b g | a f/2 | b-/8 - c-/8 d-/8 - eb/8 f/8 g/8 | a/8 - b/8 c a | g/8 - b/8 - a/8 - g/8 f# | g/2.
+
+unison     d- g b | a f# d- | d- - g b | a/2 f | d-/8 eb/8 f d- | c- d- c- | b- c-/2 | d-/2 d-
+
+unison     d- g b | a - f# d- | d- - g b | a g a | b f d-/8 eb/8 | f - g a | g/8 - b/8 - a/8 - g/8 f# | g/2 g
+
+unison     g a g | f#/2 f# | g - a - g | a/2 a | b - c - b | a/2 a | g - a - g | f#/2 f#
+
+unison     g/2 d- | d-/2 d- | d- d- g | a g f | d-/2 f | f c- d-/8 c-/8 | b- a- a- | g-/2.
+
+unison     g/8 d-/8 d-/2 | d-/8 d-/8 d-/2 | g/8 d-/8 d- d- | c- d- eb | d- f b/8 d/8 | c/8. - b/16 a c | b/8 - a/8 - g/8 - a/8 b/8 - c/8 | d/2.
+
+unison     d/8 b/8 g b | a/8 f#/8 d- f# | g/8 - a/8 - b/8 - a/8 - c/8 - b/8 | a/2 f/8 f/8 | d-/8 c-/8 b- d- | f/8 - g/8 a/2 | g d-/2 | g/2.
+
+verse      O God, You are my God; Ear - ly will I seek You;
+
+verse      My soul thirsts for You; My flesh longs for You In a dry and thirst - y land Where there is no wa - ter.
+
+verse      So I have looked for You in the sanc - tu - a - ry, To see Your pow - er and Your glo - ry.
+
+verse      Be - cause Your lov - ing - kind - ness is bet - ter than life, My lips shall praise You.
+
+verse      Thus I will bless You while I live; I will lift up my hands in Your name.
+
+verse      My soul shall be sat - is - fied as with mar - row and fat - ness, And my mouth shall praise You with joy - ful lips.
+
+verse      When I re - mem - ber You on my bed, I med - i - tate on You in the night watch - es.
+
+verse      Be - cause You have been my help, Therefore in the shad - ow of Your wings I will re - joice.
+
+verse      My soul fol - lows close be - hind You; Your right hand up - holds me.
+
+verse      But those who seek my life, to de - stroy it, Shall go in - to the low - er parts of the earth.
+
+verse      They shall fall by the sword; They shall be a por - tion for jack - als.  But the king shall re - joice in God;
+
+verse      Ev - 'ry - one who swears by Him shall glo - ry; But the mouth of those who speak lies shall be stopped.

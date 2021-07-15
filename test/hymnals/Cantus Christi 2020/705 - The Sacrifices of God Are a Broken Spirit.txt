@@ -1,0 +1,33 @@
+title      The Sacrifices of God Are a Broken Spirit
+author     Holy Bible, King James Version, 1611
+composer   Swedish Mässbok, 1942; adapt. Regina H. Fryxell, 1958
+key        C
+tempo      101
+rhythm     0 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/705%20The%20Sacrifices%20of%20God%20Are%20a%20Broken%20Spirit.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    e a g e e d- e/2 e e g/2 g e e/2
+
+# measure 2
+unison    e e g a g a b a b c c a/2 a a g a b/2
+
+# measure 3
+unison    e a a a g e e f f e e/2
+
+# measure 4
+unison    b c/2 c a a a g a b/2
+
+# measure 5
+unison    a a a g e/2 e e f e e e d- e e e/2
+
+# measure 6
+unison    b c c c a g a/2 f/2 e/2 e/2
+
+
+

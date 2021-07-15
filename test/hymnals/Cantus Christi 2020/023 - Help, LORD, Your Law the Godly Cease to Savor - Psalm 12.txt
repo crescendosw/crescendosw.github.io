@@ -1,0 +1,40 @@
+title      Help, LORD, Your Law the Godly Cease to Savor
+author     Douglas Wilson, 2000 (c)DONNE SECOURS, SEIGNEUR [GENEVAN 12]
+composer   Genevan Psalter, 1542; harm. Claude Goudimel, 1564
+key        C
+tempo      166
+rhythm     0 : 4
+verse_count 4
+copyright  Text: Douglas Wilson, 2000. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/23%20Help,%20LORD,%20Your%20Law%20-%20Psalm%2012%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/2 f g a/2 c/2 a f g f e/2 d-/1
+alto       d/2 d e f/2 g/2 f d e d/2 c# d/1
+tenor      a/2 a c c/2 e+/2 d a c a a/2 a/1
+bass       d/2 d c f/2 c/2 d d c d a/2 d/1
+
+# measure 2
+soprano    a/2 a g a/2 d/2 a d c/2 b/2 a/1
+alto       f/2 e e f#/2 a+/2 a+ a+ a+/2 g#/2 a+/1
+tenor      d/2 c b d/2 fn+/2 c f+ e+/2 e+/2 c#/1
+bass       d/2 a e d/2 d/2 f d a+/2 e/2 a/1
+
+# measure 3
+soprano    d-/2 f f e/2 d-/2 a a g e f/2 e/1
+alto       a/2 d d c#/2 a/2 f f e e d/2 c#/1
+tenor      f/2 a a a/2 f/2 d c c c a/2 a/1
+bass       d/2 d d a/2 d/2 d f c c d/2 a/1
+
+# measure 4
+soprano    a/2 c a f/2 g/2 a d- f/2 e/2 d-/1
+alto       e/2 e e d/2 e/2 f a f d/2 c# d/1
+tenor      c/2 a c a/2 c/2 c a a/2 a/2 a/1
+bass       a/2 a a d/2 c/2 f f d/2 a/2 d/1
+
+
+

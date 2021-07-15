@@ -1,0 +1,69 @@
+title      Ride On, Ride On in Majesty
+author     Henry Hart Milman, 1827WINCHESTER NEW
+composer   Musikalisches Handbuch, 1690; arr. William Henry Havergal, 1847
+key        Bb
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/613%20Ride%20On,%20Ride%20On%20in%20Majesty.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       d
+tenor      bb
+bass       bb
+
+# measure 2
+soprano    bb f g g
+alto       f d eb eb/8 d/8
+tenor      bb bb bb eb
+bass       d bb eb c/8 bb/8
+
+# measure 3
+soprano    f eb d- d-
+alto       c a bb bb
+tenor      f f f f
+bass       a f- bb bb
+
+# measure 4
+soprano    eb d- c- f
+alto       bb bb a a
+tenor      eb f f f
+bass       g- bb f- d
+
+# measure 5
+soprano    f en f(2) f
+alto       d c/8 bb/8 a(2) c
+tenor      g g f(2) a
+bass       bb c f-(2) f/8 eb/8
+
+# measure 6
+soprano    bb c d bb
+alto       f eb d f
+tenor      bb a bb f
+bass       d c bb d
+
+# measure 7
+soprano    eb+ d c d
+alto       eb f f f
+tenor      g/8 a/8 bb a bb
+bass       c d/8 eb/8 f bb
+
+# measure 8
+soprano    bb g f bb
+alto       f eb/8 d/8 c bb
+tenor      bb bb a g
+bass       d eb f g
+
+# measure 9
+soprano    bb a bb(2)
+alto       c eb d(2)
+tenor      g f f(2)
+bass       eb f bb(2)
+
+
+

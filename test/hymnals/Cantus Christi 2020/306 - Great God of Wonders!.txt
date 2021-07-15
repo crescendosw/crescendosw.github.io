@@ -1,0 +1,207 @@
+title      Great God of Wonders!
+author     John Newton (1725-1807)SOVEREIGNTY [WONDERS]
+composer   Samuel Davies, 1769
+key        C
+tempo      150
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/306%20Great%20God%20of%20Wonders!.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 g a
+alto       c/2 c c
+tenor      e/2 e f
+bass       c/2 c c
+
+# measure 2
+soprano    g f e a
+alto       c/2 c/2
+tenor      e a g f
+bass       c/2 c/2
+
+# measure 3
+soprano    g/2 e/2
+alto       c/2 c/2
+tenor      e/2 g/2
+bass       c/2 c/2
+
+# measure 4
+soprano    d-/2 e f
+alto       b/2 c b
+tenor      g/2 g/2
+bass       g-/2 c d
+
+# measure 5
+soprano    g/2 a b
+alto       c/2 c d
+tenor      g/2 f/2
+bass       e/2 d/2
+
+# measure 6
+soprano    c/2 b/8. a/16 g
+alto       e/2 d/2
+tenor      g/2 g/2
+bass       c/2 g-/8. a/16 b
+
+# measure 7
+soprano    g/2 f#/2
+alto       c/2 a/2
+tenor      e/2 d-/2
+bass       c/2 d/2
+
+# measure 8
+soprano    g/1
+alto       b/1
+tenor      d-/1
+bass       g-/1
+
+# measure 9
+soprano    g. f/8 e f
+alto       e. d/8 c d
+tenor      c/2 g g
+bass       c/2 c c
+
+# measure 10
+soprano    g. a/8 g f
+alto       e. f/8 e d
+tenor      c/2. g
+bass       c/2. c
+
+# measure 11
+soprano    e f g a
+alto       c d e f
+tenor      g/2 c/2
+bass       c/2 c/2
+
+# measure 12
+soprano    g/2. g
+alto       e/2. e
+tenor      c/2. c
+bass       c/2. c
+
+# measure 13
+soprano    a g f e
+alto       f e d c
+tenor      c/2 g/2
+bass       c/2 b c
+
+# measure 14
+soprano    d-. e/8 d- a
+alto       b. c/8 b f
+tenor      g/2. a
+bass       g-/2. f-
+
+# measure 15
+soprano    a g g/8 f/8 e
+alto       f e e/8 d/8 c
+tenor      c/2 g/2
+bass       c/2 c/2
+
+# measure 16
+soprano    e/2 d- g
+alto       c/2 b c
+tenor      g/2. g
+bass       g-/2. e
+
+# measure 17
+soprano    a g a b
+alto       c/2 c d
+tenor      f g f/2
+bass       f e d/2
+
+# measure 18
+soprano    c/2. f
+alto       e. d/8 c d
+tenor      g/2. a
+bass       c. d/8 e f
+
+# measure 19
+soprano    e/2 d-/2
+alto       c/2 b/2
+tenor      g/2 f/2
+bass       g/2 g-/2
+
+# measure 20
+soprano    c-/1
+alto       c/1
+tenor      e/1
+bass       c/1
+
+# measure 21
+soprano    c c c
+alto       e e e
+tenor      g g g
+bass       c c/8 d/8 e/8 f/8
+
+# measure 22
+soprano    b/2 g
+alto       d/2 d
+tenor      g/2 g
+bass       g/2 b
+
+# measure 23
+soprano    g/2 f#
+alto       e d d
+tenor      c b a
+bass       c/8 a/8 d d
+
+# measure 24
+soprano    g/2 g
+alto       d/2 d
+tenor      b/2 b
+bass       g-/2 g-
+
+# measure 25
+soprano    g R g
+alto       e R c
+tenor      c R bb
+bass       c/8 b/8 c/8 d/8 e/8 c/8
+
+# measure 26
+soprano    a R a
+alto       c R f
+tenor      a R a
+bass       f/8 e/8 d/8 e/8 f/8 d/8
+
+# measure 27
+soprano    b R b
+alto       d R d
+tenor      g R g
+bass       g/8 f#/8 g/8 fn/8 e/8 d/8
+
+# measure 28
+soprano    c R g
+alto       e R b
+tenor      g R g/8 f/8
+bass       c/8 e/8 g/8 f/8 e/8 d/8
+
+# measure 29
+soprano    g/2 g
+alto       c/2 e
+tenor      e/2 c/8 bb/8
+bass       c/2 c
+
+# measure 30
+soprano    a/2 d
+alto       c/2 f
+tenor      a/2 a
+bass       f/2 d
+
+# measure 31
+soprano    b/2 b
+alto       d/2 d
+tenor      g/2 g
+bass       g/2 g-
+
+# measure 32
+soprano    c/2.
+alto       e/2.
+tenor      g/2.
+bass       c/2.
+
+
+

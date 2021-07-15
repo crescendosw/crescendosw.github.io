@@ -1,0 +1,117 @@
+title      We Sing the Praise of Him Who Died
+author     Thomas Kelly, 1815BOW BRICKHILL
+composer   Sydney H. Nicholson, 1939
+key        C
+tempo      100
+rhythm     3 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/497%20We%20Sing%20the%20Praise%20of%20Him.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c
+alto       g
+tenor      e+
+bass       c
+
+# measure 2
+soprano    b a c
+alto       f/2 g
+tenor      d/2 c
+bass       d/2 e
+
+# measure 3
+soprano    g/2 a
+alto       d c f
+tenor      b c c
+bass       f e d
+
+# measure 4
+soprano    e f d-
+alto       c/2 b
+tenor      c a f
+bass       g/2 g-
+
+# measure 5
+soprano    c-/2 c-
+alto       b a g-
+tenor      e/2 e
+bass       a/2 bb
+
+# measure 6
+soprano    f/2 e
+alto       c/2 e
+tenor      f c b
+bass       a a+ g
+
+# measure 7
+soprano    a/2 g
+alto       e d d
+tenor      a/2 b
+bass       f/2 g/8 f/8
+
+# measure 8
+soprano    c/2 d
+alto       g a+/8 g/8 f#
+tenor      c/2 c
+bass       e/2 d
+
+# measure 9
+soprano    g/2 g
+alto       g/2 g
+tenor      b/2 b
+bass       g/2 g/8 f/8
+
+# measure 10
+soprano    c/2 a
+alto       g/2 f
+tenor      c e+ d/8 c/8
+bass       e/2 f
+
+# measure 11
+soprano    g/2 g/8 a/8
+alto       d/2 g
+tenor      b/2 c
+bass       g f e
+
+# measure 12
+soprano    bb d c/8 bb/8
+alto       f/2 g
+tenor      d bb g
+bass       d/2 e
+
+# measure 13
+soprano    a/2 g
+alto       g f e/8 d/8
+tenor      c/2 b
+bass       f/2 g
+
+# measure 14
+soprano    e+/2 b
+alto       e g f
+tenor      c/2 d
+bass       c/2 g
+
+# measure 15
+soprano    d c a
+alto       f e f
+tenor      b c f
+bass       a+/2 d
+
+# measure 16
+soprano    g e d-
+alto       e c b
+tenor      g a f
+bass       e f g-
+
+# measure 17
+soprano    c-/2
+alto       c/2
+tenor      e/2
+bass       c/2
+
+
+

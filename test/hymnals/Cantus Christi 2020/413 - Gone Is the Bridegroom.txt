@@ -1,0 +1,160 @@
+title      Gone Is the Bridegroom
+author     Douglas Wilson, 2018 (c) CHELSEA (Goss)
+composer   John Goss (1800-1880)
+key        D
+tempo      135
+rhythm     4 : 4
+verse_count 4
+copyright  Text: Douglas Wilson, 2018. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/413%20Gone%20Is%20the%20Bridegroom.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 f# a
+alto       a/2 d c#
+tenor      f#/2 a g
+bass       d/2 d e
+
+# measure 2
+soprano    d/2. c#
+alto       d/2. d
+tenor      a/2. f#
+bass       f#/2. d
+
+# measure 3
+soprano    b. b/8 b b
+alto       d. d/8 c# b
+tenor      g. g/8 g g
+bass       g. f#/8 e d
+
+# measure 4
+soprano    a/2 a/2
+alto       e/2 c#/2
+tenor      g/2 g/2
+bass       c#/2 a/2
+
+# measure 5
+soprano    a/2 f#/2
+alto       a/2 a/2
+tenor      f#/2 a/2
+bass       d/2 d/2
+
+# measure 6
+soprano    b b a g
+alto       d g f# e
+tenor      g g a b
+bass       g- g- g- g-
+
+# measure 7
+soprano    f#/2 e/2
+alto       d/2 c#/2
+tenor      a/2 a/2
+bass       a/2 a/2
+
+# measure 8
+soprano    f#/2. g#
+alto       d/2. d
+tenor      a/2. b
+bass       d/2. b
+
+# measure 9
+soprano    a/2 b/2
+alto       c#/2 e/2
+tenor      a/2 g#/2
+bass       f#/2 e/2
+
+# measure 10
+soprano    c# a b c#
+alto       e e e e
+tenor      a a g# a
+bass       a+ c# b a
+
+# measure 11
+soprano    d/2 c#/2
+alto       e/2 e/2
+tenor      b/2 a/2
+bass       g#-/2 a/2
+
+# measure 12
+soprano    b/2. a
+alto       e/2. a+
+tenor      g#/2. a
+bass       e/2. f#
+
+# measure 13
+soprano    a/2 a/2
+alto       c#/2 f#/2
+tenor      a/2 a/2
+bass       e/2 d/2
+
+# measure 14
+soprano    e+/2. d
+alto       e/2. f#
+tenor      a/2. a
+bass       c#/2. d
+
+# measure 15
+soprano    c# a a g#
+alto       e e d d
+tenor      a c# b b
+bass       e e e e
+
+# measure 16
+soprano    a/2. e
+alto       c#/2. e
+tenor      a/2. e
+bass       a/2. e
+
+# measure 17
+soprano    g/2 f#/2
+alto       g/2 f#/2
+tenor      g/2 f#/2
+bass       g/2 f#/2
+
+# measure 18
+soprano    e d- c#- e
+alto       e d c# e
+tenor      e d- c#- e
+bass       e d c# e
+
+# measure 19
+soprano    g/2 b/2
+alto       g/2 b+/2
+tenor      g/2 b/2
+bass       g/2 b+/2
+
+# measure 20
+soprano    a/2 c#/2
+alto       a+/2 e/2
+tenor      a/2 a/2
+bass       a+/2 g/2
+
+# measure 21
+soprano    d/2 a/2
+alto       d/2 e/2
+tenor      a/2 a/2
+bass       f#/2 c#/2
+
+# measure 22
+soprano    f#/2 g/2
+alto       d/2 d/2
+tenor      a/2 d- e
+bass       d/2 b/2
+
+# measure 23
+soprano    a d- f# e
+alto       d a c# c#
+tenor      f# f# g g
+bass       a a a a
+
+# measure 24
+soprano    d-/1
+alto       d/1
+tenor      f#/1
+bass       d/1
+
+
+

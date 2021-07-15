@@ -1,0 +1,64 @@
+title      Hallelujah! Praise Jehovah!
+author     Arnold J. Robertstad, 2017; alt. (c) MARCHING
+composer   Martin Shaw (1876-1958)
+key        A
+tempo      100
+rhythm     4 : 4
+verse_count 3
+copyright  Text: Arnold J. Robertstad, 2017. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/299%20Hallelujah!%20Praise%20Jehovah!%20-%20Psalm%20150%20MARCHING.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c#- d- e. e/8
+alto       a a b c#
+tenor      e f# g# e
+bass       a f#- e- e
+
+# measure 2
+soprano    f# g# a g#
+alto       d d e e
+tenor      a b c# b
+bass       d b a e
+
+# measure 3
+soprano    a b c#. b/8
+alto       f# g# a+ e#
+tenor      d d c# g#
+bass       d b f# g#
+
+# measure 4
+soprano    a f# e/2
+alto       f# d# e/2
+tenor      c# b g#/2
+bass       a+ b+ e/2
+
+# measure 5
+soprano    b d c#. b/8
+alto       e e e e
+tenor      b g# a b
+bass       g# e a+ g#
+
+# measure 6
+soprano    a b g# e
+alto       f# d# e e
+tenor      c# b b g#
+bass       f# b e e
+
+# measure 7
+soprano    e+. c#/8 a b
+alto       a+ g# f# a+
+tenor      a c# f#+ d#
+bass       c# e f# b
+
+# measure 8
+soprano    c# b a/2
+alto       a+ g# a+/2
+tenor      e+ b c#/2
+bass       e e a/2
+
+
+

@@ -1,0 +1,54 @@
+title      Psalm 67
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2012
+key        D
+rhythm     0 : 4
+tempo      130
+
+#hyperlink  https://www.youtube.com/watch?v=dTG4bJPn_go
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     f/2 e/2 d-/8 c-/8 d-/8 e/8 f a g/2 f/2. | f g/8 - f/8 g/8 - a/8 b a/8 - g/8 a. g/8 f/8 - g/8 a/2
+
+unison     a/8 a/8 b/8 - a/8 b/8 c/8 d d- e/8 - d-/8 - e/8 - f/8 - g | e/8 e/8 a g/8 g/8 f/8 - e/8 d-/8 - f/8 e - d- - e/2 d-/2.
+
+key        C
+
+unison     d-/8 d-/8 a a/8 c/8 - b/8 a/8 g/8 f | e f g/8 a d c - b a/2.
+
+unison     a c c/8 b/8 a/8 g/8 a a d/8 - c/8 - b/8 - c/8 - b/8 - a/8 - b/8 - a/8 - g/8 - f/8 - e/8 - d-/8 - e/8 - f/8 - g/8 a/8 b/8 c#/2.
+
+unison     a bb a/8 g bb a d-/8 g f e/2. | a bb - a/8 g bb a d-/8 g - f e/2.
+
+unison     d-/8 d-/8 a a/8 c/8 - b/8 a/8 g/8 f | e f g/8 a d c - b a/1
+
+key        D
+
+unison     f/2 e/2 d-/8 - c-/8 d-/8 - e/8 f a g/2 f/1 | g/8 - f/8 g/8 a/8 b a/8 g/8 a. - g/8 f/8 - g/8 - a/2.
+
+unison     b/8 - a/8 - b/8 - c/8 - d d- e/8 - d-/8 - e/8 - f/8 g | e a g f/8 - e/8 d-/8 f/8 e d- e/2 d-/1
+
+verse      God be mer - ci - ful to us and bless us, And cause His face to shine up - on us,
+
+verse      That Your way may be known on earth, Your sal - va - tion a - mong all na - tions.
+
+verse      Let the peo - ples praise You, O God; Let all the peo - ples praise You.
+
+verse      Oh, let the na - tions be glad and sing for joy!
+
+verse      For You shall judge the peo - ple right - eous - ly, And gov - ern the na - tions on earth.
+
+verse      Let the peo - ples praise You, O God; Let all the peo - ples praise You.
+
+verse      Then the earth shall yield her in - crease; God, our own God, shall bless us.
+
+verse      God shall bless us, And all the ends of the earth shall fear Him.

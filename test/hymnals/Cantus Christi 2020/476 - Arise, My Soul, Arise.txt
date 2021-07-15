@@ -1,0 +1,123 @@
+title      Arise, My Soul, Arise
+author     Charles Wesley, 1742
+composer   Lewis Edson, 1782
+key        A
+tempo      150
+rhythm     4 : 4
+verse_count 2
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/476%20Arise,%20My%20Soul,%20Arise%20LENOX.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/1
+alto       c#/1
+tenor      a/1
+bass       a/1
+
+# measure 2
+soprano    c# c# a a
+alto       e e e d
+tenor      a a e f#
+bass       a a c# d
+
+# measure 3
+soprano    g#/2. b
+alto       e/2. e
+tenor      e/2. e
+bass       e/2. e
+
+# measure 4
+soprano    a g# f# g#
+alto       c# e f# e
+tenor      a b c# b
+bass       e e a+ e
+
+# measure 5
+soprano    a/2
+alto       e/2
+tenor      a/2
+bass       a/2
+
+# measure 6
+soprano    e/2
+alto       c#/2
+tenor      a/2
+bass       a/2
+
+# measure 7
+soprano    a g# a c#
+alto       e e e f#
+tenor      c# e+ c# a
+bass       c# b c# d
+
+# measure 8
+soprano    b/2. b
+alto       e/2. e
+tenor      b/2. b
+bass       e/2. e
+
+# measure 9
+soprano    a a d b
+alto       c# e f# e
+tenor      c# a b g#
+bass       a+ f# d e
+
+# measure 10
+soprano    c#/2. R
+alto       e/2. R
+tenor      a/2. R
+bass       a/2. a
+
+# measure 11
+soprano    R/1
+alto       R/1
+tenor      R/2. e
+bass       e e e a+
+
+# measure 12
+soprano    R/2. a
+alto       R/1
+tenor      a a a e
+bass       f# f# f# e
+
+# measure 13
+soprano    c# c# c# a
+alto       R/2. c#
+tenor      f# f# f# a
+bass       a+ a+ a+ f#
+
+# measure 14
+soprano    g# b b a
+alto       e e e f#
+tenor      b b b c#
+bass       e e e a
+
+# measure 15
+soprano    c#/2. c#
+alto       e e e c#
+tenor      a a a e
+bass       a/2 a/2
+
+# measure 16
+soprano    a/2. a
+alto       f# f# f# f#
+tenor      f# f# f# a
+bass       d/2. d
+
+# measure 17
+soprano    g#/2. g#
+alto       e/2. e
+tenor      b/2. g#
+bass       e/2. e
+
+# measure 18
+soprano    a/1
+alto       c/1
+tenor      a/1
+bass       a/1
+
+
+

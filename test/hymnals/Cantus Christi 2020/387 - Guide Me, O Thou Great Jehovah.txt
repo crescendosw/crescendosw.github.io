@@ -1,0 +1,99 @@
+title      Guide Me, O Thou Great Jehovah
+author     John Hughes (Dowlais), 1907CWM RHONDDA
+composer   William Williams (Pantycelyn), 1745
+key        G
+tempo      85
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/387%20Guide%20Me,%20O%20Thou%20Great%20Jehovah.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- e d-. g/8
+alto       b c d. d/8
+tenor      g g g. b/8
+bass       g- c b a
+
+# measure 2
+soprano    g/8 f#/8 g/8 a/8 b a
+alto       d d/8 e/8 d d
+tenor      b/8 a/8 g g f#
+bass       g-/8 a/8 b/8 c/8 d d
+
+# measure 3
+soprano    b g e c
+alto       d c e e
+tenor      g g g g
+bass       g e c a
+
+# measure 4
+soprano    b a g/2
+alto       d c b/2
+tenor      g f# g/2
+bass       d d g-/2
+
+# measure 5
+soprano    d- e d-. g/8
+alto       b c d. d/8
+tenor      g g g. b/8
+bass       g- c b a
+
+# measure 6
+soprano    g/8 f#/8 g/8 a/8 b a
+alto       d d/8 e/8 d d
+tenor      b/8 a/8 g g f#
+bass       g-/8 a/8 b/8 c/8 d d
+
+# measure 7
+soprano    b c d c/8 a/8
+alto       d e d e
+tenor      g g g g/8 c/8
+bass       g e b c
+
+# measure 8
+soprano    g f# g/2
+alto       d d d/2
+tenor      b a b/2
+bass       d d g-/2
+
+# measure 9
+soprano    a. b/8 c a
+alto       f#. g/8 a+ d
+tenor      c. b/8 a/8 g/8 f#/8 a/8
+bass       d. d/8 d/8 e/8 f#
+
+# measure 10
+soprano    b. c/8 d b
+alto       g. a+/8 b+/8 a+/8 g
+tenor      d. c/8 b d
+bass       g. d/8 g/8 a+/8 b+
+
+# measure 11
+soprano    d. d/8 c/8 b/8 a/8 g/8
+alto       g. g/8 f#/8 g/8 d/8 g/8
+tenor      d. d/8 d/8 d/8 d/8 d/8
+bass       b+. b+/8 a+/8 g/8 f#/8 e/8
+
+# measure 12
+soprano    d/1
+alto       f# d/8 f#/8 a+/2
+tenor      d/1
+bass       d f#/8 a+/8 c+/2
+
+# measure 13
+soprano    d. c/8 b/8 d/8 c/8 a/8
+alto       g. f#/8 g e
+tenor      d. d/8 d/8 b/8 g/8 c/8
+bass       b+. a+/8 g c
+
+# measure 14
+soprano    g f# g/2
+alto       d d d/2
+tenor      b a/8 c/8 b/2
+bass       d d g/2
+
+
+

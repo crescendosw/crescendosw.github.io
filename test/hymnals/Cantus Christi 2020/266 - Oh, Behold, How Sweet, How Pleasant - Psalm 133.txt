@@ -1,0 +1,112 @@
+title      Oh, Behold, How Sweet, How Pleasant
+author     The Ailbe Psalter, 2006; alt. (c) AE FOND KISS
+composer   Scottish folk melody
+key        Eb
+tempo      101
+rhythm     3 : 4
+verse_count 3
+copyright  Text: The Fellowship of Ailbe, 2006. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/266%20Oh,%20Behold,%20How%20Sweet%20-%20Psalm%20133%20AE%20FOND%20KISS.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 g
+alto       eb/2 eb
+tenor      bb/2 bb
+bass       eb/2 eb
+
+# measure 2
+soprano    bb/2 c
+alto       f/2 f
+tenor      bb/2 bb
+bass       d/2 d
+
+# measure 3
+soprano    eb/2 bb-
+alto       c/2 bb
+tenor      g/2 g
+bass       c/2 bb
+
+# measure 4
+soprano    c- eb/2
+alto       c c/2
+tenor      eb ab/2
+bass       ab ab/2
+
+# measure 5
+soprano    c/2 c
+alto       eb/2 eb
+tenor      c/2 bb
+bass       ab+/2 g
+
+# measure 6
+soprano    eb+/2 c
+alto       ab+/2 eb
+tenor      ab/2 ab
+bass       f/2 f
+
+# measure 7
+soprano    bb/2 f
+alto       f eb eb
+tenor      bb/2 c
+bass       g/2 ab+
+
+# measure 8
+soprano    g bb/2
+alto       eb eb/2
+tenor      bb g/2
+bass       eb eb/2
+
+# measure 9
+soprano    ab/2 c
+alto       eb/2 eb
+tenor      ab/2 ab
+bass       c/2 c
+
+# measure 10
+soprano    eb+/2 eb
+alto       eb/2 db
+tenor      g/2 g
+bass       bb/2 bb
+
+# measure 11
+soprano    eb/2 bb-
+alto       c/2 bb
+tenor      f/2 eb
+bass       ab/2 g-
+
+# measure 12
+soprano    c- eb/2
+alto       ab ab/2
+tenor      eb eb/2
+bass       f- f-/2
+
+# measure 13
+soprano    g/2 f
+alto       bb/2 bb
+tenor      d-/2 g
+bass       g-/2 g-
+
+# measure 14
+soprano    g/2 c
+alto       eb/2 eb
+tenor      g/2 f
+bass       c/2 ab
+
+# measure 15
+soprano    bb/2 g
+alto       eb/2 eb
+tenor      eb/2 c
+bass       g-/2 ab
+
+# measure 16
+soprano    f g/2
+alto       d eb/2
+tenor      ab bb/2
+bass       bb eb/2
+
+
+

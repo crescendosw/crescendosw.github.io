@@ -1,0 +1,75 @@
+title      The Law of God Is Good and Wise
+author     Matthias Loy, 1863ERHALT UNS, HERR
+composer   Joseph Klug's Geistliche Lieder, Wittenburg, 1535
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/418%20The%20Law%20of%20God%20Is%20Good%20and%20Wise.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e/2 g e
+alto       b/2 e a
+tenor      g/2 b e
+bass       e/2 e c
+
+# measure 2
+soprano    d- e g f#
+alto       b c e d
+tenor      f# a b b
+bass       b a g- b
+
+# measure 3
+soprano    e/2 g/2
+alto       b/2 e/2
+tenor      g/2 b/2
+bass       e-/2 e/2
+
+# measure 4
+soprano    a a b g
+alto       g f# d e
+tenor      e+ d b b
+bass       c d g e
+
+# measure 5
+soprano    a a b/2
+alto       f# e d/2
+tenor      d a f#/2
+bass       d c b/2
+
+# measure 6
+soprano    b/2 c b
+alto       d/2 e d
+tenor      g/2 g g
+bass       g-/2 c g
+
+# measure 7
+soprano    d b a a
+alto       d g g f#
+tenor      a d e+ d
+bass       f# g c d
+
+# measure 8
+soprano    g/2 b/2
+alto       d/2 d/2
+tenor      b/2 g/2
+bass       g-/2 g/2
+
+# measure 9
+soprano    g a g f#
+alto       e e d d
+tenor      g c b a
+bass       c a b d
+
+# measure 10
+soprano    e d- e/2
+alto       b b b/2
+tenor      g f# g/2
+bass       e b e-/2
+
+
+

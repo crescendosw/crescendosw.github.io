@@ -1,0 +1,64 @@
+title      Songs of Praise the Angels Sang
+author     James Montgomery, 18197 7. 7 7.
+composer   David R. Erb, 2013 (c)
+key        C
+tempo      101
+rhythm     4 : 4
+verse_count 7
+copyright  Music: David R. Erb, 2013. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/575%20Songs%20of%20Praise%20the%20Angels%20Sang.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c- c g c-
+alto       c e c c
+tenor      c g g e
+bass       c c e c
+
+# measure 2
+soprano    e g bb/2
+alto       c c d e
+tenor      g e g/2
+bass       bb. a/8 g-/2
+
+# measure 3
+soprano    a g a/8 b/8 c
+alto       f e e e
+tenor      c c c/8 b/8 a
+bass       f- c a a
+
+# measure 4
+soprano    b a g/2
+alto       d. c/8 b/2
+tenor      g f# g/2
+bass       d d g-/2
+
+# measure 5
+soprano    d- f e/8 f/8 g
+alto       d d c b
+tenor      f a a g
+bass       d d a e
+
+# measure 6
+soprano    g f# g/2
+alto       d d d/2
+tenor      a a b/2
+bass       d d g/2
+
+# measure 7
+soprano    a/8 g/8 a/8 b/8 c c-
+alto       f c c c
+tenor      c c g a
+bass       f f e a
+
+# measure 8
+soprano    f/8 e/8 d- c-/2
+alto       d b c/2
+tenor      a g/8 f/8 e/2
+bass       d g- c/2
+
+
+

@@ -1,0 +1,54 @@
+title      Psalm 93
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2014
+key        C
+rhythm     0 : 4
+tempo      110
+
+#hyperlink  https://youtu.be/IwtuYyf17j8
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     a/8 | c. | b/8. c/16 b/8 | a/8 - c/8 e+/8 | d/8 - c/8 b/8 | c a/8
+
+unison     g/8. - a/16 b/8 | a/8 c/8 e+/8 | d/8 c/8 b/8 | c/8 a | b.
+
+unison     c/8 b/8 a/8 | b/8 a/8 g/8 | a/8 b/8 c/8 | d/8 c/8 b/8 | a. | g. | a. = | a a/8
+
+unison     a/8 g/8 f/8 | e/8 - f/8 g/8 | f/8 d- | c#-. | a/8 g/8 a/8 | b/8 - c/8 b/8 | a. | g# e/8
+
+unison     a c/8 | b/8 - c/8 d/8 | c/8 a | g# e/8 | a c/8 | b/8 - c/8 d/8 | c/8 d | e+ e/8
+
+unison     a c/8 | b/8 - c/8 d/8 | c/8 - b/8 - a/8 - | g#/8 - a/8 - b/8 - | a. = | a a/8
+
+unison     e+ c/8 | d/8. - c/16 b/8 | a/8 c/8 e+/8 | d/8 - c/8 b/8 | c a/8 | g/8 - a/8 b/8 | c/8 - b/8 a/8
+
+unison     g/8 - a/8 b/8 | c/8 - b/8 a/8 | g#/8 a/8 b/8 | a. | = a a/8 | a/8 - g/8 f/8 | e/8 f/8 g/8 | f/8 d- | c#-.
+
+unison     a/8 - g/8 a/8 | b/8 - c/8 b/8 | a/8 - c/8 e+/8 | d/8 - c/8 b/8 | c a/8 | g#. | a(1)
+
+verse      The Lord reigns, He is clothed with ma - jes - ty;
+
+verse      The Lord is clothed, He has gird - ed Him - self with strength.
+
+verse      Sure - ly the world is es - tab - lished, so that it can - not be moved.
+
+verse      Your throne is es - tab - lished from of old; You are from ev - er - last - ing.
+
+verse      The floods have lift - ed up, O Lord, The floods have lift - ed up their voice;
+
+verse      The floods lift up their waves.
+
+verse      The Lord on high is might - i - er than the noise of man - y wa - ters,
+
+verse      Than the might - y waves of the sea.  Your test - i - monies are ver - y sure;
+
+verse      Hol - i - ness adorns Your house, O Lord, for - ev - er.

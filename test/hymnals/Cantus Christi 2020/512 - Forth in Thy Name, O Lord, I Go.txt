@@ -1,0 +1,39 @@
+title      Forth in Thy Name, O Lord, I Go
+author     Charles Wesley, 1749SONG 34 [ANGEL'S SONG]
+composer   Orlando Gibbons, 1623; arr.
+key        F
+tempo      145
+rhythm     0 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/512%20Forth%20in%20Thy%20Name,%20O%20Lord,%20I%20Go.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 f f g a bb g c/2
+alto       c/2 c c e f f e f/2
+tenor      a/2 a a c c bb bb a/2
+bass       f/2 f f c a g- g- f-/2
+
+# measure 2
+soprano    f a bb c/2 g c/2 bn c/2
+alto       R c f f e/2 g f d/2 e/2
+tenor      R a c f g/2 c a g/2 g/2
+bass       f f d c/2 e f g/2 c/2
+
+# measure 3
+soprano    a bb c d/2 c bb/2 a g/2
+alto       R f f eb d/2 en f g f e/2
+tenor      R f f g/8 a/8 bb/2 g d c c c/2
+bass       f d c bb/2 c d e f c/2
+
+# measure 4
+soprano    c bb a g/2 f a g/2 f/2
+alto       R f f f e/2 d f/2 e f/2
+tenor      R c d c c/2 a c c/2 a/2
+bass       a bb f c/2 d a c/2 f/2
+
+
+

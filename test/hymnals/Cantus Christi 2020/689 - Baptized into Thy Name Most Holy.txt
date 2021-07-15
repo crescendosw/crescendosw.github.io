@@ -1,0 +1,93 @@
+title      Baptized into Thy Name Most Holy
+author     Johann Jacob Rambach (1693-1735); tr. Catherine Winkworth (1827-1878)O DASS ICH TAUSEND (Dretzel)
+composer   Cornelius Heinrich Dretzel (1697-1775)
+key        F
+tempo      101
+rhythm     6 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/689%20Baptized%20into%20Thy%20Name%20Most%20Holy.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f a f
+alto       c c d
+tenor      a f a
+bass       f f d
+
+# measure 2
+soprano    g/2 c bb/2 a
+alto       e/2 f f/2 f
+tenor      c/2 c d/2 c
+bass       c/2 a bb/2 f
+
+# measure 3
+soprano    g f/2 g g g
+alto       e c/2 e d e
+tenor      c a/2 g g c
+bass       c f/2 c bn c
+
+# measure 4
+soprano    a/2 c c/2 bn
+alto       f/2 c d/2 d
+tenor      c/2 g a/2 g
+bass       f/2 e f/2 g
+
+# measure 5
+soprano    c/2. f a f
+alto       e/2. c c d
+tenor      g/2. a f a
+bass       c/2. f f d
+
+# measure 6
+soprano    g/2 c bb/2 a
+alto       e/2 f f/2 f
+tenor      c/2 c d/2 c
+bass       c/2 a bb/2 f
+
+# measure 7
+soprano    g f/2 g g g
+alto       e c/2 e d e
+tenor      c a/2 g g c
+bass       c f/2 c bn c
+
+# measure 8
+soprano    a/2 c c/2 bn
+alto       f/2 c d/2 d
+tenor      c/2 g a/2 g
+bass       f/2 e f/2 g
+
+# measure 9
+soprano    c/2. g g g
+alto       e/2. c bn c
+tenor      g/2. e f g
+bass       c/2. c d e
+
+# measure 10
+soprano    a/2 f bb/2 a
+alto       c/2 d d e f
+tenor      f/2 a bb/2 c
+bass       f/2 d g-/2 a
+
+# measure 11
+soprano    g/2. c c c
+alto       e/2. e e f
+tenor      c/2. g g c
+bass       c/2. c c a
+
+# measure 12
+soprano    bb/2 a g/2 g
+alto       f/2 f f/2 e
+tenor      d/2 c d/2 c
+bass       bb/2 f- bb/2 c
+
+# measure 13
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f-/2.
+
+
+

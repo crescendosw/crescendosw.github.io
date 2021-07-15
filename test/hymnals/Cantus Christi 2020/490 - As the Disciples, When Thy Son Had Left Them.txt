@@ -1,0 +1,189 @@
+title      As the Disciples, When Thy Son Had Left Them
+author     Anonymous
+composer   Anonymous
+key        C
+tempo      115
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/490%20As%20Thy%20Disciples,%20When%20Thy%20Son.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c/2 g a
+alto       e/2 c c
+tenor      g/2 g c
+bass       c/2 e f
+
+# measure 2
+soprano    g. f/8 e/2
+alto       d/2 c/2
+tenor      b/2 g/2
+bass       g/2 c/2
+
+# measure 3
+soprano    a. b/8 g c
+alto       c. b/8 c c
+tenor      a. f/8 g a
+bass       f. d/8 e f
+
+# measure 4
+soprano    c b c/2
+alto       g/2 e/2
+tenor      d/2 c/2
+bass       g/2 c/2
+
+# measure 5
+soprano    c/2 d d
+alto       e/2 g g
+tenor      c/2 b b
+bass       a/2 g- g-
+
+# measure 6
+soprano    e+ c a/2
+alto       g e d/2
+tenor      c/2 f#/2
+bass       c a d/2
+
+# measure 7
+soprano    d. a/8 b c
+alto       d. d/8 d e
+tenor      g. f#/8 g g
+bass       b. d/8 g- c
+
+# measure 8
+soprano    b a g/2
+alto       d/2 b/2
+tenor      g f# g/2
+bass       d/2 g-/2
+
+# measure 9
+soprano    e/2 f g
+alto       c/2 c b
+tenor      g/2 f d-
+bass       c/2 a g-
+
+# measure 10
+soprano    f e d-/2
+alto       a c# d/2
+tenor      f a f/2
+bass       d a d/2
+
+# measure 11
+soprano    a. b/8 c a
+alto       c. d/8 c c
+tenor      f. f/8 g a
+bass       f. d/8 e f
+
+# measure 12
+soprano    d c b/2
+alto       f e e/2
+tenor      a/2 g/2
+bass       d a e/2
+
+# measure 13
+soprano    g. f/8 e f
+alto       d/2 c d
+tenor      b/2 a a
+bass       g-/2 a d
+
+# measure 14
+soprano    e/2 d-/2
+alto       c/2 b/2
+tenor      g/1
+bass       e f g/2
+
+# measure 15
+soprano    c-/1
+alto       g-/1
+tenor      e/1
+bass       c/1
+
+# measure 16
+soprano    b/2 b c
+alto       d/2 d e
+tenor      g/2 g g
+bass       g/2 g c
+
+# measure 17
+soprano    b/2 g/2
+alto       d/2 d/2
+tenor      g/2 b/2
+bass       g/2 g/2
+
+# measure 18
+soprano    a. g/8 a b
+alto       f#. e/8 f# g
+tenor      d. b/8 d d
+bass       d. e/8 d b
+
+# measure 19
+soprano    a/2 g/2
+alto       f#/2 d/2
+tenor      d/2 b/2
+bass       d/2 g-/2
+
+# measure 20
+soprano    b/2 b d
+alto       d/2 d d
+tenor      b/2 b g
+bass       g/2 g b
+
+# measure 21
+soprano    c/2 b/2
+alto       e/2 d/2
+tenor      g/2 g/2
+bass       c/2 g-/2
+
+# measure 22
+soprano    a. g/8 f# g
+alto       d. b/8 d d
+tenor      f#. g/8 b b
+bass       d. e/8 b g-
+
+# measure 23
+soprano    e/2 d-/2
+alto       c#/2 a/2
+tenor      a/2 f#/2
+bass       a/2 d/2
+
+# measure 24
+soprano    b/2 a g
+alto       d/2 d b
+tenor      g/2 f# g
+bass       g/2 d e
+
+# measure 25
+soprano    c/2 b/2
+alto       e/2 d/2
+tenor      g/2 g/2
+bass       c/2 g-/2
+
+# measure 26
+soprano    g. a/8 b c
+alto       d. d/8 d g
+tenor      b. a/8 g c
+bass       g. f#/8 g e
+
+# measure 27
+soprano    d/2 d/2
+alto       g/2 f#/2
+tenor      a/2 a/2
+bass       d/2 d/2
+
+# measure 28
+soprano    b/2 a g
+alto       d/2 e e
+tenor      g/2 c b
+bass       g/2 c e
+
+# measure 29
+soprano    a/2 g/2
+alto       d/2 b/2
+tenor      f#/2 g/2
+bass       d/2 g-/2
+
+
+

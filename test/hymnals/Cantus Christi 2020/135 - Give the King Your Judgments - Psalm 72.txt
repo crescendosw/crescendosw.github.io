@@ -1,0 +1,158 @@
+title      Give the King Your Judgments
+author     Donald P. Owens II, 2011 (c)RACHIE
+composer   Caradog Roberts (1878-1935)
+key        G
+tempo      105
+rhythm     4 : 4
+verse_count 8
+copyright  Text: Donald P. Owens II, 2011. All Rights Reserved. Used by permission. 141 Music: Gregory D. Wilbur, 2012.  Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/135%20Give%20the%20King%20Your%20Judgments%20-%20Psalm%2072%20RACHIE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- g e a
+alto       d d c e
+tenor      g b g c
+bass       b g- c a
+
+# measure 2
+soprano    g/2 f#/2
+alto       d/2 d/2
+tenor      b/2 a/2
+bass       d/2 d/2
+
+# measure 3
+soprano    f# b g c
+alto       d f# e g
+tenor      a d b e+
+bass       d b e c
+
+# measure 4
+soprano    b/2 a/2
+alto       g/2 f#/2
+tenor      d/1
+bass       d/1
+
+# measure 5
+soprano    a d d c
+alto       d d d f#
+tenor      f# g a a
+bass       d e f# d
+
+# measure 6
+soprano    a c c b
+alto       f# g/8 a+/8 a+ g
+tenor      d d d d
+bass       d e/8 f#/8 g g
+
+# measure 7
+soprano    a/2 a/2
+alto       f#/2 e g
+tenor      d/2 c#/2
+bass       a+/2 a/2
+
+# measure 8
+soprano    a/1
+alto       f#/1
+tenor      d/1
+bass       d/1
+
+# measure 9
+soprano    b a g a
+alto       g f# e e
+tenor      d c b c
+bass       g d e a
+
+# measure 10
+soprano    g/2 f#/2
+alto       e/2 d#/2
+tenor      b/2 b/2
+bass       b/2 b/2
+
+# measure 11
+soprano    g f# f# e
+alto       e d d c#
+tenor      b a/8 b/8 a g
+bass       e f#/8 g/8 a+ a
+
+# measure 12
+soprano    d-/1
+alto       d/1
+tenor      f#/1
+bass       d/1
+
+# measure 13
+soprano    d- g e a
+alto       d d c e
+tenor      g b g c
+bass       b g- c a
+
+# measure 14
+soprano    f# b g c
+alto       d f# e a+
+tenor      a d b e+
+bass       d b e c
+
+# measure 15
+soprano    b/2 a/2
+alto       a+ g/2 f#
+tenor      d/2. c
+bass       d/2 d/2
+
+# measure 16
+soprano    g/1
+alto       g/1
+tenor      b/1
+bass       g/1
+
+# measure 17
+soprano    b b b. b/8
+alto       R/2 d#. e/8
+tenor      b b b. b/8
+bass       R/2 b. c#/8
+
+# measure 18
+soprano    b/2 b/2
+alto       f# a+ g/8 f#/8 e
+tenor      b/2 b/2
+bass       d# b e/8 f#/8 g
+
+# measure 19
+soprano    d d d. d/8
+alto       R/2 f#. g/8
+tenor      d d d. d/8
+bass       R/2 d. e/8
+
+# measure 20
+soprano    d/1
+alto       a+ c+ b+/8 a+/8 g
+tenor      d/1
+bass       f# d g/8 a+/8 b+
+
+# measure 21
+soprano    e+. e+/8 d g
+alto       g. g/8 g g
+tenor      c. c/8 d d
+bass       c+. c+/8 b+ b+
+
+# measure 22
+soprano    c d b a
+alto       g a+ g e
+tenor      e+ d d c
+bass       a+ f# g c
+
+# measure 23
+soprano    b/2 a/2
+alto       d g/2 f#
+tenor      g d/2 c
+bass       d/2 d/2
+
+# measure 24
+soprano    g/1
+alto       g/1
+tenor      b/1
+bass       g-/1
+

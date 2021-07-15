@@ -1,0 +1,123 @@
+title      The Mighty God Who Reigns on High
+author     Joseph Hart, 1759OLD SNOW 
+composer   Michael E. Owens, 2015
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/525%20The%20Mighty%20God%20Who%20Reigns%20on%20High.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-/8
+alto       c/8
+tenor      c/8
+bass       c/8
+
+# measure 2
+soprano    c- g g. c/8
+alto       c e g. g/8
+tenor      c c d. e+/8
+bass       c c+ b+. b+/8
+
+# measure 3
+soprano    c b/8 g/8 a. g/8
+alto       a+ e f. g/8
+tenor      e+ e+ c. c/8
+bass       a+ g f. e/8
+
+# measure 4
+soprano    a/8 b/8 c g e
+alto       f f e e
+tenor      c c c c
+bass       f a+ c+ a+
+
+# measure 5
+soprano    f/8 e/8 d- d-. c-/8
+alto       d c b. c/8
+tenor      a a g. f/8
+bass       d f g. g-/8
+
+# measure 6
+soprano    c- g g. c/8
+alto       c e g. g/8
+tenor      e c d. e+/8
+bass       c c+ b+. b+/8
+
+# measure 7
+soprano    c b/8 g/8 a. g/8
+alto       a+ g f. e/8
+tenor      e+ e+ f+. c/8
+bass       a+ b+ c+. c+/8
+
+# measure 8
+soprano    a/8 b/8 c g e
+alto       e f/8 e/8 d e/8 d/8
+tenor      c c b c
+bass       a+ a+ g g
+
+# measure 9
+soprano    g/8 a/8 c d. c/8
+alto       c e g. g/8
+tenor      d c b. d/8
+bass       g g g. g/8
+
+# measure 10
+soprano    e+ f+ d e+
+alto       e a+ d g
+tenor      c d/8 c/8 b c/8 b/8
+bass       a+/8 g/8 f g/8 f/8 e
+
+# measure 11
+soprano    c d d. b/8
+alto       c f g. g#/8
+tenor      a a b. e+/8
+bass       f/8 e/8 d g. e/8
+
+# measure 12
+soprano    c d b c
+alto       a+ a+ g g
+tenor      e+ f+/8 e+/8 d e+/8 d/8
+bass       a+/8 g/8 f g/8 f/8 e
+
+# measure 13
+soprano    a g g. d-/8
+alto       f g d. b/8
+tenor      c d/8 c/8 b. g/8
+bass       f e g. g-/8
+
+# measure 14
+soprano    e g a. g/8
+alto       c d e. e/8
+tenor      g g c c
+bass       c b a c
+
+# measure 15
+soprano    a c c d
+alto       c g f d
+tenor      c e+ c g+
+bass       f g a+ b+
+
+# measure 16
+soprano    e+ c c c
+alto       c g f bb+
+tenor      e+ e+ c d
+bass       c+ b+ a+ g
+
+# measure 17
+soprano    c/2 c/2
+alto       a+ g f g
+tenor      f+ e+ d/2
+bass       f/2 g g-
+
+# measure 18
+soprano    c/2.
+alto       g/2.
+tenor      e+/2.
+bass       c/2.
+
+
+

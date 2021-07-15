@@ -1,0 +1,99 @@
+title      Gloria Patri
+author     Traditional, c. 100s
+composer   Charles Meineke, 1844
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/735%20Gloria%20Patri%20-%20Meineke.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g. g/8 g g/8 g/8
+alto       d. d/8 d d/8 d/8
+tenor      b. b/8 b b/8 b/8
+bass       g. g/8 g g/8 g/8
+
+# measure 2
+soprano    a a/2.
+alto       f# f#/2.
+tenor      d d/2.
+bass       d d/2.
+
+# measure 3
+soprano    a/2 a d
+alto       f#/2 f# f#
+tenor      a/2 a a
+bass       d/2 d d
+
+# measure 4
+soprano    a a a g
+alto       d c# d e
+tenor      f# g a b
+bass       d e f# g
+
+# measure 5
+soprano    f#/2 e/2
+alto       d/2 c#/2
+tenor      a/2 g/2
+bass       a+/2 a/2
+
+# measure 6
+soprano    d-/2. d-/8 d-/8
+alto       d/2. d/8 d/8
+tenor      f#/2. d-/8 d-/8
+bass       d/2. d/8 d/8
+
+# measure 7
+soprano    g g g b
+alto       d d d d
+tenor      b b g g
+bass       g d b g-
+
+# measure 8
+soprano    b a/2 d-
+alto       d d/2 d
+tenor      g f#/2 d-
+bass       d d/2 d
+
+# measure 9
+soprano    a. a/8 a c
+alto       d. d/8 d d
+tenor      f#. f#/8 f# f#
+bass       d. d/8 d d
+
+# measure 10
+soprano    c b/2 R
+alto       d d/2 R
+tenor      g g/2 R
+bass       g- g-/2 R
+
+# measure 11
+soprano    g/2 b g
+alto       g/2 b+ g
+tenor      g/2 b g
+bass       g/2 b+ g
+
+# measure 12
+soprano    e/2 c-/2
+alto       e/2 c/2
+tenor      e/2 c-/2
+bass       e/2 c/2
+
+# measure 13
+soprano    d-/2 f#/2
+alto       d/2 c/2
+tenor      d-/2 a/2
+bass       d/2 d/2
+
+# measure 14
+soprano    g/1
+alto       b/1
+tenor      g/1
+bass       g-/1
+
+
+

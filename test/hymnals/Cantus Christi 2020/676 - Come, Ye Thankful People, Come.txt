@@ -1,0 +1,111 @@
+title      Come, Ye Thankful People, Come
+author     Henry Alford, 1844ST. GEORGE'S WINDSOR
+composer   George J. Elvey, 1859
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/676%20Come,%20Ye%20Thankful%20People,%20Come.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a. a/8 c a
+alto       c. c/8 c c
+tenor      f. f/8 g a
+bass       f. f/8 e f
+
+# measure 2
+soprano    f g a/2
+alto       d e f/2
+tenor      a c c/2
+bass       d c f/2
+
+# measure 3
+soprano    a. a/8 c a
+alto       c. c/8 c c
+tenor      f. f/8 g f
+bass       f. f/8 e f
+
+# measure 4
+soprano    f g a/2
+alto       d d c#/2
+tenor      a bb e/2
+bass       d bb a/2
+
+# measure 5
+soprano    a. a/8 bb bb
+alto       d. d/8 d d
+tenor      f. f/8 g g
+bass       d. d/8 g- g-
+
+# measure 6
+soprano    g. g/8 a/2
+alto       c c c/2
+tenor      e e f/2
+bass       c c f-/2
+
+# measure 7
+soprano    a bn c f
+alto       c d c d
+tenor      f f g a
+bass       f d e f
+
+# measure 8
+soprano    e d- c-/2
+alto       c bn c/2
+tenor      g. f/8 e/2
+bass       g g- c/2
+
+# measure 9
+soprano    e. e/8 g e
+alto       c. c/8 c c
+tenor      g. g/8 e g
+bass       c. c/8 c bb
+
+# measure 10
+soprano    f g a/2
+alto       c bb a/2
+tenor      f. e/8 f/2
+bass       a g- f-/2
+
+# measure 11
+soprano    a. a/8 c a
+alto       c. c/8 f f
+tenor      f. f/8 a c
+bass       f-. f-/8 f eb
+
+# measure 12
+soprano    bb c d/2
+alto       f eb d/2
+tenor      bb. a/8 bb/2
+bass       d c bb/2
+
+# measure 13
+soprano    d. d/8 bb g
+alto       d f# g d
+tenor      a d d bb
+bass       f# d g. g/8
+
+# measure 14
+soprano    c. c/8 a/2
+alto       c e f/2
+tenor      g c c/2
+bass       e c f/2
+
+# measure 15
+soprano    bb d c f
+alto       f f f f
+tenor      bb bb c a
+bass       d bb a d
+
+# measure 16
+soprano    a g f/2
+alto       f e f/2
+tenor      c. bb/8 a/2
+bass       c c f-/2
+
+
+

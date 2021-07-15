@@ -1,0 +1,117 @@
+title      O God, Forsake Me Not
+author     Salamo Franck (1659-1725); tr. August Crull (1845-1923)O GOTT, DU FROMMER GOTT [STEADFAST]
+composer   Neu Ordentlich Gesangbuch, 1646; 
+key        C
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/463%20O%20God,%20Forsake%20Me%20Not.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       c
+tenor      a
+bass       a
+
+# measure 2
+soprano    a g# a b
+alto       e e e e
+tenor      c b c b
+bass       a+ e/8 d/8 c g#-
+
+# measure 3
+soprano    c/2. c
+alto       e/2. a+
+tenor      a/2. e+
+bass       a/2. a+
+
+# measure 4
+soprano    d c b a
+alto       b+ a+ e e/8 d/8
+tenor      e+ e+ b c/8 a/8
+bass       g# a+ gn f
+
+# measure 5
+soprano    g# e/2 e
+alto       e b/2 c
+tenor      b g#/2 a
+bass       e e/2 a
+
+# measure 6
+soprano    a g# a b
+alto       e e e e
+tenor      c b c b
+bass       a+ e/8 d/8 c g#-
+
+# measure 7
+soprano    c/2. c
+alto       e/2. e
+tenor      a/2. c
+bass       a/2. a+
+
+# measure 8
+soprano    d c b a
+alto       e e e e/8 d/8
+tenor      b a b c/8 a/8
+bass       g# a+ gn f
+
+# measure 9
+soprano    g# e/2 e
+alto       e b/2 d
+tenor      b g#/2 b
+bass       e e/2 g#-
+
+# measure 10
+soprano    e d- e f#
+alto       c b c c
+tenor      a f g a
+bass       a d c/8 b/8 a
+
+# measure 11
+soprano    g/2. e
+alto       d/2. c
+tenor      b/2. g
+bass       g-/2. c
+
+# measure 12
+soprano    f e d- d-
+alto       b c c b
+tenor      f g a g/8 f/8
+bass       d e f g/8 g-/8
+
+# measure 13
+soprano    c-/2. e
+alto       g-/2. c/8 d/8
+tenor      e/2. a
+bass       c/2. a/8 b/8
+
+# measure 14
+soprano    a g# a b
+alto       e e d d
+tenor      a b a e+
+bass       c/8 d/8 e f# g#
+
+# measure 15
+soprano    c/2. c#
+alto       c/2. e
+tenor      e+/2. a
+bass       a+/2. g
+
+# measure 16
+soprano    d c b b
+alto       d a+ a+ g#
+tenor      a e+ f+ b/8 d/8
+bass       f e d e
+
+# measure 17
+soprano    a/2.
+alto       e/2.
+tenor      d c#/2
+bass       a/2.
+
+
+

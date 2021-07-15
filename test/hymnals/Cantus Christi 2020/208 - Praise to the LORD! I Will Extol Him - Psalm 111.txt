@@ -1,0 +1,88 @@
+title      Praise to the LORD! I Will Extol Him
+author     Sing Psalms, 2003 (c) SPIRITUS VITAE
+composer   Mary J. Hammond, 1920 
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 6
+copyright  Text: Free Church of Scotland, 2003. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/208%20Praise%20to%20the%20LORD!%20I%20Will%20-%20Psalm%20111%20SPIRITUS%20VITAE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d/2 c# a
+alto       f#/2 f# f#
+tenor      a/2 a c#
+bass       d/2 f# f#
+
+# measure 2
+soprano    b g f# e
+alto       d d c# c#
+tenor      b b a a
+bass       g g- a. g-/8
+
+# measure 3
+soprano    a/2 a/2
+alto       e/2 d/2
+tenor      a/2 a/2
+bass       f#-/2 f#-/2
+
+# measure 4
+soprano    d-/2 d- e
+alto       d/2 c# b/8 c#/8
+tenor      f#/2 f# e
+bass       b/2 a g-
+
+# measure 5
+soprano    f# a f#. e/8
+alto       d f# d d
+tenor      a c# b b
+bass       f#- f#- g- g#-
+
+# measure 6
+soprano    e/1
+alto       d/2 c#/2
+tenor      a/1
+bass       a/1
+
+# measure 7
+soprano    d/2 c# a
+alto       d/2 f# f#
+tenor      f#/2 a c#
+bass       b/2 f# f#
+
+# measure 8
+soprano    b g f# e
+alto       d d c# d
+tenor      b b a# b
+bass       g g- g- g-
+
+# measure 9
+soprano    a/2 a/2
+alto       c#/2 d/2
+tenor      a/2 a/2
+bass       g/2 f#/2
+
+# measure 10
+soprano    d-/2 d- e
+alto       d/2 d b/8 c#/8
+tenor      b/2 a g
+bass       g/2 f# e
+
+# measure 11
+soprano    f# a e. d-/8
+alto       d c# d c#
+tenor      a f# b g
+bass       d f#- g- a
+
+# measure 12
+soprano    d-/1
+alto       d/1
+tenor      f#/1
+bass       d/1
+
+
+

@@ -1,0 +1,118 @@
+title      Though We Are Just Smoke
+author     Valerie Anne Bost, 2019 (c)CYSUR
+composer   Thomas Price (1809-1892)
+key        F
+tempo      111
+rhythm     3 : 4
+verse_count 5
+copyright  Text: Valerie Anne Bost, 2019. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/190%20Though%20We%20Are%20Just%20Smoke%20-%20Psalm%20102b%20CYSUR.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/8 g/8
+alto       f
+tenor      a/8 bb/8
+bass       f
+
+# measure 2
+soprano    a a g
+alto       f f e
+tenor      c c bb
+bass       f f c
+
+# measure 3
+soprano    f/2 g/8 a/8
+alto       d/2 e
+tenor      a/2 c
+bass       d/2 c
+
+# measure 4
+soprano    bb bb a
+alto       f f f
+tenor      d d c
+bass       bb bb f-
+
+# measure 5
+soprano    g/2 a/8 bb/8
+alto       e/2 f
+tenor      c/2 c
+bass       c/2 f
+
+# measure 6
+soprano    c c bb
+alto       g e d
+tenor      g g f/8 g/8
+bass       e c d/8 e/8
+
+# measure 7
+soprano    a f g/8 a/8
+alto       c d f
+tenor      a a d/8 c/8
+bass       f d bb/8 a/8
+
+# measure 8
+soprano    bb a g
+alto       d/8 e/8 f e
+tenor      bb c c/8 bb/8
+bass       g- a/8 bb/8 c
+
+# measure 9
+soprano    f/2 a/8 bb/8
+alto       f/2 f
+tenor      a/2 c/8 bb/8
+bass       f-/2 f
+
+# measure 10
+soprano    c c bb
+alto       f a+ g
+tenor      a c c
+bass       f f f/8 e/8
+
+# measure 11
+soprano    a/2 a/8 bb/8
+alto       f/2 f
+tenor      c/2 a
+bass       f/2 f
+
+# measure 12
+soprano    c c bb
+alto       f e d
+tenor      a g f/8 g/8
+bass       c c d/8 e/8
+
+# measure 13
+soprano    a/2 c
+alto       c/2 f
+tenor      a/2 a
+bass       f/2 f
+
+# measure 14
+soprano    d d d
+alto       f f f
+tenor      bb bb bb
+bass       bb bb/8 c/8 d/8 e/8
+
+# measure 15
+soprano    c a f
+alto       f c d
+tenor      a f a
+bass       f f d
+
+# measure 16
+soprano    bb a g
+alto       f f e
+tenor      d c bb
+bass       bb c c
+
+# measure 17
+soprano    f/2
+alto       f/2
+tenor      a/2
+bass       f-/2
+
+
+

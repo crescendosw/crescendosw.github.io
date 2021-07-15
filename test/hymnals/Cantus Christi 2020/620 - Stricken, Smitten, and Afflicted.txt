@@ -1,0 +1,117 @@
+title      Stricken, Smitten and Afflicted
+author     Thomas Kelly, 1804; alt.O MEIN JESU, ICH MUSS
+composer   Geistliche Volkslieder, Paderborn, 1850
+key        Bb
+tempo      135
+rhythm     6 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/620%20Stricken,%20Smitten%20and%20Afflicted.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g a
+alto       d d
+tenor      bb a
+bass       g f#
+
+# measure 2
+soprano    bb/2 bb/2 c bb
+alto       d/2 eb/2 eb d
+tenor      g/2 g/2 g g
+bass       g/2 eb/2 c g-
+
+# measure 3
+soprano    a/2 a/2 bb a
+alto       d/2 d/2 d d
+tenor      g/2 f#/2 g f#
+bass       d/2 d/2 g d
+
+# measure 4
+soprano    g/2 a/2 g f#
+alto       bb/2 eb/2 d d
+tenor      g/2 c/2 bb a
+bass       eb/2 c/2 d d
+
+# measure 5
+soprano    g/1 g a
+alto       d/1 d d
+tenor      bb/1 bb a
+bass       g-/1 g f#
+
+# measure 6
+soprano    bb/2 bb/2 c bb
+alto       d/2 eb/2 eb d
+tenor      g/2 g/2 g g
+bass       g/2 eb/2 c g-
+
+# measure 7
+soprano    a/2 a/2 bb a
+alto       d/2 d/2 d d
+tenor      g/2 f#/2 g f#
+bass       d/2 d/2 g d
+
+# measure 8
+soprano    g/2 a/2 g f#
+alto       bb/2 eb/2 d d
+tenor      g/2 c/2 bb a
+bass       eb/2 c/2 d d
+
+# measure 9
+soprano    g/1 bb c
+alto       d/1 d f
+tenor      bb/1 g a
+bass       g-/1 g f
+
+# measure 10
+soprano    d/2 d/2 eb+ d
+alto       f/2 g/2 g f
+tenor      bb/2 bb/2 bb bb
+bass       bb+/2 g/2 eb bb
+
+# measure 11
+soprano    c/2 c/2 d c
+alto       f/2 f/2 f f
+tenor      bb/2 a/2 bb a
+bass       f/2 f/2 bb+ f
+
+# measure 12
+soprano    bb/2 bb/2 c bb
+alto       d/2 eb/2 eb d
+tenor      g/2 g/2 g g
+bass       g/2 eb/2 c g-
+
+# measure 13
+soprano    a/1 g f#
+alto       d/1 d d
+tenor      f#/1 bb a
+bass       d/1 g- d
+
+# measure 14
+soprano    g/2 bb/2 a g
+alto       d/2 d/2 d bb
+tenor      bb/2 g/2 f# g
+bass       g/2 g/2 d eb
+
+# measure 15
+soprano    a/2 a/2 bb a
+alto       d/2 d/2 d d
+tenor      g/2 f#/2 g a
+bass       d/2 d/2 g fn
+
+# measure 16
+soprano    g/2 a/2 g f#
+alto       eb/2 eb/2 d d
+tenor      bb/2 c/2 bb a
+bass       eb/2 c/2 d d
+
+# measure 17
+soprano    g/1
+alto       d/1
+tenor      bb/1
+bass       g-/1
+
+
+

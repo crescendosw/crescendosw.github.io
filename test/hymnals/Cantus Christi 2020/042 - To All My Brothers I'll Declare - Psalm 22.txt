@@ -1,0 +1,166 @@
+title      To All My Brothers I'll Declare
+author     The Book of Psalms for Singing, 1973 (c) CREATION
+composer   Franz Joseph Haydn, 1798; arr. Isaac B. Woodbury (1819-1858)
+key        G
+tempo      175
+rhythm     4 : 4
+verse_count 6
+copyright  Text: Crown & Covenant Publications, 1973. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/42%20To%20All%20My%20Brothers%20-%20Psalm%2022b%20CREATION.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       b
+tenor      d-
+bass       g-
+
+# measure 2
+soprano    g/2. g
+alto       b/2. d
+tenor      d-/2. g
+bass       g-/2. b
+
+# measure 3
+soprano    a/2. a
+alto       d/2. d
+tenor      f#/2. a
+bass       d/2. f#-
+
+# measure 4
+soprano    b g e a
+alto       d/2 e/2
+tenor      g/2 g c
+bass       g- b c a
+
+# measure 5
+soprano    g/2 f# d-/8 e/8
+alto       d/2. d
+tenor      b/2 a f#/8 g/8
+bass       d/2. d
+
+# measure 6
+soprano    f# g a b
+alto       d/2 d/2
+tenor      a g f# g
+bass       c b a g-
+
+# measure 7
+soprano    c/2 b/2
+alto       d/2 d/2
+tenor      a/2 g/2
+bass       f#-/2 g-/2
+
+# measure 8
+soprano    b a g f#
+alto       d c b a
+tenor      e/2 d-/2
+bass       c/2 d/2
+
+# measure 9
+soprano    g/2. d-
+alto       b/2. d
+tenor      d-/2. d-
+bass       g-/2. d
+
+# measure 10
+soprano    d-/2. d-
+alto       d/2. d
+tenor      d-/2. d-
+bass       d/2. d
+
+# measure 11
+soprano    g/2. g
+alto       b/2. b
+tenor      g/2. g
+bass       d/2. d
+
+# measure 12
+soprano    a/2. a
+alto       d/2. d
+tenor      f#/2. f#
+bass       d/2. d
+
+# measure 13
+soprano    b/2. a
+alto       g/2. f#
+tenor      g/2. d
+bass       d/2. d
+
+# measure 14
+soprano    b c d b
+alto       g a+ b+ g
+tenor      d/2. d
+bass       d/2. d
+
+# measure 15
+soprano    a b c a
+alto       f# g a+ f#
+tenor      d/2. d
+bass       d/2. d
+
+# measure 16
+soprano    b c d b
+alto       g a+ b+ g
+tenor      d/2. d
+bass       d/2. d
+
+# measure 17
+soprano    a/2. d-
+alto       f#/2. d
+tenor      d/2. f#
+bass       d/2. d
+
+# measure 18
+soprano    d-/2. d-
+alto       d/2. d
+tenor      f# g f# a
+bass       d e d c
+
+# measure 19
+soprano    g/2. g
+alto       d c b d
+tenor      g/2. g
+bass       b a g- b
+
+# measure 20
+soprano    a/2. a
+alto       d/2. d
+tenor      f#/2. f#
+bass       d/2. d
+
+# measure 21
+soprano    b/2. a
+alto       d/2. d
+tenor      g/2. f#
+bass       g/2. d
+
+# measure 22
+soprano    b c d b
+alto       d/2. d
+tenor      g f# g d-
+bass       g- a b g-
+
+# measure 23
+soprano    a b c a
+alto       c d e c
+tenor      e g# a e
+bass       c b a c
+
+# measure 24
+soprano    g/2 f#/2
+alto       b/2 d/2
+tenor      d-/2 a c
+bass       d/2 d/2
+
+# measure 25
+soprano    g/2.
+alto       d/2.
+tenor      b/2.
+bass       g-/2.
+
+
+

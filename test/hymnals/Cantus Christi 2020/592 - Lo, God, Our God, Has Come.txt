@@ -1,0 +1,42 @@
+title      Lo, God, Our God, Has Come!
+author     Horatius Bonar, 1868
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/592%20Lo,%20God,%20Our%20God,%20Has%20Come.pdf
+
+composer   David R. Erb, 2012
+key        F
+rhythm     4 : 4
+tempo      130
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    c- | f/8 - g/8 a/8 - b/8 c e | f/2.  f | b g a/8 - g/8             f         | e/2.  g
+alto       c  | a         c         f e | d a d c | b/8 - c/8 - d/8 - e/8 - f d         | c/2.  c
+tenor      c  | c         c         a a | a/2.  f | g/8 - a/8 b c             b/8 - a/8 | g g c b
+bass       c+ | f         e         d c | d c b a | g-/2                    a - b       | c/2.  c
+
+soprano    a/8 - b/8 c b           a         | g/2   c/2   | d-/8 - e/8 f         f e | f/2.  c
+alto       c         e d           c         | c/2   e - f | d          a/8 - b/8 c c | c c c f
+tenor      a - g       f/8 - g/8 - a/8 - b/8 | c/2   g - a | f          f         g g | a c b a
+bass       f         c d/8 - e/8   f         | e - d c - a | b          d         c c | f/2.  f
+
+soprano    b a g f | e d- c- c- | d-/8 - e/8 f b  g | f/2 e/2   | f/2.
+alto       e f c c | c/2.    g- | b          c b  d | f/2 c/2   | c/2.
+tenor      g f e f | g/2.    e  | f          f g  g | a/2 g - b | a/2.
+bass       c c b a | c d  e  c  | b          a g- b | c/2 c/2   | f/2.
+
+verse      Lo,    God,   our God, has  come!  To   us   a    Child is   born, To
+verse      Re  -  joice! our God  has  come,  In   love and  low - li - ness; The
+verse      Praise ye     the Word made flesh  True God, true man   is   He.   Praise
+
+verse      us  a   Son    is  giv'n; Bless, bless the bless - ed morn,  O
+verse      Son of  God    has come   The    sons  of  men     to bless; God
+verse      ye  the Christ of  God    To     whom  al  glo  -  ry be!    Praise
+
+verse      hap - py, low - ly,  lof -  ty  birth,  Now    God, our God    has  come  to  earth!
+verse      with  us  now   de - scends to  dwell,  God    in   our flesh, Im - man - u - el.
+verse      ye    the Lamb  that once   was slain!  Praise ye   the King   that comes to  reign!

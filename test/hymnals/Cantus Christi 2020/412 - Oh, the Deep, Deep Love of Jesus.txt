@@ -1,0 +1,111 @@
+title      Oh, the Deep, Deep Love of Jesus
+author     Samuel Trevor Francis, 1875EBENEZER [TÔN-Y-BOTEL]
+composer   Thomas John Williams, 1890
+key        G
+tempo      100
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/412%20Oh,%20the%20Deep,%20Deep%20Love%20of%20Jesus.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e e/12 f#/12 g/12 f# e
+alto       b b d# e
+tenor      g b b g
+bass       e- g- b c
+
+# measure 2
+soprano    f# f#/12 g/12 a/12 g/8. f#/16 e
+alto       e d# e b
+tenor      c b b/8. a/16 g
+bass       a b e e
+
+# measure 3
+soprano    b a/12 b/12 c/12 b/8. a/16 g
+alto       d d/6 e/12 f# e
+tenor      g a/6 g/12 b b
+bass       g f#/6 e/12 d# e
+
+# measure 4
+soprano    a/8. g/16 f# e/2
+alto       e d# e/2
+tenor      c/8. b/16 a g/2
+bass       a b e/2
+
+# measure 5
+soprano    e e/12 f#/12 g/12 f# e
+alto       b b d# e
+tenor      g b b g
+bass       e- g- b c
+
+# measure 6
+soprano    f# f#/12 g/12 a/12 g/8. f#/16 e
+alto       e d# e b
+tenor      c b b/8. a/16 g
+bass       a b e e
+
+# measure 7
+soprano    b a/12 b/12 c/12 b/8. a/16 g
+alto       d d/6 e/12 f# e
+tenor      g a/6 g/12 b b
+bass       g f#/6 e/12 d# e
+
+# measure 8
+soprano    a/8. g/16 f# e/2
+alto       e d# e/2
+tenor      c/8. b/16 a g/2
+bass       a b e/2
+
+# measure 9
+soprano    b g/12 a/12 b/12 a a
+alto       d d d d
+tenor      g g g f#
+bass       g- b d d
+
+# measure 10
+soprano    g e/12 f#/12 g/12 f# f#
+alto       b e e d#
+tenor      g b b b
+bass       e g- b b
+
+# measure 11
+soprano    e e/12 f#/12 g/12 a a
+alto       e b e d
+tenor      e g g f#
+bass       e d c d
+
+# measure 12
+soprano    g a/12 g/12 a/12 b/2
+alto       b e d#/2
+tenor      g e f#/2
+bass       e/8 d/8 c b/2
+
+# measure 13
+soprano    e e/12 f#/12 g/12 f# e
+alto       g- e d# e
+tenor      e b b g
+bass       c g- b c
+
+# measure 14
+soprano    f# f#/12 g/12 a/12 g/8. f#/16 e
+alto       e d# e e
+tenor      c b b/8. a/16 g
+bass       a b e e
+
+# measure 15
+soprano    b a/12 b/12 c/12 b/8. a/16 g
+alto       d d d e
+tenor      g f#/12 g/12 a/12 g/8. f#/16 e
+bass       g d g- c
+
+# measure 16
+soprano    a/8. g/16 f# e/2
+alto       e d# e/2
+tenor      c/8. b/16 a g/2
+bass       a b e-/2
+
+
+

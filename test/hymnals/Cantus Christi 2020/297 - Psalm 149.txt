@@ -1,0 +1,53 @@
+title      Psalm 149
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2006
+key        G
+rhythm     0 : 4
+tempo      130
+
+#hyperlink  https://www.youtube.com/watch?v=ICYUbioEJAE
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     d- e g/2 g g g g g a g/2 g g g g g g f g e d-/2
+
+unison     d- e/8 g/8 g/8 g/8 g/8 e/8 g/8 a g R | g/8 g/8 g/8 g/8 g/8 g/8 g/8 g/8 f/8 g/8 e/8 d-/8 d- R
+
+unison     g/8 g/8 g/8 g/8 g/8 e/8 g/8 a R | g/8 g/8 g/8 g/8 g/8 g/8 g/8 g/8 g/8 f/8 g/8 e/8 d- R
+
+unison     g g c c b/8 a/8 g/8 b/8 a a R | d-/8 d-/8 e/8 d-/8 e/8 f/8 g/8 e/8 g/8 a/8 a a/2 R
+
+unison     g/8 g/8 g/8 g/8 g/8 e/8 g/8 a g R | g/8 g/8 g/8 g/8 f/8 g/8 e/8 d- R
+
+unison     g/8 g/8 g/8 g/8 g/8 g/8 g/8 g/8 e/8 g/8 a R | g/8 g/8 g/8 g/8 g/8 f/8 g/8 e/8 d- R
+
+unison     g c/8 c/8 c/8 b/8 a/8 g/8 b/8 a a R | g c/8 c/8 c/8 b/8 - a/8 g/8 - b/8 a a R
+
+unison     g c c b/8 - a/8 g/8 - b/8 a R | g/8 g/8 c c/8 c/8 b/8 a/8 g/8 - b/8 a a R
+
+unison     g c/8 c/8 c/8 c/8 b/8 a/8 g/8 b/8 a a R | d- e/8 d-/8 e/8 - f/8 g/8 - e/8 g/8 - a/8 a/2. R | c/2 b/2 a/1
+
+verse      Praise the Lord!  Sing to the Lord a new song, And His praise in the as - semb - ly of saints.
+
+verse      Let Is - ra - el re - joice in their Mak - er; Let the chil - dren of Zi - on be joy - ful in their King.
+
+verse      Let them praise His name with the dance; Let them sing prais - es to Him with the tim - brel and harp.
+
+verse      For the Lord takes pleas - ure in His peo - ple; He will beau - ti - fy the humble with sal - va - tion.
+
+verse      Let the saints be joy - ful in glo - ry; Let them sing a - loud on their beds.
+
+verse      Let the high prais - es of God be in their mouth, And a two-edg - ed sword in their hand,
+
+verse      To ex - e - cute ven - geance on the na - tions, And pun - ish - ments on the peo - ples;
+
+verse      To bind their kings with chains, And their no - bles with fet - ters of i - ron;
+
+verse      To ex - e - cute on them the writ - ten judg - ment-- This hon - or have all His saints.  Praise the Lord!
