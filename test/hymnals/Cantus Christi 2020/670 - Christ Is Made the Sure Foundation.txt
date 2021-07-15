@@ -1,0 +1,88 @@
+title      Christ Is Made the Sure Foundation
+author     Latin hymn, c. 600s; tr. John Mason Neale, 1851; alt. Hymns Ancient and Modern, 1861BONNIE
+composer   Timothy D. Dusenbury, 1999 (c)
+key        A
+tempo      120
+rhythm     6 : 4
+verse_count 5
+copyright  Music: Timothy Dusenbury, 1999. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/670%20Christ%20Is%20Made%20the%20Sure%20Foundation.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c#-/2 e f#/2 a
+alto       g#-/2 b b a c#
+tenor      e/2 c#- c#-/2 f#
+bass       c#/2 g#- f#-/2 f#-
+
+# measure 2
+soprano    g#/2 c#- e d#- c#-
+alto       c# b a b/2 g#-
+tenor      f# d#- e f#/2 e#
+bass       g#-/2 a g#- b c#
+
+# measure 3
+soprano    f#/2 g# a/2 f#
+alto       d/2 d c# e d
+tenor      a g# e# f# g# a
+bass       d/2 b a c# d
+
+# measure 4
+soprano    b a/2 g#/2.
+alto       d/2 c# c#/2.
+tenor      f# f#/2 f# e#/2
+bass       b/2 f#- c#/2.
+
+# measure 5
+soprano    a/2 b c#. b/8 a
+alto       f#/2 e e/2 c#
+tenor      c# a g# a e f#
+bass       f# c# e a/2 f#-
+
+# measure 6
+soprano    b/2 g# a/2 g#
+alto       d/2 c# c#/2 c#
+tenor      f#/2 e# f#/2 en
+bass       b/2 c# f#- g#- a
+
+# measure 7
+soprano    f#/2 g# a. g#/8 f#
+alto       c# b b c# e d
+tenor      d- f# e e g# a
+bass       b/2 e- a c# d
+
+# measure 8
+soprano    f#/2 e f#/2.
+alto       d c#/2 c#/2.
+tenor      a g#/2 f#/2.
+bass       b/2 c# f#- a c#
+
+# measure 9
+soprano    c#/2 d e+. d/8 c#
+alto       a+ f#/2 a+/2 e
+tenor      c#/2 a a e f#
+bass       f# d/2 a/2 a
+
+# measure 10
+soprano    b/2 g# a/2 g#
+alto       d f# e# b d c#
+tenor      f#/2 b g# f# e#
+bass       b c# d d b c#
+
+# measure 11
+soprano    f#/2 g# a. g#/8 f#
+alto       b a c# d e# c#
+tenor      f#/2 e f# b a
+bass       f#- c# a b c# d
+
+# measure 12
+soprano    f#/2 e# f#/2.
+alto       d/2 c# c#/2.
+tenor      b a g# a#/2.
+bass       c# b c# f#-/2.
+
+
+

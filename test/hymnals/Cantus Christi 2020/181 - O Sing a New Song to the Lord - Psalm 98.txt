@@ -1,0 +1,42 @@
+title      O Sing a New Song to the Lord
+hymnal     Cantus Christi
+author     "The Book of Psalms for Singing", 1973
+copyright  text: Taken from the Book of Psalms for Singing Copyright 1973 Crown & Covenant Publications.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/181%20Oh,%20Sing%20a%20New%20%20Song%20-%20Psalm%2098%20DESERT.pdf
+
+tune       DESERT (LYINGHAM)
+metre      C.M. rep.
+composer   Thomas Jarman, c. 1803
+key        G
+rhythm     4 : 4
+tempo      190
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+soprano    g/2 b. c/8 | d/8 - e+/8 - d/8 - c/8 - b c  | b - g a - f | g/2.  b
+alto       d/2 g. g/8 | g/2.                       g  | g - d d/2   | d/2.  g
+tenor      b/2 d. c/8 | b/2.                       e+ | d - b c - a | b/2.  d
+bass       g/2 g. g/8 | g/2.                       c  | d/2   d/2   | g-/2. g
+
+soprano    c  b a g  | a/2. a | b/8 - a/8 - b/8 - c/8 - d  e+ | d/2  c#/2 | d/1
+alto       f  g d g  | f/2. f | g/2.                       g  | f/2  g/2  | f/1
+tenor      d  d d c# | a/2. d | d/2 -                   b  b  | a/2  a/2  | a/1
+bass       a+ g f e  | d/2. d | g/2.                       e  | a+/2 a/2  | d/1
+
+soprano    d/2 d  d | b. - a/8 - g b | c -  b   a - g | a/2. R
+alto       g/2 a+ f | g/2.         g | g/2      f   g | f/2. R
+tenor      b/2 a  d | d. - c/8 - b d | e+ - d - c   b | d/2. R
+bass       g/2 f  d | g/2.         g | g/2.         g | d/2. d
+
+soprano    R/2.    g | c c c c | b/2.  b | a a a a
+alto       R/1       | R/2.  e | d d d g | f/2.  f
+tenor      R/1       | R/1     | R/2.  d | d d d d
+bass       g a+ b+ g | e/2.  c | g g g g | d/2.  d
+
+soprano    d/2.    d  | e+ d  c   b | a/2.  a | g/1
+alto       g f  g/2 = | g/2   f   g | g/2 f/2 | g/1
+tenor      b c  d  b  | c     d/2 d | d/2.  c | b/1
+bass       g a+ b+ g  | c+ b+ a+  g | d/2 d/2 | g/1

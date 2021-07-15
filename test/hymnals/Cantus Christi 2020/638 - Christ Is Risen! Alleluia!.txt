@@ -1,0 +1,165 @@
+title      Christ Is Risen! Alleluia!
+author     John Samuel Bewley Monsell (1811-1875)MORGENLIED
+composer   Frederick C. Maker (1844-1927)
+key        A
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/638%20Christ%20Is%20Risen!%20Alleluia!.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a. a/8 a e
+alto       a+. a+/8 a+ e
+tenor      a. a/8 a e
+bass       a+. a+/8 a+ e
+
+# measure 2
+soprano    a b c# a
+alto       e e e e
+tenor      a g# a a
+bass       c# b a c#
+
+# measure 3
+soprano    f#. f#/8 e a
+alto       d. d/8 e e
+tenor      a. a/8 a a
+bass       d. d/8 c# c#
+
+# measure 4
+soprano    d c# b/2
+alto       e e e/2
+tenor      g# a g#/2
+bass       b a e/2
+
+# measure 5
+soprano    b. b/8 b f#
+alto       b+. b+/8 b+ f#
+tenor      b. b/8 b f#
+bass       b+. b+/8 b+ f#
+
+# measure 6
+soprano    b c# d b
+alto       f# e d f#
+tenor      b a# b b
+bass       d c# b d
+
+# measure 7
+soprano    g#. g#/8 a c#
+alto       e. e/8 e e
+tenor      b. b/8 a a
+bass       e. d/8 c# a
+
+# measure 8
+soprano    c# b a/2
+alto       e d c#/2
+tenor      a g# a/2
+bass       e e a/2
+
+# measure 9
+soprano    g#. f#/8 e c#
+alto       e. d#/8 e e
+tenor      b. a/8 g# a
+bass       e. e/8 e a
+
+# measure 10
+soprano    b f# g# e
+alto       d# d# e e
+tenor      f# b b g#
+bass       b b e e
+
+# measure 11
+soprano    g#. a/8 b e
+alto       e. d#/8 e e
+tenor      b. b/8 b g#
+bass       e. f#/8 g# c#
+
+# measure 12
+soprano    a g# f#/2
+alto       f# e d#/2
+tenor      b b b/2
+bass       d# e b/2
+
+# measure 13
+soprano    g#. f#/8 e c#
+alto       e. d#/8 e e
+tenor      b. a/8 g# a
+bass       e. e/8 e a
+
+# measure 14
+soprano    b f# g# e
+alto       d# f# e e
+tenor      f# b b g#
+bass       b d# e e
+
+# measure 15
+soprano    g#. a/8 b a
+alto       e. d#/8 e e
+tenor      b. a/8 g# c#
+bass       e. f#/8 g# a+
+
+# measure 16
+soprano    g# f# e/2
+alto       e d# e/2
+tenor      b a g#/2
+bass       b+ b e/2
+
+# measure 17
+soprano    a. a/8 a e
+alto       a+. a+/8 a+ e
+tenor      a. a/8 a e
+bass       a+. a+/8 a+ e
+
+# measure 18
+soprano    a b c# a
+alto       e e e e
+tenor      a g# a a
+bass       c# b a c#
+
+# measure 19
+soprano    f#. f#/8 e a
+alto       d. d/8 e e
+tenor      a. a/8 a a
+bass       d. d/8 c# c#
+
+# measure 20
+soprano    d c# b/2
+alto       e e e/2
+tenor      g# a g#/2
+bass       b a e/2
+
+# measure 21
+soprano    b. b/8 b f#
+alto       b+. b+/8 b+ f#
+tenor      b. b/8 b f#
+bass       b+. b+/8 b+ f#
+
+# measure 22
+soprano    b c# d b
+alto       f# e d f#
+tenor      b a# b b
+bass       d c# b d
+
+# measure 23
+soprano    g#. g#/8 a c#
+alto       e. e/8 e e
+tenor      b. b/8 a a
+bass       e. d/8 c# a
+
+# measure 24
+soprano    e+/2 e+/2
+alto       a+/2 g#/2
+tenor      c#/2 d/2
+bass       e/2 e/2
+
+# measure 25
+soprano    a/1
+alto       a+/1
+tenor      c#/1
+bass       a+/1
+
+
+

@@ -1,0 +1,135 @@
+title      The Lord Jehovah Reigns
+author     Isaac Watts (1674-1748)HAYDN'S CHANT
+composer   Charles Zeuner (1795-1857)
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/171%20The%20Lord%20Jehovah%20Reigns%20-%20Psalm%2093%20HAYDN'S%20CHANT.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       d
+tenor      d-
+bass       d
+
+# measure 2
+soprano    g. g/8 f# g
+alto       d. d/8 d d
+tenor      b. b/8 c b
+bass       g. g/8 a+ g
+
+# measure 3
+soprano    a/2. d-
+alto       d/2. d
+tenor      c/2. d-
+bass       f#/2. d
+
+# measure 4
+soprano    a. a/8 g a
+alto       d. d/8 d d
+tenor      c. c/8 b c
+bass       f#. f#/8 g f#
+
+# measure 5
+soprano    b/2. a
+alto       d/2. f#
+tenor      b/2. d
+bass       g/2. d
+
+# measure 6
+soprano    b/2 c#/2
+alto       g/2 g/2
+tenor      d/2 a/2
+bass       g/2 e/2
+
+# measure 7
+soprano    d/2. e+
+alto       f# a+ g g
+tenor      a/2 b b
+bass       d f# g e
+
+# measure 8
+soprano    d/2 c#/2
+alto       f#/2 e/2
+tenor      a/2 a/2
+bass       a+/2 a/2
+
+# measure 9
+soprano    d/2. d
+alto       f#/2. g
+tenor      a/2. d
+bass       d/2. b+
+
+# measure 10
+soprano    c. c/8 b b
+alto       f#. f#/8 g g
+tenor      d. d/8 d d
+bass       a+. a+/8 g g-
+
+# measure 11
+soprano    b/2 a d
+alto       g/2 f# g
+tenor      d/2. d
+bass       d/2. b+
+
+# measure 12
+soprano    c a b a
+alto       f# f# g e
+tenor      d d d c
+bass       a+ d g c
+
+# measure 13
+soprano    g/2 f# d-
+alto       d/2. d
+tenor      b/2 a d-
+bass       d/2. d
+
+# measure 14
+soprano    g/2 a/2
+alto       d/2 f#/2
+tenor      d/2 d/2
+bass       b/2 d/2
+
+# measure 15
+soprano    b/2. b
+alto       g/2. g
+tenor      d/2. d
+bass       g/2. g
+
+# measure 16
+soprano    c/2 d/2
+alto       g/2 g/2
+tenor      c/2 b/2
+bass       e/2 g/2
+
+# measure 17
+soprano    e+/2. e+
+alto       g/2. g
+tenor      c/2. c
+bass       c/2. c+
+
+# measure 18
+soprano    d. c/8 b a
+alto       g. f#/8 g e
+tenor      d. d/8 d c
+bass       b+. a+/8 g c
+
+# measure 19
+soprano    g/2 f#/2
+alto       d/2 d/2
+tenor      b/2 a/2
+bass       d/2 d/2
+
+# measure 20
+soprano    g/2.
+alto       d/2.
+tenor      b/2.
+bass       g-/2.
+
+
+

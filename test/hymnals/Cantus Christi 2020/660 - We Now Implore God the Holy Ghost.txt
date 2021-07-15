@@ -1,0 +1,45 @@
+title      We Now Implore God the Holy Ghost
+author     st. 1, unknown, c. 1520; st. 2-4, Martin Luther, 1523; tr. compositeNUN BITTEN WIR
+composer   German Liese, c. 1100; harm. Lucas Osiander, 1586
+key        F
+tempo      101
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/660%20We%20Now%20Implore%20God%20the%20Holy%20Ghost.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 g g f/2 d-/2 c-/2 d-/2 en/2 f/1
+alto       c/2 eb eb c/2 bb/2 f-/2 bb/2 g-/2 c/1
+tenor      f/2 bb bb a/2 f/2 a/2 f/2 c/2 a/1
+bass       f/2 eb eb f/2 bb/2 a/2 bb/2 c/2 f-/1
+
+# measure 2
+soprano    a/2 c/2 d/2 c/2 a/2 f/2 d-/2 e/2 f/1
+alto       c/2 e/2 f/2 e/2 f/2 c/2 bb/2 g-/2 c/1
+tenor      a/2 g/2 bb/2 g/2 d/2 a/2 f/2 c/2 a/1
+bass       f/2 c/2 bb/2 c/2 d/2 f/2 bb/2 c/2 f-/1
+
+# measure 3
+soprano    a. a/8 a g a/2 f f g g a/2 f/2
+alto       f. f/8 f d f/2 d d e e f/2 d/2
+tenor      c. c/8 c bb c/2 bb a c c c/2 bb/2
+bass       f. f/8 f g f/2 bb d c c f/2 bb/2
+
+# measure 4
+soprano    g g a/2 f/2 d-/2 f f g/2 f/2 d-/2 c-/2
+alto       d e f/2 c/2 bb/2 a bb g-/2 c/2 bb/2 g-/2
+tenor      bb c c/2 a/2 f/2 f f bb/2 a/2 f/2 en/2
+bass       g- c f-/2 f/2 bb/2 d d eb/2 f/2 bb/2 c/2
+
+# measure 5
+soprano    d-. e/8 f/2 g/2 f/1
+alto       bb. c/8 d c e/2 c/1
+tenor      g. g/8 bb a c/2 a/1
+bass       g-. c/8 bb f- c/2 f-/1
+
+
+

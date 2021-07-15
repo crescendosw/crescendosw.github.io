@@ -1,0 +1,48 @@
+title      We All Believe in One True God
+author     Martin Luther, 1524; tr. compositeWIR GLAUBEN ALL
+composer   Latin Credo, c. 1300; Johann Walter, Geystliche gesangk Buchleyn, 1524
+key        C
+tempo      155
+rhythm     0 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/710%20We%20All%20Believe%20in%20One%20True%20God.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    d-/2 a g a e f/2 e g f e d- c-
+
+# measure 2
+unison    a/2 a/2 d c b a c/2 a
+
+# measure 3
+unison    b c a a e f f e/2
+
+# measure 4
+unison    d- e f g f e d- c- d-/1
+
+# measure 5
+unison    d/2 d/2 e+ d e+ c d/2 d/2
+
+# measure 6
+unison    e+ b c a a e f/2 e/2
+
+# measure 7
+unison    a g a b c b a g a/2
+
+# measure 8
+unison    b. c/8 d/2 a g a e f/2 e
+
+# measure 9
+unison    g f. e/8 d- c- d- f d-/2
+
+# measure 10
+unison    f g a b c. b/8 a. g/8 f e d-
+
+# measure 11
+unison    e f g f e d- c- d-/1
+
+
+

@@ -1,0 +1,72 @@
+title      Psalm 1
+hymnal     Cantus Christi 2020
+author     King James Version
+
+composer   David R. Erb, 2012
+key        C
+rhythm     0 : 4
+tempo      130
+type       unison
+
+#hyperlink  https://youtu.be/ZHfM4F3co_Y
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     e/8 - g#/8 - b/8 - c/8 - b/8 - a/8 g#/8 a/8 g#/2.
+
+unison     g# a/8 - b/8 c/8 b b/8 b/8 a/8 - b/8 c/8 b a/8 a/8 g#/8 - a/8 b/2
+
+unison     b a/8 - b/8 c/8 b b a/8 - b/8 - c/8 - d c b/8 - a/8 g#/2
+
+unison     g# a/8 - b/8 c/8 b b a/8 - b/8 - c/8 b a g#/8 - a/8 b
+
+unison     R/8 e/8 e/8 e/8 f/8 f/8 a/8 b/8 c/8 - b/8 a/8 f/8 e/2
+
+unison     R/8 e/8 e/8 e/8 f a/8 b/8 c/8 b/8 a/8 - f/8 e/8 - f/8 e/8 - d-/8 e/2
+
+unison     e/8 - g#/8 b/8 c/8 b/8 - a/8 g#/8 a/8 g#/2
+
+unison     g#/8 a/8 g#/8 f/8 e/8 - g#/8 b/8 c/8 b/8 - a/8 - g#/8 - a/8 g#/2.
+
+unison     g# a/8 - b/8 c/8 b b a/8 - b/8 - c/8 b a g#/8 - a/8 b/2
+
+unison     b a/8 - b/8 - c/8 b b a/8 - b/8 - c/8 - d c b/8 - a/8 g#/2
+
+unison     g# a/8 - b/8 c/8 b b a/8 - b/8 - c/8 b a g#/8 - a/8 b/2 | e/8 e/8 d-/8 d-/8 e/8 f/8 e/2
+
+unison     d-/8 d-/8 e/8 f/8 e d-/8 d-/8 e/8 - f/8 - g#/8 - a/8 g#/8 - f/8 e/8 f/8 e/1
+
+unison     a a g# f e e/2 | e/8 e/8 a/2 g# f e e/2
+
+unison     e d-/8 d-/8 e/8 f/8 e e d-/8 d-/8 e/8 f/8 e - d- e/2.
+
+unison     e/8 e/8 e/8 - g#/8 - b/8 - c/8 b/8 - a/8 g#/8 a/8 g#/2 g#/8 - a/8 g#/8 - f/8 e/8 - g#/8 - b/8 - c/8 - b/8 - a/8 - g#/8 - a/8 g#/2.
+
+unison     e/8 e/8 d-/8 d-/8 e/8 f/8 e e/2 d- e/8 - f/8 - g#/8 - a/8 - g#/8 - f/8 - e/8 - f/8 e/1
+
+verse      Bless - ed is the man that walk - eth not in the coun - sel of the un - god - ly,
+
+verse      Nor stand - eth in the way of sin - ners, nor sit - teth in the seat of the scorn - ful.
+
+verse      But his de - light is in the law of the Lord; and in his law doth he med - i - tate day and night.
+
+verse      And he shall be like a tree plant - ed by the riv - ers of wat - er,
+
+verse      That bring - eth forth his fruit in his sea - son;
+
+verse      His leaf al - so shall not with - er; and what - so - e'er he do - eth shall pros - per.
+
+verse      The un - god - ly are not so: but are like the chaff which the wind driv - eth a - way.
+
+verse      There - fore the un - god - ly shall not stand in the judg - ment,
+
+verse      Nor sin - ners in the con - gre - ga - tion of the right - eous.
+
+verse      For the Lord know - eth the way of the right - - - eous:
+
+verse      But the way of the un - god - ly shall per - - - - - ish.

@@ -1,0 +1,207 @@
+title      On Merit Not My Own
+author     Horatius Bonar, 1881HERR JESUS CHRIST, MEIN'S LEBENS
+composer   Lochamer Gesangbuch, 1450?; harm. Johann Sebastian Bach, 1724
+key        A
+tempo      115
+rhythm     3 : 4
+verse_count 8
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/487%20On%20Merit%20Not%20My%20Own.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a a a
+alto       c# e e
+tenor      e a c#
+bass       a c# a
+
+# measure 2
+soprano    f# g# a
+alto       d e e
+tenor      a b c#
+bass       d/2 c#
+
+# measure 3
+soprano    b a g#
+alto       f#/2 e
+tenor      b/2 b
+bass       d#/2 e
+
+# measure 4
+soprano    f#/2.
+alto       d#/2.
+tenor      b/2.
+bass       b/2.
+
+# measure 5
+soprano    f# g# a
+alto       d# e e
+tenor      b b c#
+bass       b e c#
+
+# measure 6
+soprano    b/2 a
+alto       e/2 e
+tenor      b/2 c#
+bass       g#-/2 a
+
+# measure 7
+soprano    g# f#/2
+alto       e e d#
+tenor      b b. a/8
+bass       e b/2
+
+# measure 8
+soprano    e/2.
+alto       e/2.
+tenor      g#/2.
+bass       e/2.
+
+# measure 9
+soprano    c# c# c#
+alto       e c# e#
+tenor      a g# c#
+bass       a+ e# c#
+
+# measure 10
+soprano    a b c#
+alto       f# g# a#+
+tenor      c# d e+
+bass       f#/2 f#-
+
+# measure 11
+soprano    d c#/2
+alto       b+ a+/2
+tenor      d e+ a
+bass       b c# d
+
+# measure 12
+soprano    b/2.
+alto       e/2.
+tenor      g#/2.
+bass       e/2.
+
+# measure 13
+soprano    a b c#
+alto       e g# a+
+tenor      a d- e
+bass       c# b a
+
+# measure 14
+soprano    b/2 a
+alto       a+ g# d
+tenor      f# g# a
+bass       d e f#
+
+# measure 15
+soprano    a g#/2
+alto       f# e/2
+tenor      b b/2
+bass       d# e e-
+
+# measure 16
+soprano    a/2.
+alto       e/2.
+tenor      c#/2.
+bass       a/2.
+
+# measure 17
+soprano    a a a
+alto       c# e e
+tenor      e a c#
+bass       a c# a
+
+# measure 18
+soprano    f# g# a
+alto       d e e
+tenor      a b c#
+bass       d/2 c#
+
+# measure 19
+soprano    b a g#
+alto       f#/2 e
+tenor      b/2 b
+bass       d#/2 e
+
+# measure 20
+soprano    f#/2.
+alto       d#/2.
+tenor      b/2.
+bass       b/2.
+
+# measure 21
+soprano    f# g# a
+alto       d# e e
+tenor      b b c#
+bass       b e c#
+
+# measure 22
+soprano    b/2 a
+alto       e/2 e
+tenor      b/2 c#
+bass       g#-/2 a
+
+# measure 23
+soprano    g# f#/2
+alto       e e d#
+tenor      b b. a/8
+bass       e b/2
+
+# measure 24
+soprano    e/2.
+alto       e/2.
+tenor      g#/2.
+bass       e/2.
+
+# measure 25
+soprano    c# c# c#
+alto       e c# e#
+tenor      a g# c#
+bass       a+ e# c#
+
+# measure 26
+soprano    a b c#
+alto       f# g# a#+
+tenor      c# d e+
+bass       f#/2 f#-
+
+# measure 27
+soprano    d c#/2
+alto       b+ a+/2
+tenor      d e+ a
+bass       b c# d
+
+# measure 28
+soprano    b/2.
+alto       e/2.
+tenor      g#/2.
+bass       e/2.
+
+# measure 29
+soprano    a b c#
+alto       e g# a+
+tenor      a d- e
+bass       c# b a
+
+# measure 30
+soprano    b/2 a
+alto       a+ g# d
+tenor      f# g# a
+bass       d e f#
+
+# measure 31
+soprano    a g#/2
+alto       f# e/2
+tenor      b b/2
+bass       d# e e-
+
+# measure 32
+soprano    a/2.
+alto       e/2.
+tenor      c#/2.
+bass       a/2.
+
+
+

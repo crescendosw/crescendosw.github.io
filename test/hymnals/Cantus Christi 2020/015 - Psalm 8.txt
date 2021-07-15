@@ -1,0 +1,61 @@
+title      Psalm 8
+hymnal     Cantus Christi 2020
+author     New King James Version
+
+composer   David R. Erb, 2015
+key        F
+rhythm     0 : 4
+tempo      140
+
+#hyperlink  https://www.christkirk.com/wp-content/uploads/2017/07/Psalm-8.mp3
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     d- f/2 g/2 a/2. | a d/8 c/8 a/8 b a g/8 - f/8 e/8 f e d-/2.
+
+unison     d-/8 d-/8 e/8 - f/8 g/8 a g/8 a/8 c bn a/1
+
+unison     d-/8 c-/8 d-/8 e c- d-/8 - e/8 f/8 e c- d- d-/2 | d- g/8 f/8 g/8 a f g/8 a/8 b/8 a g a/2
+
+unison     R/8 g/8 f/8 e/8 d-/8 c-/8 d-/8 e c- d-/8 - e/8 f/8 e c- d- d-/2.(3)
+
+unison     R/8 d-/8 e/8 f/8 g/8 a/8 b/8 a a g/8 - a/8 - b/8 a g a a/2 | a c/8 bn/8 g/8 a g/8 a/8 c bn a/2.
+
+unison     a/8 g/8 f/8 - e/8 d-/8 e c- d-/8 e/8 f/8 e | a/8 g/8 f/8 - e/8 d-/8 e d-/8 c-/8 d-/8 - e/8 f/8 e/2
+
+unison     R/8 d-/8 e/8 f/8 g/8 a/8 b/8 a a g/8 - a/8 b/8 a g a a | R/8 a/8 a/8 a/8 c/8 bn/8 g/8 a g/8 a/8 c - bn a/2.
+
+unison     a/8 g/8 f/8 e/8 d-/8 e c- d-/8 - e/8 f/8 e/8 d-/8 c-/8 d-/8 e/8 f/8 e
+
+unison     a/8 g/8 f/8 - e/8 - d-/8 e d-/8 - c-/8 d-/8 e/8 f/8 e/2. | e f e f d- c-/8 d-/8 e/8 f/8 e/8 c-/8 d-/2.
+
+unison     e f/8 g/8 f/8 e - d- c-/8 - d-/8 e/8 f/8 e/8 c-/8 d-/2. | d- d-/8 - c-/8 - d-/8 e c- d-/8 - e/8 - f/8 e c- d-/1(2)
+
+unison     d- f/2 g/2 a/2. | a d/8 c/8 a/8 b a g/8 - f/8 e/8 f e d-/2.
+
+verse      O Lord, our Lord, How ex - cel - lent is Your name in all the earth,
+
+verse      Who have set Your glo - ry a - bove the heav'ns!
+
+verse      Out of the mouth of babes and nursing in - fants You have ordained strength, Be - cause of Your en - em - ies,
+
+verse      That You may si - lence the en - e - my and the a - veng - er.
+
+verse      When I con - sid - er Your heav'ns, the work of Your fingers, The moon and the stars, which You have ordained,
+
+verse      What is man that You are mind - ful of him, And the son of man that You vis - it him?
+
+verse      For You have made him a lit - tle low - er than the angels, And You have crowned him with glo - ry and hon - or.
+
+verse      You have made him to have dom - in - ion ov - er the works of Your hands;
+
+verse      You have put all things un - der his feet, All sheep and ox - en-- Ev - en the beasts of the field,
+
+verse      The birds of the air, And the fish of the sea.  That pass through the paths of the seas.
+
+verse      O Lord, our Lord, How ex - cel - lent is Your name in all the earth.

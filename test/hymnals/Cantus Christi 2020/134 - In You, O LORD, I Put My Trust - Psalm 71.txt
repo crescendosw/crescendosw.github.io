@@ -1,0 +1,115 @@
+title      In You, O LORD, I Put My Trust
+author     John Rogers, 2004; alt. (c)HYMN OF PRAISE
+composer   Kenneth S. Proctor (1895-?)
+key        C
+tempo      101
+rhythm     4 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/134%20In%20You,%20O%20LORD%20-%20Psalm%2071%20HYMN%20OF%20PRAISE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       c
+tenor      c
+bass       e
+
+# measure 2
+soprano    f e/8 d-/8 e g
+alto       c b c c
+tenor      a g g c
+bass       d g c e
+
+# measure 3
+soprano    g/8 f/8 e/8 d-/8 e g
+alto       c b c g
+tenor      a g g c
+bass       d g c e
+
+# measure 4
+soprano    a c c b
+alto       g f f g
+tenor      c c d d
+bass       f d g g
+
+# measure 5
+soprano    c/2. g
+alto       g f e c
+tenor      e+ d c c
+bass       c/2. e
+
+# measure 6
+soprano    f e/8 d-/8 e g
+alto       c b c c
+tenor      a g g c
+bass       d g c e
+
+# measure 7
+soprano    g/8 f/8 e/8 d-/8 e g
+alto       c b c g
+tenor      a g g c
+bass       d g c e
+
+# measure 8
+soprano    a c c b
+alto       g f f g
+tenor      c c d d
+bass       f d g g
+
+# measure 9
+soprano    c/2. c
+alto       e f g g
+tenor      c d e+ c
+bass       c/2. e
+
+# measure 10
+soprano    b d c/8 b/8 a
+alto       g g g f#
+tenor      d d e+ d
+bass       d b a d
+
+# measure 11
+soprano    b d d/8 c/8 b/8 a/8
+alto       g g g f#
+tenor      d d e+ d
+bass       g b+ a+ d
+
+# measure 12
+soprano    b d c a
+alto       g g g f#
+tenor      d d e+ d
+bass       g b a d
+
+# measure 13
+soprano    g/2. g
+alto       g d e f
+tenor      b/2. b
+bass       g f e d
+
+# measure 14
+soprano    c g f/8 e/8 d-
+alto       e c c b
+tenor      c c a g
+bass       c e d g
+
+# measure 15
+soprano    e g g/8 f/8 e/8 d-/8
+alto       c c c b
+tenor      g g a g
+bass       c e d g
+
+# measure 16
+soprano    e g c d
+alto       c g f f
+tenor      g g a b
+bass       c e d g-
+
+# measure 17
+soprano    c/2.
+alto       e/2.
+tenor      c/2.
+bass       c/2.
+

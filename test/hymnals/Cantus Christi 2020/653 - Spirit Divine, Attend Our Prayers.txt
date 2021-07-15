@@ -1,0 +1,87 @@
+title      Spirit Divine, Attend Our Prayers
+author     Andrew Reed, 1829NUN DANKET ALL' UND
+composer   Johann Crüger, c.1647
+key        F
+tempo      150
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/653%20Spirit%20Divine,%20Attend%20Our%20Prayers.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 d- c-
+alto       a/2 bb c
+tenor      f/2 e f
+bass       f-/2 g- a
+
+# measure 2
+soprano    f/2 g/2
+alto       d/2 e/2
+tenor      f/2 bb/2
+bass       bb/2 g-/2
+
+# measure 3
+soprano    a a g/2
+alto       f f e/2
+tenor      a c c/2
+bass       f- a c/2
+
+# measure 4
+soprano    R a c bb
+alto       R f f g
+tenor      R c c d
+bass       R f a bb
+
+# measure 5
+soprano    a/2 g/2
+alto       f/2 e/2
+tenor      c/2 c bb
+bass       c/2 c/2
+
+# measure 6
+soprano    f/1
+alto       f/1
+tenor      a/1
+bass       f-/1
+
+# measure 7
+soprano    c/2 a c
+alto       f/2 f f
+tenor      a/2 a f
+bass       f/2 f a
+
+# measure 8
+soprano    d/2 c/2
+alto       f/2 f/2
+tenor      f/2 f/2
+bass       bb/2 a/2
+
+# measure 9
+soprano    bb a g/2
+alto       e f e/2
+tenor      bb c c/2
+bass       g- f- c/2
+
+# measure 10
+soprano    R c f bb
+alto       R e f g
+tenor      R c a d
+bass       R a d g-
+
+# measure 11
+soprano    a/2 g/2
+alto       f/2 e/2
+tenor      c/2 c bb
+bass       a. bb/8 c/2
+
+# measure 12
+soprano    f/1
+alto       f/1
+tenor      a/1
+bass       f-/1
+
+
+

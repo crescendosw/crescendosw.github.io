@@ -1,0 +1,112 @@
+title      His Offered Bread and Wine
+author     Douglas Wilson, 2019 
+composer   Truman S. Wetmore (1774-1861)
+key        F
+tempo      135
+rhythm     4 : 4
+verse_count 2
+copyright  Text: Douglas Wilson, 2019. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/473%20His%20Offered%20Bread%20and%20Wine.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/1
+alto       d/1
+tenor      a/1
+bass       d/1
+
+# measure 2
+soprano    a a g a/8 f/8
+alto       f f g f/8 g/8
+tenor      f d- c- d-
+bass       d f c d
+
+# measure 3
+soprano    a/2 c/2
+alto       e/2 f/2
+tenor      a/2 c/2
+bass       a/2 f/2
+
+# measure 4
+soprano    d a g f/8 g/8
+alto       d d c d/8 e/8
+tenor      d a g/8 f/8 e
+bass       g a+ c a
+
+# measure 5
+soprano    a/2. R
+alto       d/2. f
+tenor      d-/2. R
+bass       d/2. d
+
+# measure 6
+soprano    R/1
+alto       e e e f
+tenor      R/2. f/8 g/8
+bass       a a a f/8 e/8
+
+# measure 7
+soprano    R/2. c
+alto       d d d f
+tenor      a a a c
+bass       d d d c
+
+# measure 8
+soprano    d d d c/8 bb/8
+alto       g g g f/8 g/8
+tenor      d g g a/8 g/8
+bass       g g g a+
+
+# measure 9
+soprano    a a a/8 bb/8 c
+alto       a+/2. R
+tenor      f d- f a
+bass       d/1 =
+
+# measure 10
+soprano    f d- f a
+alto       R/1
+tenor      a/1 =
+bass       d/1 =
+
+# measure 11
+soprano    a/2. c
+alto       R/2. g
+tenor      a/2. c
+bass       d/2. e
+
+# measure 12
+soprano    d d e+ e+
+alto       a+ f e e
+tenor      d a g a/8 g/8
+bass       f d c a
+
+# measure 13
+soprano    f+/8 e+/8 d/8 c/8 a/2 =
+alto       f/8 e/8 d a+/2 =
+tenor      f d- a/2 =
+bass       d d d/2
+
+# measure 14
+soprano    a/2 g/2
+alto       a+/2 g/2
+tenor      a/2 c/2
+bass       a/2 c/2
+
+# measure 15
+soprano    f d- f a
+alto       a+ f e/8 d/8 c
+tenor      d a g/8 f/8 e
+bass       d f a a
+
+# measure 16
+soprano    a/1
+alto       d/1
+tenor      d-/1
+bass       d/1
+
+
+

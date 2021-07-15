@@ -1,0 +1,111 @@
+title      Oh, Let Not My Foes Exulting
+author     Christopher Smart (1722-1771)LONG OAKS
+composer   Edward T. Davies (1878-1969)
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/69%20Oh,%20Let%20Not%20My%20Foes%20-%20Psalm%2035c%20LONG%20OAKS.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f g c-
+alto       f f g c
+tenor      f f g c-
+bass       f f g c
+
+# measure 2
+soprano    a a bb g
+alto       f f f e
+tenor      c d d c
+bass       f d g bb+
+
+# measure 3
+soprano    c c d c/8 bb/8
+alto       f f f g
+tenor      c a bb g
+bass       a+ f bb+ e
+
+# measure 4
+soprano    a c g/2
+alto       f f e/2
+tenor      c c c/2
+bass       f a c/2
+
+# measure 5
+soprano    f f g c-
+alto       d d d c
+tenor      a a g e
+bass       d d bb c
+
+# measure 6
+soprano    a a bb g
+alto       c d f e
+tenor      f f+/8 e+/8 d c
+bass       f d g c+/8 bb+/8
+
+# measure 7
+soprano    c c d c/8 bb/8
+alto       f f/8 e/8 d e
+tenor      c a bb a/8 bb/8
+bass       a+ f bb c
+
+# measure 8
+soprano    a bn c/2
+alto       f f e/2
+tenor      c d c/2
+bass       d g c/2
+
+# measure 9
+soprano    e g f g/8 a/8
+alto       c c c f
+tenor      g e f f
+bass       c bb a d
+
+# measure 10
+soprano    g bb a c
+alto       f e f a+
+tenor      d c c e+
+bass       bb c f e
+
+# measure 11
+soprano    bn e+/8 d/8 c a
+alto       a+ g# a+ f
+tenor      f+ d e+ d/8 c/8
+bass       d bn c d
+
+# measure 12
+soprano    a g# a/2
+alto       e e e/2
+tenor      bn/8 a/8 bn c#/2
+bass       e e a+/2
+
+# measure 13
+soprano    f f g c-
+alto       f f g c
+tenor      d d d c
+bass       d+ c+ bb+ c+
+
+# measure 14
+soprano    a a bb g
+alto       f f g e
+tenor      c d d c
+bass       f d g bb+
+
+# measure 15
+soprano    c f+ d c/8 bb/8
+alto       f f f g
+tenor      c c bb d
+bass       a+ a+ bb+ bb
+
+# measure 16
+soprano    a g f/2
+alto       f e f/2
+tenor      c c/8 bb/8 a/2
+bass       c c f/2
+
+
+

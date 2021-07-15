@@ -1,0 +1,135 @@
+title      God Rest Ye Merry, Gentlemen
+author     Anonymous
+composer   Anonymous
+key        G
+tempo      150
+rhythm     4 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/579%20God%20Rest%20Ye%20Merry,%20Gentlemen.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       e
+tenor      e
+bass       e
+
+# measure 2
+soprano    e b b a
+alto       e g f# d#
+tenor      g e f# b
+bass       e e d# b
+
+# measure 3
+soprano    g f# e d-
+alto       e d c b
+tenor      b b g g
+bass       e b c g-
+
+# measure 4
+soprano    e f# g a
+alto       e d# e e
+tenor      g b b e
+bass       c b e c
+
+# measure 5
+soprano    b/2. e
+alto       d#/2. e
+tenor      f#/2. e
+bass       b/2. e
+
+# measure 6
+soprano    e b b a
+alto       e g f# d#
+tenor      g e f# b
+bass       e e d# b
+
+# measure 7
+soprano    g f# e d-
+alto       e d c b
+tenor      b b g g
+bass       e b c g-
+
+# measure 8
+soprano    e f# g a
+alto       e d# e e
+tenor      g b b e
+bass       c b e c
+
+# measure 9
+soprano    b/2. b
+alto       d#/2. e
+tenor      f#/2. g#
+bass       b/2. e
+
+# measure 10
+soprano    c a b c
+alto       e d d g
+tenor      a a g g
+bass       a+ f# g e
+
+# measure 11
+soprano    d e+ b a
+alto       fn e d d#
+tenor      g g g f#
+bass       b c g- b
+
+# measure 12
+soprano    g e f# g
+alto       e c# d g
+tenor      g g a d
+bass       e e d b
+
+# measure 13
+soprano    a/2 g a
+alto       f#/2 g d
+tenor      d c b a
+bass       d/2 e f#
+
+# measure 14
+soprano    b/2 c b
+alto       d/2 e d
+tenor      g/2 g g
+bass       g/2 c g
+
+# measure 15
+soprano    b a g f#
+alto       g f# e d#
+tenor      d c b b
+bass       g- a b b
+
+# measure 16
+soprano    e/2 g/8 f#/8 e
+alto       e/2 b/8 b/8 c#
+tenor      g/2 g/8 g/8 g
+bass       e/2 e/8 e/8 e
+
+# measure 17
+soprano    a/2 g a
+alto       d/2 e f#
+tenor      f# a d c
+bass       d c b a
+
+# measure 18
+soprano    b c d e+
+alto       g/2 g g
+tenor      b g d c
+bass       g- e b c
+
+# measure 19
+soprano    b a g f#
+alto       g f# e d#
+tenor      d c b b
+bass       g- a b b
+
+# measure 20
+soprano    e/2.
+alto       e/2.
+tenor      g/2.
+bass       e/2.
+
+
+

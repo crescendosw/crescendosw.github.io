@@ -1,0 +1,111 @@
+title      Alleluia! Alleluia!
+author     Christopher Wordsworth, 1862LUX EOI
+composer   Arthur S. Sullivan, 1874
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/632%20Alleluia!%20Alleluia!.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g. g/8 c g
+alto       c. c/8 c c
+tenor      e. e/8 e g
+bass       c. c/8 c e
+
+# measure 2
+soprano    g f f e
+alto       e d d c
+tenor      c b b c
+bass       g g- g- c
+
+# measure 3
+soprano    a a g e
+alto       c d e g-
+tenor      a b c e
+bass       f f e c
+
+# measure 4
+soprano    d- c- d-/2
+alto       a a b/2
+tenor      f# f# g/2
+bass       a d g-/2
+
+# measure 5
+soprano    g. g/8 c c
+alto       b. b/8 c c
+tenor      g. g/8 g g
+bass       f. f/8 e e
+
+# measure 6
+soprano    b a d g
+alto       d d d d
+tenor      g f# g g
+bass       d c b b
+
+# measure 7
+soprano    f# e d- g
+alto       d c b e/8 d/8
+tenor      g a b c/8 b/8
+bass       c c d d
+
+# measure 8
+soprano    g f# g/2
+alto       c c b/2
+tenor      a d- d-/2
+bass       d d g-/2
+
+# measure 9
+soprano    f f e e
+alto       c c b b
+tenor      f f g g
+bass       a a g- g-
+
+# measure 10
+soprano    a. a/8 a g#
+alto       c d e e
+tenor      a a b b
+bass       f- f e e
+
+# measure 11
+soprano    a b c b
+alto       e e e f
+tenor      a g# a a/8 b/8
+bass       c b a d
+
+# measure 12
+soprano    e g# a/2
+alto       e e e/2
+tenor      c b c/2
+bass       e e a+/2
+
+# measure 13
+soprano    g c e+ d
+alto       f e g g
+tenor      d c c b
+bass       b+ c+ g f
+
+# measure 14
+soprano    c b a g
+alto       g g f e
+tenor      c c c c
+bass       e e- f- g-
+
+# measure 15
+soprano    f# fn en a
+alto       eb d c c
+tenor      c g c- d-
+bass       a b c f-
+
+# measure 16
+soprano    c- d- c-/2
+alto       g- b c/2
+tenor      e f e/2
+bass       g- g- c/2
+
+
+

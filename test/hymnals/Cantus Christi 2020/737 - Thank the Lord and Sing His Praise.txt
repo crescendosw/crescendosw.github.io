@@ -1,0 +1,117 @@
+title      Thank the Lord and Sing His Praise 
+author     Anonymous
+composer   Anonymous
+key        G
+tempo      112
+rhythm     3 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/737%20Thank%20the%20Lord%20and%20Sing%20His%20Praise.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g/8 a a/8
+alto       b b/8 d d/8
+tenor      g g/8 d- d-/8
+bass       g- g-/8 g- g-/8
+
+# measure 2
+soprano    b/8 g/8 b/8 a.
+alto       g g/8 d.
+tenor      g/8 b/8 g/8 f#.
+bass       g- g-/8 d.
+
+# measure 3
+soprano    d/8 c/8 b/8 a c/8
+alto       d/8 d/8 d/8 e e/8
+tenor      b/8 b/8 b/8 c c/8
+bass       g/8 g/8 g/8 g g/8
+
+# measure 4
+soprano    b g/8 a d-/8
+alto       f# f#/8 e d/8
+tenor      d d/8 c c/8
+bass       d d/8 d d/8
+
+# measure 5
+soprano    g g/8 a a/8
+alto       d d/8 e/8 f#/8 e/8
+tenor      b b/8 c/8 d/8 c/8
+bass       g- g-/8 g- g-/8
+
+# measure 6
+soprano    b/8 g/8 b/8 a a/8
+alto       d d/8 e e/8
+tenor      b b/8 c c/8
+bass       g- g-/8 d d/8
+
+# measure 7
+soprano    d/8 c/8 b/8 a c/8
+alto       g f#/8 e g/8
+tenor      b d/8 c e+/8
+bass       g g/8 g g/8
+
+# measure 8
+soprano    b a/8 g.
+alto       f# e/8 d.
+tenor      d c/8 b.
+bass       d d/8 g-.
+
+# measure 9
+soprano    e e/8 f# f#/8
+alto       b b/8 d d/8
+tenor      g g/8 a a/8
+bass       e e/8 d d/8
+
+# measure 10
+soprano    g f#/8 e e/8
+alto       b d/8 c b/8
+tenor      g b/8 g g/8
+bass       e b/8 c e/8
+
+# measure 11
+soprano    b c/8 b a/8
+alto       d e/8 f# e/8
+tenor      f# a/8 d c/8
+bass       b a/8 b c/8
+
+# measure 12
+soprano    g f#/8 e d-/8
+alto       d d/8 e d/8
+tenor      a b/8 c d-/8
+bass       d d/8 d d/8
+
+# measure 13
+soprano    g g/8 a.
+alto       g g/8 f#.
+tenor      g g/8 d.
+bass       g g/8 d.
+
+# measure 14
+soprano    b/8 g/8 b/8 a.
+alto       g. f#.
+tenor      d. d.
+bass       g b+/8 d+ c+/8
+
+# measure 15
+soprano    d/8 c/8 b/8 a c/8
+alto       g/8 a+/8 g/8 f# a+/8
+tenor      d d/8 d e+/8
+bass       b+/8 f#/8 g/8 d a/8
+
+# measure 16
+soprano    b g/8 a.
+alto       g/8 f#/8 e/8 f#.
+tenor      d e+/8 d c/8
+bass       b c/8 d.
+
+# measure 17
+soprano    g/2.
+alto       g/2.
+tenor      b/2.
+bass       g-/2.
+
+
+

@@ -1,0 +1,129 @@
+title      Jesus, Priceless Treasure
+author     Johann Wolfgang Franck, 1653; tr. Catherine Winkworth, 1863JESU, MEINE FREUDE
+composer   Johann Crüger, 1653; harm. Johann Sebastian Bach, 1723
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/431%20Jesus,%20Priceless%20Treasure.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g g f eb
+alto       eb d c/8 bn/8 c
+tenor      c g ab/8 d-/8 eb
+bass       c bb ab. g-/8
+
+# measure 2
+soprano    d-/2 c-/2
+alto       c bn g-/2
+tenor      ab g/8 f/8 eb/2
+bass       f- g- c/2
+
+# measure 3
+soprano    g an bb g
+alto       eb/8 d/8 c bb bb
+tenor      c/8 bb/8 an/8 g/8 f eb/8 f/8
+bass       c f/8 eb/8 d eb/8 d/8
+
+# measure 4
+soprano    c/2 bn/2
+alto       eb/8 f/8 g g/2
+tenor      g eb+ d/2
+bass       c/8 d/8 eb/8 f/8 g/2
+
+# measure 5
+soprano    c/8 d/8 eb+ d. d/8
+alto       eb/8 f/8 g g. f/8
+tenor      c c c bn
+bass       ab+ g/8 f/8 g g-
+
+# measure 6
+soprano    c/1
+alto       eb/1
+tenor      g/1
+bass       c/1
+
+# measure 7
+soprano    g g f eb
+alto       eb d c/8 bn/8 c
+tenor      c g ab/8 d-/8 eb
+bass       c bb ab. g-/8
+
+# measure 8
+soprano    d-/2 c-/2
+alto       c bn g-/2
+tenor      ab g/8 f/8 eb/2
+bass       f- g- c/2
+
+# measure 9
+soprano    g an bb g
+alto       eb/8 d/8 c bb bb
+tenor      c/8 bb/8 an/8 g/8 f eb/8 f/8
+bass       c f/8 eb/8 d eb/8 d/8
+
+# measure 10
+soprano    c/2 bn/2
+alto       eb/8 f/8 g g/2
+tenor      g eb+ d/2
+bass       c/8 d/8 eb/8 f/8 g/2
+
+# measure 11
+soprano    c/8 d/8 eb+ d. d/8
+alto       eb/8 f/8 g g. f/8
+tenor      c c c bn
+bass       ab+ g/8 f/8 g g-
+
+# measure 12
+soprano    c/1
+alto       eb/1
+tenor      g/1
+bass       c/1
+
+# measure 13
+soprano    g g ab g
+alto       eb eb f eb
+tenor      c bb bb bb
+bass       c/8 d/8 eb d eb
+
+# measure 14
+soprano    f. eb/8 eb/2
+alto       eb d bb/2
+tenor      c bb/8 ab/8 g/2
+bass       ab bb eb-/2
+
+# measure 15
+soprano    g an bb g
+alto       eb eb f eb/8 f/8
+tenor      bb c bb bb
+bass       eb d/8 c/8 d eb/8 d/8
+
+# measure 16
+soprano    c bb/8 an/8 an/2
+alto       g g g f#
+tenor      eb+ d eb+ d/8 c/8
+bass       c g- c d
+
+# measure 17
+soprano    g/2 g g
+alto       d/2 eb d
+tenor      bn/2 c d/8 eb+/8
+bass       g-/2 c bb
+
+# measure 18
+soprano    f eb/8 d-/8 d-/2
+alto       c c c bn
+tenor      f+/8 f/8 g ab g/8 f/8
+bass       ab g- f- g-
+
+# measure 19
+soprano    c-/1
+alto       g-/1
+tenor      eb/1
+bass       c/1
+
+
+

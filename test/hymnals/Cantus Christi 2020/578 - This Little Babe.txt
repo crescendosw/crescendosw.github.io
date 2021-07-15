@@ -1,0 +1,93 @@
+title      This Little Babe
+author     Robert Southwell (1561-1596) DAS NEUGEBORNE KINDELEIN
+composer   Melchior Vulpius, 1609
+key        C
+tempo      101
+rhythm     6 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/578%20This%20Little%20Babe.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- d- d-
+alto       d d d
+tenor      a a b
+bass       d f g
+
+# measure 2
+soprano    a. g/8 f a g f
+alto       f. g/8 c f e d
+tenor      d c a c c a
+bass       d. e/8 f f- c d
+
+# measure 3
+soprano    e/2. a a b
+alto       c#/2. e f g
+tenor      a/2. c# d d
+bass       a/2. a+ d g
+
+# measure 4
+soprano    c/2 b a/2 g#
+alto       g/2 g e f e
+tenor      e+/2 d c# d b
+bass       c/2 g a+ d e
+
+# measure 5
+soprano    a/2. d- d- d-
+alto       e/2. d d d
+tenor      c#/2. a a b
+bass       a/2. d f g
+
+# measure 6
+soprano    a. g/8 f a g f
+alto       f. g/8 c f e d
+tenor      d c a c c a
+bass       d. e/8 f f- c d
+
+# measure 7
+soprano    e/2. a a b
+alto       c#/2. e f g
+tenor      a/2. c# d d
+bass       a/2. a+ d g
+
+# measure 8
+soprano    c/2 b a/2 g#
+alto       g/2 g e f e
+tenor      e+/2 d c# d b
+bass       c/2 g a+ d e
+
+# measure 9
+soprano    a/2. a g e
+alto       e/2. f d c#
+tenor      c#/2. cn b a
+bass       a/2. f g a+
+
+# measure 10
+soprano    f. g/8 a g f e
+alto       d c f e d c#
+tenor      a. g/8 c c a a
+bass       d. e/8 f c d a
+
+# measure 11
+soprano    f/2. c d c
+alto       d/2. f f f
+tenor      a/2. a bb a
+bass       d/2. f- bb f-
+
+# measure 12
+soprano    a. g/8 f e d- c#-
+alto       f. e/8 d b/2 a
+tenor      c/2 a g/2 e
+bass       f c d g-/2 a
+
+# measure 13
+soprano    d-/2.
+alto       a/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

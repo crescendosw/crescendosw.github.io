@@ -1,0 +1,58 @@
+title      Do You Speak Right Decrees, You Mute?
+author     Donald P. Owens II, 2011 (c) WIE NUN, IHR HERRN [BECKER 58]
+composer   Anonymous
+key        C
+tempo      145
+rhythm     0 : 4
+verse_count 5
+copyright  Text: Donald P. Owens II, 2011. All Rights Reserved. Used by permission. 111 Text: Crown & Covenant Publications, 1973. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/110%20Do%20You%20Speak%20Right%20Decrees%20-%20Psalm%2058%20Schutz.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 a f e/2 d-/2 f g a/2
+alto       d/2 d d c/2 bb/2 c e f/2
+tenor      f/2 f a a/2 f/2 a c c/2
+bass       d/2 d d a/2 bb/2 f- c f/2
+
+# measure 2
+soprano    a/2 b c a/2 g/2 f/8 g/8 a/2 g# a/1
+alto       e/2 g g f/2 e/2 d/2 e/2 e/1
+tenor      c/2 d e+ c/2 c/2 a/2 b/2 a/1
+bass       a+/2 g c f/2 c/2 d f e/2 a/1
+
+# measure 3
+soprano    d-/2 a f e/2 d-/2 f g a/2
+alto       d/2 d d c/2 bb/2 c e f/2
+tenor      f/2 f a a/2 f/2 a c c/2
+bass       d/2 d d a/2 bb/2 f- c f/2
+
+# measure 4
+soprano    a/2 b c a/2 g/2 f/8 g/8 a/2 g# a/1
+alto       e/2 g g f/2 e/2 d/2 e/2 e/1
+tenor      c/2 d e+ c/2 c/2 a/2 b/2 a/1
+bass       a+/2 g c f/2 c/2 d f e/2 a/1
+
+# measure 5
+soprano    f/2 bb a g/2 c/2 a g f/2
+alto       d/2 f f e/2 e/2 f e f/2
+tenor      a/2 d c c/2. a c c a/2
+bass       d/2 bb f- c/2 a/2 f- c f/2
+
+# measure 6
+soprano    g/2 c b a/2 d/2 b a g/2
+alto       e/2 e g f#/2 g/2 g f# g/2
+tenor      c/2 c d d/2. b d d b/2
+bass       c/2 a g- d/2 b/2 g- d g/2
+
+# measure 7
+soprano    b/2 e+ d c. b/8 a g f g e/2 d-/1
+alto       g/2 g g e. g/8 c e a d/2 c# d/1
+tenor      d/2 c b c. e+/8 a c f bb a/2 a/1
+bass       g/2 c g a+. e/8 f c d g- a/2 d/1
+
+
+

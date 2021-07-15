@@ -1,0 +1,52 @@
+title      O Lord and Master, Thou
+author     William Helder, 1979 (c) LE CANTIQUE DE SIMEON
+composer   Genevan Psalter, 1551; harm. Claude Goudimel, 1564
+key        F
+tempo      101
+rhythm     0 : 4
+verse_count 2
+copyright  Text: William Helder, 1979. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/730%20O%20Lord%20and%20Master,%20Thou.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c/2 d c bb/2 a/2 g/1
+alto       a+/2 bb+ a+/2 g/2 f# g/1
+tenor      f+/2 f+ f+ d/2 d/2 d/1
+bass       f/2 bb f g/2 d/2 g-/1
+
+# measure 2
+soprano    bb/2 a f g g f/1
+alto       g/2 f d e e f/1
+tenor      d/2 d a c c c/1
+bass       g-/2 d d c c f-/1
+
+# measure 3
+soprano    f/2 c c d c bb/2 a/1
+alto       c/2 f f f f f/2 f/1
+tenor      a/2 a a bb a d/2 c/1
+bass       f/2 f f bb f bb/2 f/1
+
+# measure 4
+soprano    c/2 a bb a g f/1
+alto       g/2 f f f e d/1
+tenor      e+/2 d d c c a/1
+bass       c/2 d bb f c d/1
+
+# measure 5
+soprano    f/2 d- e f d- c-/1
+alto       d/2 d c c bn c/1
+tenor      bb/2 f a a g g/1
+bass       bb/2 bb a f- g- c/1
+
+# measure 6
+soprano    f/2 g a bb a g/2 f/1
+alto       d/2 d f f f/2 e f/1
+tenor      bb/2 bb c d c c/2 c/1
+bass       bb/2 g- f- bb f- c/2 f-/1
+
+
+

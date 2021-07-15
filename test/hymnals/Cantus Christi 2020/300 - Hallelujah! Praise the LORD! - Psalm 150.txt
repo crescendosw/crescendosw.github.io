@@ -1,0 +1,64 @@
+title      Hallelujah! Praise the LORD!
+author     Dewey Westra, 1931; rev. (c)OR SOIT LOUÉ L'ETERNEL [GENEVAN 150]
+composer   Genevan Psalter, 1562; harm. Claude Goudimel, 1564 
+key        D
+tempo      165
+rhythm     0 : 4
+verse_count 3
+copyright  Text: Faith Alive Christian Resources, 1976. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/300%20Hallelujah!%20Praise%20the%20LORD!%20-%20Psalm%20150%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 f#/2 e d- f# g a/2
+alto       d/2 d/2 c# a d b e/2
+tenor      a/2 a/2 a f# d d c#/2
+bass       d/2 d/2 a d b b a/2
+
+# measure 2
+soprano    d-/2 f#/2 e d- f# g a/1
+alto       a/2 d/2 c# a d b e/1
+tenor      f#/2 a/2 a f# d d c#/1
+bass       d/2 d/2 a d b b a/1
+
+# measure 3
+soprano    f#/2 b/2 a d d c# d/2
+alto       d/2 f#/2 f# a+ b+ a+ a+/2
+tenor      a/2 d/2 c# f#+ e+ e+ f#+/2
+bass       d/2 b/2 f# f# g a+ d/2
+
+# measure 4
+soprano    a/2 d/2 b a a g# a/1
+alto       f#/2 f#/2 g f# e e f#/1
+tenor      d/2 a/2 d d c# b d/1
+bass       d/2 d/2 g- d a e d/1
+
+# measure 5
+soprano    f#/2 a/2 b a g f# e/2 d-/1
+alto       d/2 f#/2 g e e a a/2 a/1
+tenor      a/2 d/2 d c# e+ d/2 c# d/1
+bass       d/2 d/2 g- a cn d a/2 d/1
+
+# measure 6
+soprano    d-/2 g/2 f# e f# g a/1
+alto       b/2 d/2 d a d e f#/1
+tenor      f#/2 b/2 a a b b d/1
+bass       b/2 g-/2 d c# b e d/1
+
+# measure 7
+soprano    d-/2 g/2 f# e f# g a/1
+alto       b/2 d/2 d a d e f#/1
+tenor      f#/2 b/2 a a b b d/1
+bass       b/2 g-/2 d c# b e d/1
+
+# measure 8
+soprano    d/2 b/2 a g f# d- e/2 d-/1
+alto       f#/2 g/2 f# e d d/2 c# d/1
+tenor      a/2 d/2 d b b f# a/2 a/1
+bass       d/2 g-/2 d e b b a/2 d/1
+
+
+

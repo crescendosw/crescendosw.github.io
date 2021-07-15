@@ -1,0 +1,33 @@
+title      Offertory Sentence
+author     Holy Bible, tr. Miles Coverdale, 1535
+composer   Thomas Tallis, The Dorian Service, c. 1550
+key        C
+tempo      100
+rhythm     0 : 4
+verse_count 1
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/716%20Offertory%20Sentence%20-%20Tallis.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a a. a/8 a c/2 c b. a/8 a/2 g# a/2
+alto       f f. f/8 f e/2 e/8 f#/8 g. fn/8 c/8 d/8 e. d/8 c#/2
+tenor      a a. a/8 a c/2 c e+. d/8 a b/2 a/2
+bass       d f. e/8 d a+/2 a+ g. d/8 f e/2 a/2
+
+# measure 2
+soprano    a/2 g#/2 c c. c/8 c c c a b a/2 a/2
+alto       cn/2 e/2 e e. e/8 e e e f# d/2 c# d/2
+tenor      a/2 b/2 a g. g/8 g g a a g/8 f/8 e/8 d-/8 e f#/2
+bass       a/2 e/2 a c. c/8 c c a d g- a/2 d/2
+
+# measure 3
+soprano    a a. a/8 a a c. b/8 a b g/2 f#. f#/8 g a b a g g f#/1
+alto       R f f. f/8 f f e/2 c d b c# d. d/8 d cn d. c/8 b b d/1
+tenor      R d c. c/8 c d c/2 c b g/2 a. a/8 g e/8 f#/8 g a g g a/1
+bass       d f. f/8 f d a+. g/8 f g e/2 d. c/8 b a g- f#- g- g- d/1
+
+
+

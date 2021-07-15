@@ -1,0 +1,55 @@
+title      Psalm 61
+author     Holy Bible, King James Version, 1611
+composer   Mark Reagan, 2002 (c)
+key        Bb
+tempo      120
+rhythm     0 : 4
+# has multiple rythms
+verse_count 1
+copyright  Music: Mark Reagan, 2015. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/114%20Psalm%2061%20-%20Reagan%20prose.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+type       unison
+# needs accompaniment
+
+unison R/1. | R/1. | R/2 R | c- e f | g/2. f g b | c/2. b d c
+
+unison b c a/2 f/2 | g/2. d- g a | b/2. g b c | d/2. b e+ d
+
+unison c g/2 g b g | f f/2 e g f | e f d-/2 b-/2 | c-/2.(1) R
+
+unison e f ab g | f/2 | f g f d- | c-/2. R | f f | f g f | e d- e
+
+unison f e f | g f g |  ab g f. g/8 g/2 | f f e g f/8 g/8 | e f d-
+
+unison c-/2. R | c c/8 c/8 b c | db c ab | b/2 | b ab b | c. b/8 ab b
+
+unison ab g | f/2. R | f f/8 f/8 | e f g | ab g | f g e | f g/2 | f f
+
+unison f e f | g f f d- | c-/1 R/2 | R/1. | R/1. | R/1. | R/1.
+
+unison c- e f | g/2. f g b | c/2. b d c | b c a/2 f/2 | g/2. d- g a
+
+unison b/2. g b c | d/2. b e+ d | c g/2 g b g | f f/2 e g f | e f d-/2 b-/2 | c-/2.(1) R
+
+unison e | f f e f | ab g f/2 | f f | f/8 f/8 f f | f/8 g/8 e f
+
+unison g f e d- | c-/2. R | f f f | ab g e | f/2 | f/8 f/8 | f f
+
+unison g. f/8 e f e - d- | c-/2. R | c c/8 c/8 | c b c | db c | b c/2
+
+unison b. b/8 b | b ab b | c b b/8 c/8 | ab - g | f/2. R | f/8 f/8 f f
+
+unison f e f g ab g | e g/2 | f g f | g f/8 g/8 e d- | c-/2 R
+
+unison c- e f | g/2. f g b | c/2. b d c | b c a/2 f/2 | g/2. d- g a
+
+unison b/2. g b c | d/2. b e+ d | c g/2 g b g | f f/2 e g f | e f d-/2 b-/2 | c-/2.(1) R
+
+
+

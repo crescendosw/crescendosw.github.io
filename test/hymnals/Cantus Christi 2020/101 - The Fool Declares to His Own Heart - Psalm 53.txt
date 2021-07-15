@@ -1,0 +1,40 @@
+title      The Fool Declares to His Own Heart
+author     Rowland S. Ward, 1991; alt. (c)YORK
+composer   Scottish Psalter, 1615; arr. John Milton (1608-1674)
+key        F
+tempo      101
+rhythm     0 : 4
+verse_count 6
+copyright  Text: Rowland S. Ward, 1991. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/101%20The%20Fool%20Declares%20-%20Psalm%2053%20YORK.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 a c bb d a c g/2
+alto       c/2 f eb eb d d c c/2
+tenor      a/2 c c g f f en e/2
+bass       f/2 f c eb bb d a c/2
+
+# measure 2
+soprano    g/2 a c c bn c/2
+alto       e/2 f e/8 f/8 g g e/2
+tenor      c/2 c c d d c/2
+bass       c/2 f a+ g g c/2
+
+# measure 3
+soprano    f/2 a c bb d a c g/2
+alto       f/2 f eb eb d d c c/2
+tenor      a/2 c c g bb f a en/2
+bass       f/2 f c eb bb d a c/2
+
+# measure 4
+soprano    a/2 bb a g g f/2
+alto       c/2 d f f e f/2
+tenor      f/2 f a/8 bb/8 c c a/2
+bass       f/2 bb f c c f-/2
+
+
+

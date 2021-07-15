@@ -1,0 +1,159 @@
+title      Like a River Glorious
+author     Frances Ridley Havergal, 1878WYE VALLEY
+composer   James Mountain, 1876
+key        F
+tempo      100
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/440%20Like%20a%20River%20Glorious.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f g g
+alto       c c c c
+tenor      a a g g
+bass       f f e e
+
+# measure 2
+soprano    a/2 c/2
+alto       c/2 eb/2
+tenor      f/2 f/2
+bass       f/2 a/2
+
+# measure 3
+soprano    bb bb g g
+alto       d f c c
+tenor      f d- e e
+bass       bb bb c c
+
+# measure 4
+soprano    a/1
+alto       c/1
+tenor      f/1
+bass       f/1
+
+# measure 5
+soprano    f f g g
+alto       c c c c
+tenor      a a g g
+bass       f f e e
+
+# measure 6
+soprano    a/2 f/2
+alto       c/2 c/2
+tenor      f/2 f/2
+bass       f/2 a/2
+
+# measure 7
+soprano    e e d- d-
+alto       c c a bn
+tenor      g g f f
+bass       g- g- g- g-
+
+# measure 8
+soprano    c-/1
+alto       c/1
+tenor      e/1
+bass       c/1
+
+# measure 9
+soprano    c c c c
+alto       c f e f
+tenor      a a bb c
+bass       f f g a+
+
+# measure 10
+soprano    d/2 c/2
+alto       f/2 f/2
+tenor      bb/2 c/2
+bass       bb+/2 a+/2
+
+# measure 11
+soprano    bb bb a a
+alto       f e f f
+tenor      d c c c
+bass       g g f f
+
+# measure 12
+soprano    g/1
+alto       e/1
+tenor      c/1
+bass       c/1
+
+# measure 13
+soprano    a a g g
+alto       f f e e
+tenor      c c bb bb
+bass       f f c# c#
+
+# measure 14
+soprano    f/2 g/2
+alto       d/2 d/2
+tenor      a/2 g f
+bass       d/2 bn/2
+
+# measure 15
+soprano    a a g g
+alto       c f d e
+tenor      f a c bb
+bass       c c c c
+
+# measure 16
+soprano    f/1
+alto       f/1
+tenor      a/1
+bass       f/1
+
+# measure 17
+soprano    c c c c
+alto       c f e f
+tenor      g a bb c
+bass       e f g a+
+
+# measure 18
+soprano    d/2 c/2
+alto       f/2 f/2
+tenor      bb/2 c/2
+bass       bb+/2 a+/2
+
+# measure 19
+soprano    bb bb a a
+alto       f e f f
+tenor      d c c c
+bass       g g f f
+
+# measure 20
+soprano    g/1
+alto       e/1
+tenor      c/1
+bass       c/1
+
+# measure 21
+soprano    a a g g
+alto       f f e e
+tenor      c c bb bb
+bass       f f c# c#
+
+# measure 22
+soprano    f/2 g/2
+alto       d/2 d/2
+tenor      a/2 g f
+bass       d/2 bn/2
+
+# measure 23
+soprano    a a g g
+alto       c f d e
+tenor      f a c bb
+bass       c c c c
+
+# measure 24
+soprano    f/1
+alto       f/1
+tenor      a/1
+bass       f/1
+
+
+

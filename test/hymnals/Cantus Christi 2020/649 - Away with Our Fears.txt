@@ -1,0 +1,147 @@
+title      Away with Our Fears
+author     Charles Wesley (1707-1788)ARDWICK
+composer   Henry J. Gauntlett (1805-1876)
+key        Eb
+tempo      101
+rhythm     3 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/649%20Away%20with%20Our%20Fears.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb
+alto       eb
+tenor      g
+bass       eb
+
+# measure 2
+soprano    g eb c-
+alto       eb bb ab
+tenor      bb eb eb
+bass       eb g- ab
+
+# measure 3
+soprano    bb-/2 eb
+alto       g-/2 eb
+tenor      eb/2 bb
+bass       eb/2 g
+
+# measure 4
+soprano    eb d- f
+alto       bb bb d
+tenor      ab ab ab
+bass       f f bb
+
+# measure 5
+soprano    f eb g
+alto       d eb eb
+tenor      ab g bb
+bass       eb/2 eb
+
+# measure 6
+soprano    bb ab g
+alto       f f eb
+tenor      bb bb bb
+bass       d d eb
+
+# measure 7
+soprano    f/2 f
+alto       d/2 d
+tenor      bb/2 bb
+bass       bb/2 bb
+
+# measure 8
+soprano    g ab bb
+alto       eb eb eb
+tenor      bb ab g
+bass       eb f g
+
+# measure 9
+soprano    c d eb+
+alto       eb f g
+tenor      c ab bb
+bass       ab+ f eb
+
+# measure 10
+soprano    eb+ g f
+alto       g eb d
+tenor      bb bb ab
+bass       bb bb bb
+
+# measure 11
+soprano    eb/2
+alto       eb/2
+tenor      g/2
+bass       eb/2
+
+# measure 12
+soprano    bb
+alto       eb
+tenor      g
+bass       eb
+
+# measure 13
+soprano    g eb c-
+alto       eb bb ab
+tenor      bb eb eb
+bass       eb g- ab
+
+# measure 14
+soprano    bb-/2 eb
+alto       g-/2 eb
+tenor      eb/2 bb
+bass       eb/2 g
+
+# measure 15
+soprano    eb d- f
+alto       bb bb d
+tenor      ab ab ab
+bass       f f bb
+
+# measure 16
+soprano    f eb g
+alto       d eb eb
+tenor      ab g bb
+bass       eb/2 eb
+
+# measure 17
+soprano    bb ab g
+alto       f f eb
+tenor      bb bb bb
+bass       d d eb
+
+# measure 18
+soprano    f/2 f
+alto       d/2 d
+tenor      bb/2 bb
+bass       bb/2 bb
+
+# measure 19
+soprano    g ab bb
+alto       eb eb eb
+tenor      bb ab g
+bass       eb f g
+
+# measure 20
+soprano    c d eb+
+alto       eb f g
+tenor      c ab bb
+bass       ab+ f eb
+
+# measure 21
+soprano    eb+ g f
+alto       g eb d
+tenor      bb bb ab
+bass       bb bb bb
+
+# measure 22
+soprano    eb/2
+alto       eb/2
+tenor      g/2
+bass       eb/2
+
+
+

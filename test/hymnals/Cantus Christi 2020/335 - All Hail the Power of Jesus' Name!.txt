@@ -1,0 +1,105 @@
+title      All Hail the Power of Jesus' Name!
+author     st. 1-5, Edward Perronet, 1780; st. 6 & 7, John Rippon, 1787CORONATION
+composer   Oliver Holden, 1793
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/335%20All%20Hail%20the%20Power%20CORONATION.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c-
+alto       c
+tenor      c-
+bass       c
+
+# measure 2
+soprano    f f a a
+alto       a c c f
+tenor      f a c c
+bass       f f f f
+
+# measure 3
+soprano    g f g a
+alto       e f e f
+tenor      c a c c
+bass       c d c a
+
+# measure 4
+soprano    g f a g
+alto       e f f e
+tenor      bb a c bb
+bass       c d c c
+
+# measure 5
+soprano    f/2. g
+alto       f/2. c
+tenor      a/2. g
+bass       f/2. c
+
+# measure 6
+soprano    a g f a
+alto       f c a f
+tenor      a g f a
+bass       f c a f
+
+# measure 7
+soprano    c/8 bb/8 a/8 g/8 a c
+alto       a+/8 g/8 f/8 e/8 f e
+tenor      c/8 bb/8 a/8 g/8 a g
+bass       a+/8 g/8 f/8 e/8 f c
+
+# measure 8
+soprano    c/2 c/2
+alto       f/2 g/2
+tenor      a/2 g/2
+bass       f/2 e/2
+
+# measure 9
+soprano    d/2 c bn
+alto       f/2 e d
+tenor      a/2 g/2
+bass       d/2 g-/2
+
+# measure 10
+soprano    c/2. a
+alto       e/2. f
+tenor      g/2. f
+bass       c/2. f
+
+# measure 11
+soprano    c a f a
+alto       c f c f
+tenor      a c c c
+bass       f f a+ f
+
+# measure 12
+soprano    g/8 f/8 g/8 a/8 g f
+alto       e/8 d/8 e/8 f/8 e f
+tenor      c g c a
+bass       c c c d
+
+# measure 13
+soprano    c/2 bb/2
+alto       f/2 d/2
+tenor      f/2 f/2
+bass       a/2 bb/2
+
+# measure 14
+soprano    a. bb/8 g g
+alto       c/2. e
+tenor      f. g/8 e/8 g/8 bb
+bass       c/2. c
+
+# measure 15
+soprano    f/2.
+alto       f/2.
+tenor      a/2.
+bass       f/2.
+
+
+

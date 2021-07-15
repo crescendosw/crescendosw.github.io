@@ -1,0 +1,66 @@
+title      Amidst Thy Wrath
+author     Isaac Watts (1674-1748)REMEMBER LOVE
+composer   Michael E. Owens, 2008
+key        D
+tempo      90
+rhythm     4 : 4
+verse_count 10
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/75%20Amidst%20Thy%20Wrath%20-%20Psalm%2038%20REMEMBER%20LOVE.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f#/8
+alto       d/8
+tenor      f#/8
+bass       f#/8
+
+# measure 2
+soprano    f# f# f#. e/8
+alto       d d c#. c#/8
+tenor      a a a. f#/8
+bass       d d f#. f#/8
+
+# measure 3
+soprano    f# a f#. f#/8
+alto       d d c#. c#/8
+tenor      a a a. a/8
+bass       d d f#. f#/8
+
+# measure 4
+soprano    b b c#. a/8
+alto       d d e. f#/8
+tenor      b f# a c#
+bass       b b f#. f#/8
+
+# measure 5
+soprano    f#/2. R/8 a/8
+alto       d/2. R/8 f#/8
+tenor      b/2. R/8 f#/8
+bass       b/2. R/8 a/8
+
+# measure 6
+soprano    d d c# f#
+alto       g g e c#
+tenor      b b a f#
+bass       g- g- a a
+
+# measure 7
+soprano    b b a. b/8
+alto       d e f#. e/8
+tenor      g a a. c#/8
+bass       b c# d. g/8
+
+# measure 8
+soprano    a d- d-. e/8
+alto       f# d d d
+tenor      d b f# b
+bass       f# d b g-
+
+# measure 9
+soprano    f#/2.
+alto       d/2.
+tenor      a/2.
+bass       d/2.

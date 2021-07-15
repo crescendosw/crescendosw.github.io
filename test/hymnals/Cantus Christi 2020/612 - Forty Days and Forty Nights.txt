@@ -1,0 +1,63 @@
+title      Forty Days and Forty Nights
+author     George Hunt Smyttan, 1856HEINLEIN
+composer   attr. Martin Herbst, 1676
+key        F
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/612%20Forty%20Days%20and%20Forty%20Nights.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a a d- e
+alto       d d d c#
+tenor      f f/8 g/8 a a
+bass       d d/8 e/8 f a+
+
+# measure 2
+soprano    f g a/2
+alto       d. e/8 d c#
+tenor      a. g/8 e/2
+bass       d/8 c/8 bb a/2
+
+# measure 3
+soprano    a a/8 bn/8 c c
+alto       d d/8 f/8 e f
+tenor      f/8 g/8 a/8 d/8 c a
+bass       d/8 e/8 f/8 g/8 a+ f/8 e/8
+
+# measure 4
+soprano    bn. a/8 a/2
+alto       f/8 e/8 d c#/2
+tenor      a g# a/2
+bass       d e a/2
+
+# measure 5
+soprano    a a bb bb
+alto       f# f# g g/8 fn/8
+tenor      a d d d
+bass       d/8 c/8 bb/8 a/8 g- bb
+
+# measure 6
+soprano    g g a/2
+alto       e/8 d/8 c c/2
+tenor      c. bb/8 a/2
+bass       c e f/2
+
+# measure 7
+soprano    a a g f
+alto       c/8 bb/8 c/8 d/8 e d
+tenor      a/8 g/8 a/8 bb/8 c a
+bass       f f c d
+
+# measure 8
+soprano    e. e/8 d-/2
+alto       d c# d/2
+tenor      a/8 g/8 e f/2
+bass       a a d/2
+
+
+

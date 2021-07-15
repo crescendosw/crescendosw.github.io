@@ -1,0 +1,159 @@
+title      Faith of Our Fathers! Living Still
+author     Frederick W. Faber, 1849ST. CATHERINE (Hemy)
+composer   Henri F. Hemy, 1864; adapt. James G. Walton, 1874
+key        G
+tempo      100
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/669%20Faith%20of%20Our%20Fathers.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b a g
+alto       d d d
+tenor      d c b
+bass       g g g
+
+# measure 2
+soprano    g f# g
+alto       d/2 d
+tenor      b c b
+bass       g a+ g
+
+# measure 3
+soprano    a e f#
+alto       e/2 d
+tenor      c/2 a
+bass       c/2 d
+
+# measure 4
+soprano    g/2.
+alto       d/2.
+tenor      b/2.
+bass       g-/2.
+
+# measure 5
+soprano    g f# e
+alto       e d c
+tenor      g g g
+bass       c c e
+
+# measure 6
+soprano    d-/2 g
+alto       b/2 d
+tenor      b/2 b
+bass       g/2 g
+
+# measure 7
+soprano    g f# g
+alto       c#/2 c#
+tenor      g/2 g
+bass       e/2 e
+
+# measure 8
+soprano    a/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+# measure 9
+soprano    b a g
+alto       d d d
+tenor      g c b
+bass       g g g
+
+# measure 10
+soprano    g f# g
+alto       d/2 d
+tenor      b a g
+bass       d c b
+
+# measure 11
+soprano    a e f#
+alto       e/2 d
+tenor      c/2 a
+bass       a/2 d
+
+# measure 12
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       e/2.
+
+# measure 13
+soprano    g f# e
+alto       e d c
+tenor      g g g
+bass       c c e
+
+# measure 14
+soprano    d-/2 b
+alto       b/2 d
+tenor      g/2 g
+bass       g/2 b
+
+# measure 15
+soprano    a b a
+alto       e/2 c
+tenor      g/2 f#
+bass       c/2 d
+
+# measure 16
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g/2.
+
+# measure 17
+soprano    c c c
+alto       g g g
+tenor      c e+ c
+bass       e c e
+
+# measure 18
+soprano    b/2 b
+alto       g/2 g
+tenor      d/2 d
+bass       g/2 g
+
+# measure 19
+soprano    a/2 a
+alto       g/2 f#
+tenor      d/2 d
+bass       d/2 d
+
+# measure 20
+soprano    b/2.
+alto       g/2.
+tenor      d/2.
+bass       g/2.
+
+# measure 21
+soprano    b a g
+alto       b c d
+tenor      g g g
+bass       g- a b
+
+# measure 22
+soprano    e/2 g
+alto       c/2 b
+tenor      g/2 g
+bass       c/2 e
+
+# measure 23
+soprano    a/2 a
+alto       d/2 d
+tenor      g/2 f#
+bass       d/2 d
+
+# measure 24
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+
+

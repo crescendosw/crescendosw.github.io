@@ -1,0 +1,93 @@
+title      When Christ Our Lord Had Passed
+author     Anon., 300's; tr. Percy A. Dearmer, 1906GONFALON ROYAL
+composer   Percy C. Buck (1871-1947)
+key        G
+tempo      101
+rhythm     0 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/658%20When%20Christ%20Our%20Lord%20Had%20Passed.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-
+alto       b
+tenor      g
+bass       g
+
+# measure 2
+soprano    e g c b/8 a/8
+alto       b c e d
+tenor      g e g f#
+bass       e c a d
+
+# measure 3
+soprano    b g e/2 =
+alto       d d c d
+tenor      g g g g#
+bass       g- b c b
+
+# measure 4
+soprano    e e a f#
+alto       c c c d
+tenor      a a d- a
+bass       a g- f#- c
+
+# measure 5
+soprano    d- g c/8 b/8 a/8 g/8
+alto       d d d c#
+tenor      a g g g
+bass       b b e e
+
+# measure 6
+soprano    a/2. a
+alto       d/2. fn
+tenor      g f# fn d/8 c/8
+bass       d/2. d
+
+# measure 7
+soprano    d b g. g/8
+alto       fn fn e. e/8
+tenor      b/8 c/8 d d c/8 b/8
+bass       g- g- c c
+
+# measure 8
+soprano    c a f# e/8 f#/8
+alto       e e d# c#/8 d#/8
+tenor      a/8 b/8 c b b
+bass       f# f# b b
+
+# measure 9
+soprano    g/8 a/8 b/8 a/8 c b
+alto       e fn e d
+tenor      b b a f#/8 g#/8
+bass       e d a b
+
+# measure 10
+soprano    a e d-/2.
+alto       e c a/2.
+tenor      a g/2 f#/2
+bass       c a d/2.
+
+# measure 11
+soprano    d-
+alto       b
+tenor      b
+bass       g
+
+# measure 12
+soprano    e g a/2
+alto       b e/8 d/8 c a
+tenor      g/2. f#
+bass       e c/8 b/8 a d
+
+# measure 13
+soprano    g/2.
+alto       b/2.
+tenor      g/2.
+bass       g-/2.
+
+
+

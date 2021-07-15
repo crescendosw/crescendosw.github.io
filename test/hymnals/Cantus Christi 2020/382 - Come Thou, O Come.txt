@@ -1,0 +1,99 @@
+title      Come Thou, O Come
+author     Anselm of Canterbury (1033-1109); tr. Gerard Moultrie (1829-1885)HERSTMONCEUX
+composer   Ebenezer Prout (1835-1909)
+key        G
+tempo      115
+rhythm     0 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/382%20Come%20Thou,%20O%20Come.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    b/2 a g
+alto       d/2 c b
+tenor      g d- e/8 f#/8 g
+bass       g-/2 g- g-
+
+# measure 2
+soprano    d-/1
+alto       c/1
+tenor      g/2 f#/2
+bass       a/1
+
+# measure 3
+soprano    g/2 a c
+alto       d/2 e c
+tenor      g/2 g g
+bass       b/2 c e
+
+# measure 4
+soprano    b. a/8 a/2
+alto       d. d/8 d/2
+tenor      g. f#/8 f#/2
+bass       d. d/8 d/2
+
+# measure 5
+soprano    d/2 c b
+alto       d/2 e d
+tenor      g/2 g g
+bass       b/2 c d
+
+# measure 6
+soprano    b. a/8 a/2 =
+alto       d. c#/8 c#/2 =
+tenor      g. g/8 g/2 =
+bass       e. e/8 e/2 =
+
+# measure 7
+soprano    a g f# g
+alto       c# c# c# c#
+tenor      g g a g
+bass       e e e e
+
+# measure 8
+soprano    b/2. a
+alto       e d b c#
+tenor      g/2. e
+bass       a/2 a/2
+
+# measure 9
+soprano    a/1
+alto       d/1
+tenor      f#/1
+bass       d/1
+
+# measure 10
+soprano    a/2 b c
+alto       d/2 d d
+tenor      f#/2 f# a
+bass       c/2 d c
+
+# measure 11
+soprano    d. b/8 g/2 g/2
+alto       d. d/8 g/2 g fn
+tenor      b. g/8 d/2 b/2
+bass       b. b/8 b/2 g/2
+
+# measure 12
+soprano    e+ d c b
+alto       e fn g g
+tenor      c b c d
+bass       c d e d
+
+# measure 13
+soprano    a/2. b
+alto       g/2 f#/2
+tenor      e+/2 d/2
+bass       c/2 d/2
+
+# measure 14
+soprano    b/1
+alto       g/1
+tenor      d/1
+bass       g/1
+
+
+

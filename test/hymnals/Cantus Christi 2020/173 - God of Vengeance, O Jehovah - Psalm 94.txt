@@ -1,0 +1,112 @@
+title      God of Vengeance, O Jehovah
+author     The Book of Psalms for Singing, 1973; alt. (c)AUSTRIAN HYMN
+composer   Franz Joseph Haydn, 1797
+key        Eb
+tempo      101
+rhythm     4 : 4
+verse_count 6
+copyright  Text: Crown & Covenant Publications, 1973. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/173%20God%20of%20Vengeance%20-%20Psalm%2094%20AUSTRIAN%20HYMN.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb. f/8 g f
+alto       bb. bb/8 eb d
+tenor      g. ab/8 bb bb
+bass       eb. eb/8 eb bb
+
+# measure 2
+soprano    ab g f/8 d-/8 eb
+alto       bb bb bb bb
+tenor      f g ab g
+bass       d eb bb eb
+
+# measure 3
+soprano    c bb ab g
+alto       eb eb f eb
+tenor      ab bb bb bb
+bass       ab+ g d eb
+
+# measure 4
+soprano    f g/8 eb/8 bb/2
+alto       c eb d/2
+tenor      c c bb/2
+bass       ab an bb/2
+
+# measure 5
+soprano    eb. f/8 g f
+alto       bb. bb/8 eb d
+tenor      g. ab/8 bb bb
+bass       eb. eb/8 eb bb
+
+# measure 6
+soprano    ab g f/8 d-/8 eb
+alto       bb bb bb bb
+tenor      f g ab g
+bass       d eb bb eb
+
+# measure 7
+soprano    c bb ab g
+alto       eb eb f eb
+tenor      ab bb bb bb
+bass       ab+ g d eb
+
+# measure 8
+soprano    f g/8 eb/8 bb/2
+alto       c eb d/2
+tenor      c c bb/2
+bass       ab an bb/2
+
+# measure 9
+soprano    f g f/8 d-/8 bb-
+alto       bb bb bb bb
+tenor      d- eb d- d-
+bass       bb bb bb bb
+
+# measure 10
+soprano    ab g f/8 d-/8 bb-
+alto       bb bb bb bb
+tenor      f g d- d-
+bass       d eb bb bb/8 ab/8
+
+# measure 11
+soprano    bb ab g. g/8
+alto       bb c/8 d/8 eb. eb/8
+tenor      g f eb. c/8
+bass       g- ab/8 bb/8 c. c/8
+
+# measure 12
+soprano    an. an/8 bb/2
+alto       eb. eb/8 d/2
+tenor      c. c/8 bb/2
+bass       f. f/8 bb/2
+
+# measure 13
+soprano    eb+. d/8 c bb
+alto       eb. eb/8 eb eb
+tenor      bb. bb/8 ab g
+bass       g. g/8 ab+ eb
+
+# measure 14
+soprano    c. bb/8 bb/8 ab/8 g
+alto       eb. eb/8 d eb
+tenor      ab. bb/8 bb bb
+bass       ab+. g/8 f eb
+
+# measure 15
+soprano    f g/8 ab/8 bb/8 c/8 ab/8 f/8
+alto       d d eb c
+tenor      bb bb bb/8 eb/8 c/8 ab/8
+bass       bb ab g- ab
+
+# measure 16
+soprano    eb g/8 f/8 eb/2
+alto       bb d eb/2
+tenor      g bb/8 ab/8 g/2
+bass       bb bb eb/2
+
+
+

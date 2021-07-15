@@ -1,0 +1,87 @@
+title      Let Us Love and Sing and Wonder
+author     John Newton, 1774ALL SAINTS (Darmstadt)
+composer   Darmstadt Gesangbuch, 1698; arr.
+key        C
+tempo      100
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/503%20Let%20Us%20Love%20and%20Sing%20and%20Wonder.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c g a a
+alto       e g f f
+tenor      g c c d
+bass       c e f d/8 c/8
+
+# measure 2
+soprano    g. f/8 e c-
+alto       d b c c
+tenor      g g g e
+bass       b g- c c
+
+# measure 3
+soprano    g a/8 b/8 c b
+alto       d d c d
+tenor      g f#/8 g/8 g g
+bass       b d/8 g/8 e d
+
+# measure 4
+soprano    a a g/2
+alto       e d/8 c/8 b/2
+tenor      g f# g/2
+bass       c d g/2
+
+# measure 5
+soprano    c g a a
+alto       c e f f
+tenor      g c c d
+bass       e c f d/8 c/8
+
+# measure 6
+soprano    g. f/8 e c-
+alto       d b c c
+tenor      g g g e
+bass       b g- c c
+
+# measure 7
+soprano    g a/8 b/8 c b
+alto       d d c d
+tenor      g f#/8 g/8 g g
+bass       b d/8 g/8 e d
+
+# measure 8
+soprano    a a g/2
+alto       e d/8 c/8 b/2
+tenor      g f# g/2
+bass       c d g-/2
+
+# measure 9
+soprano    d d d c/8 d/8
+alto       g a+ g g
+tenor      b d/8 c/8 b c/8 b/8
+bass       g f# g/8 fn/8 e/8 d/8
+
+# measure 10
+soprano    e+ d/8 c/8 d/2
+alto       g g g/2
+tenor      c b/8 c/8 b/2
+bass       c g/8 e/8 g/2
+
+# measure 11
+soprano    c g a/8 b/8 c
+alto       e g f e
+tenor      c c c c
+bass       a+ e f a+
+
+# measure 12
+soprano    d d c/2
+alto       a+ g/8 f/8 e/2
+tenor      c b c/2
+bass       f g c/2
+
+
+

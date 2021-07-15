@@ -1,0 +1,159 @@
+title      Holy God, We Praise Thy Name
+author     German, 1700's; tr. Clarence A. Walworth (1820-1900)GROSSER GOTT
+composer   Allegemeines Katholisches Gesangbuch, 1774
+key        F
+tempo      125
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/324%20Holy%20God,%20We%20Praise%20Thy%20Name.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/2 f
+alto       c/2 c
+tenor      a/2 a
+bass       f/2 f
+
+# measure 2
+soprano    f e f
+alto       c/2 c
+tenor      g/2 c
+bass       c/2 a
+
+# measure 3
+soprano    g f g
+alto       d/2 e
+tenor      g a c
+bass       bb d c
+
+# measure 4
+soprano    a/2.
+alto       f/2.
+tenor      c/2.
+bass       f/2.
+
+# measure 5
+soprano    a/2 a
+alto       f/2 g
+tenor      c/2 c#
+bass       f/2 e
+
+# measure 6
+soprano    a bb c
+alto       f/2 g
+tenor      d/2 e+
+bass       d/2 c
+
+# measure 7
+soprano    c bb a
+alto       f/2 f
+tenor      c d c
+bass       a bb f
+
+# measure 8
+soprano    a g R
+alto       f e R
+tenor      c c R
+bass       f c R
+
+# measure 9
+soprano    f/2 f
+alto       c/2 c
+tenor      a/2 a
+bass       f/2 f
+
+# measure 10
+soprano    f e f
+alto       c/2 c
+tenor      g/2 c
+bass       c/2 a
+
+# measure 11
+soprano    g f g
+alto       d/2 e
+tenor      g a c
+bass       bb d c
+
+# measure 12
+soprano    a/2.
+alto       f/2.
+tenor      c/2.
+bass       f/2.
+
+# measure 13
+soprano    a/2 a
+alto       f/2 g
+tenor      c/2 c#
+bass       f/2 e
+
+# measure 14
+soprano    a bb c
+alto       f/2 g
+tenor      d/2 e+
+bass       d/2 c
+
+# measure 15
+soprano    c bb a
+alto       f/2 f
+tenor      c d c
+bass       a bb f
+
+# measure 16
+soprano    a g R
+alto       f e R
+tenor      c c R
+bass       f c R
+
+# measure 17
+soprano    g/2 a
+alto       e/2 f#
+tenor      c/2 c
+bass       c bb a
+
+# measure 18
+soprano    bb a g
+alto       g f e
+tenor      d c c
+bass       g- a c
+
+# measure 19
+soprano    a/2 bb
+alto       f/2 f
+tenor      c/2 d
+bass       f e d
+
+# measure 20
+soprano    c/2.
+alto       g/2.
+tenor      e+/2.
+bass       c/2.
+
+# measure 21
+soprano    d/2 d
+alto       f/2 g
+tenor      bb/2 bb
+bass       bb/2 g
+
+# measure 22
+soprano    c bb a
+alto       g/2 f
+tenor      c/2 c
+bass       e/2 f
+
+# measure 23
+soprano    bb a g
+alto       d f e
+tenor      bb c c
+bass       g- a/8 bb/8 c
+
+# measure 24
+soprano    f/2.
+alto       c/2.
+tenor      a/2.
+bass       f/2.
+
+
+

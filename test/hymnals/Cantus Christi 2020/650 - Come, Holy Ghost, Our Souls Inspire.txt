@@ -1,0 +1,59 @@
+title      Come, Holy Ghost, Our Souls Inspire
+hymnal     Cantus Christi
+author     Based on Veni, Creator Spiritus, c. 9th century
+author     attr. Rhanabus Maurus, 776-856
+translator John Cosin, 1627
+copyright  music: acc. C. Wilfred Douglas (1867-1944), Copyright Church Pension Fund.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/650%20Come,%20Holy%20Ghost,%20Our%20Souls%20Inspire.pdf
+
+tune       VENI, CREATOR SPIRITUS
+metre      L.M.
+composer   Plainsong (Mode VIII)
+key        A
+rhythm     0 : 4
+tempo      80
+type       unison
+
+status     header  tune  double  checked  lyrics
+
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+voice      unison  E4 to D5
+
+unison     e/8 f/8 e/8 d-/8 e/8 f/8 e/8 a/8 b/8 a/2
+
+unison     a/8 e/8 f/8 a/8 b/8 a/8 b/8 c/8 b/2
+
+unison     a/8 b/8 c/8 a/8 g/8 f/8 e/8 a/8 b/8 e/8 f/8 a/2
+
+unison     g/8 a/8 f/8 e/8 d-/8 f/8 f/8 g/8 f/8 e/8 d-/8 e/2
+
+unison     a/8 b/8 c/8 a/8 g/8 f/8 e/8 a/8 b/8 e/8 f/8 a/2
+
+unison     g/8 a/8 f/8 e/8 d-/8 f/8 f/8 g/8 f/8 e/8 d-/8 e/2 | e/8 f/8 e/8 d- - e
+
+verse      Come, Ho  -  ly Ghost, our  souls  in - spire
+verse      Thy  bless - ed  unc - tion from   a -  bove
+verse      A -  noint  and cheer  our  soil - ed   face
+verse      Teach us     to know   the   Fa - ther,  Son,
+
+verse      And light - en   with   ce - les - tial fire;
+verse      Is   com - fort, life,  and fire    of  love;
+verse      With the    a    bun - dance of    Thy  grace.
+verse      And Thee,   of   both,  to   be    but   One,
+
+verse      Thou   the    a - noint - ing   Spir - it   art,
+verse      En  -   a -  ble  with    per - pet -  ual light
+verse      Keep   far   our  foes;  give  peace   at  home;
+verse      That through the    a  -  ges   all    a - long
+
+verse      Who   dost   Thy sev'n - fold gifts   im - part.
+verse      The   dull - ness of     our  blind - ed   sight.
+verse      Where Thou   art guide,   no   ill   can   come.
+verse      This__       may  be     our   end - less  song:
+
+verse      Praise to thine e - ter - nal mer - it,
+
+verse      Fa - ther, Son, and Ho - ly Spir - it.  A - men.

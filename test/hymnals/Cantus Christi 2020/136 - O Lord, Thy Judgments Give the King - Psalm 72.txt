@@ -1,0 +1,103 @@
+title      O Lord, Thy Judgments Give the King
+author     Scottish Psalter, 1650EFFINGHAM
+composer   Musikalisches Hand-Buch, Hamburg, 1690
+key        Bb
+tempo      101
+rhythm     3 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/136%20O%20Lord,%20Thy%20Judgments%20-%20Psalm%2072%20EFFINGHAM.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f
+alto       d
+tenor      bb
+bass       bb
+
+# measure 2
+soprano    bb/2 f
+alto       f/2 d
+tenor      bb/2 bb
+bass       d/2 bb
+
+# measure 3
+soprano    g/2 g
+alto       eb/2 eb
+tenor      bb/2 bb
+bass       eb/2 eb
+
+# measure 4
+soprano    f/2 eb
+alto       d/2 c
+tenor      bb/2 a
+bass       f/2 f-
+
+# measure 5
+soprano    d-/2 d-
+alto       bb/2 bb
+tenor      bb/2 f
+bass       bb/2 bb
+
+# measure 6
+soprano    c-/2 f
+alto       c/2 d
+tenor      a/2 a
+bass       f/2 d
+
+# measure 7
+soprano    g f en
+alto       d c c
+tenor      bb a g
+bass       bb c c
+
+# measure 8
+soprano    f/2 f
+alto       c/2 c
+tenor      a/2 a
+bass       f/2 f/8 eb/8
+
+# measure 9
+soprano    bb/2 c
+alto       f/2 f
+tenor      bb/2 a
+bass       d/2 f
+
+# measure 10
+soprano    d/2 bb
+alto       f/2 d
+tenor      bb/2 bb
+bass       bb+/2 ab+
+
+# measure 11
+soprano    eb+/2 d
+alto       eb f f
+tenor      bb c bb
+bass       g a+ bb+
+
+# measure 12
+soprano    c/2 bb
+alto       f/2 d
+tenor      a/2 bb
+bass       f/2 bb
+
+# measure 13
+soprano    f/2 bb
+alto       f/2 d
+tenor      bb/2 bb
+bass       d/2 g
+
+# measure 14
+soprano    d/2 c
+alto       f/2 eb
+tenor      bb/2 a
+bass       f/2 f-
+
+# measure 15
+soprano    bb/2
+alto       d/2
+tenor      bb/2
+bass       bb/2
+

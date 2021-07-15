@@ -1,0 +1,44 @@
+title      Sing to the LORD with Exultation
+author     William Helder, 1972, 2007 (c)CHANTEZ À DIEU CHANSON [GENEVAN 96]
+composer   Genevan Psalter, 1562; harm. Claude LeJeune, 1601; alt.
+key        C
+tempo      165
+rhythm     0 : 4
+verse_count 8
+copyright  Text: William Helder, 2007. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/178%20Sing%20to%20the%20LORD%20with%20Exultation%20-%20Psalm%2096%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d/2 d d c/2 a/2 c d b/2 a/1
+alto       f/2 a+ g e/2 c/2 a+ a+ g#/2 a+/1
+tenor      a/2 a bb a c/2 f+/2 f+ e+/2 c#/1
+bass       d/2 f# g a+/2 fn/2 f d e/2 a/1
+
+# measure 2
+soprano    a/2 d d c/2 a/2 g f e/2 d-/1
+alto       f#/2 f# g g/2 fn/2 e d/2 c# d/1
+tenor      d/2 a d e+/2 c/2 c a a/2 f#/1
+bass       d/2 d b c/2 f-/2 c d a/2 d/1
+
+# measure 3
+soprano    f/2 e f g/2 a/2 f g a/1
+alto       a/2 e d d. e/8 f e f c c/1
+tenor      d-/2 a a d/2 c/2 a g f/1
+bass       d/2 c# d bb/2 a/2 d e f/1
+
+# measure 4
+soprano    e/2 f g a e g/2 f/2 e/1
+alto       c/2 c b d e/2 d d/2 c#/1
+tenor      a/2 a g f a/2 bb a/2 a/1
+bass       a/2 a e d c/2 g- d/2 a/1
+
+# measure 5
+soprano    a/2 g a d- e f g e/2 d-/1
+alto       cn/2 c c d c a d/2 c# d/1
+tenor      f/2 e e g g f bb a/2 f#/1
+bass       f-/2 c a b c d g- a/2 d/1
+

@@ -1,0 +1,190 @@
+title      We Worship Christ, the Cornerstone
+author     Douglas Bond, 2009 (c)
+composer   Gregory D. Wilbur, 2014 (c)
+key        E
+tempo      128
+rhythm     4 : 4
+verse_count 4
+copyright  Music: Gregory D. Wilbur, 2014. Used by permission. Text: Douglas Bond, 2009. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/492%20We%20Worship%20Christ,%20the%20Cornerstone.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g#/2 f#. e/8
+alto       e/2 b. b/8
+tenor      b/2 b. b/8
+bass       e/2 d#. d#/8
+
+# measure 2
+soprano    e/2. e
+alto       c#/2. c#
+tenor      g#/2 g#/2
+bass       c#/2 b/2
+
+# measure 3
+soprano    a/2 g#/2
+alto       e/2 e/2
+tenor      c#/2 b/2
+bass       f#-/2 g#-/2
+
+# measure 4
+soprano    f#/1
+alto       e/2 d#/2
+tenor      c#/2 b/2
+bass       a/2 b/2
+
+# measure 5
+soprano    b/2 e b
+alto       e/2 e e
+tenor      b/2 b b
+bass       g#-/2 g#- g#-
+
+# measure 6
+soprano    c# b a g#
+alto       e e e e
+tenor      a g# f# c#
+bass       a a a a
+
+# measure 7
+soprano    f#/1 =
+alto       e/1
+tenor      b/2 f#/2
+bass       b/1 =
+
+# measure 8
+soprano    f#/1
+alto       d#/1
+tenor      b/1
+bass       b/1
+
+# measure 9
+soprano    g#/2 f#. e/8
+alto       e/2 d#. e/8
+tenor      b/2 b#. b#/8
+bass       e/2 d#. d#/8
+
+# measure 10
+soprano    e/2. e
+alto       e/2 c#/2
+tenor      c#/2 g#/2
+bass       c#/2 b/2
+
+# measure 11
+soprano    a/2 g#/2
+alto       e/2 e/2
+tenor      c#/2 b/2
+bass       f#-/2 g#-/2
+
+# measure 12
+soprano    f#/1
+alto       e/2 d#/2
+tenor      c#/2 b/2
+bass       a/2 b/2
+
+# measure 13
+soprano    b/2 e b
+alto       e/2 e e
+tenor      b/2 b b
+bass       g#-/2 g#- g#-
+
+# measure 14
+soprano    c# b a b
+alto       e e e e
+tenor      a g# f# c#
+bass       a a a a
+
+# measure 15
+soprano    b/1 =
+alto       e/1
+tenor      b/2 f#/2
+bass       b/1 =
+
+# measure 16
+soprano    b/1
+alto       d#/1
+tenor      b/1
+bass       b/1
+
+# measure 17
+soprano    b/2 e+ d#
+alto       e/2 g# f#
+tenor      b/2 b b
+bass       g#-/2 g#- g#-
+
+# measure 18
+soprano    c#/2. b
+alto       e/2. e
+tenor      a/2. b
+bass       a/2. a
+
+# measure 19
+soprano    b/2 g# a
+alto       e/2 e/2
+tenor      e+/2 c#/2
+bass       g#-/2 c#/2
+
+# measure 20
+soprano    b/1
+alto       e/2 d#/2
+tenor      f#/2 b/2
+bass       b/1
+
+# measure 21
+soprano    b/2 e+ d#
+alto       e/2 b+ b+
+tenor      b/2 b b
+bass       g#-/2 g#- g#-
+
+# measure 22
+soprano    c# b a g#
+alto       a+ g# f# e
+tenor      c# e+ e+ c#
+bass       a a a a
+
+# measure 23
+soprano    f#/1 =
+alto       e/1
+tenor      b/2 f#/2
+bass       b/1  =
+
+# measure 24
+soprano    f#/1
+alto       d#/1
+tenor      b/1
+bass       b/1
+
+# measure 25
+soprano    g#/2 f#. e/8
+alto       e/2 b/2
+tenor      b/1
+bass       e/2 d#/2
+
+# measure 26
+soprano    e/1
+alto       c#/1
+tenor      g#/1
+bass       c#/2 b/2
+
+# measure 27
+soprano    a/2 g#/2
+alto       e/1
+tenor      c#/2 b/2
+bass       f#-/2 g#-/2
+
+# measure 28
+soprano    f#/2 e d#-
+alto       e/2 b/2
+tenor      c#/2 f#/2
+bass       a/2 b/2
+
+# measure 29
+soprano    e/1
+alto       b/1
+tenor      g#/1
+bass       e/1
+
+
+

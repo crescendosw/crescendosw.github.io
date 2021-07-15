@@ -1,0 +1,93 @@
+title      In Deep Distress I Oft Have Cried
+author     Nahum Tate & Nicholas Brady, 1696DRESDEN
+composer   Johannes Schmidlin, 1770; alt. 
+key        C
+tempo      101
+rhythm     4 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/230%20In%20Deep%20Distress%20I%20Oft%20-%20Psalm%20120%20DRESDEN.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    e
+alto       c
+tenor      a
+bass       a
+
+# measure 2
+soprano    c- e a g#
+alto       a c d e
+tenor      e a a b
+bass       a a+/8 g/8 f e/8 d/8
+
+# measure 3
+soprano    a b c e
+alto       e e e e
+tenor      a g# a a
+bass       c e a c
+
+# measure 4
+soprano    f# g# a b
+alto       e d c e
+tenor      a b a g#
+bass       d b f e
+
+# measure 5
+soprano    c d b b
+alto       e f e f#
+tenor      a a g# b
+bass       a+ d e d#
+
+# measure 6
+soprano    b a g f#
+alto       g f# e e
+tenor      b c b c
+bass       e d# e a
+
+# measure 7
+soprano    g f#      e(1.2) a
+alto       e d#      e(1.2) c
+tenor      b b/8 a/8 g(1.2) a
+bass       b b       e(1.2) a
+
+# measure 8
+soprano    e d- c- a
+alto       c b c c
+tenor      a g# a a
+bass       e e a+ f
+
+# measure 9
+soprano    e d- c- e
+alto       c b c c
+tenor      g g# a a
+bass       c e a a+
+
+# measure 10
+soprano    f f e a
+alto       d d c e
+tenor      a a a a
+bass       d f a+ c
+
+# measure 11
+soprano    b c b d
+alto       e e e d
+tenor      g# a g# a
+bass       b a e f
+
+# measure 12
+soprano    c b e+ d
+alto       e e e f
+tenor      a g# a a
+bass       e d c d
+
+# measure 13
+soprano    c b a(1.2)
+alto       e e/8 d/8 c(1.2)
+tenor      a g# a(1.2)
+bass       e e a(1.2)
+
+
+

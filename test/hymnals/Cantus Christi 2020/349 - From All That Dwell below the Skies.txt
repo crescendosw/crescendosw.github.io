@@ -1,0 +1,112 @@
+title      From All That Dwell below the Skies
+author     st. 1 & 2, Isaac Watts, 1719; st. 3, Anon.;  st. 4, Robert Spence, 1780
+composer   Anonymous
+key        G
+tempo      105
+rhythm     3 : 4
+verse_count 4
+copyright  Music: Gregory D. Wilbur, 2013. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/349%20From%20All%20That%20Dwell%20below%20the%20Skies.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- g f#
+alto       b d d
+tenor      g b a
+bass       g g d
+
+# measure 2
+soprano    g a b
+alto       d/2 d
+tenor      b/2 g
+bass       e/2 d
+
+# measure 3
+soprano    c b a
+alto       e g e
+tenor      g d c
+bass       c/2 c
+
+# measure 4
+soprano    b/2.
+alto       g/2.
+tenor      d/2.
+bass       g/2.
+
+# measure 5
+soprano    c b a
+alto       e d d
+tenor      a a a
+bass       a+ a+ f#
+
+# measure 6
+soprano    b/2 a
+alto       d/2 d
+tenor      g/2 a
+bass       g/2 f#
+
+# measure 7
+soprano    g/2 e
+alto       e/2 c
+tenor      b a g
+bass       e/2 g
+
+# measure 8
+soprano    d-/2.
+alto       a/2.
+tenor      g/2 f#
+bass       d/2.
+
+# measure 9
+soprano    d- g f#
+alto       b d d
+tenor      g g a
+bass       b b d
+
+# measure 10
+soprano    g a b
+alto       b/2 e
+tenor      e f# g
+bass       e/2 e
+
+# measure 11
+soprano    c b a
+alto       e/2 e
+tenor      a b c
+bass       a/2 a
+
+# measure 12
+soprano    b/2.
+alto       g/2.
+tenor      b/2.
+bass       e/2.
+
+# measure 13
+soprano    b a g
+alto       e e e
+tenor      g a e
+bass       c c c
+
+# measure 14
+soprano    d-/2.
+alto       d/2.
+tenor      f# g a
+bass       b/2.
+
+# measure 15
+soprano    d- g f#
+alto       g- e d
+tenor      b c a
+bass       c c d
+
+# measure 16
+soprano    g/2.
+alto       d/2.
+tenor      b/2.
+bass       g-/2.
+
+
+

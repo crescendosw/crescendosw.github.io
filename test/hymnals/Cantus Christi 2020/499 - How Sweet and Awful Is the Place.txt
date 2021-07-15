@@ -1,0 +1,105 @@
+title      How Sweet and Awful Is the Place
+author     Isaac Watts, 1707ST. COLUMBA
+composer   Old Irish hymn melody
+key        Eb
+tempo      150
+rhythm     6 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/499%20How%20Sweet%20and%20Awful%20Is%20the%20Place.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    eb f
+alto       bb/2
+tenor      g ab
+bass       eb/2
+
+# measure 2
+soprano    g/1 ab/2
+alto       eb/1 eb/2
+tenor      bb/1 ab/2
+bass       eb/2 d/2 c/2
+
+# measure 3
+soprano    bb/1 ab bb
+alto       d/1 eb f
+tenor      f/1 eb bb
+bass       bb/1 c d
+
+# measure 4
+soprano    g/1 f/2
+alto       f/2 eb/2 d/2
+tenor      bb/1 bb/2
+bass       eb/1 bb/2
+
+# measure 5
+soprano    eb/1 eb f
+alto       c/1 c d
+tenor      g/1 ab/2
+bass       c/1 ab/2
+
+# measure 6
+soprano    g/1 ab/2
+alto       eb/1 eb/2
+tenor      bb/1 c/2
+bass       eb/2 d/2 c/2
+
+# measure 7
+soprano    bb/1 ab/6 bb/6 c/6
+alto       eb/1 c/2
+tenor      bb/1 eb/2
+bass       g-/1 ab/2
+
+# measure 8
+soprano    bb/1(2.5) bb/2
+alto       eb/1(2.5) d/2
+tenor      g/1(2.5) bb ab
+bass       eb/1(2.5) bb/2
+
+# measure 9
+soprano    eb+/1 c/2
+alto       eb/1 eb/2
+tenor      g/1 ab/2
+bass       c/2 bb/2 ab/2
+
+# measure 10
+soprano    bb/1 ab/2
+alto       eb/1 f/2
+tenor      bb/1 c/2
+bass       ab/2 g-/2 f-/2
+
+# measure 11
+soprano    g/1 f/2
+alto       f/2 eb/2 d/2
+tenor      bb/1 ab/2
+bass       g-/2. ab bb/2
+
+# measure 12
+soprano    eb/1 g/2
+alto       eb/1 eb/2
+tenor      g/1 g/2
+bass       c/1 c/2
+
+# measure 13
+soprano    bb/1 ab/2
+alto       eb/1 eb/2
+tenor      eb+/2 d/2 c/2
+bass       g-/1 ab/2
+
+# measure 14
+soprano    g/1 f/2
+alto       eb/1 d/2
+tenor      bb/1 bb ab
+bass       bb/1 bb/2
+
+# measure 15
+soprano    eb/1
+alto       eb/1
+tenor      g/1
+bass       eb/1
+
+
+

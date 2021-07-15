@@ -1,0 +1,117 @@
+title      I Asked the Lord That I Might Grow
+author     John Newton (1725-1807)COMMANDMENTS (Church)
+composer   John Church, 1722
+key        F
+tempo      101
+rhythm     2 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/368%20I%20Asked%20the%20Lord%20That%20I%20Might%20Grow.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       d
+tenor      f
+bass       d
+
+# measure 2
+soprano    g e
+alto       d e
+tenor      bb a
+bass       d c#
+
+# measure 3
+soprano    f d-
+alto       d d
+tenor      a a
+bass       d f-
+
+# measure 4
+soprano    e c#-
+alto       bb a
+tenor      g e
+bass       g- a
+
+# measure 5
+soprano    d- e
+alto       a c#
+tenor      f a
+bass       d a
+
+# measure 6
+soprano    f. g/8
+alto       d. e/8
+tenor      a c
+bass       d c
+
+# measure 7
+soprano    a f
+alto       f c
+tenor      c a
+bass       f a
+
+# measure 8
+soprano    g e
+alto       d c
+tenor      g g
+bass       bb c
+
+# measure 9
+soprano    f a
+alto       c f
+tenor      a c
+bass       f f
+
+# measure 10
+soprano    d/8 c/8 bn/8 a/8
+alto       a+ f
+tenor      d d/8 c/8
+bass       f d
+
+# measure 11
+soprano    g# e
+alto       e e
+tenor      bn a
+bass       e c
+
+# measure 12
+soprano    bn/8 c/8 bn/8 a/8
+alto       f e
+tenor      a g#
+bass       d e
+
+# measure 13
+soprano    a. a/8
+alto       c. f/8
+tenor      a c
+bass       a f
+
+# measure 14
+soprano    bb c
+alto       f eb
+tenor      bb a
+bass       d c
+
+# measure 15
+soprano    d g
+alto       d d
+tenor      bb g
+bass       bb bb
+
+# measure 16
+soprano    a c#-
+alto       d a
+tenor      e a
+bass       a a
+
+# measure 17
+soprano    d-
+alto       a
+tenor      f
+bass       d
+
+
+

@@ -1,0 +1,64 @@
+title      I Cry Out, That God May Hear Me
+author     Walter van der Kamp, 1972; rev. (c) A DIEU MA VOIX [GENEVAN 77]
+composer   Genevan Psalter, 1543;  harm. Claude LeJeune, 1601
+key        F
+tempo      101
+rhythm     0 : 4
+verse_count 7
+copyright  Text: Standing Committee for the Publication of the Book of Praise, 2009. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/145%20I%20Cry%20Out,%20That%20God%20-%20Psalm%2077%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 g/2 f g a bb a/2 g/1
+alto       bb/2 eb/2 d d d d d/2 bn/1
+tenor      d/2 c/2 a bb a g/2 f# g/1
+bass       g/2 c/2 d g f# g d/2 g-/1
+
+# measure 2
+soprano    g/2 g/2 f g a bb a/2 g/1
+alto       bb/2 eb/2 d d d d d/2 bn/1
+tenor      d/2 c/2 a bb a g/2 f# g/1
+bass       g/2 c/2 d g f# g d/2 g-/1
+
+# measure 3
+soprano    bb/2 a/2 g bb a g f/1
+alto       g/2 f/2 eb g f d d/1
+tenor      d/2 d/2 bb d c bb a/1
+bass       g/2 d/2 eb bb f g d/1
+
+# measure 4
+soprano    f/2 e/2 d- g g f# g/1
+alto       d/2 c/2 a d d d bn/1
+tenor      bb/2 g/2 f# g bb a g/1
+bass       bb/2 c/2 d eb d d g-/1
+
+# measure 5
+soprano    bb/2 c/2 d d c bb c/2 bb/1
+alto       g/2 a+/2 f f f e f/2 d/1
+tenor      d/2 f+/2 d bb a bb/2 a bb/1
+bass       g/2 f/2 bb+ bb f g f/2 bb/1
+
+# measure 6
+soprano    bb/2 c/2 d d c bb c/2 bb/1
+alto       g/2 a+/2 f f f e f/2 d/1
+tenor      d/2 f+/2 d bb a bb/2 a bb/1
+bass       g/2 f/2 bb+ bb f g f/2 bb/1
+
+# measure 7
+soprano    bb/2 a/2 g bb a g f/1
+alto       g/2 f/2 eb g f d d/1
+tenor      d/2 d/2 bb d c bb a/1
+bass       g/2 d/2 eb bb f g d/1
+
+# measure 8
+soprano    f/2 e/2 d- g g f# g/1
+alto       d/2 c/2 a d d d bn/1
+tenor      bb/2 g/2 f# g bb a g/1
+bass       bb/2 c/2 d eb d d g-/1
+
+
+

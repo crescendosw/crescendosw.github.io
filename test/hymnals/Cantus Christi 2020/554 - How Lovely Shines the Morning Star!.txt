@@ -1,0 +1,87 @@
+title      How Lovely Shines the Morning Star!
+author     Philipp Nicolai, 1597; tr. compositeWIE SCHÖN LEUCHTET
+composer   Philipp Nicolai, 1599
+key        D
+tempo      150
+rhythm     0 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/554%20How%20Lovely%20Shines%20the%20Morning%20Star!.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d-/2 a/2 f#/2 d-/2 a/2 b b a/2
+alto       d/2 e/2 c#/2 d/2 c#/2 f# e c#/2
+tenor      f#/2 a/2 a/2 f#/2 a/2 a g# e/2
+bass       d/2 c#/2 a/2 b/2 f#/2 d e a/2
+
+# measure 2
+soprano    R a b c# d/2 c#/2 b b a/2
+alto       R d d e d/2 e/2 e e c#/2
+tenor      R f# g g f# g# a/2 a g# e/2
+bass       R d g e b/2 c# d e e a/2
+
+# measure 3
+soprano    R a b/2 a g/2 f# e/2 d-/2
+alto       R d d/2 c# d/2 d d c# d/2
+tenor      R f# g/2 e g/2 a a/2 f#/2
+bass       R d g-/2 a b/2 d a/2 d/2
+
+# measure 4
+soprano    d-/2 a/2 f#/2 d-/2 a/2 b b a/2
+alto       d/2 e/2 c#/2 d/2 c#/2 f# e c#/2
+tenor      f#/2 a/2 a/2 f#/2 a/2 a g# e/2
+bass       d/2 c#/2 a/2 b/2 f#/2 d e a/2
+
+# measure 5
+soprano    R a b c# d/2 c#/2 b b a/2
+alto       R d d e d/2 e/2 e e c#/2
+tenor      R f# g g f# g# a/2 a g# e/2
+bass       R d g e b/2 c# d e e a/2
+
+# measure 6
+soprano    R a b/2 a g/2 f# e/2 d-/2
+alto       R d d/2 c# d/2 d d c# d/2
+tenor      R f# g/2 e g/2 a a/2 f#/2
+bass       R d g-/2 a b/2 d a/2 d/2
+
+# measure 7
+soprano    a/2 f#/2
+alto       e/2 d/2
+tenor      a/2 a/2
+bass       c#/2 d/2
+
+# measure 8
+soprano    a/2 f#/2
+alto       c#/2 d/2
+tenor      a/2 a/2
+bass       a/2 d/2
+
+# measure 9
+soprano    f# f# e e
+alto       d d d c#
+tenor      a a a a
+bass       d f# a+ a
+
+# measure 10
+soprano    f# f# e e
+alto       d d d c#
+tenor      a a a a
+bass       d f# a+ a
+
+# measure 11
+soprano    f# f# e d-
+alto       d d c# d
+tenor      a a a f#
+bass       d f#- a b
+
+# measure 12
+soprano    d/2 a/2 b/2 a/2 g f# e/2 d-/1
+alto       d/2 d/2 d/2 c#/2 d d d c# d/1
+tenor      a/2 f#/2 g/2 e/2 g a a/2 f#/1
+bass       f#-/2 d/2 g-/2 a/2 b d a/2 d/1
+
+
+

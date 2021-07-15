@@ -1,0 +1,117 @@
+title      Come, Ye Sinners, Poor and Needy
+author     Joseph Hart, 1759BEACH SPRING
+composer   Benjamin Franklin White, 1844; harm. Michael E. Owens, 2019
+key        F
+tempo      150
+rhythm     6 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/351%20Come,%20Ye%20Sinners,%20Poor%20and%20Needy.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f f
+alto       f f
+tenor      a a
+bass       f f
+
+# measure 2
+soprano    g/2 f/2 a a
+alto       e/2 c/2 f f
+tenor      c/2 a/2 a a
+bass       c/2 c/2 d d
+
+# measure 3
+soprano    g f d-/2 f f
+alto       e/2 d/2 d d
+tenor      c/2 f/2 a a
+bass       c/2 a/2 d d
+
+# measure 4
+soprano    d-/2 c-/2 d- f
+alto       a/2 g-/2 d c
+tenor      f/2 e/2 f a
+bass       a/2 c/2 a c
+
+# measure 5
+soprano    f/1 f f
+alto       c/1 f f
+tenor      a/1 a a
+bass       f-/1 f f
+
+# measure 6
+soprano    g/2 f/2 a a
+alto       e/2 c/2 f f
+tenor      c/2 a/2 a a
+bass       c/2 c/2 d d
+
+# measure 7
+soprano    g f d-/2 f f
+alto       e/2 d/2 d d
+tenor      c/2 f/2 a a
+bass       c/2 a/2 d d
+
+# measure 8
+soprano    d-/2 c-/2 d- f
+alto       a/2 g-/2 d c
+tenor      f/2 e/2 f a
+bass       a/2 c/2 a c
+
+# measure 9
+soprano    f/1 f a
+alto       c/1 f f
+tenor      a/1 a a
+bass       f-/1 f d
+
+# measure 10
+soprano    c/2 c/2 d c
+alto       f/2 f/2 f f
+tenor      a/2 a/2 a a
+bass       c/2 c/2 a c
+
+# measure 11
+soprano    a/2 f/2 f a
+alto       d/2 c/2 c f
+tenor      f/2 a/2 a c
+bass       d/2 f/2 f f
+
+# measure 12
+soprano    c/2 f/2 a/8 g/8 f
+alto       f/2 c/2 c c
+tenor      c/2 a/2 c a
+bass       c/2 c/2 a c
+
+# measure 13
+soprano    d-/1 d c
+alto       a/1 f a+
+tenor      f/1 a c
+bass       d/1 f f
+
+# measure 14
+soprano    a/2 f/2 a a
+alto       f/2 c/2 f f
+tenor      d/2 a/2 a a
+bass       d/2 c/2 d d
+
+# measure 15
+soprano    g f d-/2 f f
+alto       e/2 d/2 d d
+tenor      c/2 f/2 a a
+bass       c/2 a/2 d d
+
+# measure 16
+soprano    d-/2 c-/2 d- f
+alto       a/2 g-/2 d c
+tenor      f/2 e/2 f a
+bass       a/2 c/2 d c
+
+# measure 17
+soprano    f/1
+alto       c/1
+tenor      a/1
+bass       f-/1
+
+
+

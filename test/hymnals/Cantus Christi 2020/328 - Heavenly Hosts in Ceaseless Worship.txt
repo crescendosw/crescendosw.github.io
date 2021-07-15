@@ -1,0 +1,112 @@
+title      Heavenly Hosts in Ceaseless Worship
+author     Timothy Dudley-Smith, 1972 (c)BETHANY (Smart)
+composer   Henry Smart, 1867
+key        Eb
+tempo      111
+rhythm     4 : 4
+verse_count 2
+copyright  Text: Hope Publishing Co., 1975. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/328%20Heavenly%20Hosts%20in%20Ceaseless%20Worship.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g c bb g
+alto       eb eb eb d
+tenor      bb ab bb bb
+bass       eb ab g- bb
+
+# measure 2
+soprano    eb. f/8 eb d-
+alto       eb c bb bb
+tenor      g ab g f
+bass       c ab bb bb
+
+# measure 3
+soprano    c- bb- eb g
+alto       f- f- bb eb
+tenor      d- d- eb bb
+bass       ab ab g- eb-
+
+# measure 4
+soprano    bb ab/8 g/8 f/2
+alto       eb f/8 eb/8 d/2
+tenor      bb c f bb
+bass       g- ab bb/2
+
+# measure 5
+soprano    g c bb g
+alto       bb eb f d
+tenor      g g f bb
+bass       eb c d bb
+
+# measure 6
+soprano    eb. f/8 eb d-
+alto       c an bb bb
+tenor      g f f f
+bass       c f- bb bb
+
+# measure 7
+soprano    c- bb- eb ab
+alto       f- f- bb eb
+tenor      d- d- eb eb
+bass       ab ab g- c
+
+# measure 8
+soprano    g f eb/2
+alto       eb d eb/2
+tenor      bb bb/8 ab/8 g/2
+bass       bb bb eb/2
+
+# measure 9
+soprano    f bb bb an
+alto       d f f f
+tenor      bb bb c c
+bass       bb d f f-
+
+# measure 10
+soprano    g g g f
+alto       eb eb eb d
+tenor      bb c bb bb
+bass       g- an bb bb
+
+# measure 11
+soprano    f d c g
+alto       f f eb c
+tenor      bb ab g eb+
+bass       d bb eb c
+
+# measure 12
+soprano    bb an bb/2
+alto       f eb d/2
+tenor      d c bb/2
+bass       f f bb/2
+
+# measure 13
+soprano    d bb eb+ bb
+alto       f d eb g
+tenor      bb bb bb eb+
+bass       bb+ ab+ g eb
+
+# measure 14
+soprano    ab. bb/8 ab g
+alto       g f eb eb
+tenor      eb+ bb bb bb
+bass       c d eb eb
+
+# measure 15
+soprano    c bb ab g
+alto       eb en f eb
+tenor      ab g ab bb
+bass       ab c f- g-
+
+# measure 16
+soprano    f f eb/2
+alto       eb d eb/2
+tenor      c bb g/2
+bass       ab bb eb-/2
+
+
+

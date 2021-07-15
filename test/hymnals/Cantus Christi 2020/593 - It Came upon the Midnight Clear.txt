@@ -1,0 +1,117 @@
+title      It Came upon the Midnight Clear
+author     Edmund H. Sears, 1850CAROL
+composer   Richard S. Willis, 1850
+key        Bb
+tempo      85
+rhythm     3 : 4
+verse_count 4
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/593%20It%20Came%20upon%20the%20Midnight%20Clear.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f/8
+alto       d/8
+tenor      f/8
+bass       bb/8
+
+# measure 2
+soprano    d c/8 c/8 bb/8 g/8
+alto       d d/8 eb eb/8
+tenor      f f#/8 g a/8
+bass       bb bb/8 bb bb/8
+
+# measure 3
+soprano    f g/8 f f/8
+alto       d eb/8 d d/8
+tenor      bb f/8 f bb/8
+bass       bb a/8 bb bb/8
+
+# measure 4
+soprano    g/8 a/8 bb/8 bb/8 c/8 d/8
+alto       eb eb/8 en en/8
+tenor      bb bb/8 bb bb/8
+bass       eb/8 f/8 g/8 g c/8
+
+# measure 5
+soprano    c. = c f/8
+alto       f. = f f/8
+tenor      a. = a f/8
+bass       f. = f f/8
+
+# measure 6
+soprano    d a/8 c/8 bb/8 g/8
+alto       d d/8 eb eb/8
+tenor      f f#/8 g a/8
+bass       bb bb/8 bb bb/8
+
+# measure 7
+soprano    f g/8 f f/8
+alto       d eb/8 d f/8
+tenor      bb f/8 f bb/8
+bass       bb a/8 bb d/8
+
+# measure 8
+soprano    g g/8 a/8 g/8 f/8
+alto       eb eb/8 eb eb/8
+tenor      bb c/8 c/8 bb/8 a/8
+bass       eb c/8 f f/8
+
+# measure 9
+soprano    bb. = bb d/8
+alto       d. = d d/8
+tenor      bb. = bb d-/8
+bass       bb. = bb d/8
+
+# measure 10
+soprano    d d-/8 d-/8 en/8 f#/8
+alto       d d/8 d d/8
+tenor      d- f#/8 f#/8 g/8 a/8
+bass       d d/8 d c/8
+
+# measure 11
+soprano    g a/8 bb d/8
+alto       d d/8 d d/8
+tenor      g f#/8 g g/8
+bass       bb d/8 g bb/8
+
+# measure 12
+soprano    c/8 bb/8 a/8 g/8 a/8 g/8
+alto       f f/8 en en/8
+tenor      a/8 d/8 c/8 bb/8 c/8 bb/8
+bass       c c/8 c c/8
+
+# measure 13
+soprano    f. = f f/8
+alto       f. = f eb/8
+tenor      a. = a a/8
+bass       f. = f f/8
+
+# measure 14
+soprano    d a/8 c/8 bb/8 g/8
+alto       d d/8 eb eb/8
+tenor      bb f#/8 g a/8
+bass       bb bb/8 bb bb/8
+
+# measure 15
+soprano    f g/8 f f/8
+alto       d eb/8 d f/8
+tenor      bb f/8 f bb/8
+bass       bb a/8 bb d/8
+
+# measure 16
+soprano    g g/8 a/8 g/8 f/8
+alto       eb eb/8 eb eb/8
+tenor      bb c/8 c/8 bb/8 a/8
+bass       eb c/8 f f/8
+
+# measure 17
+soprano    bb. = bb
+alto       d. = d
+tenor      bb. = bb
+bass       bb. = bb
+
+
+

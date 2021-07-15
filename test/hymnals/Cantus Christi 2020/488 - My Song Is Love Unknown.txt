@@ -1,0 +1,57 @@
+title      My Song Is Love Unknown
+author     Samuel Crossman, 1664LOVE UNKNOWN
+composer   John Ireland, 1919
+key        D
+tempo      101
+rhythm     0 : 4
+verse_count 7
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/488%20My%20Song%20Is%20Love%20Unknown.pdf
+voice      unison E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+unison    f#/2 a b
+
+# measure 2
+unison    f#/2 e/2
+
+# measure 3
+unison    d-/2. e
+
+# measure 4
+unison    f# g a f#
+
+# measure 5
+unison    b/2. b
+
+# measure 6
+unison    c# b a a
+
+# measure 7
+unison    d c# b a
+
+# measure 8
+unison    a f#/2 g#
+
+# measure 9
+unison    a/2. a
+
+# measure 10
+unison    cn b g/2. g
+
+# measure 11
+unison    b a d-/2. e
+
+# measure 12
+unison    f# g a f#
+
+# measure 13
+unison    f#/2 e/2
+
+# measure 14
+unison    d-/1
+
+
+

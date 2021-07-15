@@ -1,0 +1,117 @@
+title      Take Thou My Hand, O Father
+author     Julie Katharina Hausmann, 1862; tr. Herman H. Brueckner (1866-1942)SO NIMM DENN MEINE HÄNDE
+composer   Fredrich Silcher, 1842
+key        D
+tempo      100
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/383%20Take%20Thou%20My%20Hand,%20O%20Father.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       d
+tenor      f#
+bass       d
+
+# measure 2
+soprano    b a g f#
+alto       d d c# d
+tenor      g a a a
+bass       g f# e d
+
+# measure 3
+soprano    f#/2 e f#
+alto       d/2 c# d
+tenor      a/2 a a
+bass       a/2 a d
+
+# measure 4
+soprano    g/2 a/2
+alto       d/2 e/2
+tenor      b/2 a/2
+bass       b/2 c#/2
+
+# measure 5
+soprano    f#/2. a
+alto       d/2. d
+tenor      a/2. f#
+bass       d/2. d
+
+# measure 6
+soprano    b a g f#
+alto       d d c# d
+tenor      g a a a
+bass       g f# e d
+
+# measure 7
+soprano    f#/2 e f#
+alto       d/2 c# d
+tenor      a/2 a a
+bass       a/2 a d
+
+# measure 8
+soprano    g/2 a/2
+alto       d/2 e/2
+tenor      b/2 a/2
+bass       b/2 c#/2
+
+# measure 9
+soprano    f#/2. f#
+alto       d/2. d
+tenor      a/2. a
+bass       d/2. d
+
+# measure 10
+soprano    e a g# b
+alto       e e e e
+tenor      a c# b g#
+bass       c# a e d
+
+# measure 11
+soprano    a. b/8 c# d
+alto       e/2 e d
+tenor      a. g#/8 a a
+bass       c#. b/8 a f#
+
+# measure 12
+soprano    c#/2 b/2
+alto       e/2 d/2
+tenor      a/2 g#/2
+bass       e/2 e/2
+
+# measure 13
+soprano    a/2. a
+alto       c#/2. c#
+tenor      a/2. a
+bass       a/2. g
+
+# measure 14
+soprano    d c#/8 b/8 a a
+alto       d d d d
+tenor      a g f# f#
+bass       f# g d d
+
+# measure 15
+soprano    b/2 a g
+alto       d/2 d e
+tenor      g/2 f# b
+bass       g- b d g-
+
+# measure 16
+soprano    f# g/2 e
+alto       d/2. c#
+tenor      a e/2 g
+bass       a/2. a
+
+# measure 17
+soprano    d-/2.
+alto       d/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

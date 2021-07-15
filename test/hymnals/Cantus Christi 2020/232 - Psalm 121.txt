@@ -1,0 +1,54 @@
+title      Psalm 121
+hymnal     Cantus Christi 2020
+author     King James Version
+
+composer   David R. Erb, 2013
+key        Eb
+rhythm     0 : 4
+tempo      160
+
+#hyperlink  https://vimeo.com/147526702
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+#needs tempo change for chant
+
+unison     e g b b b b b b c/2 b c b g b/2
+
+unison     b c b g b c/2 b g f e c- e/2
+
+unison     e c-/8 - b-/8 c-/8 e/8 | f - e e/8 - f/8 | g f e | c-/2. | f - e f | g b g/8 b/8 | c/2. b/2 b
+
+unison     c b c | e+ - c - b | g - b g | c/2 b | g - f e | c- b- c- | e/2. = | e/2 e
+
+unison     c- e f | g - f - e | c-/2. = | c-/2 e | c- e f | g - f g | b - g f | g/2 g
+
+unison     c g f | e f g | f/2. | f/2 e | c-/2. | b-/2. | c-/2. = | c-/2 c-
+
+unison     e c-/8 - b-/8 c-/8 - e/8 | f e e/8 f/8 | g - f - e | c-/2. | f e f | g - b g/8 - b/8 | c/2. - | b/2 b
+
+unison     c b c | e+ - c b | g - b g | c/2 - b | g - f e | c- - b- c- | e/2.
+
+unison     e g b | c/2 b | c b g | f/2 - e - | c-/2 e | e/2.
+
+verse      I will lift up my eyes to the hills-- From whence comes my help?
+
+verse      My help comes from the Lord, Who made heav - en and earth.
+
+verse      He will not al - low your foot to be moved; He who keeps you will not slum - ber.
+
+verse      Be - hold, He who keeps Is - ra - el shall nei - ther slum - ber nor sleep.
+
+verse      The Lord is your keep - er; The Lord is your shade at your right hand.
+
+verse      The sun shall not strike you by day, Nor the moon by night.
+
+verse      The Lord shall pre - serve you from all e - vil; He shall pre - serve your soul.
+
+verse      The Lord shall pre - serve your go - ing out and your com - ing in
+
+verse      From this time forth, and e - ven for - ev - er - more.

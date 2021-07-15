@@ -1,0 +1,94 @@
+title      Creator God, Our Sovereign Lord
+author     Douglas Bond, 2007 (c)
+composer   Anonymous
+key        D
+tempo      115
+rhythm     0 : 4
+verse_count 5
+copyright  Music: Gregory D. Wilbur, 2014. Used by permission. Text: Douglas Bond, 2007. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/506%20Creator%20God,%20Our%20Sovereign%20Lord.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    d- d- e
+alto       d d a
+tenor      f# f# a
+bass       b b c#
+
+# measure 2
+soprano    f#/2. d- g f#
+alto       d/2. d d a
+tenor      a/2. f# b a
+bass       d/2. d d d
+
+# measure 3
+soprano    e/2. d- f# g
+alto       d/2 c# d d a
+tenor      a/2. f# a d/8 c#/8
+bass       a/2. a d e
+
+# measure 4
+soprano    a/2. d- b. a/8
+alto       d/2. d g. f#/8
+tenor      d/2. a d. d/8
+bass       f#/2. f# g. g/8
+
+# measure 5
+soprano    a/1 a a d c#
+alto       e/2 f# g e a+ f# f#
+tenor      d/1 c# a b c#
+bass       a+/1 a+ a+ b+ a+
+
+# measure 6
+soprano    d/2. b a f#
+alto       g/2. g d d
+tenor      b/2. d d a
+bass       g/2. g f# d
+
+# measure 7
+soprano    f#/2. d- f# g
+alto       d/2. d d d/8 c#/8
+tenor      b/2. f# b b
+bass       b/2. b d e
+
+# measure 8
+soprano    a d- b/2 a/2
+alto       d d g/2. f#
+tenor      a d d/2 d/2
+bass       f# f# g/2 g/2
+
+# measure 9
+soprano    a/1 a d- f# g
+alto       e/2 f# g e d d d
+tenor      d/1 c# d d d
+bass       a+/1 a+ d+ c#+ b+
+
+# measure 10
+soprano    a/2. d- b a
+alto       f#/2 d/2 g f#
+tenor      d/2 a/2 d d
+bass       a+/2 f#/2 g g/8 a+/8
+
+# measure 11
+soprano    f#/2. a f# e
+alto       d/2. f# d c#
+tenor      b/2. d d a
+bass       b+/2. b+ a+ f#
+
+# measure 12
+soprano    d-/1 b-. d-/8
+alto       b/1 b/2
+tenor      b a g/2 g e
+bass       g f# e/2 g-/2
+
+# measure 13
+soprano    d-/2.
+alto       a/2.
+tenor      f#/2.
+bass       d/2.
+
+
+

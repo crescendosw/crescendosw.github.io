@@ -1,0 +1,53 @@
+title      Psalm 129
+hymnal     Cantus Christi 2020
+author     King James Version
+
+composer   David R. Erb, 2014
+key        Gb
+rhythm     0 : 4
+tempo      150
+
+#hyperlink  https://www.youtube.com/watch?v=T9f94s16oxI
+
+status     header  tune  double  checked  lyrics
+
+voice      unison  E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+unison     d- cn- d- e e e e g f f e f f/2 e f e d- d- e/2
+
+unison     e e e e e e e g f f e f f/2 e e e e e f e d- e/2
+
+unison     e d- e f/6 e/6 d-/6 e/2. | e g f e d- e/2.
+
+unison     e b/2 g/2 a f/2 | f/8 f/8 g e d-/6 e/6 f/6 e c-/8 d-/8 e - f e/1
+
+unison     a e f/6 g/6 f/6 e/6 d-/6 e/6 f/6 - e/6 d-/6 c-/2 d- c- b-/1
+
+unison     a e f/6 g/6 f/6 e/6 g/6 f/6 e/6 d-/6 e/6 f/6 e/6 d-/6 c-/6 d-/6 e/6 dn-/2
+
+unison     dn-/6 e/6 f/6 e b- f b- g f/8 - e/8 f/2
+
+unison     a/6 g/6 f/6 e - d- c-/2 d- - c- b-/1 | e/6 e/6 e/6 d- e f/6 e/6 d-/6 e/2.
+
+unison     e b g a b a f/8 g/8 a - g f/2. | e b g a b a - c/8 - b/8 a g a/1
+
+verse      Man - y a time they have af - flic - ted me from my youth, Let Is - ra - el now say--
+
+verse      Many a time they have af - flic - ted me from my youth; Yet they have not pre - vailed a - gainst me.
+
+verse      The plow - ers plowed on my back; They made their fur - rows long.
+
+verse      The Lord is right - eous; He has cut in piec - es the cords of the wick - ed.
+
+verse      Let all those who hate Zi - on Be put to shame and turned back.
+
+verse      Let them be as the grass on the house - tops, Which with - ers be - fore it grows up,
+
+verse      With which the reap - er does not fill his hand,
+
+verse      Nor he who binds sheaves, his arms. Neith - er let those who pass by them say,
+
+verse      The bless - ing of the Lord be up - on you; We bless you in the name of the Lord!

@@ -1,0 +1,111 @@
+title      God, That Madest Earth and Heaven
+author     st. 1, Reginald Heber, 1827; st. 2, William Mercer, 1864; st. 3, Richard Whately, 1855AR HYD Y NOS
+composer   Welsh traditional melody; harm. Ralph Vaughan Williams, 1906
+key        G
+tempo      101
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/696%20God,%20That%20Madest%20Earth%20and%20Heaven.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g. f#/8 e g
+alto       b d e d
+tenor      g g g g
+bass       g- b c b
+
+# measure 2
+soprano    a. g/8 f# d-
+alto       e e d d
+tenor      c. b/8 a d
+bass       a c d b
+
+# measure 3
+soprano    e/2 f#. f#/8
+alto       g-/2 d c
+tenor      d c b a
+bass       c/2 d. d/8
+
+# measure 4
+soprano    g/1
+alto       b/1
+tenor      g/1
+bass       g-/1
+
+# measure 5
+soprano    g. f#/8 e g
+alto       b d e d
+tenor      g g g g
+bass       g- b c b
+
+# measure 6
+soprano    a. g/8 f# d-
+alto       e e d d
+tenor      c. b/8 a d
+bass       a c d b
+
+# measure 7
+soprano    e/2 f#. f#/8
+alto       g-/2 d c
+tenor      d c b a
+bass       c/2 d. d/8
+
+# measure 8
+soprano    g/1
+alto       b/1
+tenor      g/1
+bass       g-/1
+
+# measure 9
+soprano    c b c d
+alto       c d c g
+tenor      g g g g
+bass       e g e b
+
+# measure 10
+soprano    e+ d c b
+alto       g fn e d
+tenor      c a g b
+bass       c d e g
+
+# measure 11
+soprano    c b a g
+alto       e g e e
+tenor      a d c b
+bass       a b c e
+
+# measure 12
+soprano    b. a/8 g f#
+alto       e. e/8 d d
+tenor      c. c/8 a a
+bass       a. c/8 d d
+
+# measure 13
+soprano    g. f#/8 e g
+alto       d. d/8 c d
+tenor      g. g/8 g g
+bass       b. b/8 c b
+
+# measure 14
+soprano    a. g/8 f# d-
+alto       e e d d
+tenor      c. b/8 a d
+bass       a c d b
+
+# measure 15
+soprano    e/2 f#. f#/8
+alto       g-/2 d c
+tenor      d c b a
+bass       c/2 d. d/8
+
+# measure 16
+soprano    g/1
+alto       b/1
+tenor      g/1
+bass       g-/1
+
+
+

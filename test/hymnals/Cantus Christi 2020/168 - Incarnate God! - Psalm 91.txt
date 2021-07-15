@@ -1,0 +1,116 @@
+title      Incarnate God!
+author     Anonymous
+composer   Anonymous
+key        D
+tempo      95
+rhythm     4 : 4
+verse_count 4
+copyright  Music: Nathan Clark George, 2013. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/168%20Incarnate%20God%20-%20Psalm%2091%20George.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f#/8 e/8
+alto       d
+tenor      a
+bass       d/8 c#/8
+
+# measure 2
+soprano    d- a f#. e/8
+alto       d e d d
+tenor      b c# a a
+bass       b a d f#
+
+# measure 3
+soprano    d- e f# e/8 d-/8
+alto       d c# b b
+tenor      b a d f#
+bass       g a+ b+ b
+
+# measure 4
+soprano    b-. d-/8 e f#
+alto       b. b/8 c# c#
+tenor      g. g/8 a a
+bass       e. e/8 a a
+
+# measure 5
+soprano    f#/2. f#/8 e/8
+alto       d/2. d
+tenor      a/2. a
+bass       d/2. d/8 c#/8
+
+# measure 6
+soprano    d- a f#. e/8
+alto       d e d d
+tenor      b c# a a
+bass       b a d f#
+
+# measure 7
+soprano    d- e f# e/8 d-/8
+alto       d c# b b
+tenor      b a d f#
+bass       g a+ b+ b
+
+# measure 8
+soprano    b-. d-/8 d- c#-
+alto       b. b/8 a a
+tenor      g. g/8 e e
+bass       e. e/8 a a
+
+# measure 9
+soprano    d-/2. a/8 c#/8
+alto       a/2. d/8 e/8
+tenor      f#/2. f#
+bass       d/2. d/8 c#/8
+
+# measure 10
+soprano    d c# b a
+alto       f# e d d
+tenor      f# a b f#
+bass       b a g- d
+
+# measure 11
+soprano    a. g/8 f# f#
+alto       d b d d
+tenor      f# g a a
+bass       f# e d d
+
+# measure 12
+soprano    e d- g f#
+alto       d d d d
+tenor      g a b b
+bass       e f# g g#
+
+# measure 13
+soprano    e/2. a/8 g/8
+alto       c#/2. e
+tenor      a/2. c#
+bass       a+/2. a
+
+# measure 14
+soprano    f# g a. g/16 f#/16
+alto       d e f# d
+tenor      b a d a
+bass       b c# d f#
+
+# measure 15
+soprano    d- e f# e/8 d-/8
+alto       d c# b b
+tenor      b a d f#
+bass       g a+ b+ b
+
+# measure 16
+soprano    b-. d-/8 d- c#-
+alto       b. b/8 a a
+tenor      g. g/8 e e
+bass       e. e/8 a a
+
+# measure 17
+soprano    d-/2.
+alto       a/2.
+tenor      f#/2.
+bass       d/2.
+

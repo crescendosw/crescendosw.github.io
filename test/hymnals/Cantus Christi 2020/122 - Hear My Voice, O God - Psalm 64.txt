@@ -1,0 +1,70 @@
+title      Hear My Voice, O God
+author     Valerie Anne Bost, 2018 (c)NORTHRIGHT
+composer   Jean Sibelius (1865-1957); arr.
+key        F
+tempo      115
+rhythm     6 : 4
+verse_count 5
+copyright  Text: Valerie Anne Bost, 2018.  Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/122%20Hear%20My%20Voice,%20O%20God%20-%20Psalm%2064%20NORTHRIGHT.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f g
+alto       d e
+tenor      a a
+bass       d d
+
+# measure 2
+soprano    a a a/2 g/8 f/8 f/8 g/8
+alto       f f f/2 e/8 d/8 d/8 e/8
+tenor      d d d/2 a a
+bass       d d d/2 d a
+
+# measure 3
+soprano    a/2 d-/2 f g
+alto       f/2 d/2 d e
+tenor      a/2 d/2 a a
+bass       d/2 d/2 d d
+
+# measure 4
+soprano    a a d/2 c/8 bb/8 bb/8 a/8
+alto       f f f/2 e e
+tenor      d d a/2 a a
+bass       d d d/2 a a
+
+# measure 5
+soprano    a/2 d-/2 a bb
+alto       f/2 d/2 f g
+tenor      a/2 d/2 d d
+bass       d/2 d/2 d d
+
+# measure 6
+soprano    c c c/2 f f/8 g/8
+alto       a+ a+ a+/2 d d/8 e/8
+tenor      c c c/2 bb bb
+bass       f f f/2 bb bb
+
+# measure 7
+soprano    a/2 d-/2 d- e
+alto       f/2 d/2 d d
+tenor      a/2 d/2 f bb
+bass       d/2 d/2 bb bb
+
+# measure 8
+soprano    f f a/2 g/8 f/8 e/8 f/8
+alto       d d f/2 e/8 d/8 c#/8 d/8
+tenor      a a d/2 a a
+bass       d d d/2 a a
+
+# measure 9
+soprano    g/2 e/2 d-/2
+alto       d/2 c#/2 d/2
+tenor      bb/2 a/2 d-/2
+bass       g-/2 a/2 d/2
+
+
+

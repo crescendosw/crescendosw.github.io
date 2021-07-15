@@ -1,0 +1,99 @@
+title      Blest Be the Tie That Binds
+author     John Fawcett, 1782DENNIS
+composer   Hans G. Nägeli (1773-1836); arr. Lowell Mason, 1845
+key        F
+tempo      100
+rhythm     3 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/668%20Blest%20Be%20the%20Tie%20That%20Binds.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a
+alto       f
+tenor      c
+bass       f
+
+# measure 2
+soprano    a f a
+alto       f c f
+tenor      c a c
+bass       f/2 f
+
+# measure 3
+soprano    g e g
+alto       e c c
+tenor      c g bb
+bass       c/2 c
+
+# measure 4
+soprano    f/2 f
+alto       c/2 eb
+tenor      a/2 a
+bass       f/2 f
+
+# measure 5
+soprano    f d- f
+alto       d bb d
+tenor      bb f bb
+bass       bb/2 bb
+
+# measure 6
+soprano    f c- f
+alto       c a c
+tenor      a f a
+bass       f/2 f
+
+# measure 7
+soprano    e/2 g
+alto       c/2 e
+tenor      g/2 c
+bass       c/2 c
+
+# measure 8
+soprano    g e g
+alto       e c c
+tenor      c g bb
+bass       c/2 c
+
+# measure 9
+soprano    f a c
+alto       c f f
+tenor      a c a
+bass       f/2 f
+
+# measure 10
+soprano    c g bb
+alto       e/2 g
+tenor      g c c
+bass       c/2 c
+
+# measure 11
+soprano    a c d
+alto       f/2 f
+tenor      c a bb
+bass       f/2 f
+
+# measure 12
+soprano    c a bb
+alto       f/2 f
+tenor      a c d
+bass       f/2 bb
+
+# measure 13
+soprano    a f g
+alto       f c c
+tenor      c a bb
+bass       c/2 c
+
+# measure 14
+soprano    f/2
+alto       c/2
+tenor      a/2
+bass       f/2
+
+
+

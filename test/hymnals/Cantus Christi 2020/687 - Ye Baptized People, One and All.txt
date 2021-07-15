@@ -1,0 +1,105 @@
+title      Ye Baptized People, One and All 
+author     Paul Gerhardt (1607-1676); tr. Herman H. Brueckner (1866-1942)ES IST DAS HEIL
+composer   Etlich Christlich Lieder, Wittenberg, 1524
+key        D
+tempo      101
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/687%20Ye%20Baptized%20People,%20One%20and%20All.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a/8
+alto       f#/8
+tenor      d/8
+bass       d/8
+
+# measure 2
+soprano    a a a cn
+alto       e e d e/8 f#/8
+tenor      d c# a g
+bass       a+ g f# e
+
+# measure 3
+soprano    b a g. a/8
+alto       g f# g. e/8
+tenor      d d d. a/8
+bass       d cn b. c#/8
+
+# measure 4
+soprano    f# d- f# g#
+alto       d d d d
+tenor      a a d- b
+bass       d f# b b
+
+# measure 5
+soprano    a b a. a/8
+alto       c# d c#. e/8
+tenor      a. g#/8 a. c#/8
+bass       f# e a. a+/8
+
+# measure 6
+soprano    a a a cn
+alto       e d e f#
+tenor      c# d cn/8 b/8 a
+bass       g f# e d#
+
+# measure 7
+soprano    b a g. a/8
+alto       g d# e. e/8
+tenor      g b b. a/8
+bass       e b e. c#/8
+
+# measure 8
+soprano    f# d- f# g#
+alto       c# d b b
+tenor      a f# f# e
+bass       a b d d
+
+# measure 9
+soprano    a b a. a/8
+alto       e d c#. e/8
+tenor      e g# a. c#/8
+bass       c# e a. gn/8
+
+# measure 10
+soprano    d. cn/8 b c#
+alto       d. e/8 f# e
+tenor      a. g/8 f# a#
+bass       f#. e/8 d c#
+
+# measure 11
+soprano    d b a. a/8
+alto       d g f#. f#/8
+tenor      b d d. d/8
+bass       b g- d. cn/8
+
+# measure 12
+soprano    d a b f#
+alto       g g f# f#
+tenor      d e+ d b
+bass       b c# d d#
+
+# measure 13
+soprano    a g f#. f#/8
+alto       e e d#. d#/8
+tenor      b b b. b/8
+bass       e e b. a+/8
+
+# measure 14
+soprano    e. g/8 f# e
+alto       e. c#/8 d b
+tenor      b. g/8 a g
+bass       g. e/8 d g-
+
+# measure 15
+soprano    d- c#- d-
+alto       a/2 a
+tenor      e/2 f#
+bass       a/2 d
+
+
+

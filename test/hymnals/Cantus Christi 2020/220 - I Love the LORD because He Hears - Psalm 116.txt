@@ -1,0 +1,106 @@
+title      I Love the LORD because He Hears
+author     The Ailbe Psalter, 2006 (c) NUN FREUT EUCH
+composer   Ertlich Christliche Lieder, 1524; harm. Johann Sebastian Bach (1685-1750)
+key        G
+tempo      100
+rhythm     4 : 4
+verse_count 5
+copyright  Text: The Fellowship of Ailbe, 2006. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/220%20I%20Love%20the%20LORD%20because%20-%20Psalm%20116%20NUN%20FREUT.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g
+alto       d
+tenor      b/8 a/8
+bass       g-/8 a/8
+
+# measure 2
+soprano    g d- g c
+alto       d a d a+
+tenor      g f# g. f#/8
+bass       b/8 c/8 d/8 c/8 b a
+
+# measure 3
+soprano    b a g g
+alto       d d/8 c/8 b b/8 c#/8
+tenor      g. f#/8 g g
+bass       g-/8 b/8 d g- e
+
+# measure 4
+soprano    a/8 b/8 c b a
+alto       d/8 fn/8 e/8 f#/8 g d/8 a/16 b/16
+tenor      f#/8 g#/8 a d-/8 e/8 f#
+bass       d a b/8 c/8 d
+
+# measure 5
+soprano    e f# g(1.2) g
+alto       c/2 b(1.2) d
+tenor      g a d-(1.2) b/8 a/8
+bass       c/8 b/8 a g-(1.2) g-/8 a/8
+
+# measure 6
+soprano    g d- g c
+alto       d a d a+
+tenor      g f# g. f#/8
+bass       b/8 c/8 d/8 c/8 b a
+
+# measure 7
+soprano    b a g g
+alto       d d/8 c/8 b b/8 c#/8
+tenor      g. f#/8 g g
+bass       g-/8 b/8 d g- e
+
+# measure 8
+soprano    a/8 b/8 c b a
+alto       d/8 fn/8 e/8 f#/8 g d/8 a/16 b/16
+tenor      f#/8 g#/8 a d-/8 e/8 f#
+bass       d a b/8 c/8 d
+
+# measure 9
+soprano    e f# g(1.2) g
+alto       c/2 b(1.2) d
+tenor      g a d-(1.2) b
+bass       c/8 b/8 a g-(1.2) g/8 f#/8
+
+# measure 10
+soprano    c b a d
+alto       g/8 a+ g/16 f#/16 e a+/8 f#/8
+tenor      e+/8 d/8 d c# d
+bass       e/8 f#/8 g g/8 a+/16 g/16 f#/8 b+/8
+
+# measure 11
+soprano    d c# d d
+alto       e/8 g f#/16 e/16 f# g
+tenor      b/8 e/8 a a d
+bass       g a+/8 a/8 d b
+
+# measure 12
+soprano    e+ c d. c/8
+alto       g g a+/8 f#/8 g/8 a+/8
+tenor      d/8 c/16 b/16 c/8 e+/8 d/8 c/8 b/8 a/8
+bass       c/8 d/8 e f#/8 d/8 e/8 f#/8
+
+# measure 13
+soprano    b a g b
+alto       a+/8 g f#/8 e e
+tenor      b/16 c/16 d c/8 b g
+bass       g d e e
+
+# measure 14
+soprano    a d- g c
+alto       e/8 d/16 c/16 b e/8 d/8 e/8 f#/8
+tenor      a g/8 a/8 b a
+bass       f# g/8 f#/8 e a
+
+# measure 15
+soprano    b a g
+alto       g. f#/8 g
+tenor      d. c/16 b
+bass       b/8 c/8 d g-
+
+
+

@@ -1,0 +1,73 @@
+title      That Man a Godly Life Might Live
+author     Martin Luther, 1524; tr. Richard Massie, 1854DIES SIND DIE HEILGEN
+composer   Pilgrim hymn, c. 1200s; harm. Bartholomäus Gesius, 1607
+key        C
+tempo      101
+rhythm     0 : 4
+verse_count 9
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/709%20That%20Man%20a%20Godly%20Life%20Might%20Live.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    R/8 g/8 g g g g g/8 a/8 b c
+alto       R/8 e/8 e e e e d/8 e/16 f/16 g/8 g/8 g
+tenor      R/8 c/8 c c c c b/8 c/8 d e+
+bass       R/8 c/8 c c c c g g c
+
+# measure 2
+soprano    R/8 c/8 d d b g g/8 a/8 b c
+alto       R/8 g/8 g g g e e f e
+tenor      R/8 c/8 b. c/8 d c b/8 c/8 d g
+bass       R/8 c/8 g g g c e d c
+
+# measure 3
+soprano    R/8 c/8 d d c. g/8 a g f
+alto       R/8 g/8 g a+ a+ g/8 e/8 f d d
+tenor      R/8 e+/8 d f+ e+. c/8 c b a
+bass       R/8 c+/8 b+ d+ a+ c+ f g d
+
+# measure 4
+soprano    R/8 f/8 a b c/2 bb/8 a/8 g/8 a/8 bb
+alto       R/8 d/8 f# g g g. fn/16 e/16 d d
+tenor      R/8 a/8 d d e+/2 d/8 c/8 bb/8 a/8 g
+bass       R/8 d/8 d g c/2 g g g
+
+# measure 5
+soprano    a g g/2 f# g/1
+alto       d/2 c d/2 d/1
+tenor      a bb g a/2 g/1
+bass       f# g e d/2 g-/1
+
+# measure 6
+soprano    R/8 g/8 g g g g g/8 a/8 b c
+alto       R/8 e/8 e e e e d/8 e/16 f/16 g/8 g/8 g
+tenor      R/8 c/8 c c c c b/8 c/8 d e+
+bass       R/8 c/8 c c c c g g c
+
+# measure 7
+soprano    R/8 c/8 d d b g g/8 a/8 b c
+alto       R/8 g/8 g g g e e f e
+tenor      R/8 c/8 b. c/8 d c b/8 c/8 d g
+bass       R/8 c/8 g g g c e d c
+
+# measure 8
+soprano    R/8 c/8 d d c. g/8 a g f
+alto       R/8 g/8 g a+ a+ g/8 e/8 f d d
+tenor      R/8 e+/8 d f+ e+. c/8 c b a
+bass       R/8 c+/8 b+ d+ a+ c+ f g d
+
+# measure 9
+soprano    R/8 f/8 a b c/2 bb/8 a/8 g/8 a/8 bb
+alto       R/8 d/8 f# g g g. fn/16 e/16 d d
+tenor      R/8 a/8 d d e+/2 d/8 c/8 bb/8 a/8 g
+bass       R/8 d/8 d g c/2 g g g
+
+# measure 10
+soprano    a g g/2 f# g/1
+alto       d/2 c d/2 d/1
+tenor      a bb g a/2 g/1
+bass       f# g e d/2 g-/1
+

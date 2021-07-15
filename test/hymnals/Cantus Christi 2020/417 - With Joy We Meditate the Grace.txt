@@ -1,0 +1,129 @@
+title      With Joy We Meditate the Grace
+author     Isaac Watts, 1707; alt.SALFORD
+composer   John Wyeth's Repository of Sacred Music, II, 1813
+key        Bb
+tempo      125
+rhythm     4 : 4
+verse_count 6
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/417%20With%20Joy%20We%20Meditate%20the%20Grace.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 d- bb
+alto       bb/2 bb bb
+tenor      d/2 d d
+bass       g/2 d bb
+
+# measure 2
+soprano    a/2 d/2
+alto       d/2 d/2
+tenor      d/2 d/2
+bass       d/2 d bb
+
+# measure 3
+soprano    g bb a g
+alto       eb g f eb
+tenor      bb/2 c/2
+bass       eb/2 c/2
+
+# measure 4
+soprano    g/2 f/2
+alto       eb/2 d/2
+tenor      d/1
+bass       d/1
+
+# measure 5
+soprano    d/2 c bb
+alto       f/2 f eb
+tenor      bb/2 c d
+bass       bb/2 f g
+
+# measure 6
+soprano    a. c/8 bb a
+alto       d. f/8 g f
+tenor      d. c/8 bb a
+bass       d. c/8 bb d
+
+# measure 7
+soprano    g a bb a
+alto       eb f g f
+tenor      bb c d d
+bass       g f/8 d/8 bb/8 c/8 d
+
+# measure 8
+soprano    g/1
+alto       d/1
+tenor      d/1
+bass       g-/1
+
+# measure 9
+soprano    bb/2 f eb
+alto       f/2 f a
+tenor      d/2 d c
+bass       bb/2 bb c
+
+# measure 10
+soprano    d-. c-/8 bb-/2
+alto       bb. c/8 bb/2
+tenor      d/1
+bass       bb/1
+
+# measure 11
+soprano    d/2 c bb
+alto       f/2 a+ g
+tenor      bb/2 f bb
+bass       bb+/2 f g
+
+# measure 12
+soprano    a/8 bb/8 c/8 a/8 f/2
+alto       f/1
+tenor      a/1
+bass       d/1
+
+# measure 13
+soprano    bb/2 a f
+alto       f/2 f f
+tenor      d/2 c a
+bass       bb/2 c d
+
+# measure 14
+soprano    g a/8 bb/8 c a
+alto       eb f/8 g/8 a+ f
+tenor      bb a/8 bb/8 c c
+bass       eb d c f
+
+# measure 15
+soprano    bb/2 c/2
+alto       g/2 a+/2
+tenor      d/2 c/2
+bass       bb/2 f/2
+
+# measure 16
+soprano    d. c/8 bb. a/8
+alto       bb+. a+/8 g. f/8
+tenor      bb. c/8 d. c/8
+bass       bb+/2 d/2
+
+# measure 17
+soprano    bb/8 d/8 c/8 eb+/8 d g/8 a/8
+alto       g/8 bb+/8 a+/8 g/8 f d
+tenor      bb a bb bb/8 c/8
+bass       eb c bb d
+
+# measure 18
+soprano    bb/2 a/2
+alto       d/2 f#/2
+tenor      d/2 d/2
+bass       g/2 d/2
+
+# measure 19
+soprano    g/1
+alto       g/1
+tenor      d/1
+bass       g-/1
+
+
+

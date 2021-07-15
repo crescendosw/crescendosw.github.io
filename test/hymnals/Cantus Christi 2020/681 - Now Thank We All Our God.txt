@@ -1,0 +1,117 @@
+title      Now Thank We All Our God
+author     Martin Rinkart, c. 1636; tr. Catherine Winkworth, 1858NUN DANKET ALLE GOTT
+composer   Johann Crüger, 1647; harm. Felix Mendelssohn, 1840; alt.
+key        F
+tempo      130
+rhythm     4 : 4
+verse_count 3
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/681%20Now%20Thank%20We%20All%20Our%20God.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    c
+alto       f
+tenor      a
+bass       f
+
+# measure 2
+soprano    c c d d
+alto       g f f d/8 e/8
+tenor      g a bb f/8 g/8
+bass       e f bb+ bb
+
+# measure 3
+soprano    c/2. c
+alto       f/2. f/8 e/8
+tenor      a/2. a
+bass       f/2. f
+
+# measure 4
+soprano    bb a g a
+alto       d/8 e/8 f e f
+tenor      bb c c c
+bass       g a+/8 bb+/8 c+ f
+
+# measure 5
+soprano    g/2 f(2) c
+alto       f e f(2) f
+tenor      c/2 a(2) a
+bass       c/2 f-(2) f
+
+# measure 6
+soprano    c c d d
+alto       g f f f
+tenor      g a bb bb
+bass       eb eb d/8 c/8 bb
+
+# measure 7
+soprano    c/2. c
+alto       f/2. f
+tenor      a/2. a
+bass       f-/2. f/8 e/8
+
+# measure 8
+soprano    bb a g a
+alto       f/8 e/8 f f/8 e/8 d/8 c#/8
+tenor      bb c g e
+bass       d c bb a
+
+# measure 9
+soprano    g/2 f(2) g
+alto       d c/8 bb/8 a(2) c
+tenor      g/8 f/8 e f(2) e
+bass       bb c f-(2) c
+
+# measure 10
+soprano    g g a a
+alto       d e/8 d/8 c f
+tenor      g c/8 bn/8 a c
+bass       bn c f-/8 g-/8 a/8 b/8
+
+# measure 11
+soprano    g/2. g
+alto       e/2. g
+tenor      c/2. c
+bass       c/2. e
+
+# measure 12
+soprano    a/8 bn/8 c d bn
+alto       f g f e
+tenor      c c c/8 bn/8 a/8 g#/8
+bass       f e d e
+
+# measure 13
+soprano    c/2. c
+alto       e/2. e
+tenor      a/2. c
+bass       a/2. a+/8 g/8
+
+# measure 14
+soprano    d c bb a
+alto       d d d f#
+tenor      a g/8 a/8 bb/8 c/8 d
+bass       f# e/8 f#/8 g d
+
+# measure 15
+soprano    bb/2. a
+alto       g/2. f/8 e/8
+tenor      d/2. c
+bass       g-/2. a
+
+# measure 16
+soprano    g f f e
+alto       d a/8 bb/8 c c/8 bb/8
+tenor      bb f/8 g/8 a g
+bass       bb d c c
+
+# measure 17
+soprano    f/2.
+alto       a/2.
+tenor      a/2.
+bass       f-/2.
+
+
+

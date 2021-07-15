@@ -1,0 +1,117 @@
+title      Jesus, I My Cross Have Taken
+author     Henry F. Lyte (1793-1847)TANYMARIAN
+composer   Edward Stephen (1822-1885)
+key        F
+tempo      88
+rhythm     4 : 4
+verse_count 5
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/452%20Jesus,%20I%20My%20Cross%20Have%20Taken.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    a. a/8
+alto       c. c/8
+tenor      f. f/8
+bass       f. f/8
+
+# measure 2
+soprano    g bb a g
+alto       c e f e
+tenor      e g f bb
+bass       c c d c#
+
+# measure 3
+soprano    f d- f. e/8
+alto       d a a. a/8
+tenor      a f f. f/8
+bass       d d d. c/8
+
+# measure 4
+soprano    d- e f g
+alto       d c# d d
+tenor      f a a bb
+bass       bb a d g-
+
+# measure 5
+soprano    e/2 a. a/8
+alto       c#/2 cn. c/8
+tenor      a/2 f. f/8
+bass       a/2 f. f/8
+
+# measure 6
+soprano    g bb a g
+alto       c e f e
+tenor      e g f bb
+bass       c c d c#
+
+# measure 7
+soprano    f d- f. e/8
+alto       d a d. e/8
+tenor      a f a. bn/8
+bass       d d d. d/8
+
+# measure 8
+soprano    a g f e
+alto       f e f c
+tenor      c bb a g
+bass       c c c c
+
+# measure 9
+soprano    f/2 a. bn/8
+alto       c/2 c. d/8
+tenor      a/2 a. g/8
+bass       f/2 f. f/8
+
+# measure 10
+soprano    c bn c a
+alto       c f e c
+tenor      g g g f
+bass       e d c f
+
+# measure 11
+soprano    a g a. bn/8
+alto       c c c. d/8
+tenor      f e a. g/8
+bass       c c f. d/8
+
+# measure 12
+soprano    c bn a g#
+alto       e f e d
+tenor      g d c bn
+bass       c d e e
+
+# measure 13
+soprano    a/2 d. d/8
+alto       c#/2 d. f/8
+tenor      a/2 f. bb/8
+bass       a/2 bb. bb/8
+
+# measure 14
+soprano    c a/8 g/8 f/8 e/8 f/8 g/8
+alto       e e d d/8 e/8
+tenor      g c/8 bb/8 a d
+bass       c c d bb
+
+# measure 15
+soprano    a g d. d/8
+alto       f e f. f/8
+tenor      c c bb. bb/8
+bass       c c bb+. bb+/8
+
+# measure 16
+soprano    c a/8 g/8 f e
+alto       f f/8 d/8 d c#
+tenor      c c/8 bb/8 a g
+bass       a+ f/8 g/8 a+ a
+
+# measure 17
+soprano    d-/2
+alto       a/2
+tenor      f/2
+bass       d/2
+
+
+

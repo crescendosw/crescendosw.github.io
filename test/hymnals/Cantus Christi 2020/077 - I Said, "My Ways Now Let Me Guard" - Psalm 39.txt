@@ -1,0 +1,106 @@
+title      I Said, "My Ways Now Let Me Guard"
+author     The Ailbe Psalter, 2006; alt. (c)GWYNETH
+composer   John Price (Beulah) (1857-1930)
+key        Bb
+tempo      101
+rhythm     4 : 4
+verse_count 5
+copyright  Text: The Fellowship of Ailbe, 2006. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/77%20I%20Said,%20My%20Ways%20-%20Psalm%2039%20GWYNETH.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    bb/2 a g
+alto       d/2 d d
+tenor      bb/2 bb bb
+bass       g/2 g g
+
+# measure 2
+soprano    bb/2 a g
+alto       eb/2. d
+tenor      c/2. bb
+bass       f#/2. g
+
+# measure 3
+soprano    a/2 g/2
+alto       eb/2 d eb
+tenor      c/2 g a
+bass       c/2 bb c
+
+# measure 4
+soprano    g/2 f# f#
+alto       d/2. d
+tenor      bb/2 a a
+bass       d/2. d
+
+# measure 5
+soprano    g a bb c
+alto       d/2 g f#
+tenor      bb c d/2
+bass       g/2 g a+
+
+# measure 6
+soprano    d/2. d-
+alto       g/2. d
+tenor      d/2. g
+bass       bb+/2. bb
+
+# measure 7
+soprano    f/2 en/2
+alto       d/2 c#/2
+tenor      a/2 g/2
+bass       a/2 a/2
+
+# measure 8
+soprano    d-/1
+alto       d/1
+tenor      f/1
+bass       d/1
+
+# measure 9
+soprano    f/2 f f
+alto       d/2 d d
+tenor      bb/2 d c
+bass       bb/2 bb+ a+
+
+# measure 10
+soprano    g/2. g
+alto       d/2. d
+tenor      bb/2. bb
+bass       g/2. g
+
+# measure 11
+soprano    bb/2 c/2
+alto       g/2 g/2
+tenor      bb/2 bb/2
+bass       eb/2 eb/2
+
+# measure 12
+soprano    d/1
+alto       f/1
+tenor      bb/1
+bass       bb/1
+
+# measure 13
+soprano    bb/2 a g
+alto       bb+/2 a+ g
+tenor      bb/2 a g
+bass       bb+/2 a+ g
+
+# measure 14
+soprano    d-/2 a/2
+alto       d/2 f#/2
+tenor      d/2 c/2
+bass       d/2 d/2
+
+# measure 15
+soprano    g/1
+alto       g/1
+tenor      bb/1
+bass       g-/1
+
+
+

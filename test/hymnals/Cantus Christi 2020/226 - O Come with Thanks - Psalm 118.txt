@@ -1,0 +1,112 @@
+title      O Come with Thanks
+author     William Helder, 1972 (c) RENDEZ À DIEU [GENEVAN 118]
+composer   Genevan Psalter, 1543; harm. Claude Goudimel, 1564
+key        G
+tempo      195
+rhythm     0 : 4
+verse_count 8
+copyright  Text: William Helder. Used by permission.
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/226%20O%20Come%20with%20Thanks%20-%20Psalm%20118%20Genevan.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    g/2 e d- g g a c b/2 a/1
+alto       d/2 c b e e f# a+/2 g# a+/1
+tenor      b/2 a f# e b d e+ e+/2 e+/1
+bass       g-/2 a b c e d a e/2 a/1
+
+# measure 2
+soprano    d/2 b b g c b/2 a/2 g/1
+alto       b+/2 g g e a+/2 g/2 f# g/1
+tenor      g+/2 d d c e+ d/2 d/2 b/1
+bass       g-/2 g- g- c a b/2 d/2 g-/1
+
+# measure 3
+soprano    g/2 e d- g g a c b/2 a/1
+alto       d/2 c b e e f# a+ g/2 e/1
+tenor      b/2 a f# e b d e+ e+/2 c#/1
+bass       g-/2 a b c e d a e/2 a/1
+
+# measure 4
+soprano    d/2 c b a g g f# g/1
+alto       g/2 e d d b d d d/1
+tenor      b/2 g g f# g a a b/1
+bass       g-/2 c g- d e d d g-/1
+
+# measure 5
+soprano    d/2 d c b/2 a/2 g f# e/2 d-/1
+alto       g/2 g g g/2 f# e/2 d/2 c# d/1
+tenor      b/2 b e+ d/2 d c/2 a a/2 a/1
+bass       g/2 g c g/2 d a c d a/2 d/1
+
+# measure 6
+soprano    d-/2 g g f# e g/2 a/2 b/1
+alto       b/2 d d d c b/2 d/2 d/1
+tenor      g/2 b b a a/2 g/2 f# g/1
+bass       g-/2 g- g- d a e/2 d/2 g-/1
+
+# measure 7
+soprano    g/2 g a b g c c b/2 a/1
+alto       d/2 e f# g e a+ g g/2 f#/1
+tenor      b/2 b d d c e+ e+ d/2 d/1
+bass       g/2 e d g c a c g-/2 d/1
+
+# measure 8
+soprano    d/2 c b a g g f# g/1
+alto       g/2 e d d b d d d/1
+tenor      b/2 g g f# g a a b/1
+bass       g-/2 c g- d e d d g-/1
+
+# measure 9
+soprano    g/2 e d- g g a c b/2 a/1
+alto       d/2 c b e e f# a+/2 g# a+/1
+tenor      b/2 a f# e b d e+ e+/2 e+/1
+bass       g-/2 a b c e d a e/2 a/1
+
+# measure 10
+soprano    d/2 b b g c b/2 a/2 g/1
+alto       b+/2 g g e a+/2 g/2 f# g/1
+tenor      g+/2 d d c e+ d/2 d/2 b/1
+bass       g-/2 g- g- c a b/2 d/2 g-/1
+
+# measure 11
+soprano    g/2 e d- g g a c b/2 a/1
+alto       d/2 c b e e f# a+ g/2 e/1
+tenor      b/2 a f# e b d e+ e+/2 c#/1
+bass       g-/2 a b c e d a e/2 a/1
+
+# measure 12
+soprano    d/2 c b a g g f# g/1
+alto       g/2 e d d b d d d/1
+tenor      b/2 g g f# g a a b/1
+bass       g-/2 c g- d e d d g-/1
+
+# measure 13
+soprano    d/2 d c b/2 a/2 g f# e/2 d-/1
+alto       g/2 g g g/2 f# e/2 d/2 c# d/1
+tenor      b/2 b e+ d/2 d c/2 a a/2 a/1
+bass       g/2 g c g/2 d a c d a/2 d/1
+
+# measure 14
+soprano    d-/2 g g f# e g/2 a/2 b/1
+alto       b/2 d d d c b/2 d/2 d/1
+tenor      g/2 b b a a/2 g/2 f# g/1
+bass       g-/2 g- g- d a e/2 d/2 g-/1
+
+# measure 15
+soprano    g/2 g a b g c c b/2 a/1
+alto       d/2 e f# g e a+ g g/2 f#/1
+tenor      b/2 b d d c e+ e+ d/2 d/1
+bass       g/2 e d g c a c g-/2 d/1
+
+# measure 16
+soprano    d/2 c b a g g f# g/1
+alto       g/2 e d d b d d d/1
+tenor      b/2 g g f# g a a b/1
+bass       g-/2 c g- d e d d g-/1
+
+
+

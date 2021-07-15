@@ -1,0 +1,61 @@
+title      Soul, Adorn Thyself with Gladness
+author     Johann Wolfgang Franck, 1649; tr. Catherine Winkworth, 1858; alt.SCHMÜCKE DICH
+composer   Johann Crüger, 1649
+key        D
+tempo      101
+rhythm     0 : 4
+verse_count 8
+music      https://crescendosw.bitbucket.io/pdf/cantus_christi_2020/479%20Soul,%20Adorn%20Thyself%20with%20Gladness.pdf
+voice      soprano E4 to D5
+voice      alto    A3 to G4
+voice      tenor   E3 to D4
+voice      bass    A2 to G3
+
+# measure 1
+soprano    f#/2 e/2 d- e f# a g/2 f#/2
+alto       d/2 c#/2 b c# d d d c# d/2
+tenor      a/2 a/2 f# a a a b a a/2
+bass       d/2 a/2 b a d f# e a d/2
+
+# measure 2
+soprano    a/2 f#/2 g f#/8 e/8 d- f# e/2 d-/2
+alto       e/2 d/2 d c# b d d c# d/2
+tenor      a/2 a/2 b a f# a b a f#/2
+bass       c#/2 d/2 g- a b f#- g- a d/2
+
+# measure 3
+soprano    f#/2 e/2 d- e f# a g/2 f#/2
+alto       d/2 c#/2 b c# d d d c# d/2
+tenor      a/2 a/2 f# a a a b a a/2
+bass       d/2 a/2 b a d f# e a d/2
+
+# measure 4
+soprano    a/2 f#/2 g f#/8 e/8 d- f# e/2 d-/2
+alto       e/2 d/2 d c# b d d c# d/2
+tenor      a/2 a/2 b a f# a b a f#/2
+bass       c#/2 d/2 g- a b f#- g- a d/2
+
+# measure 5
+soprano    a/2 b d/2 d c# a b/2 a/2
+alto       d/2 g a+/2 f# g a+ a+ g f#/2
+tenor      a/2 d d/2 a c# d d/2 d/2
+bass       f#/2 g f#/2 d e f# g/2 d/2
+
+# measure 6
+soprano    a/2 b d/2 d c# a b/2 a/2
+alto       d/2 g f#/2 f# e c# e. d/8 c#/2
+tenor      d/2 b b/2 f# a a a g# a/2
+bass       f#/2 e b/2 b c# f# e/2 a/2
+
+# measure 7
+soprano    e/2 f#/2 g g f# e e d#- e/2
+alto       c#/2 d#/2 e e d# e cn b b/2
+tenor      a/2 a/2 b b b g a f# g/2
+bass       a+/2 f#/2 e g-/8 a/8 b cn a b e/2
+
+# measure 8
+soprano    f#/2 a/2 g f# e d- e/2 d-/2
+alto       d/2 d/2 d d c# d d c# d/2
+tenor      a/2 a/2 b a a f# a/2 f#/2
+bass       d/2 f#-/2 g- d a b a/2 d/2
+
